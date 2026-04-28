@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "AI Model Photoshoot & Background Replacement for Brand Campaigns | OpenCreator",
+    "description": "Blend real model photos with AI-generated environments to produce fashion ads, ecommerce visuals, and campaign creatives in minutes.",
+    "keywords": [
+      "ai model photoshoot",
+      "ai background replacement",
+      "ai fashion campaign generator",
+      "product lifestyle photography ai",
+      "virtual photoshoot for brands",
+      "ai advertising visuals",
+      "image compositing ai",
+      "ecommerce campaign creative"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#branding_ads", "#banana_pro", "#live_model"],
+    "title": "Live Model + AI Environment Integration",
+    "description": "Turn one live model shoot into a full campaign library. Keep real people and styling, then use AI to build on-brand backgrounds, lighting, and scene variations for ads, PDPs, and social posts.",
+    "inputPlaceholder": "Upload your live model shot and describe the target environment (location, mood, brand colors)",
+    "ctaText": "Compose Scene"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload live model photos",
+        "description": "Start from studio shots, lookbook images, or UGC-style portraits where your model and outfit are clearly visible. The workflow detects the subject and prepares it for clean compositing."
+      },
+      {
+        "title": "Describe your brand environment",
+        "description": "Write a short brief for the scene: city rooftop at sunset, minimalist studio, outdoor lifestyle, seasonal campaign, or any brand-specific backdrop you need."
+      },
+      {
+        "title": "AI builds scenes around your model",
+        "description": "Using Banana Pro and image editing blocks, the workflow replaces or extends the background, matches lighting, and creates realistic AI environments that keep your model as the hero."
+      },
+      {
+        "title": "Review variations and export",
+        "description": "Compare multiple scenes and crops, select the strongest frames, and export high-quality images for ads, landing pages, and social campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands that shoot real people, but need infinite scenes",
+    "subtitle": "Ideal for fashion, beauty, and lifestyle teams who want the authenticity of live models with the flexibility of AI-generated environments.",
+    "audiences": [
+      {
+        "label": "Fashion and apparel brands",
+        "description": "Extend one studio or street shoot into multiple seasonal and channel-specific visuals without booking new locations every time."
+      },
+      {
+        "label": "Beauty and skincare marketers",
+        "description": "Place real models into clean, premium, or experimental environments that match each product line and campaign story."
+      },
+      {
+        "label": "DTC founders and performance marketers",
+        "description": "Quickly test different hooks, angles, and backgrounds for the same model shot, then double down on high-performing concepts."
+      },
+      {
+        "label": "Creative studios and production teams",
+        "description": "Prototype moodboards and key visuals around existing talent photos before committing to larger photo or video productions."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Live Model + AI Environment Integration workflow?",
+        "answer": "It is an AI workflow that keeps your real human model and outfits, while generating new environments, scenes, and backgrounds around them. You upload live model photos and describe the desired setting; the workflow outputs polished, on-brand visuals for campaigns and ads."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You only need clear photos of real people wearing your products—studio shots, outdoor portraits, or creator content work well. Simple backgrounds and good lighting help the AI separate the subject and build cleaner scenes."
+      },
+      {
+        "question": "How does the workflow keep the model looking natural?",
+        "answer": "The workflow works on top of your existing photos instead of fully regenerating the person. It uses image editing and background tools to adjust the environment while preserving the subject, pose, and key details from your original image as much as possible."
+      },
+      {
+        "question": "Can I control locations, mood, and brand styling?",
+        "answer": "Yes. In your prompt you can specify locations (indoor studio, city street, nature), time of day, color palettes, props, and overall mood. The workflow uses this description to guide how the AI environment is generated around your live model."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "You get campaign-ready still images where your real model appears in AI-generated environments, suitable for hero banners, social ads, product detail pages, and pitch decks. You can generate multiple variations from the same base shot."
+      },
+      {
+        "question": "Does this replace traditional photoshoots?",
+        "answer": "It does not fully replace every real-world shoot. Instead, it helps you extend what you already shot—turning a limited set of live model photos into many more on-brand scenes without rebooking locations and crews."
+      },
+      {
+        "question": "How many scenes or variations can I try per model shot?",
+        "answer": "You can iterate across multiple prompts and style directions using the same input photo, generating different backgrounds, moods, and crops. This makes it easy to explore options before deciding what to use in campaigns."
+      },
+      {
+        "question": "How do credits and pricing work for this workflow?",
+        "answer": "Running AI workflows in OpenCreator consumes credits based on the image models and editing steps used. You can start with a few test runs to understand the quality and then scale to more variations according to the credit system shown in the product."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Live Model + AI Environment Integration – AI Brand Visual Generator",
+      "description": "Blend real model photography with AI-generated environments to create campaign-ready brand visuals and ads."
+    },
+    "softwareApplication": {
+      "name": "Live Model + AI Environment Integration Workflow",
+      "description": "AI workflow that composes real live model photos into AI-generated environments for branding ads and campaign visuals."
+    },
+    "faqPage": {
+      "name": "Live Model + AI Environment Integration – FAQ"
+    }
+  }
+}

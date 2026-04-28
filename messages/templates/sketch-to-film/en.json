@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "Sketches to Film – AI Storyboard to Video Generator | OpenCreator",
+    "description": "Turn storyboard sketches into cinematic sequences with AI and quickly build animatics for previsualization and pitch decks.",
+    "keywords": [
+      "storyboard to video",
+      "sketch to video ai",
+      "ai animatic generator",
+      "storyboard animation ai",
+      "previsualization from sketches",
+      "film previs generator",
+      "concept art to video",
+      "shot planning video tool"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#storyboard", "#previs", "#animation"],
+    "title": "Sketches to Film",
+    "description": "Transform static storyboards or concept sketches into moving film sequences with AI. Bring hand-drawn frames to life with motion, camera moves, and atmosphere so you can preview how your story will feel on screen.",
+    "inputPlaceholder": "Upload storyboard or scene sketches to turn into moving footage",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your storyboard frames or sketches",
+        "description": "Provide key frames, thumbnails, or simple scene drawings for the moments you care about."
+      },
+      {
+        "title": "Describe motion, timing, and camera work",
+        "description": "Indicate pan, zoom, dolly, or handheld feels along with desired pacing."
+      },
+      {
+        "title": "Generate animated film sequences from sketches",
+        "description": "AI interpolates motion and depth from your sketches, producing moving shots that match the drawn composition."
+      },
+      {
+        "title": "Review and refine story pacing",
+        "description": "Adjust timing, regenerate specific shots, and export sequences for internal reviews and pitches."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For visual storytellers and storyboard artists",
+    "subtitle": "From directors to animators, see who uses Sketches to Film.",
+    "audiences": [
+      {
+        "label": "Storyboard artists and illustrators",
+        "description": "Turn boards into quick moving tests to validate compositions and beats."
+      },
+      {
+        "label": "Directors and DPs",
+        "description": "Explore camera moves and coverage options based on early boards."
+      },
+      {
+        "label": "Animation and game studios",
+        "description": "Pre-visualize cutscenes, trailers, and key cinematic moments."
+      },
+      {
+        "label": "Agencies and production companies",
+        "description": "Present more persuasive animatics and previsuals to clients."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Sketches to Film workflow?",
+        "answer": "Sketches to Film is an AI animatic generator that transforms storyboard sketches into cinematic video sequences. It bridges the gap between static boards and moving images."
+      },
+      {
+        "question": "What inputs do I need for this template?",
+        "answer": "You upload your storyboard or concept sketches, then optionally add text descriptions about mood, camera movement, and pacing. The workflow uses both the drawings and your notes to generate video."
+      },
+      {
+        "question": "Can I use rough hand-drawn sketches?",
+        "answer": "Yes. Rough sketches are fine as long as the composition and main subjects are clear. The AI focuses on the structure and layout rather than perfect drawing quality."
+      },
+      {
+        "question": "What type of output does Sketches to Film create?",
+        "answer": "The workflow generates short video clips or sequences that approximate the motion, framing, and atmosphere of your storyboard. They’re ideal for previs and concept validation."
+      },
+      {
+        "question": "Is this suitable for previsualization (previs) workflows?",
+        "answer": "Absolutely. It’s designed as a previs workflow so directors, storyboard artists, and producers can see a quick moving version of their boards without a full animation team."
+      },
+      {
+        "question": "How much control do I have over style and genre?",
+        "answer": "You can specify style and genre through prompts (e.g., “gritty sci-fi,” “soft fantasy,” “anime-inspired”). These style hints influence how the AI interprets your sketches in the final video."
+      },
+      {
+        "question": "Can I iterate on a single scene multiple times?",
+        "answer": "Yes. You can duplicate runs, tweak prompts or sketches, and generate alternate versions of the same scene to compare options before committing."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Sketches to Film – AI Storyboard to Video Generator",
+      "description": "Turn storyboard sketches into cinematic sequences with OpenCreator’s Sketches to Film AI workflow."
+    },
+    "softwareApplication": {
+      "name": "Sketches to Film Workflow Template",
+      "description": "AI workflow that turns storyboard or concept sketches into cinematic preview sequences."
+    },
+    "faqPage": {
+      "name": "Sketches to Film – FAQ"
+    }
+  }
+}

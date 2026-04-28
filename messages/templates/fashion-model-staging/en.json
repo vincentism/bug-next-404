@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Fashion Model Staging – AI Model Photography Lighting | OpenCreator",
+    "description": "Create professional fashion photography with AI-powered model staging and lighting. Generate studio-quality AI fashion models shots with perfect lighting setups for clothing photography and apparel photography for ecommerce.",
+    "keywords": [
+      "ai fashion models",
+      "ai generated female models",
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "garment photography",
+      "ai clothing generator",
+      "clothing brand photoshoot",
+      "how to take pictures of clothes to sell",
+      "professional product photography",
+      "lifestyle product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#fashion", "#model", "#photography_lighting"],
+    "title": "Fashion Model Staging",
+    "description": "Create professional fashion photography with AI-powered model staging and lighting. Generate studio-quality images with perfect lighting setups, dramatic compositions, and editorial styling. Perfect for fashion brands and e-commerce sellers who want high-end model photography.",
+    "inputPlaceholder": "Upload your model or fashion image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your model or product image",
+        "description": "Provide an image of your model or fashion product. Our AI handles various poses, clothing styles, and photography starting points."
+      },
+      {
+        "title": "Select lighting and staging style",
+        "description": "Choose from studio lighting setups, editorial styles, dramatic lighting, soft diffused light, or specific mood and aesthetic settings."
+      },
+      {
+        "title": "Generate professional fashion imagery",
+        "description": "AI creates stunning model photography with professional lighting, perfect skin tones, and compositions that match high-end fashion editorials."
+      },
+      {
+        "title": "Download your fashion photos",
+        "description": "Export high-resolution images ready for e-commerce, lookbooks, social media, and marketing campaigns with consistent professional quality."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for fashion brands and photographers",
+    "subtitle": "From fashion labels to e-commerce teams, see who creates model photography with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create consistent, high-quality model photography for entire collections without the logistics and costs of traditional fashion shoots."
+      },
+      {
+        "label": "E-commerce fashion sellers",
+        "description": "Transform basic product photos into editorial-style imagery that elevates your brand and drives conversions."
+      },
+      {
+        "label": "Fashion photographers",
+        "description": "Explore lighting setups and staging concepts quickly, or enhance existing shots with professional lighting adjustments."
+      },
+      {
+        "label": "Lookbook creators",
+        "description": "Generate consistent styled imagery across entire collections for professional lookbooks and catalogs."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Fashion Model Staging?",
+        "answer": "Fashion Model Staging is an AI workflow that creates professional fashion photography with studio-quality lighting, model staging, and editorial compositions—transforming basic images into high-end fashion visuals."
+      },
+      {
+        "question": "What types of fashion imagery can I create?",
+        "answer": "Create editorial fashion shots, e-commerce model photos, lookbook imagery, campaign visuals, and social media content with professional lighting and staging."
+      },
+      {
+        "question": "What lighting styles are available?",
+        "answer": "Choose from studio lighting, dramatic side lighting, soft diffused light, high-key, low-key, natural window light, and specific mood-based lighting setups."
+      },
+      {
+        "question": "Can I use this for e-commerce products?",
+        "answer": "Absolutely. Transform basic model shots into professional product photography that meets the quality standards of premium fashion e-commerce."
+      },
+      {
+        "question": "How does it handle skin tones?",
+        "answer": "The AI is trained to produce natural, flattering skin tones with proper lighting that looks professional and authentic across diverse models."
+      },
+      {
+        "question": "Is this suitable for high-end fashion brands?",
+        "answer": "Yes. The workflow creates editorial-quality imagery with sophisticated lighting and staging appropriate for luxury and premium fashion brands."
+      },
+      {
+        "question": "Can I maintain consistent style across a collection?",
+        "answer": "Yes. Apply the same lighting and staging settings across multiple images for cohesive lookbooks and consistent brand presentation."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Images are delivered in high resolution suitable for print lookbooks, e-commerce platforms, and large-format marketing materials."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Fashion Model Staging – AI Model Photography Lighting",
+      "description": "Create professional fashion photography with AI-powered model staging and studio-quality lighting setups."
+    },
+    "softwareApplication": {
+      "name": "Fashion Model Staging AI",
+      "description": "AI-powered fashion photography tool for creating professional model shots with studio lighting and editorial staging."
+    },
+    "faqPage": {
+      "name": "Fashion Model Staging – FAQ"
+    }
+  }
+}

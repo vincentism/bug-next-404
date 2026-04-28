@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Album Art Maker – AI Album Cover Generator | OpenCreator",
+    "description": "Create unique album covers from lyrics, mood, and genre cues using AI. Generate release-ready music artwork in minutes.",
+    "keywords": [
+      "ai album cover generator",
+      "album cover maker",
+      "ai album art generator",
+      "lyrics to album cover",
+      "music artwork design",
+      "single cover design",
+      "spotify album cover design",
+      "music poster generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#album_art", "#music", "#design"],
+    "title": "Album Art Maker",
+    "description": "Elevate your music with artwork that truly reflects your sound. Paste your lyrics or project concept, and our AI analyzes themes, emotions, and imagery to generate unique, gallery-worthy album art.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Put your lyrics or concept here…",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your song, EP, or album",
+        "description": "Share your lyrics, track or album name, genre, themes, emotions, and any visual references you like."
+      },
+      {
+        "title": "Choose cover style and format",
+        "description": "Describe aesthetics like \"dark synthwave\", \"hand-drawn indie folk\", or \"minimal monochrome\" and specify whether you need square or vertical covers."
+      },
+      {
+        "title": "Generate AI album art concepts",
+        "description": "Run the Album Art Maker workflow to create multiple cover options that reflect your music's personality and story."
+      },
+      {
+        "title": "Refine, select, and export for platforms",
+        "description": "Pick your strongest covers, iterate on prompts for new tracks, and export in resolutions for Spotify, Apple Music, YouTube, and more."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For artists shaping their visual universe",
+    "subtitle": "From indie acts to labels, see who designs covers with AI.",
+    "audiences": [
+      {
+        "label": "Independent musicians and bands",
+        "description": "Release music with strong, cohesive visual branding without hiring designers for every drop."
+      },
+      {
+        "label": "Producers and labels",
+        "description": "Quickly prototype multiple cover directions for singles, EPs, and albums before locking in a final art direction."
+      },
+      {
+        "label": "Cover artists and designers",
+        "description": "Use AI album art as a concept starting point, then refine, remix, or paint over it in your own style."
+      },
+      {
+        "label": "Playlist curators and podcasters",
+        "description": "Create cohesive artwork series for playlists, shows, or story-driven audio projects from simple text prompts."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the AI Album Cover Maker template do?",
+        "answer": "This workflow generates unique album cover art from your lyrics, mood descriptions, or music concepts. It's an AI album cover generator built specifically for musicians and producers."
+      },
+      {
+        "question": "What kind of input leads to the best album artwork?",
+        "answer": "Provide your lyrics, genre, mood, and any visual references (e.g., \"retro synthwave,\" \"minimalist black and white\"). The more specific your creative direction, the better the AI can match your brand."
+      },
+      {
+        "question": "Can I use the album covers for streaming platforms and releases?",
+        "answer": "Yes. Many users create artwork for streaming services and releases. Always make sure your use complies with OpenCreator's terms and the model's commercial-use policy before publishing."
+      },
+      {
+        "question": "Does this template replace a human designer?",
+        "answer": "It doesn't replace professional designers but gives you fast, high-quality starting points. You can either use the AI output directly or share it with a designer for refinement."
+      },
+      {
+        "question": "Can I create multiple album cover variations for the same track?",
+        "answer": "Absolutely. You can run multiple generations with different prompts or styles to explore variations for singles, EPs, or full albums."
+      },
+      {
+        "question": "Does the AI Album Cover Maker support text and logo placement?",
+        "answer": "You can guide text placement and typography style via prompts (e.g., \"large album title at the top,\" \"small artist name in the corner\"). For precise layout, you can refine the exported cover in design software."
+      },
+      {
+        "question": "How does pricing work for album cover generations?",
+        "answer": "Each cover generation uses credits based on the image model and settings. Testing several low-res variations first is a good way to explore ideas while saving credits."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Album Art Maker – AI Album Cover Generator",
+      "description": "Design AI-generated album covers, single artwork, and playlist visuals that match your music's mood and genre."
+    },
+    "softwareApplication": {
+      "name": "Album Art Maker AI Workflow Template",
+      "description": "AI workflow that turns lyrics and music concepts into album art concepts ready for streaming platforms."
+    },
+    "faqPage": {
+      "name": "Album Art Maker – FAQ"
+    }
+  }
+}

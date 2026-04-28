@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Mini Figure World – AI Miniature Scene Generator | OpenCreator",
+    "description": "Create whimsical miniature world scenes with AI. Transform subjects into tiny figures in creative macro photography-style compositions.",
+    "keywords": [
+      "miniature world generator",
+      "tiny people ai",
+      "macro photography ai",
+      "miniature scene creator",
+      "tilt shift effect",
+      "small world photography",
+      "creative miniature art",
+      "micro world generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#miniature", "#creative_art", "#macro_photography"],
+    "title": "Mini Figure World",
+    "description": "Transform any subject into a whimsical miniature world scene. AI creates creative compositions where tiny figures interact with everyday objects at macro scale—like walking on a coffee cup rim or exploring a desktop landscape. Perfect for creative artists, advertisers, and social media content creators.",
+    "inputPlaceholder": "Upload your reference image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your reference",
+        "description": "Provide an image of your subject or scene. Nano Banana Pro analyzes the elements to create imaginative miniature world compositions."
+      },
+      {
+        "title": "AI creates miniature scene",
+        "description": "The workflow transforms your subject into tiny figures placed in creative macro-scale environments with realistic lighting and depth of field."
+      },
+      {
+        "title": "Add whimsical details",
+        "description": "AI enhances the scene with creative interactions between miniature figures and oversized everyday objects, creating storytelling moments."
+      },
+      {
+        "title": "Export high-quality artwork",
+        "description": "Download your miniature world creation in high resolution, ready for social media, advertising, or art prints."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for creative visionaries",
+    "subtitle": "From artists to advertisers, see who creates miniature worlds with AI.",
+    "audiences": [
+      {
+        "label": "Creative artists",
+        "description": "Explore imaginative miniature world concepts without complex photography setups. Create whimsical art that captures viewers' imagination."
+      },
+      {
+        "label": "Advertisers & brands",
+        "description": "Develop eye-catching creative campaigns with unique miniature world visuals. Stand out with memorable, scroll-stopping imagery."
+      },
+      {
+        "label": "Social media creators",
+        "description": "Generate engaging, shareable content that sparks curiosity. Create viral-worthy miniature scenes that drive engagement."
+      },
+      {
+        "label": "Photographers",
+        "description": "Expand your creative portfolio with AI-assisted miniature world photography. Explore concepts before committing to complex physical setups."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Mini Figure World workflow?",
+        "answer": "This AI workflow creates whimsical miniature world scenes where tiny figures interact with everyday objects at macro scale. It transforms your input into creative compositions with realistic tilt-shift photography aesthetics."
+      },
+      {
+        "question": "What kind of scenes can I create?",
+        "answer": "You can create diverse miniature world scenes: tiny people walking on food, exploring office supplies, adventuring through household items, or any creative macro-scale scenario you can imagine."
+      },
+      {
+        "question": "What AI model powers this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for generating miniature world compositions with realistic lighting, depth of field effects, and creative scene arrangements."
+      },
+      {
+        "question": "Do I need photography skills?",
+        "answer": "No photography skills required. The AI handles all the complex aspects of miniature world creation—scale relationships, lighting, depth of field, and composition."
+      },
+      {
+        "question": "Can I use specific subjects in the miniature scenes?",
+        "answer": "Yes, you can upload reference images of subjects you want to include. The AI will transform them into miniature figures integrated into creative macro-scale environments."
+      },
+      {
+        "question": "What's the output quality?",
+        "answer": "The workflow generates high-resolution images suitable for social media, advertising campaigns, and even print applications."
+      },
+      {
+        "question": "Can I use this for commercial projects?",
+        "answer": "Absolutely. The generated miniature world images can be used for commercial advertising, brand campaigns, social media marketing, and creative projects."
+      },
+      {
+        "question": "How is this different from regular image editing?",
+        "answer": "Unlike manual editing, this workflow uses AI to intelligently create believable miniature world scenes with proper scale relationships, lighting consistency, and creative compositions—all automatically."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Mini Figure World – AI Miniature Scene Generator",
+      "description": "Create whimsical miniature world scenes with AI-powered macro photography-style compositions."
+    },
+    "softwareApplication": {
+      "name": "Mini Figure World Generator",
+      "description": "AI-powered tool for creating miniature world scenes with tiny figures in creative macro-scale environments."
+    },
+    "faqPage": {
+      "name": "Mini Figure World – FAQ"
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "model": {
+    "meta": {
+      "title": "Veo 3.1 Fast AI 视频生成器 | 更快更实惠 | OpenCreator",
+      "description": "使用 Google Veo 3.1 Fast 更快地创建精彩视频。针对快速迭代优化，支持首尾帧控制和原生音频。成本更低，品质依旧。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Veo 3.1 Fast",
+      "tagline": "速度与品质兼得",
+      "description": "Google 针对快速迭代优化的视频生成模型。Veo 3.1 Fast 以更低成本和更快生成速度，提供带有首尾帧控制和原生音频的高品质视频。",
+      "badge": "快速实惠",
+      "ctaText": "免费试用 Veo 3.1 Fast",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "firstLastFrame": "首尾帧控制",
+        "nativeAudio": "原生音频",
+        "fastGeneration": "快速生成",
+        "resolution": "1080p 输出"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Veo 3.1 Fast 为何是快速内容创作的理想选择",
+      "items": {
+        "speed": {
+          "title": "更快生成",
+          "description": "针对低延迟和快速生成优化。非常适合快速迭代、原型设计和时间敏感的项目。"
+        },
+        "firstLastFrame": {
+          "title": "首尾帧控制",
+          "description": "提供起始和结束帧，生成流畅、连贯的过渡。非常适合控制运动和精确动画。"
+        },
+        "costEffective": {
+          "title": "经济实惠",
+          "description": "更低的计算成本使其对内容创作者更加友好。以合理的价格获得高品质结果。"
+        },
+        "audio": {
+          "title": "原生音频",
+          "description": "自动生成与视频内容匹配的同步音效、环境音和音频。"
+        },
+        "quality": {
+          "title": "高品质输出",
+          "description": "尽管生成速度更快，仍保持 1080p 分辨率和电影级视觉品质的高标准。"
+        },
+        "iteration": {
+          "title": "快速原型设计",
+          "description": "快速测试想法和迭代概念。生成多个变体以找到完美的结果。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Veo 3.1 Fast 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "transition": {
+          "title": "流畅过渡",
+          "description": "运动控制",
+          "useCase": "使用首尾帧模式在两帧之间创建精确的运动，实现可控的动画效果。"
+        },
+        "product": {
+          "title": "产品视频",
+          "description": "电商内容",
+          "useCase": "快速生成用于电商列表和社交媒体的产品展示视频。"
+        },
+        "social": {
+          "title": "社交内容",
+          "description": "快速交付",
+          "useCase": "快速创建吸引眼球的 TikTok、Instagram 和 YouTube Shorts 内容。"
+        },
+        "prototype": {
+          "title": "概念测试",
+          "description": "快速迭代",
+          "useCase": "在确定最终制作方向之前，快速测试多个创意方向。"
+        },
+        "commercial": {
+          "title": "广告变体",
+          "description": "A/B 测试",
+          "useCase": "生成多个广告变体，测试不同的创意方案。"
+        },
+        "animation": {
+          "title": "动态图形",
+          "description": "动态内容",
+          "useCase": "高效创建动态图形和动画内容。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Veo 3.1 Fast 功能的完整信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最高分辨率",
+          "durationOptions": "时长选项"
+        },
+        "modes": {
+          "title": "生成模式",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "firstLastFrame": "首尾帧控制"
+        },
+        "performance": {
+          "title": "性能",
+          "generationSpeed": "生成速度",
+          "costEfficiency": "成本效益",
+          "nativeAudio": "原生音频"
+        },
+        "output": {
+          "title": "输出品质",
+          "resolution": "分辨率",
+          "frameRate": "帧率",
+          "aspectRatios": "宽高比"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Veo 3.1 Fast 与其他模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "firstLastFrame": "首尾帧控制",
+        "multiReference": "多参考图模式",
+        "nativeAudio": "原生音频",
+        "generationSpeed": "生成速度",
+        "costEfficiency": "成本效益",
+        "maxDuration": "最长时长",
+        "resolution": "分辨率"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "积分按生成次数消耗。Veo 3.1 Fast 相比标准版每次生成成本更低。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Veo 3.1 Fast，与 Veo 3.1 有什么区别？",
+          "answer": "Veo 3.1 Fast 是 Google 针对更快生成速度和更低成本优化的视频生成模型。Veo 3.1 标准版专注于使用多参考图模式实现最高品质，而 Veo 3.1 Fast 使用首尾帧控制实现快速迭代和原型设计。"
+        },
+        "1": {
+          "question": "什么是首尾帧模式？",
+          "answer": "首尾帧模式让您提供起始和结束图像。Veo 3.1 Fast 会生成两者之间流畅、自然的过渡，并配有相应的音频。这非常适合控制运动和精确动画。"
+        },
+        "2": {
+          "question": "Veo 3.1 Fast 快多少？",
+          "answer": "Veo 3.1 Fast 相比标准版针对低延迟和更快生成时间进行了优化。它非常适合快速迭代、原型设计或时间敏感的内容创作。"
+        },
+        "3": {
+          "question": "Veo 3.1 Fast 支持音频吗？",
+          "answer": "是的！Veo 3.1 Fast 生成原生音频，包括同步音效和环境音。在优化速度的同时保持音频品质。"
+        },
+        "4": {
+          "question": "支持哪些视频时长和分辨率？",
+          "answer": "Veo 3.1 Fast 生成 720p 或 1080p 分辨率、24 FPS 的视频，时长可选 4、6 或 8 秒。支持 16:9（横版）和 9:16（竖版）宽高比。"
+        },
+        "5": {
+          "question": "什么时候应该使用 Veo 3.1 Fast 而不是 Veo 3.1 标准版？",
+          "answer": "快速原型设计、A/B 测试、社交媒体内容和预算有限的项目适合使用 Veo 3.1 Fast。当您需要最高品质、使用多参考图模式保持主体一致性或处理复杂场景时，请使用 Veo 3.1 标准版。"
+        },
+        "6": {
+          "question": "Veo 3.1 Fast 的生成时间是多少？",
+          "answer": "Veo 3.1 Fast 针对低延迟进行了优化，通常比 Veo 3.1 标准版生成视频更快。确切生成时间取决于视频时长和服务器负载，但可以期待显著缩短的等待时间。"
+        },
+        "7": {
+          "question": "Veo 3.1 Fast 的生成速度有多快？",
+          "answer": "Veo 3.1 Fast 相比标准模式提供更快的生成速度，非常适合快速迭代。速度提升来自优化的处理流程，同时保持高视觉质量。"
+        },
+        "8": {
+          "question": "Veo 3.1 Fast 的 FPS（帧率）是多少？",
+          "answer": "Veo 3.1 Fast 以 24 FPS（每秒 24 帧）生成视频，这是标准的电影帧率。这为所有生成的内容提供流畅、专业的运动效果。"
+        },
+        "9": {
+          "question": "我可以在 OpenCreator 上免费试用 Veo 3.1 Fast 吗？",
+          "answer": "可以！新用户注册即可获得免费积分，可用于试用 Veo 3.1 Fast。你可以先测试更快的生成速度和首尾帧控制功能，再决定是否订阅。"
+        },
+        "10": {
+          "question": "Veo 3.1 Fast 和 Veo 3 怎么选？",
+          "answer": "Veo 3.1 Fast 是专注于速度和成本效率的优化版本，而 Veo 3 提供包括多参考图模式在内的完整功能集。快速迭代选 Fast；追求最高质量和功能选 Veo 3。"
+        },
+        "11": {
+          "question": "Veo 3.1 Fast 支持哪些宽高比？",
+          "answer": "Veo 3.1 Fast 支持 16:9（横版）和 9:16（竖版）宽高比。根据目标平台选择：YouTube 用 16:9，抖音/Reels 用 9:16。"
+        },
+        "12": {
+          "question": "Veo 3.1 Fast 比 Veo 3.1 标准版便宜吗？",
+          "answer": "是的，Veo 3.1 Fast 相比标准模式每次生成成本更低。这对于需要生成多个变体或快速迭代的内容创作者来说更加经济实惠。"
+        }
+      }
+    }
+  }
+}

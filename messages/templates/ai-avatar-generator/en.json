@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Couple Avatars – AI Couple Avatar Maker | OpenCreator",
+    "description": "Generate aesthetic couple avatars from your photos with AI for social profiles, matching icons, and creative gifts.",
+    "keywords": [
+      "ai couple avatar generator",
+      "couple avatar maker from photos",
+      "cartoon couple profile picture",
+      "ai photo to avatar",
+      "romantic avatar design",
+      "couple pfp generator",
+      "matching avatar creator",
+      "anime couple avatar"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#fun", "#visual_art"],
+    "title": "Couple Avatars",
+    "description": "Simply upload your original photos, and OpenCreator will instantly create stunning, artistic couple avatars with a unique aesthetic and style. Whether you're looking for a romantic, modern, or whimsical vibe, this all-in-one solution makes it effortless to design avatars that stand out.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Put original photos here…",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your original couple photos",
+        "description": "Drop in one or two clear photos that show both people's faces. These serve as the reference for your avatars."
+      },
+      {
+        "title": "Choose the vibe and style",
+        "description": "Describe the look you want—cute, cinematic, minimalist, anime, or bold graphic styles—and mention any colors or outfits to keep."
+      },
+      {
+        "title": "Generate multiple AI avatar options",
+        "description": "Run the workflow to create several avatar variations that keep your likeness while exploring different aesthetics."
+      },
+      {
+        "title": "Pick your favorites and reuse the setup",
+        "description": "Select the avatars you like best, download them, and reuse the same workflow whenever you want fresh looks or seasonal updates."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for couples and creators",
+    "subtitle": "See who uses AI couple avatars to level up their profiles, brands, and communities.",
+    "audiences": [
+      {
+        "label": "Couples & best friends",
+        "description": "Turn ordinary photos into matching avatars for chat apps, social profiles, and anniversary posts in just a few clicks."
+      },
+      {
+        "label": "Content creators & streamers",
+        "description": "Create stylized couple or duo avatars for channel branding, thumbnails, and community badges."
+      },
+      {
+        "label": "Designers & small studios",
+        "description": "Use the workflow to generate avatar concepts for clients, then refine or redraw them in your own style."
+      },
+      {
+        "label": "Apps & online communities",
+        "description": "Offer fun, on-brand couple avatars as part of onboarding, profile customization, or seasonal events."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the AI Couple Avatar Maker template do?",
+        "answer": "It's a workflow that turns your original couple photos into stylized couple avatars. You can use them as profile pictures, social media icons, or gifts."
+      },
+      {
+        "question": "What kind of photos work best?",
+        "answer": "Clear, well-lit photos where both people's faces are visible work best. Avoid blurry or heavily filtered images for the most accurate avatar generation."
+      },
+      {
+        "question": "Can I choose the art style of the couple avatars?",
+        "answer": "Yes. You can request styles like \"cartoon couple profile picture,\" \"anime-inspired,\" or \"minimalist line art.\" The AI will adapt its rendering to the style you describe."
+      },
+      {
+        "question": "Is my photo data safe when using this template?",
+        "answer": "OpenCreator processes your images to generate avatars and follows its platform policies for data handling. You should review the privacy and data-use terms in your account to understand how your content is stored and used."
+      },
+      {
+        "question": "Can I generate multiple avatar variations from the same photo?",
+        "answer": "Absolutely. You can run multiple prompts from a single photo to explore different styles, backgrounds, and compositions."
+      },
+      {
+        "question": "Is this suitable for commercial or client work?",
+        "answer": "Yes, many designers and agencies use AI couple avatars for clients. Make sure your usage respects both your client's expectations and the platform's commercial-use policies."
+      },
+      {
+        "question": "How are credits charged for AI couple avatar generation?",
+        "answer": "Each avatar generation uses credits. Running several low-resolution tests before the final version can help you optimize quality and cost."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Couple Avatars – AI Couple Avatar Maker",
+      "description": "Generate aesthetic couple avatars from your original photos using OpenCreator's Couple Avatars AI workflow."
+    },
+    "softwareApplication": {
+      "name": "Couple Avatars AI Workflow Template",
+      "description": "AI-powered workflow for generating stylized couple avatar images from original photos for profiles, brands, and communities."
+    },
+    "faqPage": {
+      "name": "AI Couple Avatar Maker – FAQ"
+    }
+  }
+}

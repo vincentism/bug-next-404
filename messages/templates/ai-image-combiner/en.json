@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Giant Plushie Remix – Viral AI Video Generator | OpenCreator",
+    "description": "Combine character and landscape images with AI to create giant plushie trend videos and remix-style short content for social media.",
+    "keywords": [
+      "ai image combiner",
+      "image mashup generator",
+      "giant plushie video generator",
+      "tiktok trend video ai",
+      "character and landscape remix",
+      "ai viral short video",
+      "image fusion for video",
+      "plush toy animation ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#fun", "#viral_short"],
+    "title": "Giant Plushie Remix",
+    "description": "Jump on the latest internet trend with our cutting-edge AI workflow template. Simply upload a photo of a plush toy and a scenic background, and let our AI work its magic to create a realistic video of your giant plush toy playing in the landscape.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Put your elements here…",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your plushie and background images",
+        "description": "Provide one image of the plush toy and one of the landscape or environment where you want your giant plushie to appear."
+      },
+      {
+        "title": "Describe the vibe and action",
+        "description": "Add a short prompt explaining what the plushie is doing and the mood you want—cute, chaotic, cinematic, or meme-style."
+      },
+      {
+        "title": "Generate AI remixed video variations",
+        "description": "Run the Giant Plushie Remix template to combine your inputs into short, shareable video clips with different compositions and motions."
+      },
+      {
+        "title": "Select the best clips and iterate",
+        "description": "Pick your favorite outputs, tweak prompts or swap images, and rerun the workflow to build a full batch of viral-ready videos."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for viral short-form creators",
+    "subtitle": "From toy brands to meme creators, see who uses this workflow to ride the giant plushie trend.",
+    "audiences": [
+      {
+        "label": "TikTok & Reels creators",
+        "description": "Quickly turn character and background images into playful giant plushie videos that fit trending short-form formats."
+      },
+      {
+        "label": "Toy brands & e-commerce sellers",
+        "description": "Showcase plush toys in fun, larger-than-life scenarios to boost engagement on product pages and social ads."
+      },
+      {
+        "label": "Meme pages & fan communities",
+        "description": "Remix mascots, characters, or fan art into surreal giant plushie clips made for sharing and remix culture."
+      },
+      {
+        "label": "Creative agencies & social teams",
+        "description": "Prototype quirky video ideas for campaigns using simple image inputs instead of full shoots and sets."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Giant Plushie Remix template?",
+        "answer": "Giant Plushie Remix is a viral AI video template that combines character images and landscape photos to create giant plushie-style scenes. It's built for playful, shareable content."
+      },
+      {
+        "question": "What inputs do I need for this workflow?",
+        "answer": "You typically upload a character image (person, mascot, or toy) and a background or landscape image. The workflow then combines them to create a \"giant plushie in the world\" effect."
+      },
+      {
+        "question": "Is this template good for TikTok and short-form platforms?",
+        "answer": "Yes. It's tailored for TikTok-style viral clips and short videos. You can create multiple variations and choose the most engaging ones for posting."
+      },
+      {
+        "question": "Can I customize the style of the plushie and background?",
+        "answer": "You can specify details like \"soft toy texture,\" \"pastel colors,\" or \"cinematic cityscape background.\" The AI will try to integrate these style cues into the final result."
+      },
+      {
+        "question": "Do I need advanced editing skills to use Giant Plushie Remix?",
+        "answer": "No. The workflow handles the complex part of combining images. You only need to choose your inputs, write a brief prompt, and adjust results based on your preferences."
+      },
+      {
+        "question": "Can I generate multiple versions from the same character image?",
+        "answer": "Yes. You can reuse a character across different backgrounds and prompts to create a whole series of giant plushie videos or images."
+      },
+      {
+        "question": "How are credits consumed in this viral AI video template?",
+        "answer": "Each generation or remix consumes credits according to the image and video models used. Shorter clips and moderate resolutions help keep credit usage efficient."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Giant Plushie Remix – Viral AI Video Generator",
+      "description": "Create viral giant plushie videos by combining character and landscape images with AI."
+    },
+    "softwareApplication": {
+      "name": "Giant Plushie Remix AI Workflow",
+      "description": "AI workflow that combines character and landscape images to create viral giant plushie videos."
+    },
+    "faqPage": {
+      "name": "Giant Plushie Remix – FAQ"
+    }
+  }
+}

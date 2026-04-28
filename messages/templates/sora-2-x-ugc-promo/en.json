@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "AI UGC Video Generator for Social Promo Campaigns | OpenCreator",
+    "description": "Create authentic UGC-style promo videos with AI for TikTok, Reels, and paid social. Scale user-generated content formats without full creator production.",
+    "keywords": [
+      "ugc video ads",
+      "ai ugc video generator",
+      "social media promo video",
+      "creator style ad video",
+      "user generated content ads",
+      "tiktok ugc ads",
+      "short form marketing video",
+      "ai social content creator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Content Gen",
+    "tags": ["#sora_2", "#social_promo", "#ugc_marketing"],
+    "title": "Sora 2 x UGC Promo",
+    "description": "Generate creator-style promo videos that look native to social feeds. This workflow helps marketing teams scale UGC formats faster for paid and organic campaigns.",
+    "inputPlaceholder": "Describe your UGC promotion concept",
+    "ctaText": "Create Promo"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your UGC concept",
+        "description": "Input details about your promotional content, target audience, brand voice, and desired UGC style for authentic social media engagement."
+      },
+      {
+        "title": "Choose Sora 2 style",
+        "description": "Select from various UGC styles optimized for different social platforms and audience preferences while maintaining authenticity."
+      },
+      {
+        "title": "Generate authentic UGC content",
+        "description": "Sora 2 AI creates realistic user-generated promotional content with natural poses, authentic settings, and genuine engagement elements."
+      },
+      {
+        "title": "Deploy across social platforms",
+        "description": "Export high-resolution UGC content ready for Instagram, TikTok, and platforms where authentic content performs best."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for social media marketing and UGC content creation",
+    "subtitle": "From individual creators to established brands, see who creates authentic UGC promotional content with Sora 2.",
+    "audiences": [
+      {
+        "label": "Social media managers",
+        "description": "Create authentic UGC promotional content that resonates with audiences and drives genuine engagement across platforms."
+      },
+      {
+        "label": "Content creators",
+        "description": "Generate realistic UGC style content that feels genuine and connects with follower communities naturally."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Scale UGC content production for multiple clients while maintaining authenticity and cultural relevance."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Create authentic product demonstrations and customer testimonials that build trust and drive conversions."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Sora 2 x UGC Promo workflow?",
+        "answer": "Sora 2 x UGC Promo is an AI-powered workflow that creates authentic user-generated promotional content with Sora 2 technology. Generate engaging social media marketing that drives user engagement."
+      },
+      {
+        "question": "Who is Sora 2 x UGC Promo designed for?",
+        "answer": "Sora 2 x UGC Promo is essential for social media marketing and UGC content creation: social media managers, content creators, marketing agencies, and e-commerce brands who need authentic UGC content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide details about your promotional content,, target audience,, brand voice,, and desired UGC style for authentic social media engagement."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates authentic user-generated promotional content with natural poses, authentic settings, and genuine engagement elements."
+      },
+      {
+        "question": "Can I create content for different social platforms?",
+        "answer": "Yes. You can create UGC content optimized for Instagram, TikTok, Facebook, and other social media platforms with platform-specific formats."
+      },
+      {
+        "question": "How do credits and pricing work for Sora 2 x UGC Promo?",
+        "answer": "Each UGC content generation consumes credits based on the image complexity and customization requirements. The cost is optimized for creating authentic social media content."
+      },
+      {
+        "question": "Can I maintain brand consistency across UGC content?",
+        "answer": "Absolutely. The workflow incorporates your brand elements, voice, and visual identity while maintaining authentic UGC aesthetics."
+      },
+      {
+        "question": "Is this suitable for product demonstrations and reviews?",
+        "answer": "Yes. Perfect for creating authentic product demonstrations, customer testimonials, and genuine user experiences that build trust."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Sora 2 x UGC Promo – AI Social Media Marketing",
+      "description": "Create authentic UGC promotional content with Soon 2 AI technology. Generate engaging social media marketing that drives user engagement."
+    },
+    "softwareApplication": {
+      "name": "Sora 2 x UGC Promo AI Generator",
+      "description": "AI-powered UGC content creator using Sora 2 technology for generating authentic social media marketing and promotional content."
+    },
+    "faqPage": {
+      "name": "Sora 2 x UGC Promo – FAQ"
+    }
+  }
+}

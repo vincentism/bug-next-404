@@ -1,0 +1,154 @@
+{
+  "model": {
+    "meta": {
+      "title": "Luma Ray3 AI Video Generator | Reasoning Video Model | OpenCreator",
+      "description": "Explore Luma Ray3, a next-generation video model built for cinematic quality and stronger control. Join the waitlist on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Luma Ray3",
+      "tagline": "A next-generation reasoning video model",
+      "description": "Ray3 is designed for cinematic video generation with stronger instruction following, improved temporal coherence, and production-ready workflows. OpenCreator will provide access as soon as it’s available.",
+      "badge": "Coming Soon",
+      "ctaText": "View pricing",
+      "secondaryCtaText": "Learn more",
+      "capabilities": {
+        "reasoning": "Visual reasoning",
+        "cinematic": "Cinematic quality",
+        "control": "More control",
+        "consistency": "Better consistency",
+        "speed": "Faster iteration"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "What creators look for in a next-generation video model",
+      "items": {
+        "reasoning": {
+          "title": "Reasoning-driven generation",
+          "description": "Designed to better understand intent and refine outputs for more reliable results."
+        },
+        "hdr": {
+          "title": "Production-friendly output",
+          "description": "Built for workflows that care about color, fidelity, and pipeline compatibility."
+        },
+        "temporal": {
+          "title": "Stronger temporal coherence",
+          "description": "More stable motion and fewer artifacts across frames in longer shots."
+        },
+        "control": {
+          "title": "More controllability",
+          "description": "Better adherence to prompts and creative direction for predictable iterations."
+        },
+        "workflow": {
+          "title": "Faster exploration",
+          "description": "Iterate quickly on multiple ideas before selecting the best direction."
+        },
+        "production": {
+          "title": "Built for real projects",
+          "description": "Optimized for creators who need repeatability, continuity, and usable outputs."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Representative OpenCreator workflows similar to Ray3 use cases",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "character": {
+          "title": "Consistent characters",
+          "description": "Brand ads & storytelling",
+          "useCase": "Maintain identity and style across multiple shots for coherent narratives."
+        },
+        "advertising": {
+          "title": "Advertising-ready motion",
+          "description": "Social media content",
+          "useCase": "Generate scroll-stopping video with strong prompt adherence and cinematic motion."
+        },
+        "cinematic": {
+          "title": "Cinematic scenes",
+          "description": "Film-like visuals",
+          "useCase": "Create cinematic clips that feel grounded, coherent, and visually polished."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specs",
+      "subtitle": "A practical view of inputs, outputs, and controls",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input formats",
+          "outputFormat": "Output format",
+          "resolution": "Resolution"
+        },
+        "control": {
+          "title": "Controls",
+          "prompt": "Prompt control",
+          "character": "Character reference",
+          "keyframes": "Keyframes"
+        },
+        "production": {
+          "title": "Production",
+          "temporal": "Temporal coherence",
+          "pipeline": "Production workflow fit"
+        }
+      },
+      "values": {
+        "inputFormats": "Text, Image, Video",
+        "outputFormat": "MP4",
+        "resolution": "Varies"
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "Positioning for a next-gen workflow",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not supported",
+      "features": {
+        "textToVideo": "Text to Video",
+        "imageToVideo": "Image to Video",
+        "videoToVideo": "Video-to-Video",
+        "characterReference": "Character reference",
+        "keyframes": "Keyframes",
+        "cinematicQuality": "Cinematic quality"
+      }
+    },
+    "pricing": {
+      "title": "Coming Soon",
+      "subtitle": "Ray3 will be available on OpenCreator soon",
+      "ctaText": "Join the waitlist",
+      "comingSoonBadge": "Coming Soon",
+      "description": "Next-generation video model",
+      "note": "Pricing and availability will be updated once Ray3 is integrated into OpenCreator.",
+      "viewFullPricing": "View full pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "Is Ray3 available on OpenCreator?",
+          "answer": "Not yet. This page is a pre-launch landing page to collect interest."
+        },
+        "1": {
+          "question": "What can I use instead while waiting?",
+          "answer": "You can use existing video models on OpenCreator and keep your workflows ready to swap models when Ray3 is available."
+        },
+        "2": {
+          "question": "Will Ray3 support video-to-video editing?",
+          "answer": "Ray3 is positioned for stronger creative control. Specific capabilities will be confirmed once the integration is live."
+        },
+        "3": {
+          "question": "How will pricing work?",
+          "answer": "Pricing will be displayed on OpenCreator once the model is enabled."
+        },
+        "4": {
+          "question": "How do I get notified?",
+          "answer": "Bookmark this page and check back. We’ll update once Ray3 is available."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "seo": {
+    "title": "AI Video Generator - Text to Video, Image to Video & Video Memes | OpenCreator",
+    "description": "Create AI videos from text, images, or a base clip. Generate video memes, animations, lip sync, VFX, and promo videos with ready-made workflows—built for social media video creation.",
+    "keywords": [
+      "ai video generator",
+      "text to video",
+      "image to video",
+      "video meme generator",
+      "how to create video memes",
+      "short video creator",
+      "ai animation generator",
+      "lip sync ai",
+      "ai video maker",
+      "video effects ai",
+      "ai commercial generator"
+    ]
+  },
+  "hero": {
+    "badge": "Video Solution",
+    "title": "Create videos with AI in minutes",
+    "description": "Use ready-made workflows to turn scripts, images, and rough ideas into finished videos. Combine text-to-video, image-to-video, VFX, lip sync, and music in one place without setting up complex tools.",
+    "cta": "Try Video Generation",
+    "secondaryCta": "See Templates",
+    "stats": {
+      "models": {
+        "label": "AI Models",
+        "value": "10+"
+      },
+      "time": {
+        "label": "Generation Time",
+        "value": "< 10 min"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "One solution for all video needs",
+    "description": "Start from a template and then customize the workflow canvas to fit your production: social clips, ads, explainers, trailers, or ASMR content. Swap models or nodes instead of rebuilding projects from scratch.",
+    "sections": {
+      "generation": {
+        "title": "Video Generation",
+        "subtitle": "Text & image to video"
+      },
+      "effects": {
+        "title": "Effects & Editing",
+        "subtitle": "VFX, lip sync, transitions"
+      },
+      "content": {
+        "title": "Content Creation",
+        "subtitle": "ASMR, ads, promos"
+      }
+    },
+    "explore": "Explore",
+    "templates": {
+      "imageToVideo": "Image to Video",
+      "motionTransfer": "Motion Transfer",
+      "textToVideo": "Script to Film",
+      "aiAnimationGenerator": "AI Animation Generator",
+      "sketchToFilm": "Sketch to Film",
+      "jsonToVideo": "JSON to Video",
+      "aiMovieTrailerMaker": "AI Movie Trailer Maker",
+      "aiMusicVideoGenerator": "AI Music Video Generator",
+      "lipSync": "Lip Sync",
+      "backgroundVfx": "Background VFX",
+      "visualEffects": "Visual Effects",
+      "videoEdit": "Video Edit",
+      "backgroundMusic": "Background Music",
+      "sora2xAds": "Sora 2 x Ads",
+      "veo31Ads": "Veo 3.1 Ads",
+      "asmrPromo": "ASMR Promo",
+      "ugcUnboxingVideo": "UGC Unboxing Video",
+      "ugcPromoVideoLipsync": "UGC Promo Video (Lipsync)",
+      "crunchyMukbangAsmr": "Crunchy Mukbang ASMR",
+      "cuttingFruitAsmr": "Cutting Fruit ASMR",
+      "foodSlimeAsmr": "Food Slime ASMR",
+      "kittenSlimeAsmr": "Kitten x Slime ASMR",
+      "specialMaterialAsmr": "Special Material ASMR",
+      "foodProductAsmr": "Food Product ASMR",
+      "sora2xIdols": "Sora 2 x Idols",
+      "veo31Playground": "Veo 3.1 Playground",
+      "nineGridShotBreakdown": "Nine-Grid Shot Breakdown",
+      "storyboardGeneration": "Storyboard Generation",
+      "multiCameraStoryboards": "Multi-camera Storyboards",
+      "commercialAdProduction": "Commercial Ad Production",
+      "12ShotStoryboard": "12-Shot Storyboard",
+      "dynamicPosterCreation": "Dynamic Poster Creation",
+      "highConvertingUgcAds": "High-Converting UGC Ads",
+      "adsRemake": "Ads Remake",
+      "frenchRetroStylePromotionalVideo": "French Retro Style Promotional Video",
+      "petSealDance": "Pet Seal Dance",
+      "petsXBridalSedanChairDance": "Pets x Bridal Sedan Chair Dance",
+      "aiInfluencerHyperRealLifestyleStudio": "AI Influencer – Hyper-real Lifestyle Studio",
+      "everythingTurnsIntoRobots": "Everything Turns Into Robots",
+      "virtualHumanSings": "Virtual Human Sings",
+      "apparelAiPromotionalVideo": "Apparel AI Promotional Video",
+      "automotiveAdvertisingStoryboard": "Automotive Advertising Storyboard",
+      "conceptRacingCarVideo": "Concept Racing Car Video",
+      "clothingPromotionShortFilm": "Clothing Promotion Short Film",
+      "oneClickCommercialProductAds": "One-Click Commercial Product Ads",
+      "aiHandbagPromoVideo": "AI Handbag Promo Video",
+      "connectFilm": "CONNECT Film",
+      "pureSweetGirlyMv": "Pure Sweet Girly Style MV"
+    }
+  },
+  "audiences": {
+    "title": "Built for",
+    "badge": "For creators",
+    "description": "Whether you're a solo creator or part of a marketing team, AI video generation scales with your needs.",
+    "items": {
+      "creators": {
+        "title": "Content Creators",
+        "description": "Create engaging social videos, YouTube content, and viral clips without expensive equipment or editing skills.",
+        "roles": "YouTubers, TikTokers, influencers"
+      },
+      "marketers": {
+        "title": "Marketing Teams",
+        "description": "Produce ad creatives, product demos, and promotional videos at scale. Test variations quickly.",
+        "roles": "Performance marketers, brand managers, agencies"
+      },
+      "filmmakers": {
+        "title": "Filmmakers & Artists",
+        "description": "Explore creative possibilities with AI-generated animations, VFX, and cinematic content.",
+        "roles": "Directors, animators, visual artists"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": {
+      "q1": {
+        "question": "What do I need to prepare before using the AI video workflows?",
+        "answer": "At minimum, you need a script, a few reference images, or a base clip. For text-to-video templates, clear scene descriptions and timing notes help the model plan shots. For image-to-video, upload sharp images at 1080p or higher with the key subject clearly visible. Avoid heavy watermarks, motion blur, or cropped-off subjects, as these reduce quality."
+      },
+      "q2": {
+        "question": "How long do generations take and how are credits used?",
+        "answer": "Most templates generate a 5-10 second clip within a few minutes, but heavier video models can take up to around 10 minutes depending on settings and load. Higher-end models like Sora or Veo 3.x consume more credits per run than lighter models. A workflow may call several models (for example, script -> video -> VFX -> music), and each step uses credits once it runs. You can test a shorter segment or a more affordable model first, then switch to higher quality for the final output."
+      },
+      "q3": {
+        "question": "How much control do I have over motion, framing, and style?",
+        "answer": "You control the general story, pacing, and look, but not every single frame. Use structured prompts, shot lists, and reference images to guide composition and movement. For more predictable results, keep prompts consistent across runs, lock in key reference frames, and iterate on the same workflow instead of starting from scratch. Extremely precise choreography or camera paths may still require manual editing after generation."
+      },
+      "q4": {
+        "question": "Can I combine multiple templates or models in one project?",
+        "answer": "Yes. OpenCreator is a workflow editor: you can start from a script-to-film template, feed the results into lip-sync, VFX, or background-music nodes, and then assemble everything into a final cut. You can also swap individual nodes to try different video models without rebuilding the whole flow, which makes it easy to A/B test creative variations while keeping the same structure."
+      },
+      "q5": {
+        "question": "Can I use AI-generated videos commercially and for client work?",
+        "answer": "In general, videos generated in OpenCreator can be used commercially, including for ads and social campaigns. However, you are responsible for respecting each model provider's terms, local regulations, and platform policies. Do not upload assets you do not have rights to (logos, stock footage, faces) and review final outputs for compliance before delivering them to clients."
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Video Generator",
+      "description": "Create stunning videos with AI - text to video, image to video, and more."
+    },
+    "softwareApplication": {
+      "name": "AI Video Generator",
+      "description": "Transform text and images into professional videos with AI workflows."
+    },
+    "faqPage": {
+      "name": "AI Video Generator - FAQ"
+    }
+  },
+  "relatedSolutions": {
+    "title": "Explore More Solutions",
+    "subtitle": "Discover other AI-powered workflows to elevate your creative production",
+    "ctaLabel": "View solution"
+  }
+}

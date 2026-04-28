@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "AI UGC 视频生成器：社媒推广素材批量创作 | OpenCreator",
+    "description": "用 AI 批量生成真实感 UGC 推广视频，适配 TikTok、Reels 等平台，提升社媒广告与自然流量内容产出。",
+    "keywords": [
+      "UGC视频广告",
+      "AI UGC视频生成器",
+      "社媒推广短视频",
+      "达人风广告视频",
+      "用户生成内容广告",
+      "TikTok UGC广告",
+      "短视频营销素材",
+      "AI社媒内容创作"
+    ]
+  },
+  "hero": {
+    "featureTag": "内容生成",
+    "tags": ["#sora_2", "#社交推广", "#ugc营销"],
+    "title": "Sora 2 UGC 推广",
+    "description": "快速生成更贴近社媒原生内容的 UGC 推广视频。这个工作流适合市场团队批量制作投流素材和品牌账号内容，兼顾效率与真实感。",
+    "inputPlaceholder": "描述你的 UGC 推广概念",
+    "ctaText": "创建推广"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "描述你的 UGC 概念",
+        "description": "输入关于你的推广内容、目标受众、品牌声音和期望 UGC 风格的详细信息，以实现真实的社交媒体参与。"
+      },
+      {
+        "title": "选择 Sora 2 风格",
+        "description": "从为不同社交平台和受众偏好优化的各种 UGC 风格中选择，同时保持真实性。"
+      },
+      {
+        "title": "生成真实 UGC 内容",
+        "description": "Sora 2 AI 创建具有自然姿势、真实场景和真正参与元素的真实用户生成推广内容。"
+      },
+      {
+        "title": "在社交平台部署",
+        "description": "导出高分辨率 UGC 内容，可用于 Instagram、TikTok 和真实内容表现最佳的平台。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "为社交媒体营销和 UGC 内容而生",
+    "subtitle": "从独立创作者到成熟品牌，看看谁在用 Sora 2 创建真实 UGC 推广内容。",
+    "audiences": [
+      {
+        "label": "社交媒体经理",
+        "description": "创建与受众产生共鸣并在各平台推动真正参与的真实 UGC 推广内容。"
+      },
+      {
+        "label": "内容创作者",
+        "description": "生成感觉真实并与关注者社区自然连接的真实 UGC 风格内容。"
+      },
+      {
+        "label": "营销代理机构",
+        "description": "为多个客户扩大 UGC 内容生产，同时保持真实性和文化相关性。"
+      },
+      {
+        "label": "电商品牌",
+        "description": "创建建立信任并推动转化的真实产品演示和客户推荐。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Sora 2 UGC 推广工作流是什么？",
+        "answer": "Sora 2 UGC 推广是一个 AI 驱动的工作流，使用 Sora 2 技术创建真实用户生成推广内容。生成引人入胜的社交媒体营销，推动用户参与度。"
+      },
+      {
+        "question": "Sora 2 UGC 推广为谁设计？",
+        "answer": "Sora 2 UGC 推广特别适合社交媒体营销和 UGC 内容场景：社交媒体经理、内容创作者、营销代理机构和需要真实 UGC 内容的电商品牌。"
+      },
+      {
+        "question": "开始需要什么样的输入？",
+        "answer": "你提供关于你的推广内容、目标受众、品牌声音和期望 UGC 风格的详细信息，以实现真实的社交媒体参与。"
+      },
+      {
+        "question": "这个工作流会产生什么样的输出？",
+        "answer": "工作流生成具有自然姿势、真实场景和真正参与元素的真实用户生成推广内容。"
+      },
+      {
+        "question": "我可以为不同社交平台创建内容吗？",
+        "answer": "可以。你可以为 Instagram、TikTok、Facebook 和其他社交媒体平台创建优化 UGC 内容，具有平台特定格式。"
+      },
+      {
+        "question": "Sora 2 UGC 推广的积分和定价如何运作？",
+        "answer": "每次 UGC 内容生成根据图像复杂度和定制要求消耗积分。成本经过优化，以创建真实社交媒体内容。"
+      },
+      {
+        "question": "我可以在所有 UGC 内容中保持品牌一致性吗？",
+        "answer": "当然可以。工作流融入你的品牌元素、声音和视觉识别，同时保持真实 UGC 美学。"
+      },
+      {
+        "question": "这适合产品演示和评论吗？",
+        "answer": "适合。特别适合制作能建立信任感的真实产品演示、用户推荐和真实体验内容。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Sora 2 UGC 推广 – AI 社交媒体营销",
+      "description": "用 Sora 2 AI 技术创建真实 UGC 推广内容。生成引人入胜的社交媒体营销，推动用户参与度。"
+    },
+    "softwareApplication": {
+      "name": "Sora 2 UGC 推广 AI 生成器",
+      "description": "使用 Sora 2 技术的 AI 驱动 UGC 内容创建器，用于生成真实社交媒体营销和推广内容。"
+    },
+    "faqPage": {
+      "name": "Sora 2 UGC 推广 – 常见问题"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Subject Re-light – AI Change Lighting, Preserve Identity | OpenCreator",
+    "description": "Re-light subjects in existing images—people, characters, or products—without changing identity. Experiment with studio, natural, or dramatic lighting to fit different contexts.",
+    "keywords": [
+      "ai relight subject",
+      "change lighting in photo",
+      "subject relighting tool",
+      "portrait relight ai",
+      "product relighting",
+      "how to relight photos with ai",
+      "ai tool for changing lighting on the same subject"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#relight", "#lighting", "#subject_control"],
+    "title": "Subject Re-light",
+    "description": "Re-light subjects in existing images—people, characters, or products—without changing who or what they are. Experiment with dramatic, natural, or studio lighting to fit different moods and contexts.",
+    "inputPlaceholder": "Upload a subject image and describe the lighting you want (e.g., golden hour, studio key light)",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload an image with a clear subject",
+        "description": "Use portraits, character art, or product shots where the subject is easy to identify."
+      },
+      {
+        "title": "Describe target lighting setup and mood",
+        "description": "Specify time of day, direction (side, back, top), hardness, and any color casts."
+      },
+      {
+        "title": "Generate re-lit subject images",
+        "description": "AI adjusts lighting while preserving facial features, forms, and key details."
+      },
+      {
+        "title": "Export variants for campaigns and experimentation",
+        "description": "Use different lighting versions for seasonal campaigns, A/B tests, or creative explorations."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams that treat lighting as a creative tool",
+    "subtitle": "From photographers to marketers, see who re-lights with AI.",
+    "audiences": [
+      {
+        "label": "Photographers and retouchers",
+        "description": "Explore alternative lighting looks without reshooting subjects."
+      },
+      {
+        "label": "Brand and campaign teams",
+        "description": "Adapt existing assets to new seasons, moods, or channels."
+      },
+      {
+        "label": "Character and concept artists",
+        "description": "Study how lighting affects form and mood across the same subject."
+      },
+      {
+        "label": "E-commerce and catalog teams",
+        "description": "Match product lighting to new templates or promotional themes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I relight portraits without changing faces?",
+        "answer": "Yes. AI adjusts lighting while preserving identity—facial features, form, and details remain intact."
+      },
+      {
+        "question": "Which lighting presets are available?",
+        "answer": "Golden hour, studio key, backlight, top light, and custom directions with soft/hard intensity options."
+      },
+      {
+        "question": "Will skin tones and product colors stay accurate?",
+        "answer": "Yes. The workflow maintains color fidelity while changing light direction and mood."
+      },
+      {
+        "question": "What inputs work best?",
+        "answer": "Provide clear subjects—portraits, characters, or product shots—and describe target lighting (time of day, direction, hardness, color casts)."
+      },
+      {
+        "question": "Can I generate multiple variants for A/B testing?",
+        "answer": "Yes. Create lighting sets across moods and export variants for campaigns, banners, and creative exploration."
+      },
+      {
+        "question": "How do credits work per variant?",
+        "answer": "Credits depend on resolution and number of variants. Start with 3–4 lighting looks, then expand based on results."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Subject Re-light – AI Change Lighting, Preserve Identity",
+      "description": "Re-light subjects while preserving identity. Generate lighting variants for campaigns and explorations."
+    },
+    "softwareApplication": {
+      "name": "Subject Re-light Workflow Template",
+      "description": "AI workflow for changing lighting on subjects without altering identity."
+    },
+    "faqPage": {
+      "name": "Subject Re-light – FAQ"
+    }
+  }
+}

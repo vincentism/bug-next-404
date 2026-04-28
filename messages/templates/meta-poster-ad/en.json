@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Meta Poster Ad – AI Meta Ad Poster Generator | OpenCreator",
+    "description": "Generate high-performing Meta poster ads for Facebook and Instagram with AI. AI banner maker and AI flyer generator for scroll-stopping posters optimized for paid social campaigns.",
+    "keywords": [
+      "ai banner maker",
+      "ai flyer generator",
+      "ai commercial generator",
+      "ai graphic design",
+      "meta ad poster",
+      "facebook ad creative",
+      "instagram poster ad",
+      "social media ad generator",
+      "product image generator",
+      "ai product image generation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#meta_ads", "#poster", "#branding"],
+    "title": "Meta Poster Ad",
+    "description": "Create scroll-stopping Meta poster ads for Facebook and Instagram with AI. Start from a short brief or existing product image and instantly generate polished, on-brand poster creatives tuned for paid social placement.",
+    "inputPlaceholder": "Describe your Meta ad or paste your product details",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your Meta ad objective",
+        "description": "Brief the workflow with your campaign goal—such as awareness, traffic, or conversion—and optionally provide your product image or brand assets."
+      },
+      {
+        "title": "Describe the message and visual style",
+        "description": "Write a short prompt about what you want to highlight: key benefit, offer, audience, and visual mood (for example, \"bold sale poster\" or \"minimal premium branding\")."
+      },
+      {
+        "title": "Generate AI-powered Meta poster creatives",
+        "description": "The workflow turns your brief into poster-style ad creatives suitable for Meta placements, combining product focus with strong headlines and clear visual hierarchy."
+      },
+      {
+        "title": "Review variations and export for campaigns",
+        "description": "Pick your favorite versions, iterate if needed, then download final poster creatives ready for upload into your Meta Ads Manager workflows."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands and performance teams running Meta campaigns",
+    "subtitle": "Designed for anyone who needs high-impact poster-style creatives for Facebook and Instagram.",
+    "audiences": [
+      {
+        "label": "Performance marketers",
+        "description": "Test more Meta ad variations faster by generating poster-style creatives from simple briefs, without waiting on long design cycles."
+      },
+      {
+        "label": "E-commerce and DTC brands",
+        "description": "Turn product launches, promotions, and seasonal offers into Meta-ready poster ads that match your brand look and feel."
+      },
+      {
+        "label": "Creative teams and agencies",
+        "description": "Use the workflow as an ideation partner to explore multiple directions for Meta poster concepts before you finalize designs."
+      },
+      {
+        "label": "Solo founders and small teams",
+        "description": "Create professional-looking Meta ad posters without needing a full-time designer, so you can focus on testing and scaling campaigns."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Meta Poster Ad workflow?",
+        "answer": "Meta Poster Ad is an AI-powered workflow that helps you generate poster-style creatives for Meta platforms like Facebook and Instagram. It turns simple briefs and product inputs into polished ad posters for paid social campaigns."
+      },
+      {
+        "question": "Do I need design skills to use this workflow?",
+        "answer": "No. You describe your offer, product, and visual style in plain language, and the workflow generates poster-style ad creatives for you. Design experience can help refine prompts, but it is not required."
+      },
+      {
+        "question": "Can I use existing product images or brand elements?",
+        "answer": "Yes. You can start from product photos or brand assets as references in your workflow, then guide the AI with prompts so the final posters stay close to your brand feel."
+      },
+      {
+        "question": "What kinds of Meta campaigns does this help with?",
+        "answer": "You can use Meta Poster Ad for prospecting, remarketing, seasonal promotions, product launches, and always-on campaigns where strong visual hooks are important."
+      },
+      {
+        "question": "How do I export creatives for Meta Ads Manager?",
+        "answer": "After generating your posters, you export the selected images and upload them into Meta Ads Manager as you normally would when creating or editing ad sets."
+      },
+      {
+        "question": "How are credits and costs handled?",
+        "answer": "Each run of the workflow consumes credits based on the underlying image generation steps. It is optimized to make it affordable to explore multiple creative directions before committing to campaigns."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Meta Poster Ad – AI Meta Ad Poster Generator",
+      "description": "Generate Meta-ready poster ads for Facebook and Instagram using OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Meta Poster Ad AI Workflow",
+      "description": "AI-powered workflow for creating poster-style Meta ad creatives for Facebook and Instagram campaigns."
+    },
+    "faqPage": {
+      "name": "Meta Poster Ad – FAQ"
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "model": {
+    "meta": {
+      "title": "Veo 3.1 AI 视频生成器 | 多参考图 & 首尾帧控制 | OpenCreator",
+      "description": "使用 Google Veo 3.1 创建精彩视频。支持多参考图模式保持主体一致性、首尾帧控制和原生音频。最高 1080p 8秒视频。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Veo 3.1",
+      "tagline": "下一代创意控制",
+      "description": "Google 最新视频生成模型，具备增强的创意控制能力。Veo 3.1 引入多参考图模式保持主体一致性、首尾帧过渡控制和改进的原生音频 - 全部以惊艳的 1080p 品质呈现。",
+      "badge": "全新发布",
+      "ctaText": "免费试用 Veo 3.1",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "multiReference": "多参考图模式",
+        "firstLastFrame": "首尾帧控制",
+        "nativeAudio": "原生音频",
+        "resolution": "1080p 输出"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Veo 3.1 在 AI 视频生成领域的革新之处",
+      "items": {
+        "multiReference": {
+          "title": "多参考图模式",
+          "description": "使用最多 3 张参考图来引导场景构图。在所有帧中保持角色和主体的一致性，实现完美的连续性。"
+        },
+        "firstLastFrame": {
+          "title": "首尾帧控制",
+          "description": "提供起始和结束帧，生成流畅、连贯的过渡。非常适合控制运动和精确叙事。"
+        },
+        "audio": {
+          "title": "增强原生音频",
+          "description": "更丰富的音频生成，包括自然对话、同步音效，以及说话角色的逼真口型同步。"
+        },
+        "sceneExtension": {
+          "title": "场景延展",
+          "description": "通过延展片段创建更长的视频，同时保持视觉和音频的连续性。构建长达一分钟或更长的故事。"
+        },
+        "quality": {
+          "title": "卓越视觉品质",
+          "description": "增强的真实感，更好的提示词遵循、改进的物理模拟，以及 1080p 分辨率的电影级视觉品质。"
+        },
+        "narrative": {
+          "title": "叙事控制",
+          "description": "对电影风格和叙事的理解更加深入。创建精确遵循您创意愿景的视频。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Veo 3.1 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "consistency": {
+          "title": "主体一致性",
+          "description": "角色视频",
+          "useCase": "使用多参考图模式在多个镜头中保持角色外观一致，实现连贯的故事叙述。"
+        },
+        "transition": {
+          "title": "流畅过渡",
+          "description": "运动控制",
+          "useCase": "使用首尾帧模式在两帧之间创建精确的运动，实现可控的动画效果。"
+        },
+        "product": {
+          "title": "产品展示",
+          "description": "电商视频",
+          "useCase": "将产品图片转化为带有专业音频和逼真物理效果的动态视频。"
+        },
+        "dialogue": {
+          "title": "对话场景",
+          "description": "说话角色",
+          "useCase": "生成具有逼真面部表情和口型同步的视频，适用于对话驱动的内容。"
+        },
+        "commercial": {
+          "title": "商业广告",
+          "description": "品牌推广",
+          "useCase": "制作带有配音、音乐和同步音效的专业广告。"
+        },
+        "storytelling": {
+          "title": "长篇故事",
+          "description": "长视频内容",
+          "useCase": "使用场景延展创建更长的叙事，同时保持视觉和音频的一致性。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Veo 3.1 功能的完整信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最高分辨率",
+          "durationOptions": "时长选项"
+        },
+        "modes": {
+          "title": "生成模式",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "multiReference": "多参考图（最多3张）",
+          "firstLastFrame": "首尾帧控制"
+        },
+        "audio": {
+          "title": "音频功能",
+          "nativeAudio": "原生音频",
+          "dialogue": "对话支持",
+          "lipSync": "口型同步",
+          "soundEffects": "音效"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "sceneExtension": "场景延展",
+          "subjectConsistency": "主体一致性",
+          "aspectRatios": "宽高比"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Veo 3.1 与其他主流 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "multiReference": "多参考图模式",
+        "firstLastFrame": "首尾帧控制",
+        "nativeAudio": "原生音频",
+        "maxDuration": "最长时长",
+        "resolution": "分辨率",
+        "sceneExtension": "场景延展",
+        "subjectConsistency": "主体一致性"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "积分按生成次数消耗。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Veo 3.1，有哪些新功能？",
+          "answer": "Veo 3.1 是 Google DeepMind 最新的视频生成模型，基于 Veo 3 构建。它引入了多参考图模式保持主体一致性、首尾帧控制实现精确运动、增强的对话音频支持，以及场景延展功能创建更长视频。"
+        },
+        "1": {
+          "question": "什么是多参考图模式？",
+          "answer": "多参考图模式允许您上传 1-3 张角色、物体或场景的参考图。AI 会在所有帧中保持主体的身份和外观，确保整个视频的完美连续性。"
+        },
+        "2": {
+          "question": "首尾帧控制是如何工作的？",
+          "answer": "首尾帧模式让您提供起始和结束图像。Veo 3.1 会生成两者之间流畅、自然的过渡，并配有相应的音频。这非常适合控制运动和精确叙事。"
+        },
+        "3": {
+          "question": "Veo 3.1 和 Veo 3.1 Fast 有什么区别？",
+          "answer": "Veo 3.1（标准版）使用参考图生视频模式，提供最高质量和主体一致性，适合复杂场景。Veo 3.1 Fast 使用首尾帧模式控制运动，生成速度更快。"
+        },
+        "4": {
+          "question": "支持哪些视频时长和分辨率？",
+          "answer": "Veo 3.1 生成 720p 或 1080p 分辨率、24 FPS 的视频，时长可选 4、6 或 8 秒。您可以使用场景延展功能连接多个片段来创建更长的视频。"
+        },
+        "5": {
+          "question": "Veo 3.1 支持对话和口型同步吗？",
+          "answer": "是的！标准版支持说话角色，具有逼真的面部表情和口型同步，非常适合故事叙述、营销内容或任何包含对话的视频。"
+        }
+      }
+    }
+  }
+}

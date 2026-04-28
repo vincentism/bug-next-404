@@ -1,0 +1,159 @@
+{
+  "seo": {
+    "title": "AI 设计工具 - 图片放大、3D 生成器等 | OpenCreator",
+    "description": "强大的 AI 设计工具，用于图片放大、背景移除、3D 生成和品牌设计。AI 图片扩展、生成式填充和创意内容工具。",
+    "keywords": [
+      "ai设计工具",
+      "ai图片放大",
+      "ai图片扩展",
+      "ai背景生成器",
+      "ai 3d模型生成器",
+      "生成式填充",
+      "ai图片编辑",
+      "ai海报制作"
+    ]
+  },
+  "hero": {
+    "badge": "设计解决方案",
+    "title": "AI 驱动的创意工具",
+    "description": "把重复性的设计工作交给 AI 工作流：放大、换风格、批量生成品牌视觉几分钟就能完成，让你把精力放在真正需要判断的创意决策上。",
+    "cta": "开始创作",
+    "secondaryCta": "查看模板",
+    "stats": {
+      "tools": {
+        "label": "创意工具",
+        "value": "40+"
+      },
+      "time": {
+        "label": "平均生成时间",
+        "value": "1-2 分钟"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "满足所有创意需求的工具箱",
+    "description": "从图片编辑、3D 到营销物料，可以先用现成模板起步，再按品牌需求调整节点结构。把参考图和品牌资产喂进同一套工作流，固定住效果好的版本，在不同活动之间复用，而不是每个项目都重头搭建。",
+    "sections": {
+      "imageEditing": {
+        "title": "图片编辑",
+        "subtitle": "放大、移除、增强"
+      },
+      "threeD": {
+        "title": "3D 与角色",
+        "subtitle": "模型、渲染、室内设计"
+      },
+      "marketing": {
+        "title": "营销与广告",
+        "subtitle": "海报、广告、缩略图"
+      }
+    },
+    "explore": "查看",
+    "templates": {
+      "imageUpscale": "图片放大",
+      "backgroundRemoveEdit": "背景移除与编辑",
+      "styleTransferBananaPro": "风格迁移",
+      "textToImage": "文字生成图片",
+      "angleControl": "角度控制",
+      "drawToEdit": "绘图编辑",
+      "aiImageCombiner": "AI 图片合成器",
+      "subjectConsistency": "主体一致性",
+      "styleConsistency": "风格一致性",
+      "subjectReLight": "主体重新打光",
+      "multiReferences": "多参考图",
+      "megaMultiReferenceBuilder": "多参考图生成器",
+      "3dCharacterRender": "3D 角色渲染",
+      "interiorDesign": "室内设计",
+      "brandIdentity": "品牌识别",
+      "blueprintToRender": "蓝图转渲染",
+      "characterModelSheet": "角色模型表",
+      "3dCartoonUiCardLayout": "3D卡通UI卡片布局",
+      "athleticAd": "运动广告",
+      "aiThumbnailMaker": "AI 缩略图制作",
+      "aiMoviePosterGenerator": "电影海报生成器",
+      "3cBrandPoster": "3C 品牌海报",
+      "blackFridayPoster": "黑五海报",
+      "christmasSalesPoster": "圣诞促销海报",
+      "christmasFisheyePoster": "圣诞鱼眼效果海报",
+      "brandLogoMaterial": "品牌 Logo 材质",
+      "brandingVisualStyleExtractor": "品牌视觉风格提取器",
+      "aiAlbumCoverGenerator": "AI 专辑封面生成器",
+      "aiTextEffectGenerator": "AI 文字特效生成器",
+      "instructionFlowchartMaker": "说明流程图制作器",
+      "foodFlowchartPoster": "美食流程图海报",
+      "polaroidArtCollage": "宝丽来艺术拼贴",
+      "metaPosterAd": "Meta 海报广告",
+      "oneClickStoryBoard": "一键故事板",
+      "storyboardBuilder": "故事板构建器",
+      "rednoteViralPostFactory": "小红书爆款工厂",
+      "rednoteAutoImageTextGenerator": "小红书图文自动生成器",
+      "miniFigureWorld": "微缩小人世界",
+      "threePanelBrandCreativePoster": "三分屏品牌创意海报",
+      "dreamyGlassMaterial": "白膜生成梦幻玻璃材质"
+    }
+  },
+  "audiences": {
+    "title": "适用人群",
+    "badge": "为创作者打造",
+    "description": "无论你是专业设计师还是刚刚入门，AI 让专业级设计人人可及。",
+    "items": {
+      "designers": {
+        "title": "设计师与艺术家",
+        "description": "用 AI 驱动的编辑、生成和增强工具加速你的工作流程。专注于创意，而非繁琐的任务。",
+        "roles": "平面设计师、插画师、数字艺术家"
+      },
+      "marketers": {
+        "title": "营销与品牌团队",
+        "description": "大规模创建品牌视觉内容。从社交帖子到广告活动，在所有触点保持一致性。",
+        "roles": "品牌经理、社媒运营、创意总监"
+      },
+      "entrepreneurs": {
+        "title": "创业者与初创企业",
+        "description": "无需聘请设计团队即可建立品牌形象和营销材料。以有限预算获得专业成果。",
+        "roles": "创始人、小企业主、个人创业者"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": {
+      "q1": {
+        "question": "做图片编辑和放大时，什么样的输入图片效果最好？",
+        "answer": "建议使用清晰、不严重压缩、最短边不少于 1024 像素的图片。尽量避免聊天截图或带明显压缩噪点的图片。对于需要合成多张参考图的工作流（如情绪板、多参考图生成等），输入图片在光线、风格上越统一，模型越容易理解你想要的方向。"
+      },
+      "q2": {
+        "question": "多图参考 / 参考板类工作流，具体能怎么帮到设计？",
+        "answer": "像多参考图生成器这类模板，可以一次性输入多张图片（品牌素材、过往广告、灵感参考），生成一张同时兼顾这些参考的新图。你可以把“给设计师讲需求”变成一个可重复执行的工作流：固定节点结构，只替换输入图，就能快速探索新版本，同时保持整体风格统一。"
+      },
+      "q3": {
+        "question": "AI 设计有什么局限？能做到像手工排版那样像素级精细吗？",
+        "answer": "AI 非常擅长生成整体构图、光线和风格，但暂时不适合完全替代精细的版式排版。它可能会轻微调整留白、字距或细节。对于必须严格符合品牌手册或印刷规格的物料，推荐用 OpenCreator 先生成高质量视觉（背景、主视觉、3D 渲染等），再在你熟悉的设计软件中完成最终文字和排版的精修。"
+      },
+      "q4": {
+        "question": "一次生成大概要多久？设计类工作流的 Credits 如何控制？",
+        "answer": "大多数图片相关工作流大约在 1-2 分钟内就能返回结果。高阶图片模型或 3D 相关节点，每次运行消耗的 Credits 会高于简单编辑节点。一个工作流中，每个实际触发生成的节点（例如文生图、图生图、放大）运行时都会各自消耗 Credits。频繁迭代时，你可以先“锁定”已经满意的节点，只重新运行还在探索的部分，以控制整体成本。"
+      },
+      "q5": {
+        "question": "如何在不同活动和渠道之间保持品牌视觉的一致？",
+        "answer": "建议把少量打磨好的工作流当作“品牌视觉母版”：例如一套用于产品图，一套用于活动 KV，一套用于社交素材。在这些工作流里固定品牌色、Logo 使用方式和参考图片。团队成员在此基础上复制、微调，而不是每次重做一套流程，这样即使由不同人产出物料，整体视觉语言也能保持一致。"
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI 设计工具",
+      "description": "强大的 AI 设计工具，用于图片编辑、3D 生成和创意内容。"
+    },
+    "softwareApplication": {
+      "name": "AI 设计工具",
+      "description": "为设计师和内容创作者提供的 AI 驱动创意工具。"
+    },
+    "faqPage": {
+      "name": "AI 设计工具 - 常见问题"
+    }
+  },
+  "relatedSolutions": {
+    "title": "探索更多解决方案",
+    "subtitle": "发现更多 AI 驱动的工作流，提升你的创意生产力",
+    "ctaLabel": "查看该解决方案"
+  }
+}

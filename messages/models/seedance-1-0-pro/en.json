@@ -1,0 +1,184 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance 1.0 Pro AI Video Generator | Multi-Shot Storytelling | OpenCreator",
+      "description": "Create cinematic AI videos with ByteDance's Seedance 1.0 Pro. Multi-shot video generation with smooth motion, rich details, and precise prompt following. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Seedance 1.0 Pro",
+      "tagline": "Multi-Shot Cinematic Video Generation",
+      "description": "Experience ByteDance's Seedance 1.0 Pro, a high-performance video generation model that supports multi-shot storytelling from both text and image. Create 1080p videos with smooth motion, rich details, and cinematic aesthetics.",
+      "badge": "Multi-Shot",
+      "ctaText": "Try Seedance Pro Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "multiShot": "Multi-Shot",
+        "resolution": "1080p Output",
+        "cinematic": "Cinematic Quality"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Seedance 1.0 Pro a powerful choice for AI video generation",
+      "items": {
+        "multiShot": {
+          "title": "Multi-Shot Storytelling",
+          "description": "Native support for multi-shot video generation, enabling coherent storytelling across multiple scenes."
+        },
+        "motion": {
+          "title": "Smooth & Stable Motion",
+          "description": "Wide dynamic range enables smooth motion with stable, consistent movement throughout the video."
+        },
+        "prompt": {
+          "title": "Precise Prompt Following",
+          "description": "Breakthroughs in semantic understanding ensure accurate interpretation of complex prompts."
+        },
+        "style": {
+          "title": "Diverse Stylistic Expression",
+          "description": "Support for various artistic styles from photorealistic to stylized animations."
+        },
+        "quality": {
+          "title": "Rich Details",
+          "description": "High-fidelity output with rich textures, accurate lighting, and cinematic color grading."
+        },
+        "resolution": {
+          "title": "1080p HD Output",
+          "description": "Generate professional-quality videos at full HD resolution for any use case."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Seedance 1.0 Pro on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "cinematic": {
+          "title": "Cinematic Scenes",
+          "description": "Film Production",
+          "useCase": "Create film-quality scenes with professional cinematography and visual storytelling."
+        },
+        "product": {
+          "title": "Product Showcase",
+          "description": "E-commerce Videos",
+          "useCase": "Transform product images into compelling video presentations with smooth motion."
+        },
+        "fashion": {
+          "title": "Fashion Content",
+          "description": "Apparel Marketing",
+          "useCase": "Dynamic fashion videos with realistic fabric movement and model poses."
+        },
+        "storytelling": {
+          "title": "Multi-Shot Stories",
+          "description": "Narrative Content",
+          "useCase": "Create coherent multi-scene narratives with consistent characters and settings."
+        },
+        "commercial": {
+          "title": "Commercial Ads",
+          "description": "Brand Advertising",
+          "useCase": "Professional advertising content with cinematic quality and brand consistency."
+        },
+        "creative": {
+          "title": "Creative Animation",
+          "description": "Artistic Content",
+          "useCase": "Express diverse artistic styles from photorealistic to stylized animations."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Seedance 1.0 Pro capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "multiShot": "Multi-Shot Generation",
+          "firstLastFrame": "First/Last Frame"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "smoothMotion": "Smooth Motion",
+          "promptFollowing": "Prompt Following",
+          "styleVariety": "Style Variety",
+          "cinematicQuality": "Cinematic Quality"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Seedance 1.0 Pro compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "multiShot": "Multi-Shot",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "smoothMotion": "Smooth Motion",
+        "promptFollowing": "Prompt Following",
+        "styleVariety": "Style Variety"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Seedance 1.0 Pro and who developed it?",
+          "answer": "Seedance 1.0 Pro is a high-performance video generation model developed by ByteDance. It supports multi-shot video generation from both text and image, achieving breakthroughs in semantic understanding and prompt following."
+        },
+        "1": {
+          "question": "What types of content can I create with Seedance 1.0 Pro?",
+          "answer": "Seedance 1.0 Pro excels at creating cinematic scenes, product showcases, fashion content, multi-shot stories, commercial ads, and creative animations. It's particularly strong in multi-shot storytelling and diverse stylistic expression."
+        },
+        "2": {
+          "question": "What makes Seedance 1.0 Pro unique?",
+          "answer": "Seedance 1.0 Pro stands out for its native multi-shot storytelling capability, smooth and stable motion, precise prompt following, and diverse stylistic expression. It can create coherent narratives across multiple scenes."
+        },
+        "3": {
+          "question": "What resolution does Seedance 1.0 Pro support?",
+          "answer": "Seedance 1.0 Pro generates videos at 1080p HD resolution with rich details, accurate lighting, and cinematic color grading for professional-quality output."
+        },
+        "4": {
+          "question": "Does Seedance 1.0 Pro support both text and image inputs?",
+          "answer": "Yes! Seedance 1.0 Pro supports both text-to-video and image-to-video generation. It also supports first/last frame control for precise motion guidance."
+        },
+        "5": {
+          "question": "How does Seedance 1.0 Pro handle complex prompts?",
+          "answer": "Seedance 1.0 Pro features breakthroughs in semantic understanding, enabling it to accurately interpret and follow complex, detailed prompts for precise creative control."
+        }
+      }
+    }
+  }
+}

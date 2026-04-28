@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Gothic Jewelry Photography & Video Workflow with AI | OpenCreator",
+    "description": "Generate dark-aesthetic jewelry photos and short videos with AI. Create moody product visuals for alternative fashion brands and accessories campaigns.",
+    "keywords": [
+      "gothic jewelry photography",
+      "jewelry product photography",
+      "dark aesthetic product photos",
+      "ai jewelry photo generator",
+      "alternative fashion campaign visuals",
+      "jewelry ad video",
+      "moody product photography",
+      "luxury accessories marketing visuals"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#gothic", "#jewelry", "#dark_aesthetic"],
+    "title": "Gothic-Style Jewelry Workflow",
+    "description": "Design gothic, mood-rich jewelry visuals without traditional studio complexity. Create dramatic product photos and short-form videos for campaign launches, lookbooks, and social storytelling.",
+    "inputPlaceholder": "Upload your jewelry product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your jewelry piece",
+        "description": "Provide a clear image of your gothic or dark aesthetic jewelry—rings, pendants, chains, or statement pieces. The AI analyzes your product for optimal dramatic presentation."
+      },
+      {
+        "title": "Apply gothic styling",
+        "description": "The workflow applies dark, moody aesthetics including dramatic lighting, mysterious shadows, and atmospheric elements that complement your jewelry's edgy design."
+      },
+      {
+        "title": "Generate photos and video",
+        "description": "Using Nano Banana Pro and VEO 3.1, create both stunning still images and cinematic video content that captures the dark allure of your gothic jewelry."
+      },
+      {
+        "title": "Export for your brand",
+        "description": "Download high-resolution images and video ready for e-commerce, social media, and marketing campaigns that resonate with alternative fashion audiences."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for dark aesthetic and alternative jewelry brands",
+    "subtitle": "From gothic artisans to alternative fashion retailers, see who creates dark jewelry content with AI.",
+    "audiences": [
+      {
+        "label": "Gothic jewelry designers",
+        "description": "Showcase your dark aesthetic creations with dramatic photography and video that captures the essence of gothic artistry."
+      },
+      {
+        "label": "Alternative fashion brands",
+        "description": "Create cohesive dark visual content for your edgy jewelry collections that appeals to alternative and subculture audiences."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Stand out in the alternative jewelry market with professional gothic-styled product content that drives engagement and sales."
+      },
+      {
+        "label": "Content creators",
+        "description": "Produce atmospheric jewelry content for social media platforms popular with gothic and alternative fashion communities."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Gothic-Style Jewelry Workflow?",
+        "answer": "This AI workflow creates dramatic, dark aesthetic jewelry photos and videos. It applies gothic styling elements like moody lighting, mysterious atmospheres, and cinematic effects to your jewelry products."
+      },
+      {
+        "question": "What types of jewelry work best?",
+        "answer": "Gothic, punk, alternative, and dark aesthetic jewelry pieces work exceptionally well—skull rings, chain necklaces, dark gemstone pieces, occult-inspired designs, and statement accessories."
+      },
+      {
+        "question": "Can I create both photos and videos?",
+        "answer": "Yes. The workflow uses Nano Banana Pro for stunning still images and VEO 3.1 for cinematic video content, giving you comprehensive visual assets for your jewelry brand."
+      },
+      {
+        "question": "What makes the gothic styling unique?",
+        "answer": "The workflow applies dramatic lighting, deep shadows, mysterious atmospheres, and dark color palettes that authentically represent gothic aesthetic while highlighting your jewelry's details."
+      },
+      {
+        "question": "Is this suitable for e-commerce listings?",
+        "answer": "Absolutely. While the styling is dramatic, the images maintain product clarity and professionalism suitable for online marketplaces and brand websites."
+      },
+      {
+        "question": "How do credits work for photo and video?",
+        "answer": "Image generation and video generation consume credits separately. Video typically uses more credits due to its complexity, but provides high-impact marketing content."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Gothic-Style Jewelry Workflow – AI Dark Aesthetic Photography",
+      "description": "Create stunning gothic-style jewelry photos and videos with AI for dark aesthetic brands."
+    },
+    "softwareApplication": {
+      "name": "Gothic Jewelry AI Workflow",
+      "description": "AI-powered tool for creating dramatic gothic-style jewelry photos and cinematic video content."
+    },
+    "faqPage": {
+      "name": "Gothic-Style Jewelry Workflow – FAQ"
+    }
+  }
+}

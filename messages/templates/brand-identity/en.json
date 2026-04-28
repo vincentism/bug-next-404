@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Brand Identity – Visual Identity Generator | OpenCreator",
+    "description": "Generate cohesive brand identity visuals with AI—from logo applications to color, typography, and key visuals. AI logo generator and AI shop design for brand territory exploration.",
+    "keywords": [
+      "ai logo generator free without watermark",
+      "ai shop design",
+      "brand identity generator",
+      "visual identity concepts",
+      "branding system ai",
+      "product packaging design ai",
+      "label design ai",
+      "ai business description generator",
+      "identity moodboard creator",
+      "create brand identity visuals with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#brand_identity", "#visual_system", "#branding"],
+    "title": "Brand Identity",
+    "description": "Generate full visual identity systems with AI—from logo applications to color, typography, and key visuals. Explore brand territories and document-ready concepts before investing in full design engagements.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your brand mission, audience, and desired visual territory",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Share brand context and positioning",
+        "description": "Provide mission, values, target audience, competitors, and any existing visual constraints."
+      },
+      {
+        "title": "Choose identity direction and tone",
+        "description": "Select minimal, bold, playful, luxury, tech-forward, or heritage-inspired aesthetics."
+      },
+      {
+        "title": "Generate brand identity visual sets",
+        "description": "AI creates logo applications, color systems, type pairings, and example mockups (web, social, print)."
+      },
+      {
+        "title": "Refine and export concept boards",
+        "description": "Save identity routes as boards to present, iterate, and move into production design."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams defining or refreshing brand visuals",
+    "subtitle": "From founders to brand studios, see who tests identity directions with AI.",
+    "audiences": [
+      {
+        "label": "Founders and early-stage teams",
+        "description": "Explore multiple identity looks before committing to a final direction."
+      },
+      {
+        "label": "Brand and design studios",
+        "description": "Prototype brand routes faster and align teams around shortlists."
+      },
+      {
+        "label": "Marketing leaders",
+        "description": "Visualize rebrand scenarios and rollout implications quickly."
+      },
+      {
+        "label": "In-house creative teams",
+        "description": "Generate inspiration and frameworks for future detailed design work."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Brand Identity workflow?",
+        "answer": "An AI workflow for exploring cohesive identity directions—logo applications, color systems, typography, and mockups for brand presentation."
+      },
+      {
+        "question": "Who is it for?",
+        "answer": "Founders, brand studios, and marketing teams who need fast identity exploration and presentation-ready directions."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Describe brand mission, audience, competitors, and visual territory preferences. Add style cues or references when available."
+      },
+      {
+        "question": "What output will I get?",
+        "answer": "Concept boards and visual sets that help you evaluate potential identity directions before detailed design."
+      },
+      {
+        "question": "Can I explore multiple directions?",
+        "answer": "Yes. Generate multiple visual routes and refine shortlisted options iteratively."
+      },
+      {
+        "question": "How are credits calculated?",
+        "answer": "Generations consume credits based on scope and resolution. Iterate within your plan and export selected concepts."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Brand Identity – Visual Identity Generator",
+      "description": "AI-generated visual identity concepts and boards for branding projects."
+    },
+    "softwareApplication": {
+      "name": "Brand Identity Template",
+      "description": "AI workflow that generates visual identity routes and mockups for brands."
+    },
+    "faqPage": { "name": "Brand Identity – FAQ" }
+  }
+}

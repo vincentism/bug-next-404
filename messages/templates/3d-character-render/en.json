@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "3D Character Render – AI 3D Character Visuals | OpenCreator",
+    "description": "Render 3D-style character images with AI for key art, covers, and promotional visuals. Perfect for games, animation, comics, and brands that rely on strong character IP.",
+    "keywords": [
+      "3d character render",
+      "character render generator",
+      "ai character art",
+      "3d style character images",
+      "game character key art",
+      "how to render 3d characters with ai",
+      "ai tool for 3d character key visuals"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#3d_character", "#render", "#concept"],
+    "title": "3D Character Render",
+    "description": "Render 3D-style character images with AI that feel ready for key art, covers, and promotional materials. Perfect for games, animation, comics, and brands that rely on strong character IP.",
+    "inputPlaceholder": "Describe your character or upload a base sketch/model reference",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input character description or reference art",
+        "description": "Provide backstory, design notes, or a rough sketch/model so the workflow understands your character’s core look and personality."
+      },
+      {
+        "title": "Select render style and camera angle",
+        "description": "Choose realistic, painterly, stylized, toon, or cinematic looks, and specify hero, bust, or action poses with the framing you prefer."
+      },
+      {
+        "title": "Generate AI 3D character renders",
+        "description": "Run the workflow to produce polished, lighting-aware character images suitable for posters, covers, thumbnails, and UI elements."
+      },
+      {
+        "title": "Export for marketing, production, or pitch decks",
+        "description": "Download your favorite renders to use in store pages, pitch documents, social campaigns, or as reference for 3D production teams."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For IP owners building character-first worlds",
+    "subtitle": "From indie creators to large studios, see who renders characters with AI.",
+    "audiences": [
+      {
+        "label": "Game studios and solo devs",
+        "description": "Generate store art, capsule images, and promotional visuals for key characters quickly before full production."
+      },
+      {
+        "label": "Animation and comic teams",
+        "description": "Explore visual treatments, lighting setups, and poses before committing to long-form pipelines."
+      },
+      {
+        "label": "Brand and mascot designers",
+        "description": "Render mascots in multiple poses and lighting setups for campaigns, packaging, and digital experiences."
+      },
+      {
+        "label": "Freelance character artists",
+        "description": "Use AI-generated renders as starting points or alternative explorations to discuss options with clients."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the 3D Character Render AI workflow?",
+        "answer": "3D Character Render is an AI workflow for generating 3D-style character images that feel ready for key art, covers, store pages, and promotional materials. It focuses on high-impact visuals, not production meshes or rigs."
+      },
+      {
+        "question": "Can I start from an existing sketch or model screenshot?",
+        "answer": "Yes. You can combine text prompts with rough sketches, grey-box models, or previous renders as references. This helps the workflow stay closer to your existing character design while exploring lighting, mood, and framing."
+      },
+      {
+        "question": "Is this suitable for game, animation, and comic projects?",
+        "answer": "Absolutely. The workflow is designed for teams who need hero shots, thumbnails, and key visuals for characters—common in games, animation, comics, and IP-driven brands."
+      },
+      {
+        "question": "Does this workflow generate fully rigged 3D characters?",
+        "answer": "No. It creates 3D-style images, not rigged or animatable 3D models. Use the outputs as visual targets or reference material for 3D artists and production pipelines."
+      },
+      {
+        "question": "What kind of control do I have over style and camera angles?",
+        "answer": "You can describe render style (realistic, painterly, stylized, toon, cinematic) and camera framing (hero shot, bust, full-body, action pose). While results are AI-driven, clear prompts guide the workflow toward your desired look."
+      },
+      {
+        "question": "How can I use the renders once they are generated?",
+        "answer": "Use them in store pages, pitch decks, social campaigns, internal reviews, and as handoff references for 3D teams. They also work well for testing multiple directions before committing budget to full production."
+      },
+      {
+        "question": "Are there any usage or licensing limits for commercial projects?",
+        "answer": "Commercial usage depends on the latest policies of OpenCreator and integrated AI providers. Before using renders in shipped products, large campaigns, or licensed IP, review the current terms and usage guidelines in the product."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "3D Character Render – AI 3D Character Visuals",
+      "description": "Render 3D-style character visuals with AI for games, animation, comics, and IP-driven brands."
+    },
+    "softwareApplication": {
+      "name": "3D Character Render AI Workflow Template",
+      "description": "AI-powered workflow template for generating 3D-style character key visuals ready for marketing and production references."
+    },
+    "faqPage": {
+      "name": "3D Character Render – FAQ"
+    }
+  }
+}

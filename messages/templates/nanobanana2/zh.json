@@ -1,0 +1,125 @@
+{
+  "seo": {
+    "title": "高级 AI 图像生成器：提示词精细控制 | OpenCreator",
+    "description": "通过提示词精细控制构图、风格和文字渲染，快速生成高质量 AI 图片。",
+    "keywords": [
+      "AI图片生成器",
+      "文字生成图片",
+      "高质量AI出图",
+      "提示词绘图",
+      "AI艺术创作",
+      "写实风AI图片",
+      "图像风格控制",
+      "文字渲染图片生成"
+    ]
+  },
+  "hero": {
+    "featureTag": "新品！",
+    "tags": ["#GOOGLE", "#图像生成", "#NANO_BANANA"],
+    "title": {
+      "line1": "NANO BANANA 2",
+      "line2": "图像生成的全新高度"
+    },
+    "description": "更准确理解提示词，更稳定输出高质量图像。你可以在同一流程中快速试验风格方向，并生成可用于设计、营销和内容创作的成品视觉。",
+    "inputTitle": "输入",
+    "inputPlaceholder": "描述一下你想生成的画面…",
+    "ctaText": "开始创作"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "描述你想要生成的画面",
+        "description": "输入简短的创意描述，包括想要呈现的主体、风格和氛围，作为 Nano Banana 生成图像的基础。"
+      },
+      {
+        "title": "选择风格与画面比例",
+        "description": "根据使用场景选择合适的画幅与构图方向，帮助模型更好地安排最终画面。"
+      },
+      {
+        "title": "生成并多次迭代",
+        "description": "运行工作流生成多张 Nano Banana 图像，然后根据效果微调提示词或参数，继续探索更多可能。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合快速视觉探索与灵感发散",
+    "subtitle": "当你需要轻量、快速的图片生成时，可以优先使用 Nano Banana。",
+    "audiences": [
+      {
+        "label": "设计师与创意总监",
+        "description": "在进入正式制作流程前，用 Nano Banana 快速试探不同视觉方向。"
+      },
+      {
+        "label": "内容与增长团队",
+        "description": "为实验性活动、轻量级 Campaign 和社交内容快速生成符合调性的视觉素材。"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "精准理解指令",
+      "description": "无论是多步骤的复杂要求，还是细腻的风格描述，Nano Banana 2 都能精准把握并完美呈现。"
+    },
+    {
+      "title": "智能可视化",
+      "description": "把抽象的数据和复杂的概念，转化成一目了然的图表、文字和信息图。"
+    },
+    {
+      "title": "深入理解内容",
+      "description": "基于海量准确知识库，对科学、历史等专业领域的内容理解更深入、表达更准确。"
+    },
+    {
+      "title": "多语言无障碍",
+      "description": "支持数十种语言，不仅翻译准确，更懂各国文化语境，让创作真正无国界。"
+    }
+  ],
+  "faq": {
+    "items": [
+      {
+        "question": "NANO BANANA 2 是什么？",
+        "answer": "这是 OpenCreator 里的一个高级 AI 图像生成工具，输入文字描述就能生成高质量图片。基于 Google 的下一代图像模型 Nano Banana 2，理解能力和画质都很强。"
+      },
+      {
+        "question": "谁适合用这个工具？",
+        "answer": "特别适合设计师、营销和创作者——需要快速出概念图、产品配图或情绪板的时候很好用。也可以用来测试对比不同的 AI 图像模型效果。"
+      },
+      {
+        "question": "要怎么写提示词才能生成好图？",
+        "answer": "用简单直白的语言描述你想要的画面就行：说清楚主体、风格和构图。如果想调整，可以多跑几次、改改提示词，或者把结果接到其他工作流继续用。"
+      },
+      {
+        "question": "能控制风格、比例这些参数吗？",
+        "answer": "能。工作流里可以调整提示词细节和生成参数，比如画风、图片尺寸和比例。同一个创意，轻松试出不同视觉效果。"
+      },
+      {
+        "question": "这用的是 Google 的图像模型吗？",
+        "answer": "对，基于 Google 风格的现代图像模型，比如 Nano Banana 2。具体用哪个后端可能会更新，但核心都是高质量、智能理解的图像生成。"
+      },
+      {
+        "question": "需要会写复杂的提示词吗？",
+        "answer": "不需要。普通的描述就能用得很好。不过如果在氛围、光线、构图、画风这些方面描述得更具体，生成的图会更精准。"
+      },
+      {
+        "question": "生成的图能商用吗？",
+        "answer": "要看你的 OpenCreator 套餐和模型的使用政策。如果要用在商业项目或公开发布，记得先看看账户条款和模型的具体规定。"
+      },
+      {
+        "question": "怎么计费的？",
+        "answer": "每次生成会根据模型和参数设置消耗积分。可以在 OpenCreator 里查看余额，通过调整分辨率或生成频率来控制预算。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "NANO BANANA 2 – Nano Banana Pro 图像生成器",
+      "description": "通过 Nano Banana 2 工作流体验下一代 Nano Banana Pro 图像模型，用简单提示词生成高质量图片。"
+    },
+    "softwareApplication": {
+      "name": "NANO BANANA 2 图像生成器",
+      "description": "OpenCreator 中基于 Nano Banana 2 的高级 AI 图像生成工作流，适合高质量、指令理解更强的图像创作。"
+    },
+    "faqPage": {
+      "name": "NANO BANANA 2 - 常见问题"
+    }
+  }
+}

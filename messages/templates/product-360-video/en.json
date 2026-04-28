@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Product 360° Video – AI 360 Product Video Generator | OpenCreator",
+    "description": "Turn your product into a 360-degree video for e-commerce with AI. Generate smooth spin-style product videos—the best product video maker for 360 product photography.",
+    "keywords": [
+      "360 product photography",
+      "product video maker",
+      "ai product photography",
+      "product image generator",
+      "ai product image generation",
+      "professional product photography",
+      "product 360 video",
+      "360 product video generator",
+      "ecommerce product video",
+      "product spin video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#sora2", "#ecommerce", "#360_video"],
+    "title": "Product 360° Video",
+    "description": "Create 360-degree product videos with AI to showcase every angle in motion. Use simple references to generate smooth spin-style videos that make your product feel tangible on screen.",
+    "inputPlaceholder": "Describe your product and the 360° video you want",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide your product visuals and context",
+        "description": "Upload a clear product image or short clip and add a brief about the product, category, and where the video will be used (storefront, PDP, ads, etc.)."
+      },
+      {
+        "title": "Describe the 360° motion and style",
+        "description": "Tell the workflow how you want the product to move and look—for example, \"slow 360 spin on white\" or \"dynamic rotation with soft studio lighting\"."
+      },
+      {
+        "title": "Generate AI-powered 360 product video",
+        "description": "The workflow uses advanced video generation to create a 360-style product video that smoothly showcases multiple sides and details in motion."
+      },
+      {
+        "title": "Review, iterate, and export",
+        "description": "Preview the generated video, adjust prompts if needed, then export a final version ready to embed on product pages or use in paid campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For stores that need motion-based product showcases",
+    "subtitle": "Ideal for e-commerce teams who want richer product experiences without manual video shoots.",
+    "audiences": [
+      {
+        "label": "E-commerce and marketplace sellers",
+        "description": "Upgrade static product pages with 360-style videos so shoppers can better understand shape, finish, and key details before buying."
+      },
+      {
+        "label": "Brand and creative teams",
+        "description": "Create 360 product videos for hero sections, product stories, and launch campaigns without building complex video workflows."
+      },
+      {
+        "label": "Performance marketers",
+        "description": "Test motion-based creatives in paid campaigns to see how 360 product views affect click-through and conversion compared to static images."
+      },
+      {
+        "label": "Small shops and solo founders",
+        "description": "Get premium-feeling 360 product videos without renting studios, turntables, or hiring dedicated video crews."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product 360° Video workflow?",
+        "answer": "Product 360° Video is an AI workflow that generates 360-style product videos for e-commerce. It helps you show your product from multiple angles in motion, using simple inputs instead of full studio shoots."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You typically start with a clear product image or short reference clip, plus a text description of how you want the product to rotate and the overall style of the video."
+      },
+      {
+        "question": "Do I still need a physical 360 turntable setup?",
+        "answer": "No. The workflow is designed to reduce reliance on specialized hardware by using AI to simulate 360-style motion from your inputs."
+      },
+      {
+        "question": "Where can I use the generated 360 product videos?",
+        "answer": "You can embed them on product detail pages, use them in paid social or display campaigns, add them to landing pages, or share them on social to better showcase your product."
+      },
+      {
+        "question": "Will this replace professional video shoots?",
+        "answer": "It is best thought of as a fast, flexible alternative or complement to studio shoots—especially useful when you want to test ideas or update creatives quickly."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Each run consumes credits based on the underlying video generation steps, optimized around the value of getting a reusable 360-style product video without a traditional shoot."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product 360° Video – AI 360 Product Video Generator",
+      "description": "Create 360-degree product videos for e-commerce using OpenCreator's AI video workflows."
+    },
+    "softwareApplication": {
+      "name": "Product 360° Video AI Workflow",
+      "description": "AI-powered workflow for generating 360-style product videos for online stores and marketing campaigns."
+    },
+    "faqPage": {
+      "name": "Product 360° Video – FAQ"
+    }
+  }
+}

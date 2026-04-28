@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Object to Robot Transformation Video with AI VFX | OpenCreator",
+    "description": "Transform everyday objects into cinematic robot reveal videos with AI. Generate robot concept art first, then animate smooth sci-fi transformation shots.",
+    "keywords": [
+      "object to robot transformation",
+      "ai transformation video",
+      "robot animation generator",
+      "image to video transformation",
+      "ai visual effects",
+      "cgi style transformation",
+      "robot morph effect",
+      "sci fi transformation video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#VEO_3_1", "#Banana_Pro"],
+    "title": "Everything Turns Into Robots",
+    "description": "Upload any object photo and turn it into a cinematic robot transformation sequence. This workflow builds a detailed robot concept, then animates a smooth reveal shot you can publish as short-form VFX content.",
+    "inputPlaceholder": "Upload an object photo",
+    "ctaText": "Run for Free!",
+    "outputImageAlt": "AI-generated robot transformation hero image"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload an object image",
+        "description": "Start with a clear photo of your subject (toy, product, gadget, vehicle, etc.). The workflow uses it as the physical anchor for robot reconstruction."
+      },
+      {
+        "title": "Rebuild as a humanoid robot",
+        "description": "Nano Banana Pro edits your image into a detailed Transformers-style robot while preserving your original materials, colors, and structure."
+      },
+      {
+        "title": "Animate the transformation",
+        "description": "Veo 3.1 generates a single continuous shot where parts reconfigure and interlock into a robot with realistic mechanical motion."
+      },
+      {
+        "title": "Export and publish",
+        "description": "Download the final video and use it for social content, promos, or concept visuals."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Made for creators who love bold transformation effects",
+    "subtitle": "Use a reusable workflow instead of re-prompting from scratch every time.",
+    "audiences": [
+      {
+        "label": "Content creators",
+        "description": "Create viral transformation clips for short-form platforms with consistent quality and style."
+      },
+      {
+        "label": "Brand marketers",
+        "description": "Generate attention-grabbing CGI-style effects for product teasers and ads."
+      },
+      {
+        "label": "3D & motion enthusiasts",
+        "description": "Prototype transformation ideas fast before investing in full 3D production."
+      },
+      {
+        "label": "Agencies",
+        "description": "Deliver multiple transformation variants for clients using the same workflow structure."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Everything Turns Into Robots?",
+        "answer": "It’s an AI workflow that turns a single object photo into a cinematic robot transformation: first a robot image, then an animated transformation video."
+      },
+      {
+        "question": "What inputs do I need?",
+        "answer": "A clear object photo with the full subject visible works best. Avoid heavy blur, extreme cropping, or busy reflections."
+      },
+      {
+        "question": "Which models are used?",
+        "answer": "The workflow uses Nano Banana Pro for image editing and Veo 3.1 for image-to-video transformation generation."
+      },
+      {
+        "question": "Can I control the robot style?",
+        "answer": "Yes. You can edit the prompt to change the mechanical density, camera angle, shot length, and overall CGI look while keeping your original object as the anchor."
+      },
+      {
+        "question": "What aspect ratio does it support?",
+        "answer": "The workflow is optimized for vertical 9:16 output for social platforms, but you can adjust aspect ratio in the nodes if needed."
+      },
+      {
+        "question": "Can I use the results commercially?",
+        "answer": "In general, yes—generated outputs can be used for marketing and commercial content. You are responsible for complying with model provider terms and your local regulations."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Everything Turns Into Robots – Transformers-Style AI Video Workflow",
+      "description": "Turn any object photo into a cinematic robot transformation video with AI."
+    },
+    "softwareApplication": {
+      "name": "Robot Transformation Workflow",
+      "description": "AI workflow for generating robot reconstruction images and transformation videos from a single reference photo."
+    },
+    "faqPage": {
+      "name": "Everything Turns Into Robots – FAQ"
+    }
+  }
+}

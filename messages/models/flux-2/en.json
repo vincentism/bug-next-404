@@ -1,0 +1,154 @@
+{
+  "model": {
+    "meta": {
+      "title": "FLUX.2 Image Generator | Multi-Reference & Text Rendering | OpenCreator",
+      "description": "Explore FLUX.2 from Black Forest Labs for multi-reference consistency, reliable typography, and production-ready image editing. Available now on OpenCreator."
+    },
+    "hero": {
+      "modelName": "FLUX.2",
+      "tagline": "Frontier visual intelligence for production workflows",
+      "description": "FLUX.2 from Black Forest Labs delivers high-fidelity generation and editing with strong multi-reference consistency, improved text rendering, and native image editing capabilities for production workflows on OpenCreator.",
+      "badge": "New",
+      "ctaText": "View pricing",
+      "secondaryCtaText": "Explore templates",
+      "capabilities": {
+        "multiRef": "Multi-reference",
+        "typography": "Text rendering",
+        "product": "Product consistency",
+        "editing": "Image editing",
+        "highRes": "High resolution"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Built for brand, product, and design workflows",
+      "items": {
+        "multiRef": {
+          "title": "Multi-reference consistency",
+          "description": "Keep subject, product, and style consistent across variations with multiple references."
+        },
+        "text": {
+          "title": "Reliable text rendering",
+          "description": "Better typography for posters, packaging, UI mockups, and infographics."
+        },
+        "detail": {
+          "title": "Sharper details & realism",
+          "description": "More stable lighting, textures, and photoreal details for production use."
+        },
+        "editing": {
+          "title": "Text + reference editing",
+          "description": "Combine text instructions and references to edit images with fewer manual steps."
+        },
+        "prompt": {
+          "title": "Improved prompt following",
+          "description": "Better adherence to structured prompts and compositional constraints."
+        },
+        "workflow": {
+          "title": "Production-ready workflows",
+          "description": "Designed to reduce iteration cost and increase usable outputs."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Examples",
+      "subtitle": "Representative OpenCreator use cases similar to FLUX.2 workflows",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "brand": {
+          "title": "Brand posters",
+          "description": "Typography + layout",
+          "useCase": "Generate clean, legible posters with consistent style and strong text rendering."
+        },
+        "product": {
+          "title": "Product visuals",
+          "description": "Consistency across variants",
+          "useCase": "Create product shots that stay consistent across styles, angles, and backgrounds."
+        },
+        "typography": {
+          "title": "Design assets",
+          "description": "UI & infographics",
+          "useCase": "Produce design-ready assets with better text legibility and layout control."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specs",
+      "subtitle": "Inputs, outputs, and practical capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input formats",
+          "outputFormat": "Output format",
+          "maxResolution": "Max resolution"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "multiReference": "Multi-reference",
+          "textRendering": "Text rendering",
+          "imageEditing": "Image editing"
+        },
+        "useCases": {
+          "title": "Use cases",
+          "productShots": "Product shots",
+          "brandDesign": "Brand design",
+          "typography": "Typography"
+        }
+      },
+      "values": {
+        "inputFormats": "Text + images (references)",
+        "outputFormat": "PNG/JPG",
+        "maxResolution": "Up to 4MP"
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "Where FLUX.2 fits",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not supported",
+      "features": {
+        "multiReference": "Multi-reference",
+        "textRendering": "Text rendering",
+        "imageEditing": "Image editing",
+        "resolution": "Resolution",
+        "promptFollowing": "Prompt following",
+        "productConsistency": "Product consistency"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "ctaText": "Try FLUX.2 Free",
+      "description": "Frontier image model from Black Forest Labs",
+      "note": "Credits consumed per generation vary by image size and quality settings. Final cost is shown before you run.",
+      "viewFullPricing": "View full pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is FLUX.2 and what are the available tiers?",
+          "answer": "FLUX.2 is the latest image generation model from Black Forest Labs. It's available in three tiers: Pro (maximum quality), Turbo (enhanced speed with crisper text), and Dev (fast prototyping with LoRA support)."
+        },
+        "1": {
+          "question": "What is multi-reference useful for?",
+          "answer": "Multi-reference helps keep characters, products, and style consistent across multiple generations - essential for brand consistency and product photography."
+        },
+        "2": {
+          "question": "How does FLUX.2 handle typography?",
+          "answer": "FLUX.2 features significantly improved text rendering compared to FLUX.1, making it suitable for posters, packaging, UI mockups, and any content requiring legible text."
+        },
+        "3": {
+          "question": "Does FLUX.2 support image editing?",
+          "answer": "Yes, FLUX.2 includes native image editing capabilities with natural language descriptions and hex color control for precise modifications."
+        },
+        "4": {
+          "question": "What resolution does FLUX.2 support?",
+          "answer": "FLUX.2 supports up to 4MP resolution output with multiple aspect ratio options including square, portrait, and landscape formats."
+        }
+      }
+    }
+  }
+}

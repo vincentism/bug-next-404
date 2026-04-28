@@ -1,0 +1,217 @@
+{
+  "model": {
+    "meta": {
+      "title": "Veo 3 AI Video Generator | Native Audio | OpenCreator",
+      "description": "Create stunning videos with native audio using Google's Veo 3. State-of-the-art video generation with realistic physics, sound effects, dialogue, and ambient noise. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Veo 3",
+      "tagline": "Video Meets Audio",
+      "description": "Google's most advanced video generation model with native audio. Veo 3 delivers state-of-the-art quality with realistic physics, sound effects, dialogue, scene extension for longer videos, and reference image guidance for character consistency.",
+      "badge": "Native Audio",
+      "ctaText": "Try Veo 3 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "nativeAudio": "Native Audio",
+        "resolution": "1080p Output",
+        "physics": "Realistic Physics"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Veo 3 the most advanced AI video model",
+      "items": {
+        "audio": {
+          "title": "Native Audio Generation",
+          "description": "Generate sound effects, ambient noise, and even dialogue natively. No need for separate audio tools - Veo 3 creates synchronized audio automatically."
+        },
+        "physics": {
+          "title": "Realistic Physics",
+          "description": "State-of-the-art physics simulation ensures natural movement, realistic interactions, and believable object dynamics in every frame."
+        },
+        "prompt": {
+          "title": "Superior Prompt Adherence",
+          "description": "Improved prompt understanding means more accurate responses to your instructions, capturing exactly what you envision."
+        },
+        "quality": {
+          "title": "Cinematic Quality",
+          "description": "Lifelike quality with immersive soundtracks. Create professional-grade videos that rival traditional production."
+        },
+        "control": {
+          "title": "First & Last Frame Control",
+          "description": "Direct Veo 3 to generate smooth transitions between a starting and ending image, complete with accompanying audio for precise scene control."
+        },
+        "extension": {
+          "title": "Scene Extension",
+          "description": "Create longer videos lasting a minute or more by generating new clips that connect to your previous video with visual continuity."
+        },
+        "consistency": {
+          "title": "Reference Image Guidance",
+          "description": "Guide generation with up to 3 reference images for character, object, or scene consistency across multiple shots and styles."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with Veo 3 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "cinematic": {
+          "title": "Cinematic Storytelling",
+          "description": "Film & Entertainment",
+          "useCase": "Create cinematic scenes with dialogue, sound effects, and ambient audio for short films and storytelling."
+        },
+        "product": {
+          "title": "Product Showcase",
+          "description": "E-commerce Videos",
+          "useCase": "Transform product images into dynamic videos with professional audio and realistic physics."
+        },
+        "social": {
+          "title": "Social Content",
+          "description": "Social Media",
+          "useCase": "Generate scroll-stopping content with synchronized audio for TikTok, Instagram, and YouTube."
+        },
+        "animation": {
+          "title": "Animation & Art",
+          "description": "Creative Projects",
+          "useCase": "Create unique animated content with style matching and artistic visual effects."
+        },
+        "commercial": {
+          "title": "Commercial Ads",
+          "description": "Brand Advertising",
+          "useCase": "Produce professional commercials with voiceover, music, and sound effects."
+        },
+        "documentary": {
+          "title": "Documentary Style",
+          "description": "Educational Content",
+          "useCase": "Create documentary-style videos with narration and ambient soundscapes."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Veo 3 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "nativeAudio": "Native Audio",
+          "cameraControls": "Camera Controls"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "physicsSimulation": "Physics Simulation",
+          "sceneExtension": "Scene Extension",
+          "styleMatching": "Style Matching",
+          "characterConsistency": "Character Consistency"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Veo 3 compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "nativeAudio": "Native Audio",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "physicsSimulation": "Physics Simulation",
+        "cameraControls": "Camera Controls",
+        "sceneExtension": "Scene Extension",
+        "characterConsistency": "Character Consistency"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Veo 3 and who developed it?",
+          "answer": "Veo 3 is a video generation model from Google DeepMind. It can generate high-quality videos and is notable for native audio generation in supported workflows (sound effects, ambience, and dialogue synchronized with the visuals)."
+        },
+        "1": {
+          "question": "What makes Veo 3 different from other video models?",
+          "answer": "Veo 3 stands out for native audio generation, strong prompt adherence, and creative controls like camera movements and scene extension. It is a great fit when you need sound + video in one pass."
+        },
+        "2": {
+          "question": "Can Veo 3 generate dialogue and voiceovers?",
+          "answer": "Yes! Veo 3 can generate dialogue, voiceovers, sound effects, and ambient noise natively. Simply include audio descriptions in your prompt, and Veo 3 will create synchronized audio automatically."
+        },
+        "3": {
+          "question": "What video durations does Veo 3 support?",
+          "answer": "Veo 3 generates videos up to 8 seconds long. You can use the scene extension feature to create longer videos by extending clips while maintaining visual and audio consistency."
+        },
+        "4": {
+          "question": "What creative controls does Veo 3 offer?",
+          "answer": "Veo 3 offers camera controls (zoom, pan, move), first and last frame specification, style matching with reference images, character consistency, scene extension, and outpainting for different aspect ratios."
+        },
+        "5": {
+          "question": "How does Veo 3 compare to Sora 2 and Kling 2.1?",
+          "answer": "Veo 3 leads in native audio generation and realistic physics. Sora 2 can support longer clips depending on mode, and Kling offers strong multi-reference workflows. Veo 3 excels in audio-video synchronization and creative controls."
+        },
+        "6": {
+          "question": "How do I choose between Veo 3 and Wan 2.6?",
+          "answer": "If your priority is native audio generation and cinematic realism, start with Veo 3. If you need multi-shot storytelling and longer clip options, Wan 2.6 can be a better fit. Choose based on your target format and whether you need multiple shots in one run."
+        },
+        "7": {
+          "question": "What aspect ratios and resolutions are supported on OpenCreator?",
+          "answer": "On OpenCreator, Veo 3 supports common aspect ratios (typically 16:9 and 9:16). Resolution options can vary by workflow, but 720p and 1080p are commonly available."
+        },
+        "8": {
+          "question": "How do I prompt for better audio?",
+          "answer": "Explicitly describe the soundscape: environment ambience, key sound effects, and dialogue lines (if needed). Keep audio instructions aligned with the visuals (e.g., footsteps match the walking pace)."
+        },
+        "9": {
+          "question": "Can I control the camera in Veo 3?",
+          "answer": "Yes. Add camera direction in your prompt (e.g., “slow dolly-in”, “handheld tracking shot”, “wide establishing shot”). Start simple, then iterate."
+        },
+        "10": {
+          "question": "Can I extend a video beyond 8 seconds?",
+          "answer": "Veo 3 commonly generates short clips (for example, up to 8 seconds). For longer sequences, you can extend scenes by generating follow-up shots and stitching them in your workflow while keeping style and subject consistent."
+        },
+        "11": {
+          "question": "Does Veo 3 support image-to-video and text-to-video?",
+          "answer": "Yes. Veo 3 supports both image-to-video and text-to-video workflows. Use image input when you need stronger subject/style anchoring; use text-only when you want maximum creative freedom."
+        },
+        "12": {
+          "question": "How much does Veo 3 cost on OpenCreator?",
+          "answer": "Credits are consumed per generation and can vary by output settings. The pricing section on this page shows the most up-to-date credit cost for your plan."
+        }
+      }
+    }
+  }
+}

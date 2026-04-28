@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Product Explosion Effect – High-Impact Visual Creator | OpenCreator",
+    "description": "Create dramatic explosion effects for product marketing with AI. AI commercial generator and product video maker for eye-catching visuals with dynamic explosions and impact effects.",
+    "keywords": [
+      "ai commercial generator",
+      "product video maker",
+      "ai product image generation",
+      "product image generator",
+      "explosion effect generator",
+      "product impact effects",
+      "dramatic visual effects",
+      "cinematic product effects",
+      "create explosion effects with ai",
+      "high impact marketing visuals"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#explosion", "#impact_effects", "#dramatic_visuals"],
+    "title": "Product Explosion Effect",
+    "description": "Create dramatic explosion effects for product marketing with AI. Generate eye-catching visuals with dynamic explosions, particles, and impact effects that make products unforgettable. Perfect for brands that want to create maximum visual impact and stand out with bold, dramatic marketing content.",
+    "inputPlaceholder": "Describe your product and desired explosion effect...",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define product and explosion vision",
+        "description": "Input your product details and specify the type of explosion effect you want, including intensity, colors, and desired dramatic impact."
+      },
+      {
+        "title": "Choose explosion style and effects",
+        "description": "Select from various explosion types including particle bursts, energy explosions, smoke effects, fire impacts, or cinematic destruction."
+      },
+      {
+        "title": "Generate dramatic explosion effects",
+        "description": "Create high-impact product visuals with dynamic explosions, realistic particles, and attention-grabbing visual effects."
+      },
+      {
+        "title": "Export for high-impact marketing",
+        "description": "Download explosion-enhanced product visuals ready for social media, advertising, gaming content, and action-oriented campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for high-impact and action-oriented brands",
+    "subtitle": "From gaming companies to action sports, see who creates explosion effects with AI.",
+    "audiences": [
+      {
+        "label": "Gaming & entertainment brands",
+        "description": "Create dramatic explosion effects that match gaming aesthetics and drive engagement with high-impact visual content."
+      },
+      {
+        "label": "Action sports companies",
+        "description": "Generate explosion effects that convey energy, power, and excitement for extreme sports and athletic products."
+      },
+      {
+        "label": "Tech product launches",
+        "description": "Create dramatic reveal effects and impact visuals for tech products that need to make a strong first impression."
+      },
+      {
+        "label": "Bold marketing campaigns",
+        "description": "Develop eye-catching explosion effects for brands that want to stand out with dramatic, memorable visual content."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product Explosion Effect workflow?",
+        "answer": "Product Explosion Effect is an AI-powered workflow that creates dramatic explosion effects for product marketing. Generate eye-catching visuals with dynamic explosions, particles, and impact effects that make products unforgettable."
+      },
+      {
+        "question": "Who is Product Explosion Effect designed for?",
+        "answer": "Product Explosion Effect is perfect for high-impact marketing: gaming brands, action sports companies, tech products, and brands wanting dramatic visual impact."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You describe your product and the type of explosion effect you want, including intensity, colors, particle types, and the dramatic impact you want to achieve."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates dramatic product visuals with explosion effects, dynamic particles, and high-impact visual elements that grab attention instantly."
+      },
+      {
+        "question": "Can I create different explosion styles?",
+        "answer": "Yes. Generate various explosion effects including particle bursts, energy explosions, smoke effects, fire impacts, and cinematic destruction effects."
+      },
+      {
+        "question": "How do credits and pricing work for Product Explosion Effect?",
+        "answer": "Each explosion effect generation consumes credits based on the complexity and intensity of the visual effects. The cost is optimized compared to professional VFX production."
+      },
+      {
+        "question": "Is this suitable for action-oriented campaigns?",
+        "answer": "Absolutely. Create high-impact explosion effects perfect for action sports, gaming, tech launches, and campaigns that need dramatic visual punch."
+      },
+      {
+        "question": "Can I use this for social media content?",
+        "answer": "Yes. Generate explosion effects optimized for social media platforms where dramatic, eye-catching content drives engagement and shares."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Explosion Effect – High-Impact Visual Creator",
+      "description": "Create dramatic explosion effects for product marketing with AI to generate eye-catching visual impact."
+    },
+    "softwareApplication": {
+      "name": "Product Explosion Effect AI Creator",
+      "description": "AI-powered explosion effect generator for creating dramatic product visuals and high-impact marketing content."
+    },
+    "faqPage": {
+      "name": "Product Explosion Effect – FAQ"
+    }
+  }
+}

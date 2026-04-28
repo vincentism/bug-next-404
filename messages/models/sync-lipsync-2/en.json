@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Sync Lipsync 2.0 AI | Zero-Shot Lip Sync | OpenCreator",
+      "description": "Create natural lip sync videos with Sync Labs' Lipsync 2.0. Zero-shot model preserving speaker style across languages. Works with live-action, animation, and AI-generated content. Try on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Sync Lipsync 2.0",
+      "tagline": "Zero-Shot Natural Lip Sync",
+      "description": "Sync Lipsync 2.0 is a zero-shot model for generating realistic lip movements that match spoken audio. It preserves speaker style across languages and works with live-action, animation, and AI-generated characters.",
+      "badge": "Pro",
+      "ctaText": "Try Sync Lipsync 2.0",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "zeroShot": "Zero-Shot",
+        "stylePreserve": "Style Preservation",
+        "crossDomain": "Cross-Domain",
+        "multiLanguage": "Multi-Language",
+        "highQuality": "High Quality"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Sync Lipsync 2.0 the world's most natural lip sync model",
+      "items": {
+        "zeroShot": {
+          "title": "Zero-Shot Generation",
+          "description": "No training or fine-tuning needed. Just drop in your video and audio—Lipsync 2.0 handles the rest instantly."
+        },
+        "stylePreserve": {
+          "title": "Style Preservation",
+          "description": "The model picks up on how someone speaks by watching them. Even when translating across languages, it keeps their signature delivery."
+        },
+        "crossDomain": {
+          "title": "Cross-Domain Support",
+          "description": "Works with live-action humans, animated characters, and AI-generated faces with flawless results."
+        },
+        "temperature": {
+          "title": "Temperature Control",
+          "description": "Fine-tune how expressive the lipsync is. Make it subtle or dial it up depending on the scene."
+        },
+        "activeSpeaker": {
+          "title": "Active Speaker Detection",
+          "description": "Automatically detects who's speaking in multi-person videos and applies lipsync only when that person is talking."
+        },
+        "editForever": {
+          "title": "Record Once, Edit Forever",
+          "description": "Change dialogue after the fact while keeping the original speaker's delivery intact. No need for multiple takes."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with Sync Lipsync 2.0 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "dubbing": {
+          "title": "Video Dubbing",
+          "description": "Localization",
+          "useCase": "Dub any video with AI while maintaining natural lip movements across languages."
+        },
+        "postEdit": {
+          "title": "Post-Production Editing",
+          "description": "Dialogue Editing",
+          "useCase": "Change dialogue in post-production without re-recording. Edit words while preserving delivery."
+        },
+        "animation": {
+          "title": "Animation Lip Sync",
+          "description": "3D & 2D Characters",
+          "useCase": "Add realistic lip sync to stylized 3D characters and 2D animations."
+        },
+        "aiAvatar": {
+          "title": "AI Avatar Videos",
+          "description": "Digital Humans",
+          "useCase": "Create hyperreal AI avatar videos with natural speech synchronization."
+        },
+        "multiPerson": {
+          "title": "Multi-Person Videos",
+          "description": "Active Speaker",
+          "useCase": "Handle multi-person videos with automatic speaker detection and targeted lip sync."
+        },
+        "translation": {
+          "title": "Cross-Language Content",
+          "description": "Global Reach",
+          "useCase": "Translate content across languages while preserving the speaker's unique style."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Sync Lipsync 2.0 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "videoFormats": "Video Formats",
+          "audioFormats": "Audio Formats",
+          "outputFormat": "Output Format",
+          "maxDuration": "Max Duration"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "zeroShot": "Zero-Shot",
+          "stylePreservation": "Style Preservation",
+          "activeSpeaker": "Active Speaker Detection",
+          "crossDomain": "Cross-Domain"
+        },
+        "controls": {
+          "title": "Controls",
+          "temperature": "Temperature Control",
+          "expressiveness": "Expressiveness",
+          "languageSupport": "Language Support",
+          "characterTypes": "Character Types"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Sync Lipsync 2.0 compares to other lip sync models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "zeroShot": "Zero-Shot",
+        "stylePreserve": "Style Preservation",
+        "crossDomain": "Cross-Domain",
+        "activeSpeaker": "Active Speaker",
+        "temperature": "Temperature Control",
+        "quality": "Quality"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits based on video duration. Subscribe to save more.",
+      "viewFullPricing": "View full pricing →",
+      "description": "World's most natural lip sync",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Sync Lipsync 2.0?",
+          "answer": "Sync Lipsync 2.0 is a zero-shot model from Sync Labs for generating realistic lip movements that match spoken audio. It works out of the box without training and preserves a speaker's unique style across different languages and video types."
+        },
+        "1": {
+          "question": "What makes Sync Lipsync 2.0 different from other lip sync models?",
+          "answer": "Sync Lipsync 2.0 offers zero-shot generation (no training needed), style preservation across languages, cross-domain support (live-action, animation, AI), temperature control for expressiveness, and active speaker detection for multi-person videos."
+        },
+        "2": {
+          "question": "What types of videos can I use with Sync Lipsync 2.0?",
+          "answer": "Sync Lipsync 2.0 works with live-action footage, animated characters (2D and 3D), and AI-generated faces. It's suitable for dubbing, post-production editing, avatar videos, and cross-language content."
+        },
+        "3": {
+          "question": "Does Sync Lipsync 2.0 preserve the speaker's style?",
+          "answer": "Yes! The model picks up on how someone speaks by watching them. Even when translating across languages, it keeps their signature delivery intact."
+        },
+        "4": {
+          "question": "Can I control how expressive the lip sync is?",
+          "answer": "Yes, Sync Lipsync 2.0 includes temperature control that lets you fine-tune expressiveness. Make it subtle for professional content or dial it up for more animated scenes."
+        },
+        "5": {
+          "question": "How much does Sync Lipsync 2.0 cost?",
+          "answer": "Sync Lipsync 2.0 costs 60 credits per generation on OpenCreator. It's available on Canvas, Flow, and via API. Subscribers get additional discounts."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Image Upscale – AI Image Upscaler | OpenCreator",
+    "description": "Upscale images with AI. Enhance resolution and quality for product photo editing and ecommerce photo editing services. Perfect for print, web, and high-resolution displays.",
+    "keywords": [
+      "product photo editing",
+      "ecommerce photo editing services",
+      "product photo retouching services",
+      "ai image upscaler",
+      "upscale image",
+      "enhance image quality",
+      "increase image resolution",
+      "ai image enhancement",
+      "shopify image resize",
+      "etsy photo size"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#image_upscale", "#quality_enhancement", "#resolution"],
+    "title": "Image Upscale",
+    "description": "AI-powered image upscaling. Increase resolution and enhance quality while preserving details. Perfect for print, presentations, and high-res displays.",
+    "inputPlaceholder": "Upload image to upscale",
+    "ctaText": "Upscale Now"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your image",
+        "description": "Start with any image you want to enlarge or enhance—photos, graphics, or illustrations."
+      },
+      {
+        "title": "Choose upscale factor",
+        "description": "Select how much you want to increase the resolution—2x, 4x, or custom settings."
+      },
+      {
+        "title": "AI enhances quality",
+        "description": "Advanced AI models intelligently add detail and preserve sharpness while upscaling."
+      },
+      {
+        "title": "Download high-res result",
+        "description": "Get your upscaled image ready for print, web, or any high-resolution use case."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For anyone needing higher resolution images",
+    "subtitle": "From designers to marketers, see who uses AI image upscaling.",
+    "audiences": [
+      {
+        "label": "Designers & creatives",
+        "description": "Prepare low-res assets for print or high-resolution displays without quality loss."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Enhance campaign visuals and social media images for better quality output."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Improve product photo quality for listings and marketing materials."
+      },
+      {
+        "label": "Content creators",
+        "description": "Upscale thumbnails, graphics, and visuals for professional presentations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is AI Image Upscale?",
+        "answer": "An AI workflow that increases image resolution and enhances quality while intelligently preserving details. Unlike basic resizing, AI upscaling adds realistic detail."
+      },
+      {
+        "question": "What images work best for upscaling?",
+        "answer": "Photos, illustrations, graphics, and artwork all work well. Best results come from images that aren't extremely blurry or heavily compressed to begin with."
+      },
+      {
+        "question": "How much can I upscale an image?",
+        "answer": "Typically 2x to 4x the original resolution. The exact limit depends on the source image quality and the model used."
+      },
+      {
+        "question": "Will upscaling fix blurry images?",
+        "answer": "AI upscaling can enhance clarity and add detail, but it works best on images that have some inherent quality. Extremely blurry or damaged images may have limited improvement."
+      },
+      {
+        "question": "Can I use upscaled images for print?",
+        "answer": "Yes. AI upscaling is commonly used to prepare digital images for print materials, posters, and large-format displays where higher resolution is needed."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Credits are consumed based on the upscale factor and output resolution. Higher upscale factors and larger outputs use more credits."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Image Upscale - AI Image Upscaler",
+      "description": "AI-powered image upscaling to increase resolution and enhance quality."
+    },
+    "softwareApplication": {
+      "name": "Image Upscale Workflow",
+      "description": "AI workflow that upscales images while preserving detail and quality."
+    },
+    "faqPage": { "name": "Image Upscale - FAQ" }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.6 Pro AI 视频生成器 | 快手 | OpenCreator",
+      "description": "使用快手的 Kling 2.6 Pro 创建精彩视频。同步音视频生成，包含语音、音效和环境音。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Kling 2.6 Pro",
+      "tagline": "同步音视频生成",
+      "description": "Kling 2.6 Pro 是快手最新的视频模型，具备同步音视频生成能力。一次生成即可获得包含语音、音效和环境音的完整视频，彻底革新 AI 视频创作流程。",
+      "badge": "新品",
+      "ctaText": "免费试用 Kling 2.6 Pro",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "duration": "最长10秒",
+        "audioVisual": "音视频同步",
+        "lipSync": "口型同步"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Kling 2.6 Pro 成为快手最先进视频模型的原因",
+      "items": {
+        "audioVisual": {
+          "title": "同步音视频生成",
+          "description": "一次生成即可获得视觉效果、自然配音、音效和环境氛围 - 无需单独的配音流程。"
+        },
+        "voiceGeneration": {
+          "title": "世界领先的语音生成",
+          "description": "卓越的中英文语音生成能力，语音节奏、环境音和视觉动作之间紧密协调。"
+        },
+        "audioQuality": {
+          "title": "专业级音频质量",
+          "description": "生成更清晰、层次丰富的音频，接近真实的音频混音效果，满足专业级制作标准。"
+        },
+        "semanticUnderstanding": {
+          "title": "强大的语义理解",
+          "description": "准确捕捉创作者意图，理解文本描述、口语表达和各种场景中的复杂故事线。"
+        },
+        "multiAudio": {
+          "title": "多样化音频类型",
+          "description": "支持语音、对话、旁白、唱歌、说唱、环境音效和混合音效等多种音频类型。"
+        },
+        "lipSync": {
+          "title": "精准口型同步",
+          "description": "深度对齐确保视觉动态与音频节奏匹配，消除音视频不同步的体验。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Kling 2.6 Pro 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "advertising": {
+          "title": "短视频广告",
+          "description": "广告与营销",
+          "useCase": "一键生成带有旁白、角色对话和产品展示的短广告，配有完整音效。"
+        },
+        "social": {
+          "title": "社交媒体内容",
+          "description": "TikTok 和 Reels",
+          "useCase": "创建带有多角色对话、采访、剧本表演和喜剧小品的吸引人社交内容。"
+        },
+        "ecommerce": {
+          "title": "电商视频",
+          "description": "产品展示",
+          "useCase": "自动创建突出产品卖点的展示视频，配有旁白和独白。"
+        },
+        "music": {
+          "title": "音乐表演",
+          "description": "唱歌和说唱",
+          "useCase": "生成带有唱歌、说唱和乐器表演的音乐视频，配有准确的口型同步。"
+        },
+        "dialogue": {
+          "title": "角色对话",
+          "description": "多角色",
+          "useCase": "创建具有自然多角色对话、采访和剧本表演的视频。"
+        },
+        "narration": {
+          "title": "旁白内容",
+          "description": "配音视频",
+          "useCase": "生成带有专业旁白和环境音效的叙事视频。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Kling 2.6 Pro 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "audioGeneration": "音频生成",
+          "lipSync": "口型同步"
+        },
+        "audioFeatures": {
+          "title": "音频功能",
+          "speech": "语音生成",
+          "soundEffects": "音效",
+          "ambientSound": "环境音",
+          "musicPerformance": "音乐表演"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Kling 2.6 Pro 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "maxDuration": "最大时长",
+        "audioGeneration": "音频生成",
+        "lipSync": "口型同步",
+        "soundEffects": "音效"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按使用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "积分根据时长而异。订阅可享更多优惠。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "快手最新音视频模型",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Kling 2.6 Pro？由谁开发？",
+          "answer": "Kling 2.6 Pro 是快手于 2025 年 12 月发布的最新 AI 视频模型。它具备同步音视频生成能力，一次生成即可获得包含语音、音效和环境音的完整视频。"
+        },
+        "1": {
+          "question": "我可以用 Kling 2.6 Pro 创建什么类型的内容？",
+          "answer": "Kling 2.6 Pro 擅长创建广告视频、社交媒体内容、电商展示、音乐表演、角色对话和旁白内容。它支持文生视频和图生视频两种生成方式。"
+        },
+        "2": {
+          "question": "Kling 2.6 Pro 视频可以有多长？",
+          "answer": "Kling 2.6 Pro 可生成最长 10 秒的视频，包含完整的音视频内容，包括语音、音效和环境音。"
+        },
+        "3": {
+          "question": "Kling 2.6 Pro 支持哪些音频类型？",
+          "answer": "Kling 2.6 Pro 支持语音、对话、旁白、唱歌、说唱、环境音效和混合音效。目前支持中文和英文语音生成。"
+        },
+        "4": {
+          "question": "Kling 2.6 Pro 的音频质量如何？",
+          "answer": "Kling 2.6 Pro 生成更清晰、层次丰富的音频，接近真实的音频混音效果。音视频协调确保语音节奏、环境音和视觉动作之间紧密同步。"
+        },
+        "5": {
+          "question": "Kling 2.6 Pro 与其他 AI 视频模型相比如何？",
+          "answer": "Kling 2.6 Pro 以其同步音视频生成能力而脱颖而出，无需单独的配音流程。虽然 Veo 3 也提供音频生成，但 Kling 2.6 Pro 在中文语音生成和音视频协调方面表现出色。"
+        }
+      }
+    }
+  }
+}

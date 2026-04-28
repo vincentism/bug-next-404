@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Editorial Photography – 时尚大片风活动视觉生成 | OpenCreator",
+    "description": "为时尚、美妆与生活方式品牌生成具有杂志感的大片视觉。AI 产出具有艺术指导的场景、强烈构图与成系列图组。",
+    "keywords": [
+      "编辑类摄影生成",
+      "时尚活动视觉",
+      "服装产品摄影",
+      "AI时尚模特生成",
+      "编辑风视觉生成",
+      "服装品牌摄影",
+      "AI产品图片生成",
+      "商业产品摄影"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#时尚大片", "#时尚", "#营销活动"],
+    "title": "时尚大片",
+    "description": "用 AI 为时尚、美妆与生活方式品牌生成编辑类大片视觉。无需租棚与复杂灯光，也能得到具有艺术指导与强烈风格的成系列图组。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "描述品牌、造型与想讲述的编辑类故事",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "确定编辑类概念与主题",
+        "description": "提供参考、季节灵感与核心叙事（极简奢华、先锋、青年文化等）。"
+      },
+      {
+        "title": "指定造型、模特与环境",
+        "description": "说明模特多样性、服装、妆发与场景（影棚、街头或室内）。"
+      },
+      {
+        "title": "生成成系列编辑类视觉",
+        "description": "AI 输出在艺术指导、用光与氛围上高度一致的图组。"
+      },
+      {
+        "title": "挑选主视觉并导出用于活动",
+        "description": "用于型录、社媒、广告与提案。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "面向以“故事”而非仅 SKU 创作的团队",
+    "subtitle": "从时装屋到独立品牌，都可用 AI 生成编辑类视觉。",
+    "audiences": [
+      {
+        "label": "时尚与美妆品牌",
+        "description": "在有限预算下也能打造杂志级活动视觉。"
+      },
+      {
+        "label": "创意与艺术总监",
+        "description": "在正式制作前快速探索多条方向。"
+      },
+      {
+        "label": "代理商与工作室",
+        "description": "以视觉方式原型化活动风格与情绪板，辅助客户决策。"
+      },
+      {
+        "label": "造型师与摄影师",
+        "description": "提前测试构图、姿态与造型思路。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Editorial Photography 工作流？",
+        "answer": "面向时尚活动的编辑类大片视觉生成工作流，强调连贯的艺术指导与时尚表达。"
+      },
+      {
+        "question": "适合哪些人？",
+        "answer": "时尚/美妆品牌、创意/艺术总监、代理商与摄影从业者，在短时间内获得杂志感视觉。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "描述概念、造型、模特与环境，若有参考或情绪板更佳。"
+      },
+      {
+        "question": "输出包含什么？",
+        "answer": "可用于型录、社媒与广告的编辑类图组，便于活动落地。"
+      },
+      {
+        "question": "能否探索不同叙事？",
+        "answer": "可以。可并行生成极简、先锋或青年文化等多条路线对比。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "按生成范围与分辨率消耗积分，你可在套餐内迭代并导出主视觉。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Editorial Photography – 时尚大片风活动视觉生成",
+      "description": "为时尚与美妆活动生成编辑类视觉图组。"
+    },
+    "softwareApplication": {
+      "name": "Editorial Photography 模板",
+      "description": "用于生成杂志风活动视觉的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Editorial Photography – 常见问题"
+    }
+  }
+}

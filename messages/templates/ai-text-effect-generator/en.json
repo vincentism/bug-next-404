@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Typography Generator – AI Text Effect Generator | OpenCreator",
+    "description": "Generate stylized typography and artistic text effects with AI for branding, posters, and social campaigns.",
+    "keywords": [
+      "ai text effect generator",
+      "typography generator",
+      "logo text design",
+      "artistic text maker",
+      "3d text effect generator",
+      "brand typography design",
+      "text to logo art",
+      "poster typography ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#design", "#visual_art"],
+    "title": "Typography Generator",
+    "description": "Elevate your brand identity with our AI-powered workflow template. Simply input your brand name, and let our advanced AI generate beautifully designed artistic text in a variety of styles.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "What's the content?",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Enter the words you want to style",
+        "description": "Type in your brand name, headline, or key phrase that you want to turn into a striking visual element."
+      },
+      {
+        "title": "Describe the style and mood",
+        "description": "Add guidance like \"chrome 3D title\", \"retro neon script\", or \"minimalist editorial typography\" so the AI knows your direction."
+      },
+      {
+        "title": "Generate AI typography concepts",
+        "description": "Run the Typography Generator workflow to create multiple styled text images tuned for logos, posters, or hero sections."
+      },
+      {
+        "title": "Pick winners and refine as needed",
+        "description": "Choose the most promising text effects, iterate on the prompts, and reuse the workflow whenever you need new brand visuals."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for bold brand visuals",
+    "subtitle": "From indie brands to motion studios, see who uses AI text effects to stand out.",
+    "audiences": [
+      {
+        "label": "Brand & graphic designers",
+        "description": "Explore fresh typography directions for logos, posters, and campaigns without starting from a blank canvas every time."
+      },
+      {
+        "label": "Marketing teams & founders",
+        "description": "Quickly test different headline looks and hero text treatments for landing pages, ads, and social creatives."
+      },
+      {
+        "label": "Content creators & streamers",
+        "description": "Generate eye-catching text treatments for thumbnails, overlays, and channel branding that match your vibe."
+      },
+      {
+        "label": "Studios & agencies",
+        "description": "Use AI-generated typography as concept boards for pitches and client reviews before committing to final design work."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Typography Generator template?",
+        "answer": "Typography Generator is an AI text effect workflow that creates stylized artistic text for logos, titles, and branding. It's an AI typography and text-effect generator inside OpenCreator."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You enter the text you want to stylize (e.g., brand name, slogan) and provide style notes like \"neon cyberpunk,\" \"retro script,\" or \"minimalist logo text design.\""
+      },
+      {
+        "question": "Can I use the generated typography as a logo?",
+        "answer": "You can use it as a logo concept or even as a final logo, depending on your standards and legal needs. For long-term brand identities, many users treat AI outputs as starting points for further refinement."
+      },
+      {
+        "question": "Does the template support different aspect ratios and layouts?",
+        "answer": "Yes. You can request horizontal, vertical, or square layouts in your prompts. This helps you create text designs optimized for social posts, banners, or profile images."
+      },
+      {
+        "question": "Can I create multiple styles for the same brand name?",
+        "answer": "Definitely. You can run several generations with different style prompts to explore a range of typography options before choosing your favorite direction."
+      },
+      {
+        "question": "Do I need design skills to use the Typography Generator?",
+        "answer": "No professional design background is required. The workflow is beginner-friendly, but having a sense of your brand's tone and audience will help you write better prompts."
+      },
+      {
+        "question": "How are credits used for AI text effect generation?",
+        "answer": "Each typography generation consumes credits based on the image model and settings. Since these are typically single images, this template is efficient for exploring many design options."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Typography Generator – AI Text Effect Generator",
+      "description": "Generate stylized artistic text for your brand using AI."
+    },
+    "softwareApplication": {
+      "name": "Typography Generator AI Workflow",
+      "description": "AI workflow that creates stylized text effects for logos, titles, and branding."
+    },
+    "faqPage": {
+      "name": "Typography Generator – FAQ"
+    }
+  }
+}

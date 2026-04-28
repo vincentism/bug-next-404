@@ -1,0 +1,214 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.1 AI Video Generator | Image to Video | OpenCreator",
+      "description": "Transform static images into stunning videos with Kling 2.1 AI. Professional-quality motion synthesis with natural physics simulation, dynamic facial expressions, and flexible duration options. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Kling 2.1",
+      "tagline": "Professional AI Video Generation",
+      "description": "Transform static images into fluid, natural-looking videos with Kling AI v2.1. Developed by Kuaishou, this powerful image-to-video model delivers professional-quality motion synthesis with realistic physics simulation and dynamic facial expressions.",
+      "badge": "Most Popular",
+      "ctaText": "Try Kling 2.1 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "duration": "5-10s Duration",
+        "resolution": "1080p Output",
+        "physics": "Physics Simulation",
+        "multiRef": "Multi-Reference"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Kling 2.1 a powerful choice for AI video generation",
+      "items": {
+        "motion": {
+          "title": "Natural Motion Synthesis",
+          "description": "Advanced 3D spatiotemporal attention mechanism accurately models complex movements, ensuring videos adhere to real-world physics."
+        },
+        "facial": {
+          "title": "Dynamic Facial Expressions",
+          "description": "Excels in generating life-like facial expressions and accurate movements, making characters more engaging and realistic."
+        },
+        "multiRef": {
+          "title": "Multi-Reference Support",
+          "description": "Support for up to 4 input images for multi-image generation, enabling consistent character and scene creation."
+        },
+        "duration": {
+          "title": "Flexible Duration",
+          "description": "Choose between 5 or 10 second video outputs to match your content needs, from quick social clips to longer narratives."
+        },
+        "effects": {
+          "title": "Special Effects",
+          "description": "Built-in special effects including hug, kiss, heart gesture, squish, and expansion for creative storytelling."
+        },
+        "quality": {
+          "title": "Quality Preservation",
+          "description": "Maintains fine details and textures from source images while adding natural, fluid motion to bring them to life."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with Kling 2.1 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "outfit": {
+          "title": "360° Outfit Display",
+          "description": "E-commerce Product Videos",
+          "useCase": "Transform static product photos into engaging video content. Perfect for fashion and lifestyle products."
+        },
+        "streetwear": {
+          "title": "Streetwear UGC Promo",
+          "description": "Social Media Content",
+          "useCase": "Create scroll-stopping UGC-style videos for Instagram, TikTok, and other platforms."
+        },
+        "character": {
+          "title": "Consistent Character Ads",
+          "description": "Brand Advertising",
+          "useCase": "Produce consistent character ads and brand storytelling videos across campaigns."
+        },
+        "sportswear": {
+          "title": "Sportswear On-Model Ad",
+          "description": "Athletic Wear Showcase",
+          "useCase": "Dynamic poses and movements for sportswear and activewear products."
+        },
+        "lipsync": {
+          "title": "UGC Promo with Lipsync",
+          "description": "Lip-synced Promotions",
+          "useCase": "Add voice-over and lip-sync to create authentic promotional content."
+        },
+        "accessories": {
+          "title": "Accessories Model Display",
+          "description": "Jewelry & Accessories",
+          "useCase": "E-commerce jewelry and accessories showcase with elegant model presentation."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Kling 2.1 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "multiReference": "Multi-Reference (up to 4)",
+          "motionBrush": "Motion Brush"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "physicsSimulation": "Physics Simulation",
+          "facialExpressions": "Facial Expressions",
+          "specialEffects": "Special Effects",
+          "cameraModes": "Camera Modes"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Kling 2.1 compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "multiReference": "Multi-Reference Support",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "physicsSimulation": "Physics Simulation",
+        "facialExpressions": "Facial Expressions",
+        "audioGeneration": "Audio Generation",
+        "lipSync": "Lip Sync"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "description": "Professional mode, motion dynamics",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Kling 2.1 and who developed it?",
+          "answer": "Kling 2.1 is an advanced AI-powered video generation model developed by Kuaishou. It transforms reference images and text prompts into high-definition, cinematic videos using sophisticated 3D spatiotemporal attention mechanisms and diffusion transformer architectures."
+        },
+        "1": {
+          "question": "What types of content can I create with Kling 2.1?",
+          "answer": "Kling 2.1 excels at creating e-commerce product videos, social media content, brand advertising, fashion showcases, UGC-style promotions, and entertainment content. It supports diverse content types including people, animals, objects, and scenes."
+        },
+        "2": {
+          "question": "How long can Kling 2.1 videos be?",
+          "answer": "Kling 2.1 supports two duration options: 5 seconds and 10 seconds. This flexibility allows you to create quick social clips or longer narrative sequences depending on your needs."
+        },
+        "3": {
+          "question": "What image formats does Kling 2.1 support?",
+          "answer": "Kling 2.1 accepts JPG, JPEG, PNG, WEBP, GIF, and AVIF image formats as input. The output is always in MP4 format with up to 1080p HD resolution."
+        },
+        "4": {
+          "question": "Can I use multiple reference images?",
+          "answer": "Yes! Kling 2.1 supports multi-image generation with up to 4 input images. This feature enables consistent character and scene creation across your video content."
+        },
+        "5": {
+          "question": "How does Kling 2.1 compare to other AI video models?",
+          "answer": "Kling 2.1 stands out for its realistic physics simulation, dynamic facial expressions, and multi-reference support. While models like Veo 3 offer better audio generation and Sora 2 supports longer durations, Kling 2.1 excels in image-to-video quality and affordability."
+        },
+        "6": {
+          "question": "What is the maximum video length for Kling 2.1?",
+          "answer": "Kling 2.1 supports maximum video lengths of 5 seconds or 10 seconds at 1080p HD resolution. Choose 5s for quick social clips or 10s for longer narrative sequences."
+        },
+        "7": {
+          "question": "What is Kling AI 2.1 maximum video duration?",
+          "answer": "The maximum video duration for Kling AI 2.1 is 10 seconds. You can select either 5-second or 10-second duration options when generating videos on OpenCreator."
+        },
+        "8": {
+          "question": "Can I try Kling 2.1 for free on OpenCreator?",
+          "answer": "Yes! New users receive free credits upon registration, which can be used to try Kling 2.1. This lets you test the physics simulation and facial expression capabilities before subscribing."
+        },
+        "9": {
+          "question": "What are Kling AI 2.1 key features?",
+          "answer": "Key features include: natural motion synthesis with 3D spatiotemporal attention, dynamic facial expressions, multi-reference support (up to 4 images), special effects (hug, kiss, heart gesture), physics simulation, and 1080p HD output."
+        },
+        "10": {
+          "question": "How does Kling 2.1 compare to Kling 2.5 Turbo?",
+          "answer": "Kling 2.5 Turbo offers enhanced prompt adherence, superior motion quality, and 30% lower cost than 2.1. However, Kling 2.1 remains popular for its proven reliability and special effects features. Choose 2.5 for action scenes; 2.1 for consistent quality."
+        },
+        "11": {
+          "question": "Does Kling 2.1 support text-to-video?",
+          "answer": "Yes, Kling 2.1 supports both image-to-video and text-to-video generation. You can create videos from text prompts alone or combine text with reference images for more control."
+        },
+        "12": {
+          "question": "What special effects does Kling 2.1 offer?",
+          "answer": "Kling 2.1 includes built-in special effects: hug, kiss, heart gesture, squish, and expansion. These effects add creative storytelling options without additional editing."
+        }
+      }
+    }
+  }
+}

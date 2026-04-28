@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Amazon Product Photo Set – Professional Listing Images | OpenCreator",
+    "description": "Create professional Amazon product photo sets that boost conversions and meet marketplace standards. Generate lifestyle shots, infographics, and comparison images with AI—the best AI product photo generator for FBA sellers.",
+    "keywords": [
+      "amazon product photo generator",
+      "amazon listing images",
+      "fba product images",
+      "amazon product photo requirements",
+      "ai product photography",
+      "ecommerce product photo editing",
+      "product image generator",
+      "amazon infographic maker",
+      "amazon a plus content images",
+      "lifestyle product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#amazon", "#ecommerce", "#product_photography"],
+    "title": "Amazon Product Photo Set",
+    "description": "Create professional Amazon product photo sets that boost conversions and meet marketplace standards. Generate lifestyle shots, infographics, and comparison images with AI—no photography studio needed. Perfect for Amazon sellers who want to maximize their listing performance and stand out from competitors.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your basic product image",
+        "description": "Provide a simple product photo—even one with basic lighting or plain background. Our AI will transform it into a complete Amazon listing photo set that meets all requirements."
+      },
+      {
+        "title": "Select photo set requirements",
+        "description": "Choose which types of images you need: lifestyle shots, infographics, size comparison charts, feature highlights, or usage scenarios based on your product and target audience."
+      },
+      {
+        "title": "Generate professional Amazon photos",
+        "description": "Create a complete set of marketplace-optimized product images that meet Amazon's guidelines and best practices for maximum impact and conversion optimization."
+      },
+      {
+        "title": "Download and upload to your listings",
+        "description": "Export high-resolution images ready for immediate upload to your Amazon product pages. Start converting more visitors with professional, trustworthy listing photography."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for Amazon sellers and e-commerce brands",
+    "subtitle": "From FBA sellers to brand owners, see who creates Amazon photos with AI.",
+    "audiences": [
+      {
+        "label": "Amazon FBA sellers",
+        "description": "Create professional product listings that stand out and convert without expensive photography or design services, maximizing your FBA investment returns."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Maintain consistent, high-quality product imagery across your entire Amazon catalog for brand recognition and customer trust on the marketplace."
+      },
+      {
+        "label": "Dropshippers & resellers",
+        "description": "Transform supplier photos into compelling Amazon listing images that drive sales and reduce returns, creating competitive advantages in crowded markets."
+      },
+      {
+        "label": "Private label entrepreneurs",
+        "description": "Build professional brand presence on Amazon with studio-quality product photography that justifies premium pricing and builds customer loyalty."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Amazon Product Photo Set workflow?",
+        "answer": "Amazon Product Photo Set is an AI-powered workflow that creates professional Amazon product photo sets optimized for marketplace standards. Generate lifestyle shots, infographics, and comparison images without a photography studio."
+      },
+      {
+        "question": "Who is Amazon Product Photo Set designed for?",
+        "answer": "Amazon Product Photo Set is essential for Amazon sellers and e-commerce brands: Amazon FBA sellers, e-commerce brands, dropshippers, resellers, and private label entrepreneurs who need professional listing images."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You upload your basic product image—even a simple product photo. The AI transforms it into a complete Amazon listing photo set that meets all marketplace requirements and best practices."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates a complete set of marketplace-optimized product images including lifestyle shots, infographics, size comparisons, feature highlights, and usage scenarios that meet Amazon's guidelines."
+      },
+      {
+        "question": "Can I create photos for different product categories?",
+        "answer": "Yes. The workflow adapts to your product type and creates appropriate image styles whether you're selling electronics, clothing, home goods, beauty products, or any other Amazon category."
+      },
+      {
+        "question": "How do credits and pricing work for Amazon Product Photo Set?",
+        "answer": "Each photo set generation consumes credits based on the number and complexity of images created. The cost is optimized for the value of having a complete, professional Amazon listing that drives conversions."
+      },
+      {
+        "question": "Will the photos meet Amazon's image requirements?",
+        "answer": "Absolutely. The workflow is designed to generate images that comply with Amazon's image guidelines, including proper dimensions, background requirements, and content restrictions for marketplace listings."
+      },
+      {
+        "question": "Can I maintain brand consistency across my Amazon catalog?",
+        "answer": "Yes. The workflow incorporates your brand elements and maintains consistent styling across all product images, helping build brand recognition and trust on the Amazon platform."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Amazon Product Photo Set – Professional Listing Images",
+      "description": "Create professional Amazon product photo sets that boost conversions and meet marketplace standards with AI-powered photography."
+    },
+    "softwareApplication": {
+      "name": "Amazon Product Photo Set AI Generator",
+      "description": "AI-powered Amazon product photography tool for generating professional listing images, lifestyle shots, and infographics."
+    },
+    "faqPage": {
+      "name": "Amazon Product Photo Set – FAQ"
+    }
+  }
+}

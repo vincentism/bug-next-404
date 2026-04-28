@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "YouTube Thumbnail – AI YouTube 封面图生成器 | OpenCreator",
+    "description": "根据视频主题快速生成高点击率 YouTube 封面图，用 AI 优化缩略图表现。",
+    "keywords": [
+      "AI YouTube封面图生成器",
+      "YouTube缩略图制作",
+      "YouTube封面设计",
+      "高点击率缩略图",
+      "视频封面图生成",
+      "YouTube点击率优化封面",
+      "社媒视频缩略图生成",
+      "游戏封面图AI制作"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#设计", "#视觉艺术"],
+    "title": "YouTube 封面图",
+    "description": "只需输入 YouTube 视频描述，AI 会自动生成与你内容匹配的高质量、吸睛的封面图，让视频在信息流里脱颖而出。",
+    "inputTitle": "输入",
+    "inputPlaceholder": "这期 YouTube 视频讲什么？",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "描述你的 YouTube 视频",
+        "description": "粘贴视频标题、内容概述以及核心卖点（例如 '对比前后'、'让流量翻 10 倍'）作为工作流输入。"
+      },
+      {
+        "title": "引导封面风格",
+        "description": "可选填颜色、氛围与布局偏好，例如 '左侧大号字体'、'干净教程封面' 等。"
+      },
+      {
+        "title": "生成 AI 封面方案",
+        "description": "OpenCreator 会结合多个 AI 图像模型，生成针对 YouTube 信息流优化的吸睛封面候选。"
+      },
+      {
+        "title": "选择、微调并导出",
+        "description": "挑选你最喜欢的设计，根据需要调整提示词，然后导出最终封面用于上传到 YouTube 或其它平台。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "为像你一样的创作者而生",
+    "subtitle": "从教程到播客，看看谁从 AI 生成的 YouTube 封面中获益最多。",
+    "audiences": [
+      {
+        "label": "YouTube 创作者与主播",
+        "description": "为教程、Vlog、游戏频道等生成点击率优化的封面，无需找设计师。"
+      },
+      {
+        "label": "教育者与在线课程制作人",
+        "description": "把课程描述转化为清晰、专业的封面，让教育内容在视频列表中更显眼。"
+      },
+      {
+        "label": "播客与访谈节目",
+        "description": "快速为每期节目制作统一风格的封面图，让听众在信息流里一眼认出你的品牌。"
+      },
+      {
+        "label": "营销团队与代理商",
+        "description": "批量生成封面备选，A/B 测试不同 Hook，用 AI 加速创意输出。"
+      },
+      {
+        "label": "独立影人与故事讲述者",
+        "description": "为短片、预告与幕后花絮制作电影感封面，贴合你的类型风格。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 AI YouTube Thumbnail Generator 模板？",
+        "answer": "它是一个 AI 工作流，可以根据你的视频描述或脚本生成吸睛的 YouTube 封面，帮助你提高点击率。"
+      },
+      {
+        "question": "我需要准备什么样的输入？",
+        "answer": "你可以提供视频标题、简短描述以及核心卖点（例如 '让流量翻 10 倍'、'对比前后'）。也可以说明你想要的颜色偏好或情绪氛围。"
+      },
+      {
+        "question": "这个模板符合 YouTube 封面最佳实践吗？",
+        "answer": "这个工作流围绕常见最佳实践设计，例如清晰主体、强烈对比与聚焦信息。你可以在提示中要求特定风格，如 '极简'、'反应脸'、'干净教程布局' 等。"
+      },
+      {
+        "question": "可以用于其它平台吗，不只是 YouTube？",
+        "answer": "可以。虽然针对 YouTube 优化，但你可以通过调整尺寸与裁剪，把输出用于其它平台（例如课程封面、视频封面图等）。"
+      },
+      {
+        "question": "AI 会在封面上添加文字吗？",
+        "answer": "你可以在提示中要求短标题或关键词。如果需要精确排版与品牌字体，可以在导出后用设计工具微调封面。"
+      },
+      {
+        "question": "批量生成封面需要多久？",
+        "answer": "单张封面通常在几秒到几分钟内渲染完成。对于批量需求，你可以运行多组提示词，然后挑选最佳封面复用或修改。"
+      },
+      {
+        "question": "YouTube 封面工作流如何消耗积分？",
+        "answer": "每次封面生成会根据图像模型与分辨率消耗一定积分。由于封面尺寸相对较小，这个模板通常非常省积分。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "YouTube Thumbnail – AI YouTube 封面图生成器",
+      "description": "用 AI 根据视频描述生成高点击率的 YouTube 封面图。"
+    },
+    "softwareApplication": {
+      "name": "AI YouTube 封面生成器工作流",
+      "description": "基于视频描述生成吸睛 YouTube 封面的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "AI YouTube Thumbnail Generator – 常见问题"
+    }
+  }
+}

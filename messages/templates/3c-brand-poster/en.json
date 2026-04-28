@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "3C Brand Poster – Electronics Brand Ad Generator | OpenCreator",
+    "description": "Create high-impact 3C brand posters with AI. AI product image generator and product mockup generator for turning product specs into polished visual ads for electronics and gadgets.",
+    "keywords": [
+      "ai product image generator",
+      "product mockup generator",
+      "ai product photography",
+      "best ai product photo generator",
+      "ai product photos",
+      "3c brand poster",
+      "electronics poster ad",
+      "tech product ad design",
+      "ai brand poster",
+      "professional product photography ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#3c", "#electronics", "#banana_pro"],
+    "title": "3C Brand Poster",
+    "description": "Transform your 3C and electronics product messages into bold, campaign-ready posters with AI. From core specs to lifestyle storytelling, generate visuals that make your brand stand out across e-commerce and digital campaigns.",
+    "inputPlaceholder": "Describe your 3C product and brand message",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Outline your product and key selling points",
+        "description": "Describe the 3C product (such as smartphone, laptop, earphones, or accessories) and highlight the features or benefits you want to emphasize in the poster."
+      },
+      {
+        "title": "Set the brand tone and visual direction",
+        "description": "Add guidance about brand tone and style—minimal, futuristic, gaming, professional, or lifestyle—so the visuals align with your existing campaigns."
+      },
+      {
+        "title": "Generate AI-powered 3C brand posters",
+        "description": "The workflow turns your brief into multiple poster-style ad concepts optimized for electronics and tech products, with clear hierarchy and strong focal points."
+      },
+      {
+        "title": "Review options and export for use",
+        "description": "Select the poster versions that best represent your brand, optionally iterate, then export final creatives for product pages, app stores, ads, and social media."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For electronics brands and 3C marketers",
+    "subtitle": "Designed for teams launching and promoting 3C and consumer electronics products.",
+    "audiences": [
+      {
+        "label": "Consumer electronics brands",
+        "description": "Quickly turn launches and feature highlights into visual posters that work across marketplaces, landing pages, and social channels."
+      },
+      {
+        "label": "Marketplace and retail sellers",
+        "description": "Create polished 3C brand visuals that make your listings and storefronts look consistent and premium without long design cycles."
+      },
+      {
+        "label": "Growth and performance teams",
+        "description": "Generate multiple 3C ad concepts to test in campaigns, from spec-driven layouts to lifestyle-driven creatives."
+      },
+      {
+        "label": "Agencies and creative studios",
+        "description": "Use the workflow as a fast ideation tool for tech campaigns before refining final artwork in your design stack."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the 3C Brand Poster workflow?",
+        "answer": "3C Brand Poster is an AI workflow that generates poster-style ads for 3C and electronics products. It helps you transform product information and brand direction into ready-to-use poster visuals."
+      },
+      {
+        "question": "What inputs do I need to use this workflow?",
+        "answer": "You provide a short description of your product, key selling points, and preferred visual direction. Adding reference assets or product images can further guide the final result."
+      },
+      {
+        "question": "Is this only for premium or high-end brands?",
+        "answer": "No. You can use the workflow for mass-market, gaming, professional, or entry-level 3C products—the key is how you describe your target audience and brand tone."
+      },
+      {
+        "question": "Where can I use the generated 3C posters?",
+        "answer": "You can use them on product listing pages, promotional landing pages, app stores, retail banners, social media, and paid ad campaigns."
+      },
+      {
+        "question": "Can I keep my brand identity consistent?",
+        "answer": "Yes. By describing colors, typography feel, and overall mood, you can steer the workflow toward outputs that match your existing brand identity."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Each generation consumes credits based on the underlying image creation steps. It is optimized to let you explore multiple creative options before choosing final campaign assets."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "3C Brand Poster – Electronics Brand Ad Generator",
+      "description": "Create 3C and electronics brand posters using OpenCreator's AI ad workflows."
+    },
+    "softwareApplication": {
+      "name": "3C Brand Poster AI Workflow",
+      "description": "AI-powered workflow for generating brand poster creatives for electronics and 3C products."
+    },
+    "faqPage": {
+      "name": "3C Brand Poster – FAQ"
+    }
+  }
+}

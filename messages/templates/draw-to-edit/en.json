@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Draw to Edit – Sketch-Based Image Editing | OpenCreator",
+    "description": "Edit images by drawing simple strokes or shapes. AI interprets your marks to add, remove, or transform elements with visual instructions instead of complex tools.",
+    "keywords": [
+      "draw to edit image",
+      "sketch based image editor",
+      "visual edit instructions",
+      "ai image editing from drawings",
+      "markup to edit tool",
+      "edit images by drawing with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#draw_to_edit", "#visual_editing", "#sketch_control"],
+    "title": "Draw to Edit",
+    "description": "Edit images by drawing simple strokes or shapes to indicate changes. Let AI interpret your marks—adding, removing, or transforming elements—so you can direct edits visually.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload an image and draw where you want changes",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your base image",
+        "description": "Provide product photos, scenes, or compositions that need adjustments."
+      },
+      {
+        "title": "Draw over the image to indicate edits",
+        "description": "Use strokes or shapes to add, remove, move, or modify elements."
+      },
+      {
+        "title": "Generate AI-applied edits from drawings",
+        "description": "AI interprets your marks as instructions and updates the image accordingly."
+      },
+      {
+        "title": "Refine with additional passes if needed",
+        "description": "Iterate by drawing new adjustments until the result matches your vision."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For people who think visually, not in tools and sliders",
+    "subtitle": "From art directors to founders, see who edits by drawing.",
+    "audiences": [
+      {
+        "label": "Art directors and designers",
+        "description": "Communicate changes directly on images without long briefs."
+      },
+      {
+        "label": "Founders and non-technical stakeholders",
+        "description": "Express changes visually even without design skills."
+      },
+      {
+        "label": "Illustrators and concept artists",
+        "description": "Rough in ideas and let AI handle finer execution."
+      },
+      {
+        "label": "Product and UX teams",
+        "description": "Mark up UI or marketing visuals for quick iteration."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Draw to Edit workflow?",
+        "answer": "An AI workflow that turns sketch marks into image edits—add, remove, transform, and move elements with simple strokes."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Designers, founders, illustrators, and product teams who prefer visual directions over complex tools."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Upload an image and draw strokes or shapes where you want changes. Optionally add text notes."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "Edited images reflecting your visual instructions, ready for reviews or production use."
+      },
+      {
+        "question": "Can I iterate easily?",
+        "answer": "Yes. Draw additional passes to refine results until they align with your vision."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Each edit pass consumes credits based on scope and resolution. Iterate within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Draw to Edit – Sketch-Based Image Editing",
+      "description": "AI-powered image edits driven by simple sketch marks."
+    },
+    "softwareApplication": {
+      "name": "Draw to Edit Template",
+      "description": "AI workflow that interprets drawings to perform image edits."
+    },
+    "faqPage": { "name": "Draw to Edit – FAQ" }
+  }
+}

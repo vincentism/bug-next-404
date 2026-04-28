@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "Background Remove & Edit – AI Background Editor | OpenCreator",
+    "description": "Remove, replace, and edit backgrounds in images with OpenCreator's Background Remove & Edit workflow. Create clean cutouts, transparent PNGs, or new scenes—the best background remover app for product photos.",
+    "keywords": [
+      "background remover app",
+      "remove background from picture",
+      "white background for pictures",
+      "ai background generator",
+      "background maker",
+      "product background remover",
+      "ecommerce product photo editing",
+      "product photo editing",
+      "how to remove and change image backgrounds with ai",
+      "best ai background removal tool for ecommerce"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#transparent_background", "#background_remover", "#remove_bg"],
+    "title": "Background Remove & Edit",
+    "description": "AI background remover to create transparent backgrounds instantly. Remove, replace, and edit image backgrounds with AI. Generate transparent background PNGs, clean cutouts, and professional product photos for e-commerce and design.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload an image and describe how you want the background changed",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your image with a clear subject",
+        "description": "Start with product shots, portraits, or objects that need clean separation from their backgrounds."
+      },
+      {
+        "title": "Choose removal or replacement mode",
+        "description": "Decide whether you want a transparent background, solid color, gradient, or an entirely new scene behind your subject."
+      },
+      {
+        "title": "Generate AI background edits",
+        "description": "Run the Background Remove & Edit workflow so AI precisely cuts out subjects and composites them into the chosen background."
+      },
+      {
+        "title": "Export for design, listings, and content",
+        "description": "Download ready-to-use assets for product detail pages, presentations, social posts, and design tools."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For anyone turning raw images into reusable assets",
+    "subtitle": "From sellers to designers, see who cleans up backgrounds with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce teams and sellers",
+        "description": "Standardize product photography with consistent, clean backgrounds across catalogs and marketplaces."
+      },
+      {
+        "label": "Designers and agencies",
+        "description": "Quickly create cutouts for composites, layouts, and mockups without spending hours on manual masking."
+      },
+      {
+        "label": "Social media and content teams",
+        "description": "Place subjects into on-brand scenes or templates to keep feeds visually consistent."
+      },
+      {
+        "label": "Photographers and studios",
+        "description": "Speed up background cleanup while delivering polished results to clients."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Background Remove & Edit AI workflow do?",
+        "answer": "This workflow removes, replaces, and edits backgrounds in images with AI. It is designed to create clean cutouts, transparent PNGs, or new scenes behind your subjects for e-commerce, social content, and design pipelines."
+      },
+      {
+        "question": "What type of images work best for background removal?",
+        "answer": "Images with a clear subject and reasonable separation from the background generally perform best—such as product shots, portraits, or objects on relatively simple backgrounds. Very complex or heavily cluttered scenes may require multiple passes."
+      },
+      {
+        "question": "Can I choose different background styles after removal?",
+        "answer": "Yes. You can direct the workflow toward transparent backgrounds, solid colors, gradients, or new scenes depending on how you plan to use the final asset—for example product detail pages, social posts, or presentations."
+      },
+      {
+        "question": "How is this different from a simple background eraser tool?",
+        "answer": "Traditional tools often require careful manual tracing or masking. This workflow uses AI to detect the subject and generate clean cutouts and composites, which can save time when processing many assets or refining tricky edges like hair or soft fabric."
+      },
+      {
+        "question": "What are common use cases for Background Remove & Edit?",
+        "answer": "E-commerce teams standardize product photography; designers and agencies create cutouts for layouts and mockups; social teams place subjects into on-brand scenes or templates; photographers and studios speed up background cleanup for client work."
+      },
+      {
+        "question": "How do credits and costs work for Background Remove & Edit?",
+        "answer": "Each background edit consumes credits based on image size and configuration. A good practice is to test a few representative images first, then process larger batches once you like the results."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Background Remove & Edit – AI Background Editor",
+      "description": "Remove, replace, and edit image backgrounds with AI to create clean cutouts and new scenes for e-commerce and design."
+    },
+    "softwareApplication": {
+      "name": "AI Background Remove & Edit Tool",
+      "description": "AI workflow that removes and replaces backgrounds so teams can turn raw photos into reusable, flexible assets."
+    },
+    "faqPage": {
+      "name": "Background Remove & Edit – FAQ"
+    }
+  }
+}

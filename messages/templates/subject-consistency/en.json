@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Subject Consistency – AI Subject Consistency Generator | OpenCreator",
+    "description": "Maintain consistent appearance for characters, products, and mascots across many images with OpenCreator's Subject Consistency workflow.",
+    "keywords": [
+      "subject consistency generator",
+      "consistent character ai",
+      "same character different poses",
+      "on model ai images",
+      "consistent product visuals",
+      "how to keep ai generated characters consistent",
+      "ai tool for subject consistency across images"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#subject_consistency", "#character", "#brand_assets"],
+    "title": "Subject Consistency",
+    "description": "Maintain consistent appearance for subjects across many generated images. Use AI to keep characters, products, or mascots recognizable while exploring different poses, scenes, and styles.",
+    "inputPlaceholder": "Upload your subject reference and describe the new scenes or poses you need",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload a clear subject reference",
+        "description": "Provide a strong image of your character, product, or object as the visual anchor so the workflow understands who or what should stay consistent."
+      },
+      {
+        "title": "Describe new scenarios, outfits, or angles",
+        "description": "Explain where the subject appears, how they move, what they wear, or how the product is used in each new context."
+      },
+      {
+        "title": "Generate consistent subject variations",
+        "description": "Run the Subject Consistency workflow to create new images that preserve core identity and key details while changing scenes and poses."
+      },
+      {
+        "title": "Export sets for campaigns and content systems",
+        "description": "Select your favorite results and use them across campaigns, design systems, and documentation as a consistent subject library."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands and teams that rely on recurring subjects",
+    "subtitle": "From character IP to products, see who enforces consistency with AI.",
+    "audiences": [
+      {
+        "label": "Brand and mascot owners",
+        "description": "Keep mascots and recurring brand characters recognizable across channels, markets, and creative formats."
+      },
+      {
+        "label": "Character-driven IP teams",
+        "description": "Maintain character identity in marketing materials, key art, and derivative works without off-model drift."
+      },
+      {
+        "label": "Product marketing and documentation teams",
+        "description": "Show the same product consistently in many contexts—tutorials, UI, and campaigns—without confusing variations."
+      },
+      {
+        "label": "Design systems and UX teams",
+        "description": "Build consistent visual libraries for UI illustration, onboarding flows, and brand guidelines."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Subject Consistency AI workflow do?",
+        "answer": "This workflow helps you keep the same subject—like a character, product, or mascot—looking consistent across many generated images. It is designed as a subject consistency generator so your visuals stay on-model even as you change scenes, poses, or angles."
+      },
+      {
+        "question": "What kind of reference image should I upload for best consistency?",
+        "answer": "Use a clear, well-lit image that shows the subject's key features: face, proportions, colors, and distinctive details. Avoid blurry or heavily cropped references. A strong anchor image makes it easier for the workflow to preserve identity across new generations."
+      },
+      {
+        "question": "Can I generate the same character in different poses and scenes?",
+        "answer": "Yes. After you upload a subject reference, you can describe new poses, actions, and environments in your prompt. The workflow focuses on keeping the core identity and visual details consistent while changing context around the subject."
+      },
+      {
+        "question": "How is this different from style consistency?",
+        "answer": "Subject consistency is about keeping who or what appears in the image recognizable—characters, products, or mascots. Style consistency focuses on harmonizing the overall visual style, such as line quality, color treatment, and rendering. You can combine both in your broader workflow, but this template emphasizes subjects staying on-model."
+      },
+      {
+        "question": "What are typical use cases for consistent subject generation?",
+        "answer": "Teams use this workflow to maintain brand mascots across campaigns, keep product shots aligned across many scenes, or ensure recurring characters look the same in marketing, documentation, and UI illustrations."
+      },
+      {
+        "question": "How do credits and costs work for Subject Consistency generations?",
+        "answer": "Each generation consumes credits based on the model settings. A good practice is to first validate that your reference image and prompts give you the desired level of consistency, then generate larger sets once you are confident in the setup."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Subject Consistency – AI Subject Consistency Generator",
+      "description": "Maintain consistent appearance for characters, products, and mascots across AI-generated images."
+    },
+    "softwareApplication": {
+      "name": "Subject Consistency AI Workflow",
+      "description": "AI workflow for maintaining consistent subjects across multiple generated images."
+    },
+    "faqPage": {
+      "name": "Subject Consistency – FAQ"
+    }
+  }
+}

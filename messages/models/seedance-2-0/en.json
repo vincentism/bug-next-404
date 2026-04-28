@@ -1,0 +1,219 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance 2.0 — Next-Gen Multimodal Video Model | OpenCreator",
+      "description": "Seedance 2.0 supports four-modal input — images, videos, audio, and text — for cinematic video generation with precise reference control, smooth motion, and storytelling continuity."
+    },
+    "hero": {
+      "modelName": "Seedance 2.0",
+      "tagline": "Multimodal video creation, reimagined",
+      "description": "Seedance 2.0 accepts four types of input — images, videos, audio, and text — enabling cinematic generation with precise reference control. Set visual style with an image, define motion with a video clip, set mood with audio, and direct it all through natural language.",
+      "badge": "Coming Soon",
+      "ctaText": "Join Waitlist",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "textImageVideo": "Text + Image + Video + Audio",
+        "referenceControl": "Reference-driven control",
+        "motionConsistency": "Smoother motion & consistency",
+        "multiCamera": "Continuation & multi-camera",
+        "comingSoon": "Coming to OpenCreator"
+      }
+    },
+    "showcase": {
+      "title": "See It in Action",
+      "subtitle": "From choreography to action sequences — explore what Seedance 2.0 can generate across different creative scenarios.",
+      "items": {
+        "streetDance": {
+          "title": "Street Dance Battle",
+          "description": "Rhythm + camera choreography",
+          "useCase": "High-tempo movement with beat-aware cuts and character continuity under fast choreography."
+        },
+        "relationshipDrama": {
+          "title": "Domestic Drama",
+          "description": "Dialogue-driven short film",
+          "useCase": "Emotion-driven scene pacing with close-up performance and natural conversational timing."
+        },
+        "musicMV": {
+          "title": "Music Video",
+          "description": "Audio-visual narrative",
+          "useCase": "Stylized visual motifs synchronized with music cadence and atmosphere shifts."
+        },
+        "wuxiaDuel": {
+          "title": "Wuxia Duel",
+          "description": "Action choreography",
+          "useCase": "Complex martial arts movement, directional camera transitions, and dramatic fight choreography."
+        },
+        "monsterInvasion": {
+          "title": "Monster Invasion",
+          "description": "Large-scale VFX",
+          "useCase": "Wide-scene composition, destruction sequences, and continuity in effects-heavy narrative."
+        },
+        "cinematicTransition": {
+          "title": "Cinematic Transition",
+          "description": "Creative scene flow",
+          "useCase": "Smooth scene transitions, creative visual effects, and narrative continuity across shots."
+        }
+      }
+    },
+    "workflow": {
+      "title": "Director-Level Workflow",
+      "subtitle": "Choose your entry mode, bind references with @, and iterate without starting over — all on one canvas.",
+      "cards": {
+        "entry": {
+          "title": "Choose your entry mode",
+          "description": "Use First & Last Frames for anchor-driven shots, or All-in-One Reference for multimodal composition."
+        },
+        "assets": {
+          "title": "Prioritize high-impact assets",
+          "description": "Upload assets that define composition, motion rhythm, and tone first — then add secondary references."
+        },
+        "addressing": {
+          "title": "Bind materials with @",
+          "description": "Assign clear roles — first frame, camera language, character identity, BGM — to each material in your prompt."
+        },
+        "editing": {
+          "title": "Continue & iterate",
+          "description": "Use continuation and timeline-style edits to preserve narrative momentum across versions."
+        }
+      },
+      "modeTitle": "Supported interaction modes",
+      "modes": {
+        "firstLast": {
+          "title": "First & Last Frames",
+          "description": "Best for anchor-frame generation with structured opening and ending control."
+        },
+        "allInOne": {
+          "title": "All-in-One Reference",
+          "description": "Designed for multimodal mixing and precise asset orchestration in a single prompt."
+        }
+      },
+      "promptBlueprint": {
+        "title": "Prompt blueprint",
+        "lines": {
+          "0": "@Image 1 as first frame, @Video 1 for camera movement.",
+          "1": "Reference motion cadence from @Video 2, style from @Image 2.",
+          "2": "Use @Audio 1 as BGM, align transitions to beat drops.",
+          "3": "Extend @Video 1 by 5s, end with a clean close-up."
+        },
+        "note": "Label each @ reference explicitly and stay within the mixed-input limits for best results."
+      },
+      "audioHint": "No separate audio file? Referenced video audio tracks can still guide rhythm and ambience."
+    },
+    "features": {
+      "title": "Core Capabilities",
+      "subtitle": "A comprehensive upgrade in generation quality, controllability, and creative expression.",
+      "items": {
+        "textImageVideo": {
+          "title": "Four-modal input",
+          "description": "Combine text, images, videos, and audio in a single generation — each modality enriches the final output."
+        },
+        "multimodalReference": {
+          "title": "Reference-driven control",
+          "description": "Upload reference images for composition, videos for camera language and motion, and audio for rhythm — the model understands and reproduces them."
+        },
+        "motionConsistency": {
+          "title": "Motion & consistency upgrade",
+          "description": "Significantly smoother physical dynamics, more stable movement, and stronger scene-level visual coherence across frames."
+        },
+        "continuation": {
+          "title": "Continuation & storytelling",
+          "description": "Extend existing footage and build multi-shot narrative sequences — pick up where the last clip left off."
+        },
+        "editableWorkflow": {
+          "title": "Generation meets editing",
+          "description": "Support for character replacement, clip insertion, and timeline-style iteration — create and refine in the same workflow."
+        },
+        "storytelling": {
+          "title": "Expressive short-form video",
+          "description": "Optimized for choreography, emotional dialogue, music videos, action scenes, and VFX-driven micro stories."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Input limits, generation parameters, and interaction controls at a glance.",
+      "categories": {
+        "inputLimit": {
+          "title": "Input Limits",
+          "imageInput": "Image input",
+          "videoInput": "Video input",
+          "audioInput": "Audio input",
+          "mixedFiles": "Mixed-input cap"
+        },
+        "generation": {
+          "title": "Generation",
+          "duration": "Duration",
+          "outputFormat": "Output format",
+          "aspectRatio": "Aspect ratio"
+        },
+        "controls": {
+          "title": "Interaction Controls",
+          "entryModes": "Entry modes",
+          "materialAddressing": "Material addressing",
+          "videoExtension": "Video extension",
+          "timelineEditing": "Timeline editing"
+        },
+        "quality": {
+          "title": "Quality Highlights",
+          "motionStability": "Motion stability",
+          "characterConsistency": "Visual consistency",
+          "audioVisualSync": "Audio-visual sync"
+        }
+      },
+      "values": {
+        "imageInput": "Up to 9 images",
+        "videoInput": "Up to 3 clips, total duration ≤ 15s",
+        "audioInput": "Up to 3 files (MP3), total duration ≤ 15s",
+        "mixedFiles": "Up to 12 files across all modalities",
+        "generationDuration": "4–15 seconds, user-selectable",
+        "outputFormat": "MP4 with optional built-in sound effects / BGM",
+        "aspectRatio": "Portrait, square, and landscape supported",
+        "entryModes": "First & Last Frames · All-in-One Reference",
+        "materialAddressing": "@Image / @Video / @Audio role assignment in prompt",
+        "videoExtension": "Prompt-driven continuation of existing clips",
+        "timelineEditing": "Add, replace, and delete clips within a sequence",
+        "motionStability": "Enhanced physical dynamics and smoother continuous motion",
+        "characterConsistency": "Stronger facial, clothing, and scene-level coherence",
+        "audioVisualSync": "More realistic sound timing, effects, and ambient audio"
+      }
+    },
+    "pricing": {
+      "title": "Coming Soon to OpenCreator",
+      "subtitle": "Seedance 2.0 is not yet available — join the waitlist to get notified at launch",
+      "ctaText": "Join Waitlist",
+      "comingSoonBadge": "Coming Soon",
+      "description": "Next-gen multimodal video generation by ByteDance",
+      "note": "Pricing and availability will be announced after integration and quality validation are complete.",
+      "viewFullPricing": "View full pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Seedance 2.0?",
+          "answer": "Seedance 2.0 is ByteDance's next-generation video model that supports four-modal input — images, videos, audio, and text — for controllable, cinematic video generation."
+        },
+        "1": {
+          "question": "When will Seedance 2.0 be available on OpenCreator?",
+          "answer": "We're actively working on integration. Join the waitlist to be the first to know when it launches."
+        },
+        "2": {
+          "question": "What are the input limits?",
+          "answer": "Up to 9 images, 3 video clips (≤ 15s total), 3 audio files (≤ 15s total), and a combined maximum of 12 mixed references."
+        },
+        "3": {
+          "question": "Does it support video continuation and editing?",
+          "answer": "Yes. Seedance 2.0 supports extending existing footage, inserting new scenes between clips, and replacing characters or segments — all driven by natural language prompts."
+        },
+        "4": {
+          "question": "How does the @ reference system work?",
+          "answer": "You assign roles to uploaded materials using @ mentions in your prompt — for example, '@Image 1 as first frame, @Video 1 for camera movement, @Audio 1 as BGM'."
+        },
+        "5": {
+          "question": "What types of content is Seedance 2.0 best for?",
+          "answer": "It excels at choreography, emotional short drama, music videos, action sequences, commercial clips, and VFX-driven narrative content with strong reference control."
+        }
+      }
+    }
+  }
+}

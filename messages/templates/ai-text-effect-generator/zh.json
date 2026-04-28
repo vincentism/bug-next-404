@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Typography Generator – AI 文字特效生成器 | OpenCreator",
+    "description": "用 AI 快速生成风格化字体和文字特效，适用于品牌、海报和社媒内容。",
+    "keywords": [
+      "AI文字特效生成器",
+      "字体生成器",
+      "Logo文字设计",
+      "艺术字制作",
+      "3D文字特效",
+      "品牌字体设计",
+      "文字转Logo艺术",
+      "海报字体AI"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#设计", "#视觉艺术"],
+    "title": "创意字体生成",
+    "description": "用 AI 为品牌打造更有辨识度的视觉身份。只需输入品牌名或关键词，AI 就会生成多种风格的艺术化文字设计。",
+    "inputTitle": "输入",
+    "inputPlaceholder": "输入你想要设计的文字内容",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "输入你想要风格化的文字",
+        "description": "输入品牌名、标题或关键词，把它变成视觉上抓人眼球的元素。"
+      },
+      {
+        "title": "描述风格与氛围",
+        "description": "补充风格指引，如 '金属感 3D 字体'、'复古霓虹字体' 或 '极简编辑体'，让 AI 知道你想要的方向。"
+      },
+      {
+        "title": "生成 AI 字体方案",
+        "description": "运行 Typography Generator 工作流，生成多种适用于 Logo、海报或头图的风格化文字图像。"
+      },
+      {
+        "title": "选出最优方案并按需优化",
+        "description": "挑选最满意的文字特效，调整提示词再跑，需要新的品牌视觉时随时复用工作流。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "为想要大胆品牌视觉的人而生",
+    "subtitle": "从独立品牌到动态工作室，看看谁在用 AI 文字特效脱颖而出。",
+    "audiences": [
+      {
+        "label": "品牌与平面设计师",
+        "description": "为 Logo、海报与营销物料探索新鲜的字体方向，不必每次都从白纸开始。"
+      },
+      {
+        "label": "营销团队与创始人",
+        "description": "快速测试不同标题效果与英雄文字设计，用于落地页、广告与社交素材。"
+      },
+      {
+        "label": "内容创作者与主播",
+        "description": "为缩略图、遮罩层与频道品牌生成吸睛的文字设计，匹配你的调性。"
+      },
+      {
+        "label": "工作室与代理商",
+        "description": "把 AI 生成的字体作为概念板，用于提案与客户审阅，再投入最终设计工作。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Typography Generator 模板？",
+        "answer": "Typography Generator 是一个 AI 文字特效工作流，可以为 Logo、标题与品牌生成风格化的艺术字体。它是 OpenCreator 内置的 AI 字体与文字特效生成器。"
+      },
+      {
+        "question": "我需要提供什么样的输入？",
+        "answer": "你可以输入想要风格化的文字（例如品牌名、口号），并补充风格说明，如 '霓虹赛博朋克'、'复古字体' 或 '极简 Logo 文字设计'。"
+      },
+      {
+        "question": "可以把生成的字体直接用作 Logo 吗？",
+        "answer": "可以当作 Logo 概念甚至最终 Logo 使用，具体取决于你的标准与法律需求。对于长期品牌身份，许多用户会把 AI 输出当作起点再做精修。"
+      },
+      {
+        "question": "该模板支持不同画幅与布局吗？",
+        "answer": "支持。你可以在提示中要求横版、竖版或方图布局，便于为社交媒体、横幅或头像创建优化的文字设计。"
+      },
+      {
+        "question": "可以为同一个品牌名生成多种风格吗？",
+        "answer": "可以。你可以用不同风格提示词运行多次，探索各种字体选项，再选出最满意的方向。"
+      },
+      {
+        "question": "使用 Typography Generator 需要设计技能吗？",
+        "answer": "不需要专业设计背景。这个工作流对新手友好，但对品牌基调与受众有清晰感知会帮助你写出更好的提示词。"
+      },
+      {
+        "question": "AI 文字特效生成如何消耗积分？",
+        "answer": "每次字体生成会根据图像模型与设置消耗一定积分。由于通常是单张图片，这个模板在探索多种设计方案时效率较高。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Typography Generator – AI 文字特效生成器",
+      "description": "用 AI 为品牌生成风格化的艺术字体。"
+    },
+    "softwareApplication": {
+      "name": "Typography Generator AI 工作流",
+      "description": "为 Logo、标题与品牌生成风格化文字特效的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Typography Generator – 常见问题"
+    }
+  }
+}

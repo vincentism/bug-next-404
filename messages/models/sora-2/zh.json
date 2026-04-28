@@ -1,0 +1,217 @@
+{
+  "model": {
+    "meta": {
+      "title": "Sora 2 AI 视频生成器 | 文生视频 & 图生视频 | OpenCreator",
+      "description": "在 OpenCreator 使用 OpenAI 的 Sora 2 创建精彩 AI 视频。具备逼真物理效果与清晰画质，并提供灵活时长选项（8 秒/12 秒，Pro 最长可达 25 秒）。"
+    },
+    "hero": {
+      "modelName": "Sora 2",
+      "tagline": "OpenAI 最先进的视频模型",
+      "description": "体验 OpenAI Sora 2 带来的下一代 AI 视频创作。从文本提示或图片生成高质量视频，具备前所未有的真实感、精确的物理模拟和增强的可控性。",
+      "badge": "高端",
+      "ctaText": "免费试用 Sora 2",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "duration": "8 秒 / 12 秒（Pro 最长 25 秒）",
+        "resolution": "1080p 输出",
+        "physics": "逼真物理"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Sora 2 成为最先进 AI 视频生成模型的原因",
+      "items": {
+        "physics": {
+          "title": "逼真物理效果",
+          "description": "先进的物理模拟确保物体自然移动，具备精确的重力、动量和碰撞动力学。"
+        },
+        "realism": {
+          "title": "清晰真实感",
+          "description": "生成具有前所未有视觉保真度的视频，包含精细纹理和逼真光照效果。"
+        },
+        "duration": {
+          "title": "延长时长",
+          "description": "提供灵活时长选项（8 秒/12 秒，Pro 最长 25 秒），适合叙事与复杂场景构图。"
+        },
+        "steerability": {
+          "title": "增强可控性",
+          "description": "通过详细提示精确控制相机移动、场景过渡和角色动作。"
+        },
+        "consistency": {
+          "title": "物体持久性",
+          "description": "在整个视频序列中保持一致的物体外观和行为。"
+        },
+        "multimodal": {
+          "title": "多模态输入",
+          "description": "从文本描述、参考图像生成视频，或结合两者以获得最大的创意控制。"
+        },
+        "audio": {
+          "title": "同步音频",
+          "description": "支持同步对话和音效，带来更沉浸的视频体验（可用性取决于工作流）。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Sora 2 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "ugc": {
+          "title": "Sora 2 x UGC 推广",
+          "description": "社交媒体营销",
+          "useCase": "创建真实的 UGC 风格推广视频，提升社交平台互动率。"
+        },
+        "ads": {
+          "title": "Sora 2 x 广告",
+          "description": "品牌广告",
+          "useCase": "具有电影级质量和品牌一致性的专业广告内容。"
+        },
+        "idols": {
+          "title": "Sora 2 x 偶像",
+          "description": "娱乐内容",
+          "useCase": "为娱乐和粉丝互动生成动态偶像和角色内容。"
+        },
+        "product": {
+          "title": "产品展示",
+          "description": "电商视频",
+          "useCase": "将产品图片转换为引人注目的视频展示，用于在线商店。"
+        },
+        "cinematic": {
+          "title": "电影场景",
+          "description": "影视制作",
+          "useCase": "创建具有专业摄影和视觉效果的电影级场景。"
+        },
+        "animation": {
+          "title": "创意动画",
+          "description": "动画内容",
+          "useCase": "通过流畅自然的动画让插图和概念栩栩如生。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Sora 2 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "videoExtension": "视频延长",
+          "cameraControl": "相机控制"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "physicsSimulation": "物理模拟",
+          "objectPermanence": "物体持久性",
+          "sceneComposition": "场景构图",
+          "styleTransfer": "风格迁移"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Sora 2 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "maxDuration": "最大时长",
+        "resolution": "分辨率",
+        "physicsSimulation": "物理模拟",
+        "objectPermanence": "物体持久性",
+        "cameraControl": "相机控制",
+        "audioGeneration": "音频生成"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "description": "OpenAI 最先进的视频模型，在 OpenCreator 上以灵活的积分计费方式提供使用。",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "每次生成消耗积分。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Sora 2？由谁开发？",
+          "answer": "Sora 2 是 OpenAI 的旗舰视频生成模型。OpenAI 将其描述为通用的视频与音频生成系统；在 OpenCreator 上，具体输出选项会因模式与可用性而有所不同。"
+        },
+        "1": {
+          "question": "我可以用 Sora 2 创建什么类型的内容？",
+          "answer": "Sora 2 擅长创建各种内容，包括社交媒体视频、品牌广告、产品展示、电影场景、动画内容和娱乐视频。它支持文生视频和图生视频两种生成方式。"
+        },
+        "2": {
+          "question": "Sora 2 视频可以有多长？",
+          "answer": "在 OpenCreator 上，Sora 2 根据模式提供不同的时长选项。您可以生成 8 秒或 12 秒的视频，Pro 模式最长可达 25 秒。"
+        },
+        "3": {
+          "question": "Sora 2 与其他 AI 视频模型有什么不同？",
+          "answer": "Sora 2 以其逼真的物理模拟、物体持久性和增强的可控性而脱颖而出。它生成具有前所未有视觉保真度的视频，可以处理复杂的多物体场景，同时保持全程一致性。"
+        },
+        "4": {
+          "question": "我可以使用图片作为 Sora 2 的输入吗？",
+          "answer": "可以！Sora 2 支持文生视频和图生视频两种生成方式。您可以提供参考图片来引导视频生成，或将文本提示与图片结合以获得最大的创意控制。"
+        },
+        "5": {
+          "question": "Sora 2 支持什么分辨率？",
+          "answer": "Sora 2 生成最高 1080p 高清分辨率的视频，确保高质量输出，适用于社交媒体、广告和内容创作等专业用途。"
+        },
+        "6": {
+          "question": "在 OpenCreator 上，Sora 2 与 Sora 2 Pro 有什么区别？",
+          "answer": "有区别。通常 Pro 模式会开放更高阶的输出选项（例如更长时长、更高分辨率等）。追求极致质量建议选 Pro；需要快速迭代可以先用标准模式。"
+        },
+        "7": {
+          "question": "Sora 2 支持哪些视频比例（宽高比）？",
+          "answer": "在 OpenCreator 上，Sora 2 会根据具体工作流支持不同的比例（常见为 16:9 与 9:16）。建议按平台选择：YouTube 用 16:9，短视频平台用 9:16。"
+        },
+        "8": {
+          "question": "Sora 2 在 OpenCreator 上会生成音频吗？",
+          "answer": "OpenAI 将 Sora 2 描述为视频与音频生成系统。在 OpenCreator 上，是否包含音频可能取决于模式与工作流。请以生成设置与预览结果为准。"
+        },
+        "9": {
+          "question": "如何写提示词才能更真实、更符合物理规律？",
+          "answer": "用具体可视化的语言描述关键动作与材质，并补充镜头、光线、环境与时间节奏（例如“手持近景”“缓慢推进”“黄昏逆光”）。避免互相矛盾的指令。"
+        },
+        "10": {
+          "question": "我能控制镜头运动和画面风格吗？",
+          "answer": "可以。你可以在提示词中加入镜头指令（平移、推进、变焦、跟拍、镜头风格等）。为了稳定性，建议一次只控制少量变量，逐步迭代。"
+        },
+        "11": {
+          "question": "Sora 2 和 Veo 3 怎么选？",
+          "answer": "两者都是顶级视频模型。Veo 3 更偏向原生音频生成与音视频同步；Sora 2 更强调真实感、物理效果，以及在不同模式下支持更长片段。建议按你的目标（是否需要音频、是否需要更长镜头）选择。"
+        },
+        "12": {
+          "question": "Sora 2 在 OpenCreator 上怎么计费？",
+          "answer": "每次生成会消耗积分，具体取决于输出设置（例如模式、分辨率、时长等）。本页定价区域会展示你当前套餐下的最新费用。"
+        }
+      }
+    }
+  }
+}

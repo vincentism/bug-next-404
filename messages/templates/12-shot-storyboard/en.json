@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "12-Shot Storyboard, One-Click Video Generation | OpenCreator",
+    "description": "Transform product images into professional 12-panel storyboards and generate complete TVC ads with AI. Create cinematic brand videos from a single product photo using Nano Banana Pro and Sora 2.",
+    "keywords": [
+      "12 shot storyboard",
+      "ai storyboard generator",
+      "product video maker",
+      "tvc ad generator",
+      "ai commercial video",
+      "storyboard to video",
+      "product ad video",
+      "ai video production",
+      "brand video maker",
+      "one click video generation",
+      "ai advertising video",
+      "product commercial maker"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#storyboard", "#tvc_ads", "#sora2"],
+    "title": "12-Shot Storyboard, One-Click Video Generation",
+    "description": "Transform any product image into a professional 12-panel storyboard and generate a complete TVC ad video with AI. Upload your product, get a cinematic brand commercial with consistent characters and voiceover—all in one workflow.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product image",
+        "description": "Provide a product photo—lipstick, sunglasses, electronics, or any item. The AI will analyze your product and prepare it for storyboard creation."
+      },
+      {
+        "title": "AI generates 12-panel storyboard",
+        "description": "Nano Banana Pro creates a professional 12-grid storyboard in black-and-white sketch style, designing a creative story that showcases your product with consistent character and brand elements."
+      },
+      {
+        "title": "One-click video generation",
+        "description": "Sora 2 transforms the storyboard into a 25-second live-action TVC ad with Chinese voiceover, maintaining character consistency and product accuracy throughout the video."
+      },
+      {
+        "title": "Download your brand commercial",
+        "description": "Export your professional TVC ad ready for social media, e-commerce platforms, or brand campaigns. Complete with cinematic quality and brand storytelling."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for brands and marketers who need video ads fast",
+    "subtitle": "From product launches to social campaigns, see who creates TVC ads with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce brands",
+        "description": "Create professional product commercials without expensive video production teams. Turn any product photo into a compelling brand story video."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Generate multiple ad variations quickly for A/B testing and campaign optimization. Produce TVC-quality content at a fraction of traditional costs."
+      },
+      {
+        "label": "Content creators",
+        "description": "Produce cinematic product showcases for sponsored content and brand partnerships. Stand out with professional video storytelling."
+      },
+      {
+        "label": "Advertising agencies",
+        "description": "Rapidly prototype commercial concepts for client pitches. Visualize creative ideas before committing to full production budgets."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the 12-Shot Storyboard workflow?",
+        "answer": "This AI workflow transforms a single product image into a professional 12-panel storyboard, then generates a complete 25-second TVC ad video. It uses Nano Banana Pro for storyboard creation and Sora 2 for video generation with voiceover."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro (google/gemini-3.0-flash-image) for generating the 12-panel storyboard in sketch style, and Sora 2 (opencreator-fal-sora2-pro-i2v-v1) for converting the storyboard into a live-action video with voiceover."
+      },
+      {
+        "question": "What kind of products work best?",
+        "answer": "Any product works well—cosmetics, fashion accessories, electronics, food items, and more. The AI adapts the story and visual style to match your product category and brand positioning."
+      },
+      {
+        "question": "How long is the generated video?",
+        "answer": "The workflow generates a 25-second TVC ad video, which is the optimal length for social media ads and product showcases. The video includes professional pacing and Chinese voiceover."
+      },
+      {
+        "question": "Can I customize the story or character?",
+        "answer": "Yes. You can modify the prompts to specify character appearance (e.g., Asian female, European male), story theme, and visual style. The workflow maintains consistency throughout the storyboard and video."
+      },
+      {
+        "question": "What's the output quality?",
+        "answer": "The storyboard is generated at 16:9 aspect ratio, and the video is produced in high resolution suitable for social media platforms, e-commerce listings, and brand campaigns."
+      },
+      {
+        "question": "How long does generation take?",
+        "answer": "The complete workflow typically takes 3-8 minutes: about 30 seconds for storyboard generation and 2-7 minutes for video creation, depending on server load."
+      },
+      {
+        "question": "How are credits calculated?",
+        "answer": "Credits are consumed based on the AI models used—Nano Banana Pro for image generation and Sora 2 for video generation. The total cost is optimized for the value of producing a complete TVC ad."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "12-Shot Storyboard, One-Click Video Generation",
+      "description": "Transform product images into professional 12-panel storyboards and generate complete TVC ads with AI."
+    },
+    "softwareApplication": {
+      "name": "12-Shot Storyboard AI Video Generator",
+      "description": "AI-powered storyboard and video generation tool for creating professional TVC ads from product images."
+    },
+    "faqPage": {
+      "name": "12-Shot Storyboard Video Generator – FAQ"
+    }
+  }
+}

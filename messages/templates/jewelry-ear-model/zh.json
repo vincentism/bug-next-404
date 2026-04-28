@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Jewelry Ear Model – 珠宝耳模图生成 | OpenCreator",
+    "description": "为耳饰生成真实“上耳”效果图，支持多样耳型、肤色与风格场景，无需约模特或租影棚。",
+    "keywords": [
+      "珠宝耳模",
+      "耳饰试戴图",
+      "珠宝产品摄影",
+      "珠宝摄影创意",
+      "AI珠宝图片生成",
+      "电商耳环图片",
+      "AI产品图片生成",
+      "珠宝电商摄影",
+      "耳环产品摄影"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#珠宝", "#耳饰", "#电商"],
+    "title": "珠宝耳模图生成",
+    "description": "生成真实“上耳”效果图，细腻呈现耳饰细节。支持多样耳型、肤色与造型情境。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "上传你的耳饰产品图",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "上传耳饰产品图",
+        "description": "提供简洁背景下的清晰耳饰图片。"
+      },
+      {
+        "title": "选择耳模风格与多样性",
+        "description": "指定肤色区间、年龄层与造型（极简、华丽、日常）。"
+      },
+      {
+        "title": "生成逼真的耳模上身图",
+        "description": "AI 以准确比例与光线将耳饰放置于拟真耳模上。"
+      },
+      {
+        "title": "导出用于详情页与活动",
+        "description": "适配 PDP、Lookbook、广告与社媒。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "为现代珠宝品牌而设",
+    "subtitle": "从小型工作室到零售平台，都可用 AI 耳模图。",
+    "audiences": [
+      {
+        "label": "直面消费者的珠宝品牌",
+        "description": "提供更真实的试戴视觉，减少犹豫，提升加购率。"
+      },
+      {
+        "label": "平台型珠宝卖家",
+        "description": "用生活化上身图替代纯白底静物，提升吸引力。"
+      },
+      {
+        "label": "手作与小众设计",
+        "description": "以统一、精致的方式展示匠心作品。"
+      },
+      {
+        "label": "珠宝营销团队",
+        "description": "为系列活动构建风格统一的耳模上身图。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Jewelry Ear Model 工作流？",
+        "answer": "一个将耳饰自然放置于拟真耳模上的 AI 工作流，适配电商与营销展示。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "直面消费者的品牌、平台卖家与设计师等需要真实试戴图的人。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "上传耳饰产品图，并设置耳模肤色与造型偏好。"
+      },
+      {
+        "question": "输出包含什么？",
+        "answer": "用于详情页、Lookbook 与广告的高质量上身图。"
+      },
+      {
+        "question": "能否控制多样性与风格？",
+        "answer": "可以。可选择肤色区间、年龄层与不同造型方向。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "按分辨率与复杂度消耗积分，你可在套餐内迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Jewelry Ear Model – 珠宝耳模图生成",
+      "description": "用于线上展示耳饰的拟真耳模上身图。"
+    },
+    "softwareApplication": {
+      "name": "Jewelry Ear Model 模板",
+      "description": "以 AI 生成耳饰试戴效果的工作流。"
+    },
+    "faqPage": {
+      "name": "Jewelry Ear Model – 常见问题"
+    }
+  }
+}

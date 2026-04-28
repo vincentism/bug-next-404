@@ -1,0 +1,217 @@
+{
+  "model": {
+    "meta": {
+      "title": "Veo 3 AI 视频生成器 | 原生音频 | OpenCreator",
+      "description": "使用 Google Veo 3 创建带有原生音频的精彩视频。最先进的视频生成，具备逼真物理效果、音效、对话和环境音。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Veo 3",
+      "tagline": "视频与音频的完美结合",
+      "description": "Google 最先进的原生音频视频生成模型。Veo 3 提供最先进的质量，具有真实的物理效果、音效、对话、场景延伸以创建更长视频，以及参考图引导以保持角色一致性。",
+      "badge": "原生音频",
+      "ctaText": "免费试用 Veo 3",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "nativeAudio": "原生音频",
+        "resolution": "1080p 输出",
+        "physics": "逼真物理"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Veo 3 成为最先进 AI 视频模型的原因",
+      "items": {
+        "audio": {
+          "title": "原生音频生成",
+          "description": "原生生成音效、环境音，甚至对话。无需单独的音频工具 - Veo 3 自动创建同步音频。"
+        },
+        "physics": {
+          "title": "逼真物理效果",
+          "description": "最先进的物理模拟确保每一帧都有自然的运动、逼真的交互和可信的物体动态。"
+        },
+        "prompt": {
+          "title": "卓越的提示词理解",
+          "description": "改进的提示词理解意味着对您指令的更准确响应，精确捕捉您的创意构想。"
+        },
+        "quality": {
+          "title": "电影级质量",
+          "description": "栩栩如生的质量配合沉浸式配乐。创建可媲美传统制作的专业级视频。"
+        },
+        "control": {
+          "title": "首尾帧控制",
+          "description": "指定起始和结束图像，Veo 3 会生成平滑的过渡动画，并配合相应的音频，实现精准的场景控制。"
+        },
+        "extension": {
+          "title": "场景延伸",
+          "description": "通过生成与前一段视频连接的新片段，创建持续一分钟或更长的视频，保持视觉连续性。"
+        },
+        "consistency": {
+          "title": "参考图引导",
+          "description": "使用最多 3 张参考图引导生成，确保角色、物体或场景在多个镜头和风格中保持一致。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Veo 3 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "cinematic": {
+          "title": "电影叙事",
+          "description": "影视娱乐",
+          "useCase": "创建带有对话、音效和环境音的电影场景，用于短片和故事叙述。"
+        },
+        "product": {
+          "title": "产品展示",
+          "description": "电商视频",
+          "useCase": "将产品图片转换为具有专业音频和逼真物理效果的动态视频。"
+        },
+        "social": {
+          "title": "社交内容",
+          "description": "社交媒体",
+          "useCase": "为 TikTok、Instagram 和 YouTube 生成带有同步音频的吸睛内容。"
+        },
+        "animation": {
+          "title": "动画与艺术",
+          "description": "创意项目",
+          "useCase": "通过风格匹配和艺术视觉效果创建独特的动画内容。"
+        },
+        "commercial": {
+          "title": "商业广告",
+          "description": "品牌广告",
+          "useCase": "制作带有配音、音乐和音效的专业商业广告。"
+        },
+        "documentary": {
+          "title": "纪录片风格",
+          "description": "教育内容",
+          "useCase": "创建带有旁白和环境音景的纪录片风格视频。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Veo 3 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "nativeAudio": "原生音频",
+          "cameraControls": "相机控制"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "physicsSimulation": "物理模拟",
+          "sceneExtension": "场景延伸",
+          "styleMatching": "风格匹配",
+          "characterConsistency": "角色一致性"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Veo 3 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "nativeAudio": "原生音频",
+        "maxDuration": "最大时长",
+        "resolution": "分辨率",
+        "physicsSimulation": "物理模拟",
+        "cameraControls": "相机控制",
+        "sceneExtension": "场景延伸",
+        "characterConsistency": "角色一致性"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "每次生成消耗积分。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Veo 3？由谁开发？",
+          "answer": "Veo 3 是 Google DeepMind 推出的视频生成模型。在支持的工作流中，它可以生成高质量视频，并具备原生音频生成能力（音效、环境音、对话与画面自动同步）。"
+        },
+        "1": {
+          "question": "Veo 3 与其他视频模型有什么不同？",
+          "answer": "Veo 3 的特点是原生音频生成、较强的提示词遵循，以及相机运动与场景延伸等创意控制。适合需要“声音+画面”一次生成的内容。"
+        },
+        "2": {
+          "question": "Veo 3 能生成对话和配音吗？",
+          "answer": "可以！Veo 3 可以原生生成对话、配音、音效和环境音。只需在提示词中包含音频描述，Veo 3 就会自动创建同步音频。"
+        },
+        "3": {
+          "question": "Veo 3 支持多长的视频时长？",
+          "answer": "Veo 3 生成最长 8 秒的视频。您可以使用场景延伸功能通过延长片段来创建更长的视频，同时保持视觉和音频的一致性。"
+        },
+        "4": {
+          "question": "Veo 3 提供哪些创意控制？",
+          "answer": "Veo 3 提供相机控制（缩放、平移、移动）、首尾帧指定、参考图像风格匹配、角色一致性、场景延伸和不同宽高比的外扩绘制。"
+        },
+        "5": {
+          "question": "Veo 3 与 Sora 2 和 Kling 2.1 相比如何？",
+          "answer": "Veo 3 在原生音频生成与音视频同步方面优势明显。Sora 2 在不同模式下可支持更长镜头，Kling 则更偏多参考图工作流。建议根据你是否需要音频、是否需要更长镜头来选择。"
+        },
+        "6": {
+          "question": "Veo 3 和 Wan 2.6 怎么选？",
+          "answer": "如果你更看重原生音频生成与电影感真实效果，优先选 Veo 3；如果你需要多镜头叙事与更长时长选项，Wan 2.6 可能更合适。"
+        },
+        "7": {
+          "question": "在 OpenCreator 上支持哪些比例与分辨率？",
+          "answer": "在 OpenCreator 上，Veo 3 通常支持常见比例（如 16:9、9:16）。分辨率选项会随工作流变化，常见为 720p 与 1080p。"
+        },
+        "8": {
+          "question": "如何写提示词让音频更自然？",
+          "answer": "建议明确描述声音环境（环境音）、关键音效，以及需要的对白内容。让音频描述与画面动作对齐（例如脚步声与步伐节奏一致）。"
+        },
+        "9": {
+          "question": "Veo 3 可以控制镜头运动吗？",
+          "answer": "可以。你可以在提示词中加入镜头指令，例如“缓慢推进”“手持跟拍”“广角全景”。先从简单镜头开始，再逐步叠加复杂度。"
+        },
+        "10": {
+          "question": "Veo 3 能生成超过 8 秒的视频吗？",
+          "answer": "Veo 3 通常更擅长生成短片段（例如最长 8 秒）。要做更长的视频，你可以分段生成多个镜头并在工作流中拼接，同时通过风格与主体描述保持一致。"
+        },
+        "11": {
+          "question": "Veo 3 支持图生视频和文生视频吗？",
+          "answer": "支持。想要更稳定的主体/风格一致性建议用图生视频；想要更自由的创意探索可用文生视频。"
+        },
+        "12": {
+          "question": "Veo 3 在 OpenCreator 上怎么计费？",
+          "answer": "每次生成会消耗积分，具体取决于输出设置。本页定价区域会展示你当前套餐下的最新费用。"
+        }
+      }
+    }
+  }
+}

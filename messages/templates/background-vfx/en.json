@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "Background VFX – Visual Effects Background Creator | OpenCreator",
+    "description": "Create stunning visual effects backgrounds for videos with AI. Generate dynamic, eye-catching backgrounds that enhance your content with professional VFX.",
+    "keywords": [
+      "background vfx creator",
+      "visual effects generator",
+      "animated background maker",
+      "motion graphics ai",
+      "video background effects",
+      "create vfx backgrounds with ai",
+      "particle effects generator",
+      "dynamic video backgrounds"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#vfx", "#motion_graphics", "#visual_effects"],
+    "title": "Background VFX",
+    "description": "Create stunning visual effects backgrounds for videos with AI. Generate dynamic, eye-catching backgrounds that enhance your content with professional visual effects. Perfect for content creators who want to add cinematic quality to their videos without expensive VFX software or expertise.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe the visual effects background you want...",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your desired VFX background",
+        "description": "Input the type of visual effects you want, including style, mood, colors, and specific effects like particles, motion, or atmospheric elements."
+      },
+      {
+        "title": "Choose VFX style and complexity",
+        "description": "Select from various VFX background styles including abstract patterns, particle systems, geometric animations, or atmospheric effects."
+      },
+      {
+        "title": "Generate professional VFX backgrounds",
+        "description": "Create dynamic visual effects backgrounds with professional quality, smooth animations, and cinematic visual appeal."
+      },
+      {
+        "title": "Export and integrate into your content",
+        "description": "Download high-quality VFX backgrounds ready for video editing, presentations, streaming overlays, or social media content."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for content creators and video professionals",
+    "subtitle": "From video editors to social media creators, see who uses AI for VFX backgrounds.",
+    "audiences": [
+      {
+        "label": "Video editors & content creators",
+        "description": "Enhance videos with professional visual effects backgrounds without expensive VFX software or technical expertise."
+      },
+      {
+        "label": "Social media creators",
+        "description": "Create eye-catching video backgrounds that stop the scroll and increase engagement on TikTok, Instagram, and YouTube."
+      },
+      {
+        "label": "Motion graphics artists",
+        "description": "Generate dynamic background elements and visual effects to enhance motion graphics projects and animations."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Create professional video backgrounds for presentations, commercials, and marketing content with cinematic quality."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Background VFX workflow?",
+        "answer": "Background VFX is an AI-powered workflow that creates stunning visual effects backgrounds for videos and content. Generate dynamic, eye-catching backgrounds that enhance your videos with professional visual effects."
+      },
+      {
+        "question": "Who is Background VFX designed for?",
+        "answer": "Background VFX is perfect for content creators: video editors, social media creators, motion graphics artists, and marketing teams who need dynamic backgrounds."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You describe the type of visual effects background you want, including style, mood, colors, and the type of content it will be used for."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates dynamic visual effects backgrounds with professional quality, including particle effects, motion graphics, and animated backgrounds."
+      },
+      {
+        "question": "Can I create different VFX styles?",
+        "answer": "Yes. Generate various VFX background styles including abstract patterns, particle systems, geometric animations, and atmospheric effects."
+      },
+      {
+        "question": "How do credits and pricing work for Background VFX?",
+        "answer": "Each VFX background generation consumes credits based on the complexity and length of the visual effects. The cost is optimized compared to professional VFX production."
+      },
+      {
+        "question": "Is this suitable for professional video production?",
+        "answer": "Absolutely. Create broadcast-quality visual effects backgrounds suitable for professional videos, presentations, and commercial content."
+      },
+      {
+        "question": "Can I use these backgrounds for different platforms?",
+        "answer": "Yes. Generate VFX backgrounds optimized for various platforms including social media, presentations, streaming, and professional video production."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Background VFX – Visual Effects Background Creator",
+      "description": "Create stunning visual effects backgrounds for videos with AI to enhance content with professional VFX."
+    },
+    "softwareApplication": {
+      "name": "Background VFX AI Creator",
+      "description": "AI-powered visual effects background generator for creating dynamic motion graphics and VFX content."
+    },
+    "faqPage": {
+      "name": "Background VFX – FAQ"
+    }
+  }
+}

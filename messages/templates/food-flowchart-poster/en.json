@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Food Flowchart Poster – AI Recipe Visualization | OpenCreator",
+    "description": "Create beautiful food flowchart posters with AI. Transform recipes into visually stunning step-by-step cooking guides and culinary infographics automatically.",
+    "keywords": [
+      "food flowchart",
+      "recipe poster generator",
+      "cooking infographic",
+      "recipe visualization",
+      "food process chart",
+      "culinary flowchart",
+      "recipe step poster",
+      "food instruction design"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#food", "#recipe", "#flowchart"],
+    "title": "Food Flowchart Poster",
+    "description": "Create beautiful food flowchart posters with AI. Transform recipes and cooking processes into visually stunning step-by-step guides that are both informative and aesthetically pleasing. Perfect for food bloggers, recipe creators, and culinary content producers.",
+    "inputPlaceholder": "Describe your recipe or upload food images",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your recipe or process",
+        "description": "Describe your cooking process, recipe steps, or upload food images. Our AI understands culinary workflows and ingredient transformations."
+      },
+      {
+        "title": "Select poster style and layout",
+        "description": "Choose from various design styles—minimalist, rustic, modern, or magazine-style layouts that best match your food content aesthetic."
+      },
+      {
+        "title": "Generate food flowchart poster",
+        "description": "AI creates a beautiful visual flowchart showing your recipe process with appetizing food imagery, clear step indicators, and cohesive design."
+      },
+      {
+        "title": "Download your culinary poster",
+        "description": "Export high-resolution food flowchart posters ready for social media, blog posts, recipe cards, or print applications."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for food content creators",
+    "subtitle": "From food bloggers to culinary educators, see who creates recipe visuals with AI.",
+    "audiences": [
+      {
+        "label": "Food bloggers",
+        "description": "Transform recipes into shareable visual content that drives engagement and makes your culinary content stand out."
+      },
+      {
+        "label": "Recipe developers",
+        "description": "Create professional recipe presentations for cookbooks, websites, and apps with consistent, beautiful formatting."
+      },
+      {
+        "label": "Culinary educators",
+        "description": "Develop visual teaching materials that help students understand cooking processes and techniques clearly."
+      },
+      {
+        "label": "Restaurant marketers",
+        "description": "Create appetizing visual content showcasing signature dishes and cooking processes for marketing campaigns."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Food Flowchart Poster workflow?",
+        "answer": "This AI workflow transforms recipes and cooking processes into beautiful visual flowchart posters—combining appetizing food imagery with clear step-by-step instructions in a cohesive design."
+      },
+      {
+        "question": "What types of recipes can I visualize?",
+        "answer": "Any cooking process: complete recipes, cooking techniques, food preparation methods, baking procedures, or beverage crafting—anything with sequential steps."
+      },
+      {
+        "question": "What design styles are available?",
+        "answer": "Choose from minimalist, rustic farmhouse, modern clean, magazine editorial, vintage cookbook, and various aesthetic styles to match your brand."
+      },
+      {
+        "question": "Can I include my own food photos?",
+        "answer": "Yes. Upload your own food photography to incorporate into the flowchart, or let the AI generate appetizing food imagery for each step."
+      },
+      {
+        "question": "Is this suitable for social media?",
+        "answer": "Absolutely. Food flowchart posters are highly shareable and perform well on Pinterest, Instagram, and food-focused social platforms."
+      },
+      {
+        "question": "Can I create multiple-language versions?",
+        "answer": "Yes. Generate the same flowchart design with text in different languages for international audiences or multilingual food blogs."
+      },
+      {
+        "question": "What about print applications?",
+        "answer": "Output is high-resolution suitable for recipe cards, cookbook pages, kitchen wall art, and professional print materials."
+      },
+      {
+        "question": "Can I maintain consistent branding?",
+        "answer": "Yes. Apply consistent design themes across multiple recipe posters for cohesive brand presentation on your food blog or channel."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Food Flowchart Poster – AI Recipe Visualization",
+      "description": "Create beautiful food flowchart posters with AI. Transform recipes into visually stunning step-by-step cooking guides."
+    },
+    "softwareApplication": {
+      "name": "Food Flowchart Poster AI",
+      "description": "AI-powered recipe visualization tool for creating beautiful food flowchart posters and culinary infographics."
+    },
+    "faqPage": {
+      "name": "Food Flowchart Poster – FAQ"
+    }
+  }
+}

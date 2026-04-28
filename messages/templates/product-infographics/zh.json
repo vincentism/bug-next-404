@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "Product Infographics – 产品信息图生成 | OpenCreator",
+    "description": "把复杂产品特性转化为清晰、易转化的信息图。Amazon 信息图制作器和 A+ 内容 Amazon，一键生成对比表、功能亮点、图标与示意图。",
+    "keywords": [
+      "Amazon 信息图制作器",
+      "A+ 内容 Amazon",
+      "产品信息图生成",
+      "Amazon 商品图片",
+      "产品图片生成器",
+      "AI 产品图片生成",
+      "电商信息图工具",
+      "功能对比图",
+      "AI 产品信息图",
+      "功能信息图"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#信息图", "#产品营销", "#电商"],
+    "title": "产品信息图",
+    "description": "无需设计师，即可把复杂功能与卖点做成清晰的信息图。支持对比表、功能亮点、图标与流程示意等。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "列出你的产品功能、规格与关键卖点",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "提供产品要点与价值主张",
+        "description": "粘贴功能、规格、对比与卖点等文本信息。"
+      },
+      {
+        "title": "选择信息图布局与风格",
+        "description": "功能网格、前后对比、规格对比表或卖点示意图等。"
+      },
+      {
+        "title": "生成品牌化信息图",
+        "description": "AI 以你的品牌色与字体系生成含图标与层级的信息图。"
+      },
+      {
+        "title": "导出用于详情页、演示与广告",
+        "description": "下载高分辨率信息图，适配 PDP、提案与营销。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合需要“把产品讲清楚”的团队",
+    "subtitle": "从电商到 SaaS，都能用 AI 信息图提升理解与转化。",
+    "audiences": [
+      {
+        "label": "电商产品团队",
+        "description": "帮助用户在 PDP 上快速理解规格、用途与差异化。"
+      },
+      {
+        "label": "SaaS 与软件市场",
+        "description": "把流程、架构与功能集做成任何人都能看懂的图。"
+      },
+      {
+        "label": "B2B 销售与售前",
+        "description": "无需等待设计，即可制作用于提案与演示的讲解图。"
+      },
+      {
+        "label": "代理商与工作室",
+        "description": "为多行业客户规模化产出信息图。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Product Infographics 工作流？",
+        "answer": "一个把产品文本要点转化为品牌化信息图的 AI 工作流，强调清晰传达与转化。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "电商团队、SaaS 市场、B2B 销售与代理商等。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "提供功能、规格、对比与卖点等文本。"
+      },
+      {
+        "question": "输出包含什么？",
+        "answer": "适配详情页、演示文档与广告的高分辨率信息图。"
+      },
+      {
+        "question": "能否选择布局与品牌风格？",
+        "answer": "可以。可选多种布局，AI 将套用你的品牌色与字体系。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "按分辨率与范围消耗积分，你可在套餐内迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Infographics – 产品信息图生成",
+      "description": "面向营销与销售的产品信息图自动生成。"
+    },
+    "softwareApplication": {
+      "name": "Product Infographics 模板",
+      "description": "将文本转化为产品信息图的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Product Infographics – 常见问题"
+    }
+  }
+}

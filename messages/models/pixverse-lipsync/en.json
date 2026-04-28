@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Pixverse Lipsync AI | Realistic Lip Sync | OpenCreator",
+      "description": "Create realistic lip sync videos with Pixverse Lipsync. High-quality audio-to-video synchronization for talking head videos, animated portraits, and social content. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Pixverse Lipsync",
+      "tagline": "Realistic AI Lip Sync",
+      "description": "Pixverse Lipsync generates realistic lip sync animations from audio using advanced algorithms for high-quality synchronization. Perfect for talking head videos, animated portraits, and social media content creation.",
+      "badge": "Popular",
+      "ctaText": "Try Pixverse Lipsync Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "videoToVideo": "Video to Video",
+        "audioSync": "Audio Sync",
+        "lipSync": "Lip Sync",
+        "realistic": "Realistic Output",
+        "fast": "Fast Processing"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Pixverse Lipsync a powerful choice for lip sync generation",
+      "items": {
+        "realistic": {
+          "title": "Realistic Lip Movements",
+          "description": "Generate natural-looking lip movements that accurately match spoken audio with high-quality synchronization."
+        },
+        "audioSync": {
+          "title": "Audio-Video Synchronization",
+          "description": "Advanced algorithms ensure precise alignment between audio input and generated lip movements frame by frame."
+        },
+        "versatile": {
+          "title": "Versatile Input Support",
+          "description": "Works with various video formats including MP4, MOV, WebM, and supports audio formats like MP3, WAV, and AAC."
+        },
+        "quality": {
+          "title": "High Quality Output",
+          "description": "Maintains video quality while adding realistic lip sync, suitable for professional and social media content."
+        },
+        "fast": {
+          "title": "Fast Processing",
+          "description": "Efficient generation pipeline delivers results quickly, enabling rapid iteration for content creators."
+        },
+        "api": {
+          "title": "API Access",
+          "description": "Full API access for integration into automated workflows and content production pipelines."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with Pixverse Lipsync on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "talkingHead": {
+          "title": "Talking Head Videos",
+          "description": "Social Content",
+          "useCase": "Create engaging talking head videos for social media with realistic lip sync."
+        },
+        "marketing": {
+          "title": "Marketing Videos",
+          "description": "Brand Content",
+          "useCase": "Produce professional marketing videos with synchronized spokesperson content."
+        },
+        "dubbing": {
+          "title": "Video Dubbing",
+          "description": "Localization",
+          "useCase": "Dub videos into different languages while maintaining natural lip movements."
+        },
+        "ugc": {
+          "title": "UGC Content",
+          "description": "Creator Economy",
+          "useCase": "Generate user-generated style content with authentic-looking lip sync."
+        },
+        "education": {
+          "title": "Educational Content",
+          "description": "E-Learning",
+          "useCase": "Create educational videos with clear, synchronized speech for better engagement."
+        },
+        "avatar": {
+          "title": "Avatar Animation",
+          "description": "Digital Characters",
+          "useCase": "Animate digital avatars and characters with realistic speech synchronization."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Pixverse Lipsync capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "videoFormats": "Video Formats",
+          "audioFormats": "Audio Formats",
+          "outputFormat": "Output Format",
+          "maxDuration": "Max Duration"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "lipSync": "Lip Sync",
+          "audioSync": "Audio Sync",
+          "faceDetection": "Face Detection",
+          "multiLanguage": "Multi-Language"
+        },
+        "quality": {
+          "title": "Quality",
+          "realism": "Realism",
+          "consistency": "Consistency",
+          "resolution": "Resolution Preservation",
+          "frameRate": "Frame Rate"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Pixverse Lipsync compares to other lip sync models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "lipSync": "Lip Sync",
+        "realism": "Realism",
+        "speed": "Speed",
+        "multiLanguage": "Multi-Language",
+        "apiAccess": "API Access",
+        "freeTier": "Free Tier"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits based on video duration. Subscribe to save more.",
+      "viewFullPricing": "View full pricing →",
+      "description": "Realistic lip sync generation",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Pixverse Lipsync?",
+          "answer": "Pixverse Lipsync is an AI model that generates realistic lip sync animations from audio. It uses advanced algorithms to create high-quality synchronization between audio input and lip movements in video."
+        },
+        "1": {
+          "question": "What types of content can I create with Pixverse Lipsync?",
+          "answer": "Pixverse Lipsync is ideal for creating talking head videos, marketing content, video dubbing, UGC content, educational videos, and avatar animations with realistic lip synchronization."
+        },
+        "2": {
+          "question": "What video formats does Pixverse Lipsync support?",
+          "answer": "Pixverse Lipsync supports common video formats including MP4, MOV, WebM, M4V, and GIF. Audio formats supported include MP3, OGG, WAV, M4A, and AAC."
+        },
+        "3": {
+          "question": "How realistic is the lip sync?",
+          "answer": "Pixverse Lipsync produces high-quality, realistic lip movements that accurately match the audio input. The model is designed for professional-grade output suitable for social media and marketing content."
+        },
+        "4": {
+          "question": "Can I use Pixverse Lipsync for multiple languages?",
+          "answer": "Yes, Pixverse Lipsync works with audio in multiple languages, making it suitable for dubbing and localization projects across different markets."
+        },
+        "5": {
+          "question": "How much does Pixverse Lipsync cost?",
+          "answer": "Pixverse Lipsync costs 48 credits per generation on OpenCreator. It's available on the free tier, Canvas, Flow, and via API. Subscribers get additional discounts."
+        }
+      }
+    }
+  }
+}

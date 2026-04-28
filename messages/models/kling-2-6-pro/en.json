@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.6 Pro AI Video Generator | Kuaishou | OpenCreator",
+      "description": "Create stunning videos with Kling 2.6 Pro from Kuaishou. Simultaneous audio-visual generation with speech, sound effects, and ambient sounds. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Kling 2.6 Pro",
+      "tagline": "Simultaneous Audio-Visual Generation",
+      "description": "Kling 2.6 Pro is Kuaishou's latest video model featuring simultaneous audio-visual generation. Generate videos complete with speech, sound effects, and ambient sounds in a single pass, revolutionizing the AI video creation workflow.",
+      "badge": "New",
+      "ctaText": "Try Kling 2.6 Pro Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "duration": "Up to 10s",
+        "audioVisual": "Audio-Visual",
+        "lipSync": "Lip Sync"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Kling 2.6 Pro Kuaishou's most advanced video model",
+      "items": {
+        "audioVisual": {
+          "title": "Simultaneous Audio-Visual",
+          "description": "Generate visuals, natural voiceovers, sound effects, and ambient atmosphere in a single pass - no more separate dubbing workflows."
+        },
+        "voiceGeneration": {
+          "title": "World-Leading Voice Generation",
+          "description": "Exceptional Chinese and English voice generation with tight coordination between voice rhythm, ambient sound, and visual motion."
+        },
+        "audioQuality": {
+          "title": "Professional Audio Quality",
+          "description": "Generate cleaner, richly layered audio that closely mirrors realistic audio mixing, meeting professional-grade production standards."
+        },
+        "semanticUnderstanding": {
+          "title": "Robust Semantic Understanding",
+          "description": "Accurately captures creator intent from textual descriptions, colloquial expressions, and complex storylines across varied scenarios."
+        },
+        "multiAudio": {
+          "title": "Versatile Audio Types",
+          "description": "Support for speech, dialogue, narration, singing, rap, ambient sound effects, and mixed sound effects in generated videos."
+        },
+        "lipSync": {
+          "title": "Accurate Lip Sync",
+          "description": "Deep alignment ensures visual dynamics match audio rhythms, eliminating mismatched audio-video experiences."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with Kling 2.6 Pro on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "advertising": {
+          "title": "Short Ads",
+          "description": "Advertising & Marketing",
+          "useCase": "One-click generation of short ads featuring narration, character dialogue, and product showcases with comprehensive sound effects."
+        },
+        "social": {
+          "title": "Social Media Content",
+          "description": "TikTok & Reels",
+          "useCase": "Create engaging social content with multi-character dialogue, interviews, scripted performances, and comedy skits."
+        },
+        "ecommerce": {
+          "title": "E-commerce Videos",
+          "description": "Product Showcase",
+          "useCase": "Automate creation of product showcase videos highlighting key selling points with narration and monologue."
+        },
+        "music": {
+          "title": "Music Performance",
+          "description": "Singing & Rap",
+          "useCase": "Generate music videos with singing, rap, and instrumental performances with accurate lip synchronization."
+        },
+        "dialogue": {
+          "title": "Character Dialogue",
+          "description": "Multi-Character",
+          "useCase": "Create videos with natural multi-character dialogue, interviews, and scripted performances."
+        },
+        "narration": {
+          "title": "Narrated Content",
+          "description": "Voice-Over Videos",
+          "useCase": "Generate videos with professional narration and ambient sound effects for storytelling."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Kling 2.6 Pro capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "audioGeneration": "Audio Generation",
+          "lipSync": "Lip Sync"
+        },
+        "audioFeatures": {
+          "title": "Audio Features",
+          "speech": "Speech Generation",
+          "soundEffects": "Sound Effects",
+          "ambientSound": "Ambient Sound",
+          "musicPerformance": "Music Performance"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Kling 2.6 Pro compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "maxDuration": "Max Duration",
+        "audioGeneration": "Audio Generation",
+        "lipSync": "Lip Sync",
+        "soundEffects": "Sound Effects"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits vary by duration. Subscribe to save more.",
+      "viewFullPricing": "View full pricing →",
+      "description": "Kuaishou's latest audio-visual model",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Kling 2.6 Pro and who developed it?",
+          "answer": "Kling 2.6 Pro is Kuaishou's latest AI video model released in December 2025. It features simultaneous audio-visual generation, producing videos complete with speech, sound effects, and ambient sounds in a single pass."
+        },
+        "1": {
+          "question": "What types of content can I create with Kling 2.6 Pro?",
+          "answer": "Kling 2.6 Pro excels at creating advertising videos, social media content, e-commerce showcases, music performances, character dialogues, and narrated content. It supports both text-to-video and image-to-video generation."
+        },
+        "2": {
+          "question": "How long can Kling 2.6 Pro videos be?",
+          "answer": "Kling 2.6 Pro can generate videos up to 10 seconds in length with complete audio-visual content including speech, sound effects, and ambient sounds."
+        },
+        "3": {
+          "question": "What audio types does Kling 2.6 Pro support?",
+          "answer": "Kling 2.6 Pro supports speech, dialogue, narration, singing, rap, ambient sound effects, and mixed sound effects. It currently supports Chinese and English voice generation."
+        },
+        "4": {
+          "question": "How is the audio quality in Kling 2.6 Pro?",
+          "answer": "Kling 2.6 Pro generates cleaner, richly layered audio that closely mirrors realistic audio mixing. The audio-visual coordination ensures tight synchronization between voice rhythm, ambient sound, and visual motion."
+        },
+        "5": {
+          "question": "How does Kling 2.6 Pro compare to other AI video models?",
+          "answer": "Kling 2.6 Pro stands out for its simultaneous audio-visual generation capability, eliminating the need for separate dubbing workflows. While Veo 3 also offers audio generation, Kling 2.6 Pro excels in Chinese voice generation and audio-visual coordination."
+        }
+      }
+    }
+  }
+}

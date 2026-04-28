@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Background Music – AI Background Music Generator | OpenCreator",
+    "description": "Generate original background music tailored to your video's mood, pacing, and genre with OpenCreator's Background Music workflow.",
+    "keywords": [
+      "ai background music generator",
+      "custom soundtrack ai",
+      "video background music",
+      "royalty free music creator",
+      "ai music for youtube",
+      "how to generate background music with ai",
+      "best ai background music tool for videos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#background_music", "#audio", "#soundtracks"],
+    "title": "Background Music",
+    "description": "Generate custom background music tailored to your content's mood, pacing, and style. Perfect for videos, podcasts, games, presentations, and any creative project that needs a polished audio backdrop—all without licensing hassles.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe the mood, tempo, or genre you need",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your content and mood",
+        "description": "Explain what kind of content you are scoring, along with tempo, emotions, and any genre references such as lofi, orchestral, or electronic."
+      },
+      {
+        "title": "Optionally upload reference video",
+        "description": "Provide a sample or final cut so AI can better understand pacing, cuts, and scene changes when generating music."
+      },
+      {
+        "title": "Generate AI background music tracks",
+        "description": "Run the Background Music workflow to compose and produce tracks that align with your brief and content needs."
+      },
+      {
+        "title": "Export for editing and publishing",
+        "description": "Download mixed tracks or stems (where available) and drop them into your editing timeline or audio workflow."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators who need music that fits like a glove",
+    "subtitle": "From YouTubers to brands, see who scores with AI.",
+    "audiences": [
+      {
+        "label": "Video creators and editors",
+        "description": "Quickly find or generate music that syncs with edits and pacing for vlogs, explainers, and social clips."
+      },
+      {
+        "label": "Marketing and social teams",
+        "description": "Create on-brand background tracks for campaigns and ads without long licensing or briefing cycles."
+      },
+      {
+        "label": "Podcasters and educators",
+        "description": "Add intros, outros, and gentle beds that match the tone of your shows, lessons, or webinars."
+      },
+      {
+        "label": "Indie devs and product teams",
+        "description": "Prototype or supplement background music for apps, games, or interactive experiences using fast AI scores."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Background Music AI workflow do?",
+        "answer": "This workflow generates original background music tailored to your content's mood, pacing, and genre. It is designed as an AI background music generator for social videos, ads, tutorials, and other projects that need custom soundtracks."
+      },
+      {
+        "question": "What kind of input leads to the best background music?",
+        "answer": "Describe your video type, desired tempo, emotions, and preferred genres or references—for example \"slow, warm lofi beat for a study vlog\" or \"upbeat electronic track for a product launch reel.\" Optionally, you can reference the structure of your video so pacing matches more closely."
+      },
+      {
+        "question": "Can I use AI-generated background music on YouTube or social platforms?",
+        "answer": "Many creators use AI background music for YouTube, TikTok, and other platforms. Before publishing at scale, you should always review OpenCreator's latest usage terms and any model-specific guidelines to understand how licensing and attribution work for your plan."
+      },
+      {
+        "question": "Does this replace working with a human composer?",
+        "answer": "The workflow is best thought of as a fast scoring assistant. It helps you prototype, test directions, or generate production-ready beds for simpler use cases. For highly bespoke scores or complex projects, many teams still collaborate with composers and use AI tracks as references or starting points."
+      },
+      {
+        "question": "What are typical use cases for AI background music?",
+        "answer": "Common use cases include intros and outros for channels, looping beds for tutorials or explainers, on-brand tracks for campaigns, and prototype soundtracks for apps, games, or interactive experiences."
+      },
+      {
+        "question": "How do credits and costs work for Background Music generations?",
+        "answer": "Each background music generation consumes credits depending on duration and model settings. A practical approach is to experiment with shorter previews first, then generate longer or higher-fidelity versions once you like a particular direction."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Background Music – AI Background Music Generator",
+      "description": "Generate original background music tailored to your video's mood, pacing, and genre for social content, ads, and tutorials."
+    },
+    "softwareApplication": {
+      "name": "AI Background Music Generator",
+      "description": "AI workflow that creates custom background music for videos, podcasts, and digital experiences."
+    },
+    "faqPage": {
+      "name": "Background Music – FAQ"
+    }
+  }
+}

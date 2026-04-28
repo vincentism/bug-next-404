@@ -1,0 +1,187 @@
+{
+  "model": {
+    "meta": {
+      "title": "Grok Imagine AI 图像生成器 | 提示词增强 | OpenCreator",
+      "description": "使用 xAI 的 Grok Imagine 生成高美感图像。支持多种宽高比与输出格式，并返回增强后的 revised_prompt，便于快速迭代。在 OpenCreator 以超低成本试用。"
+    },
+    "hero": {
+      "modelName": "Grok Imagine",
+      "tagline": "高美感生成，提示词可追溯",
+      "description": "xAI 的文生图模型，用于生成高美感视觉效果。Grok Imagine 支持丰富的宽高比与输出格式，并返回增强后的 revised_prompt，帮助你更快迭代——同时保持超低成本。",
+      "badge": "新模型",
+      "ctaText": "免费试用 Grok Imagine",
+      "secondaryCtaText": "查看价格",
+      "capabilities": {
+        "auroraModel": "增强提示词",
+        "photorealistic": "文生图",
+        "styleModes": "多宽高比",
+        "fastAffordable": "多格式输出"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Grok Imagine 强大的图像生成能力",
+      "items": {
+        "aurora": {
+          "title": "提示词增强（revised_prompt）",
+          "description": "接口会返回 revised_prompt（增强后的提示词），让你清楚模型实际使用的提示词，更容易复盘并持续优化。"
+        },
+        "photorealistic": {
+          "title": "灵活宽高比",
+          "description": "支持大量宽高比（如 1:1、16:9、9:16、20:9、2:1 等），适配广告投放、社媒封面与网站素材。"
+        },
+        "styleModes": {
+          "title": "多种输出格式",
+          "description": "支持 jpeg / png / webp 输出，可根据清晰度与体积需求选择合适格式。"
+        },
+        "editing": {
+          "title": "精准图像编辑",
+          "description": "通过 Grok Imagine 的编辑接口，用文本指令修改现有图片，适合做局部优化与细节调整。"
+        },
+        "lowCost": {
+          "title": "超低成本",
+          "description": "每张图像仅需 24 积分。市面上性价比最高的高质量图像生成器之一。"
+        },
+        "fast": {
+          "title": "更易迭代的创作流程",
+          "description": "结合提示词增强、宽高比选择与图像编辑能力，帮助你更高效地迭代创意产出。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "效果展示",
+      "subtitle": "在 OpenCreator 上使用 Grok Imagine 创作的真实案例",
+      "tryWorkflow": "尝试此工作流 →",
+      "items": {
+        "portrait": {
+          "title": "专业人像",
+          "description": "商业摄影",
+          "useCase": "创建具有自然光线和工作室品质的专业头像和商务人像。"
+        },
+        "product": {
+          "title": "产品摄影",
+          "description": "电商级别",
+          "useCase": "生成精美的产品图像，适用于电商列表和营销材料。"
+        },
+        "landscape": {
+          "title": "自然风景",
+          "description": "风光摄影",
+          "useCase": "创作色彩丰富、细节精美的震撼风景和自然摄影作品。"
+        },
+        "illustration": {
+          "title": "吉卜力风格",
+          "description": "艺术插画",
+          "useCase": "生成受吉卜力工作室美学启发的精美动漫风格插画。"
+        },
+        "cyberpunk": {
+          "title": "赛博朋克城市",
+          "description": "科幻概念艺术",
+          "useCase": "创作霓虹灯光和赛博朋克美学的未来城市景观，用于创意项目。"
+        },
+        "food": {
+          "title": "美食摄影",
+          "description": "餐饮视觉",
+          "useCase": "生成令人垂涎的美食摄影，适用于餐厅和食品品牌。"
+        },
+        "fashion": {
+          "title": "时尚人像",
+          "description": "生活方式摄影",
+          "useCase": "创作在美丽自然环境中的精美时尚和生活方式人像。"
+        },
+        "architecture": {
+          "title": "现代建筑",
+          "description": "建筑设计",
+          "useCase": "生成线条简洁、几何阴影的极简建筑摄影。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Grok Imagine 的全部能力",
+      "categories": {
+        "inputOutput": {
+          "title": "输入输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "aspectRatios": "宽高比"
+        },
+        "modes": {
+          "title": "生成模式",
+          "textToImage": "文生图",
+          "imageEditing": "图像编辑",
+          "styleModes": "增强提示词"
+        },
+        "performance": {
+          "title": "性能",
+          "generationSpeed": "生成速度",
+          "architecture": "模型架构"
+        },
+        "quality": {
+          "title": "画质特性",
+          "photorealism": "照片写实",
+          "promptFidelity": "提示词增强",
+          "aesthetics": "视觉美感"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "查看 Grok Imagine 与其他图像模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToImage": "文生图",
+        "speed": "生成速度",
+        "promptFollowing": "提示词增强",
+        "photorealism": "照片写实",
+        "cost": "成本效益",
+        "quality": "视觉质量"
+      }
+    },
+    "pricing": {
+      "title": "超值之选",
+      "subtitle": "",
+      "description": "丰富美感，超低成本",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划",
+      "note": "积分按次消耗，实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整价格 →",
+      "planSectionTitle": "订阅享受更多优惠",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerGenerationLabel": "每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Grok Imagine？由谁开发？",
+          "answer": "Grok Imagine 是 xAI 的文生图模型，用于生成高美感图像。在 OpenCreator 上，你可以结合提示词增强与多种输出选项快速迭代。"
+        },
+        "1": {
+          "question": "Grok Imagine 与其他图像模型有什么不同？",
+          "answer": "Grok Imagine 支持丰富的宽高比与输出格式，并在结果中返回 revised_prompt（增强后的提示词）。这让你更容易复盘模型如何理解你的需求，并持续优化提示词。"
+        },
+        "2": {
+          "question": "Grok Imagine 支持哪些宽高比？",
+          "answer": "Grok Imagine 支持广泛的宽高比，包括 1:1、16:9、9:16、4:3、3:4、3:2、2:3、2:1、1:2，以及移动端专用比例如 19.5:9 和 20:9。"
+        },
+        "3": {
+          "question": "Grok Imagine 会增强我的提示词吗？",
+          "answer": "会。接口响应会包含 revised_prompt 字段（增强后的提示词），你可以用它来理解模型实际采用的提示词，并据此优化下一次生成。"
+        },
+        "4": {
+          "question": "生成图像需要多少费用？",
+          "answer": "Grok Imagine 文生图仅需 24 积分，图像编辑仅需 27 积分，是最实惠的高质量图像生成器之一。"
+        },
+        "5": {
+          "question": "支持哪些输出格式？",
+          "answer": "Grok Imagine 支持 JPEG、PNG 和 WebP 输出格式。默认格式为 JPEG，可在文件大小和质量之间取得最佳平衡。"
+        }
+      }
+    }
+  }
+}

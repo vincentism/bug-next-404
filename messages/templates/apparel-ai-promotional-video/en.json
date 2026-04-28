@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Apparel AI Promotional Video – Fashion Video Generator | OpenCreator",
+    "description": "Create professional fashion promotional videos with AI. Transform clothing and accessory images into dynamic model videos with multiple scenes and camera angles—perfect for fashion brands and apparel marketing.",
+    "keywords": [
+      "apparel promotional video",
+      "ai fashion video generator",
+      "clothing marketing video",
+      "fashion brand video",
+      "ai model video creator",
+      "apparel advertising video",
+      "fashion promotional content",
+      "clothing video maker",
+      "ai fashion marketing",
+      "brand video generator",
+      "fashion campaign video",
+      "apparel video production"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#fashion", "#branding", "#promotional_video"],
+    "title": "Apparel AI Promotional Video",
+    "description": "Create professional fashion promotional videos from your product images. Upload a model photo, clothing, and accessories—Nano Banana Pro combines them into styled scenes, then generates dynamic video clips from multiple angles. Perfect for fashion brands needing high-quality video content without expensive productions.",
+    "inputPlaceholder": "Upload model and apparel images",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload model and apparel images",
+        "description": "Provide a base model photo along with the clothing items (coat, dress, etc.) and accessories (bags, jewelry) you want to showcase. The AI will combine them naturally."
+      },
+      {
+        "title": "AI creates styled model images",
+        "description": "Nano Banana Pro dresses the model in your apparel, replacing outfits and adding accessories while maintaining the model's identity and natural proportions across multiple poses."
+      },
+      {
+        "title": "Generate diverse scene variations",
+        "description": "The workflow creates multiple styled images with different poses, angles, and compositions—from full-body fashion shots to detail close-ups showcasing specific items."
+      },
+      {
+        "title": "Transform images into video clips",
+        "description": "Each styled image is animated into a dynamic video clip with natural movements. The final output includes multiple video segments ready for social media or brand campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for fashion brands and apparel marketers",
+    "subtitle": "From clothing brands to fashion influencers, see who creates promotional videos with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create professional promotional videos showcasing your apparel collections without expensive video shoots, models, or production crews."
+      },
+      {
+        "label": "E-commerce clothing stores",
+        "description": "Generate engaging video content for product pages and social media that shows how your clothing looks in motion, increasing customer confidence."
+      },
+      {
+        "label": "Fashion marketers",
+        "description": "Produce diverse video assets for campaigns, ads, and social media from product photos, maximizing content output with minimal production investment."
+      },
+      {
+        "label": "Boutique owners",
+        "description": "Access high-quality fashion video production without the budget for professional shoots—showcase your curated collections with polished promotional content."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Apparel AI Promotional Video workflow?",
+        "answer": "This AI-powered workflow creates professional fashion promotional videos. It combines your model photos with clothing and accessories to generate multiple styled scenes, then transforms each into dynamic video clips for marketing and social media."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for image generation—dressing models in your apparel and creating diverse poses. Video generation transforms these styled images into dynamic clips with natural movement."
+      },
+      {
+        "question": "What images do I need to provide?",
+        "answer": "You need a base model photo, clothing items (like coats, dresses, tops), and any accessories (bags, jewelry) you want to include. The AI combines them realistically in the generated content."
+      },
+      {
+        "question": "How many video clips does the workflow generate?",
+        "answer": "The workflow generates multiple styled images from different angles, each converted into a video clip. You'll receive several video segments showcasing your apparel from various perspectives."
+      },
+      {
+        "question": "Will the clothing fit naturally on the model?",
+        "answer": "Yes. Nano Banana Pro specializes in realistic apparel placement. The clothing will appear properly fitted with natural draping, proportions, and integration with the model's pose."
+      },
+      {
+        "question": "Can I showcase multiple outfit combinations?",
+        "answer": "Yes. The workflow can combine different clothing pieces and accessories in the same run, allowing you to create coordinated looks or highlight specific items."
+      },
+      {
+        "question": "What video formats are supported?",
+        "answer": "The generated videos are optimized for social media platforms and can be used on Instagram, TikTok, product pages, and brand campaigns. Standard video formats are supported."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Credits are consumed based on the AI models used. Nano Banana Pro (50% discount) handles image generation, and video generation converts each scene into dynamic content."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Apparel AI Promotional Video – Fashion Video Generator",
+      "description": "Create professional fashion promotional videos with AI from clothing and accessory images."
+    },
+    "softwareApplication": {
+      "name": "Apparel AI Promotional Video Generator",
+      "description": "AI-powered fashion video creator for generating promotional videos from apparel and model images."
+    },
+    "faqPage": {
+      "name": "Apparel AI Promotional Video – FAQ"
+    }
+  }
+}

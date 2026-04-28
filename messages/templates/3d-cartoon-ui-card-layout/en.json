@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "3D Cartoon UI Card Layout – AI Design Generator | OpenCreator",
+    "description": "Create stunning 3D cartoon-style UI card layouts with AI. Perfect for app interfaces, social media content, and creative design projects.",
+    "keywords": [
+      "3D cartoon UI design",
+      "AI card layout generator",
+      "3D UI components",
+      "cartoon style interface",
+      "AI design tool",
+      "UI card generator",
+      "3D graphics AI",
+      "creative card design",
+      "social media graphics",
+      "app interface design",
+      "website mockup generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#3d_design", "#ui_cards", "#cartoon_style"],
+    "title": "3D Cartoon UI Card Layout",
+    "description": "Generate eye-catching 3D cartoon-style UI card layouts with AI. Create playful, engaging interface components perfect for apps, social media, presentations, and creative projects. Transform your ideas into vibrant 3D designs instantly.",
+    "inputPlaceholder": "Describe your card layout design",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your design concept",
+        "description": "Enter a text description of your desired 3D cartoon UI card layout, including colors, elements, and style preferences. The AI understands creative prompts naturally."
+      },
+      {
+        "title": "AI generates 3D cartoon designs",
+        "description": "Our Nano Banana Pro model creates vibrant 3D cartoon-style UI cards with depth, shadows, and playful aesthetics that bring your interface to life."
+      },
+      {
+        "title": "Customize and iterate",
+        "description": "Refine your results by adjusting prompts or generating variations. Create multiple card designs that maintain consistent 3D cartoon styling across your project."
+      },
+      {
+        "title": "Export for your projects",
+        "description": "Download high-resolution 3D card layouts ready for app mockups, social media posts, presentations, or any creative application you have in mind."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Ideal for designers and content creators",
+    "subtitle": "From UI designers to social media managers, see who creates 3D cartoon cards with AI.",
+    "audiences": [
+      {
+        "label": "UI/UX designers",
+        "description": "Create playful, engaging interface components that stand out with 3D depth and cartoon aesthetics for modern app designs."
+      },
+      {
+        "label": "Social media creators",
+        "description": "Generate eye-catching 3D card graphics for posts, stories, and carousels that capture attention and boost engagement."
+      },
+      {
+        "label": "Content marketers",
+        "description": "Design visually striking infographic cards and promotional materials with a fun, approachable 3D cartoon style."
+      },
+      {
+        "label": "Game developers",
+        "description": "Create UI elements, menu cards, and interface components with consistent 3D cartoon styling for casual games."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is 3D Cartoon UI Card Layout?",
+        "answer": "This AI workflow generates 3D cartoon-style UI card designs with depth, shadows, and playful aesthetics. Perfect for creating modern, engaging interface components and creative graphics."
+      },
+      {
+        "question": "What can I create with this workflow?",
+        "answer": "Create app UI cards, social media graphics, presentation slides, infographic elements, game interfaces, and any design that benefits from a 3D cartoon aesthetic."
+      },
+      {
+        "question": "Do I need design experience?",
+        "answer": "No design experience needed. Simply describe what you want in natural language, and the AI generates professional 3D cartoon card layouts automatically."
+      },
+      {
+        "question": "Can I maintain consistent styling?",
+        "answer": "Yes. Use similar prompts and style descriptions to generate multiple cards with consistent 3D cartoon aesthetics for cohesive design projects."
+      },
+      {
+        "question": "What AI model powers this workflow?",
+        "answer": "This workflow uses Nano Banana Pro, optimized for generating high-quality 3D graphics with precise control over style, depth, and cartoon aesthetics."
+      },
+      {
+        "question": "What output formats are available?",
+        "answer": "Export high-resolution PNG images suitable for web, app mockups, social media, and print applications. Images are optimized for various use cases."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "3D Cartoon UI Card Layout – AI Design Generator",
+      "description": "Create stunning 3D cartoon-style UI card layouts with AI for apps, social media, and creative projects."
+    },
+    "softwareApplication": {
+      "name": "3D Cartoon UI Card Layout Generator",
+      "description": "AI-powered tool for generating 3D cartoon-style UI cards and interface components."
+    },
+    "faqPage": {
+      "name": "3D Cartoon UI Card Layout – FAQ"
+    }
+  }
+}

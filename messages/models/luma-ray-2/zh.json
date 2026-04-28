@@ -1,0 +1,184 @@
+{
+  "model": {
+    "meta": {
+      "title": "Luma Ray 2 AI 视频生成器 | 逼真视觉效果 | OpenCreator",
+      "description": "使用 Luma Ray 2 创建具有自然运动的逼真 AI 视频。大规模视频生成模型，具备照片级真实感、物理模拟和强大的指令遵循能力。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Luma Ray 2",
+      "tagline": "逼真视觉，自然运动",
+      "description": "体验 Luma Ray 2，一款能够创建具有自然、连贯运动的逼真视觉效果的大规模视频生成模型。基于 Luma 的多模态架构构建，为图生视频提供先进功能。",
+      "badge": "快速逼真",
+      "ctaText": "免费试用 Luma Ray 2",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "naturalMotion": "自然运动",
+        "physics": "物理模拟",
+        "photorealism": "照片级真实",
+        "instructions": "指令遵循"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Luma Ray 2 成为 AI 视频生成强大选择的原因",
+      "items": {
+        "motion": {
+          "title": "自然运动",
+          "description": "生成具有自然、连贯运动的视频，在所有主题上都感觉有机和逼真。"
+        },
+        "photorealism": {
+          "title": "照片级真实",
+          "description": "创建令人惊叹的逼真视觉效果，具有精确的光照、纹理和环境细节。"
+        },
+        "physics": {
+          "title": "物理模拟",
+          "description": "先进的物理引擎确保逼真的物体交互、流体动力学和材质行为。"
+        },
+        "instructions": {
+          "title": "指令遵循",
+          "description": "对文本指令的强大理解能力，可精确控制视频内容和风格。"
+        },
+        "imageToVideo": {
+          "title": "图生视频",
+          "description": "将静态图片转换为动态视频，同时保留原始风格和构图。"
+        },
+        "cinematic": {
+          "title": "电影场景",
+          "description": "创建具有戏剧性光照和引人入胜视觉叙事的专业电影内容。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Luma Ray 2 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "nature": {
+          "title": "自然场景",
+          "description": "环境内容",
+          "useCase": "创建具有逼真水流、天气和野生动物运动的精彩自然视频。"
+        },
+        "product": {
+          "title": "产品动画",
+          "description": "电商视频",
+          "useCase": "使用自然光照和逼真材质属性为产品图片添加动画。"
+        },
+        "portrait": {
+          "title": "肖像动画",
+          "description": "人物与表情",
+          "useCase": "通过细腻、自然的面部表情和动作让肖像栩栩如生。"
+        },
+        "surreal": {
+          "title": "超现实视觉",
+          "description": "创意内容",
+          "useCase": "生成富有想象力的超现实场景，突破创意边界。"
+        },
+        "closeup": {
+          "title": "特写细节",
+          "description": "微距内容",
+          "useCase": "在特写镜头中捕捉具有逼真纹理和光照的精细细节。"
+        },
+        "vfx": {
+          "title": "视觉特效",
+          "description": "VFX 内容",
+          "useCase": "创建令人印象深刻的视觉特效，包括爆炸、粒子和变形。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Luma Ray 2 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "videoInput": "视频输入",
+          "styleControl": "风格控制"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "physicsSimulation": "物理模拟",
+          "naturalMotion": "自然运动",
+          "photorealism": "照片级真实",
+          "instructionFollowing": "指令遵循"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Luma Ray 2 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "naturalMotion": "自然运动",
+        "photorealism": "照片级真实",
+        "physicsSimulation": "物理模拟",
+        "instructionFollowing": "指令遵循",
+        "videoInput": "视频输入",
+        "styleControl": "风格控制"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "每次生成消耗积分。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Luma Ray 2？由谁开发？",
+          "answer": "Luma Ray 2 是由 Luma AI 开发的大规模视频生成模型。它能够创建具有自然、连贯运动的逼真视觉效果，基于 Luma 的新多模态架构构建，具备先进的视频生成能力。"
+        },
+        "1": {
+          "question": "我可以用 Luma Ray 2 创建什么类型的内容？",
+          "answer": "Luma Ray 2 擅长创建自然场景、产品动画、肖像动画、超现实视觉、特写细节和视觉特效。它在照片级真实感和自然运动合成方面特别出色。"
+        },
+        "2": {
+          "question": "Luma Ray 2 在视频生成方面有什么特别之处？",
+          "answer": "Luma Ray 2 以其自然运动质量、照片级真实输出和强大的指令遵循能力而脱颖而出。它可以处理复杂的物理模拟，并在整个视频中保持连贯的运动。"
+        },
+        "3": {
+          "question": "Luma Ray 2 支持图片输入吗？",
+          "answer": "是的！Luma Ray 2 具有强大的图生视频能力。您可以提供参考图片，模型会在保留原始风格和构图的同时为其添加动画。"
+        },
+        "4": {
+          "question": "Luma Ray 2 视频有多逼真？",
+          "answer": "Luma Ray 2 生成高度照片级真实的视频，具有精确的光照、纹理和环境细节。它在自然场景、产品拍摄和肖像动画方面特别有效。"
+        },
+        "5": {
+          "question": "视频质量和时长是多少？",
+          "answer": "Luma Ray 2 生成具有自然运动的高质量视频。该模型支持多种时长，并在整个生成内容中保持一致的质量。"
+        }
+      }
+    }
+  }
+}

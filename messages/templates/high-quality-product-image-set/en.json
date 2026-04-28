@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "High-Quality Product Image Set – AI E-commerce Photography | OpenCreator",
+    "description": "Generate high-quality product image sets with AI. Create professional e-commerce photos with consistent styling, lighting, and backgrounds for your online store.",
+    "keywords": [
+      "high quality product photos",
+      "ai product photos",
+      "ai product image generation",
+      "ai product photography",
+      "ecommerce image set",
+      "professional product images",
+      "product listing photos",
+      "online store images",
+      "batch product photos",
+      "ecommerce product photo editing"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#product_photos", "#high_quality"],
+    "title": "High-Quality Product Image Set",
+    "description": "Generate complete high-quality product image sets with AI. Create professional e-commerce photos with consistent styling, perfect lighting, and optimized backgrounds—ideal for online stores, marketplaces, and brand catalogs.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product photo",
+        "description": "Provide a basic product image. The AI will enhance and transform it into multiple professional-quality shots with various angles and presentations."
+      },
+      {
+        "title": "Configure image set options",
+        "description": "Choose the types of images you need: hero shots, detail views, lifestyle contexts, or clean backgrounds. Customize styling to match your brand."
+      },
+      {
+        "title": "AI generates professional images",
+        "description": "Our Nano Banana Pro model creates a cohesive set of high-quality product images with consistent lighting, styling, and professional presentation."
+      },
+      {
+        "title": "Download your complete set",
+        "description": "Export all images in high resolution, ready for immediate use across your e-commerce platform, social media, and marketing materials."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for e-commerce sellers and brands",
+    "subtitle": "From small sellers to enterprise brands, see who creates product image sets with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce sellers",
+        "description": "Create professional product listings that compete with major brands without expensive photography equipment or studio rentals."
+      },
+      {
+        "label": "Brand managers",
+        "description": "Maintain consistent visual quality across your entire product catalog with AI-generated images that match your brand standards."
+      },
+      {
+        "label": "Marketplace sellers",
+        "description": "Generate platform-optimized image sets for Amazon, eBay, Shopify, and other marketplaces with proper dimensions and styling."
+      },
+      {
+        "label": "Product managers",
+        "description": "Quickly create professional imagery for new product launches without waiting for traditional photography timelines."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the High-Quality Product Image Set workflow?",
+        "answer": "This AI workflow generates complete sets of professional product photos from a single input image. It creates multiple high-quality shots with consistent styling for e-commerce use."
+      },
+      {
+        "question": "What types of products work best?",
+        "answer": "The workflow works excellently with all physical products: electronics, clothing, accessories, home goods, beauty products, food items, and more. Any product that needs professional presentation."
+      },
+      {
+        "question": "How many images are generated?",
+        "answer": "The workflow can generate multiple images per product, including hero shots, detail views, and lifestyle contexts. The exact number depends on your configuration and needs."
+      },
+      {
+        "question": "Will images be consistent across products?",
+        "answer": "Yes. The AI maintains consistent lighting, styling, and presentation across all generated images, helping you build a cohesive product catalog."
+      },
+      {
+        "question": "What AI model is used?",
+        "answer": "This workflow uses Nano Banana Pro, our advanced image generation model optimized for product photography with precise control over quality and styling."
+      },
+      {
+        "question": "Can I use these for marketplace listings?",
+        "answer": "Absolutely. Generated images meet professional standards suitable for Amazon, eBay, Shopify, and all major e-commerce platforms."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "High-Quality Product Image Set – AI E-commerce Photography",
+      "description": "Generate professional product image sets with AI for e-commerce stores and marketplaces."
+    },
+    "softwareApplication": {
+      "name": "High-Quality Product Image Set Generator",
+      "description": "AI-powered tool for generating complete sets of professional product photos for e-commerce."
+    },
+    "faqPage": {
+      "name": "High-Quality Product Image Set – FAQ"
+    }
+  }
+}

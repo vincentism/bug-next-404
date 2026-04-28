@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Food Product ASMR – Satisfying Eating & Prep Clips | OpenCreator",
+    "description": "Create mouth-watering ASMR-style food videos with AI. Focus on close-up textures, cooking motions, and satisfying eating moments for social and ads.",
+    "keywords": [
+      "food asmr video generator",
+      "satisfying food videos",
+      "snack asmr clips",
+      "eating asmr ads",
+      "food tiktok content",
+      "create food product asmr with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#food_asmr", "#satisfying", "#snack_ads"],
+    "title": "Food Product ASMR",
+    "description": "Create mouth-watering ASMR-style food videos with AI. Highlight close-up textures, cooking motions, and eating moments that trigger sensory satisfaction.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your food product and the ASMR actions you want to highlight",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your food and textures",
+        "description": "Share if it’s crunchy, gooey, fizzy, creamy, or sizzling plus key ingredients."
+      },
+      {
+        "title": "Choose ASMR focus and format",
+        "description": "Pick prep, plating, close-up bites, or loopable sequences for Reels/Shorts."
+      },
+      {
+        "title": "Generate AI food ASMR sequences",
+        "description": "AI creates visually satisfying shots that imply sound through motion and texture."
+      },
+      {
+        "title": "Export loops for social, ads, and menus",
+        "description": "Use across delivery apps, brand channels, DOOH, and campaign creatives."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands turning taste into visual ASMR",
+    "subtitle": "From snacks to restaurants, see who uses Food Product ASMR.",
+    "audiences": [
+      {
+        "label": "Snack and beverage brands",
+        "description": "Highlight craveable qualities like crunch, fizz, and stretch."
+      },
+      {
+        "label": "Restaurants and QSRs",
+        "description": "Promote hero items with loops viewers can’t stop rewatching."
+      },
+      {
+        "label": "Food influencers and creators",
+        "description": "Expand formats with AI-generated ASMR-style visuals."
+      },
+      {
+        "label": "Food delivery platforms",
+        "description": "Use ASMR clips in promos and category banners to boost appetite appeal."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Food Product ASMR workflow?",
+        "answer": "An AI workflow for generating food ASMR clips focusing on textures, cooking motion, and satisfying bites."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Snack brands, restaurants, creators, and delivery platforms seeking appetite-boosting ASMR content."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Describe the food, textures, and ASMR actions you want to emphasize (prep, plating, bites)."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "Short, loopable clips optimized for social and ad placements."
+      },
+      {
+        "question": "Can I generate different ASMR focuses?",
+        "answer": "Yes. You can focus on crunch, fizz, stretch, or creaminess and iterate quickly."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits relative to sequence length and complexity. Iterate within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Food Product ASMR – Satisfying Eating & Prep Clips",
+      "description": "AI-generated food ASMR visuals for social channels and ads."
+    },
+    "softwareApplication": {
+      "name": "Food Product ASMR Template",
+      "description": "AI workflow that creates satisfying food ASMR sequences."
+    },
+    "faqPage": { "name": "Food Product ASMR – FAQ" }
+  }
+}

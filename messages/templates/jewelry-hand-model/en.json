@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Jewelry Hand Model – Rings & Bracelets Try-On Images | OpenCreator",
+    "description": "Show how rings and bracelets look in real life with AI-generated hand model photos. Professional jewelry product photography with diverse hand poses, skin tones, and styling without model shoots.",
+    "keywords": [
+      "jewelry product photography",
+      "jewellery photography ideas",
+      "jewelry hand model",
+      "ring try on photos",
+      "bracelet product photography",
+      "ai product photography",
+      "ecommerce jewelry images",
+      "professional product photography",
+      "product photo editing",
+      "ai product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#jewelry", "#rings", "#bracelets", "#ecommerce"],
+    "title": "Jewelry Hand Model",
+    "description": "Create realistic hand model photos for rings, bracelets, and hand accessories with AI. No need to book models or studios.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload your ring or bracelet product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your jewelry product photo",
+        "description": "Provide a clear image of your ring, bracelet, or accessory on a simple background."
+      },
+      {
+        "title": "Choose hand model style and pose",
+        "description": "Select skin tones, nail styles, and poses (close-up, lifestyle, holding objects)."
+      },
+      {
+        "title": "Generate AI hand model images",
+        "description": "AI places your jewelry on realistic hands with correct scale and lighting."
+      },
+      {
+        "title": "Export for product pages and campaigns",
+        "description": "Use in PDP galleries, lookbooks, social posts, and ads."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For jewelry brands focused on hand-worn pieces",
+    "subtitle": "From indie makers to established brands, see who uses AI hand models.",
+    "audiences": [
+      {
+        "label": "Ring and bracelet brands",
+        "description": "Help customers visualize fit and proportion before purchasing."
+      },
+      {
+        "label": "Handmade jewelry shops",
+        "description": "Present artisanal designs consistently without arranging shoots."
+      },
+      {
+        "label": "Marketplace jewelry sellers",
+        "description": "Stand out from plain white-background photos with lifestyle-ready imagery."
+      },
+      {
+        "label": "Jewelry marketing teams",
+        "description": "Build cohesive campaigns featuring hand-focused visuals."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Jewelry Hand Model workflow?",
+        "answer": "An AI workflow that generates realistic hand try-on images for rings and bracelets."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Ring and bracelet brands, handmade shops, marketplaces, and marketing teams."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Upload product images and choose hand model preferences (skin tone, nail style, poses)."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "High-quality images ready for product pages and campaign use."
+      },
+      {
+        "question": "Can I customize poses and styling?",
+        "answer": "Yes. Choose from close-up, lifestyle, or object-holding poses with different nail styles."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits by resolution and complexity. Iterate within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Jewelry Hand Model – Rings & Bracelets Try-On Images",
+      "description": "AI-generated hand model images for showcasing rings and bracelets online."
+    },
+    "softwareApplication": {
+      "name": "Jewelry Hand Model Template",
+      "description": "AI workflow that creates realistic hand try-on visuals for jewelry."
+    },
+    "faqPage": { "name": "Jewelry Hand Model – FAQ" }
+  }
+}

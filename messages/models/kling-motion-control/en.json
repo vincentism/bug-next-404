@@ -1,0 +1,182 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling Motion Control AI Video Generator | Transfer Dance Moves & Choreography | OpenCreator",
+      "description": "Transfer dance moves, gestures, and choreography from any reference video to your custom character using Kling 2.6 Motion Control. Powered by Kuaishou AI, featuring video-oriented (30s) and image-oriented (10s) modes with original sound preservation. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Kling Motion Control",
+      "tagline": "Transfer Any Motion to Any Character",
+      "description": "Kling 2.6 Motion Control by Kuaishou AI extracts choreography, gestures, and movements from reference videos and applies them to your character images with stunning accuracy. Choose Video Orientation for full-body dance sequences up to 30 seconds, or Image Orientation for portrait-focused animations with camera movements up to 10 seconds. Keep the original audio or create new synchronized content.",
+      "badge": "Powered by Kling 2.6",
+      "ctaText": "Try Motion Control Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "motionTransfer": "Motion Transfer",
+        "videoReference": "Video Reference Input",
+        "imageSubject": "Any Character Subject",
+        "duration": "Up to 30 Seconds",
+        "keepSound": "Original Sound Preservation"
+      }
+    },
+    "features": {
+      "title": "Powerful Motion Transfer Features",
+      "subtitle": "Discover why Kling Motion Control is the leading AI solution for transferring movements to any character",
+      "items": {
+        "motionTransfer": {
+          "title": "High-Fidelity Motion Transfer",
+          "description": "Advanced AI extracts complex movements, dance routines, gestures, and body language from reference videos and applies them to your custom subject with exceptional accuracy and natural fluidity."
+        },
+        "dualMode": {
+          "title": "Dual Reference Modes",
+          "description": "Video-Oriented mode (up to 30s) prioritizes the reference video's motion and spatial orientation for elaborate choreography. Image-Oriented mode (up to 10s) preserves your character's pose while adding dynamic camera movements."
+        },
+        "soundPreservation": {
+          "title": "Original Sound Preservation",
+          "description": "Keep the original audio track from your reference video including music, beats, and sound effects. Perfect for creating dance videos that stay perfectly synchronized with the music."
+        },
+        "subjectFlexibility": {
+          "title": "Universal Subject Compatibility",
+          "description": "Apply motion to virtually any subject - real people, AI-generated portraits, cartoon characters, anime figures, animals, mascots, or even abstract concepts defined by a single image."
+        },
+        "promptControl": {
+          "title": "Text Prompt Enhancement",
+          "description": "Fine-tune your output with text prompts that control environmental context, lighting conditions, artistic style, and atmosphere. Focus on the 'where' and 'how' while the video handles the motion."
+        },
+        "proQuality": {
+          "title": "Standard & Pro Quality Tiers",
+          "description": "Standard tier ($0.07/sec) is ideal for iterative development and testing. Pro tier ($0.112/sec) delivers enhanced quality output for complex choreography and production-ready renders."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Motion Control in Action",
+      "subtitle": "Real examples showcasing the power of Kling Motion Control across different use cases",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "dance": {
+          "title": "Viral Dance Transfer",
+          "description": "TikTok & Social Media",
+          "useCase": "Transfer trending dance moves and viral choreography to custom avatars, AI-generated characters, or brand mascots. Perfect for creating engaging social media content that stands out."
+        },
+        "character": {
+          "title": "Character Animation",
+          "description": "Storytelling & Marketing",
+          "useCase": "Bring static character designs to life with realistic movements and expressions. Ideal for brand storytelling, explainer videos, and marketing campaigns with consistent character presence."
+        },
+        "pet": {
+          "title": "Fun Pet Content",
+          "description": "Viral Entertainment",
+          "useCase": "Create hilarious and shareable content by transferring human dance moves or funny actions to pet images. Great for pet influencer accounts and entertainment content."
+        },
+        "influencer": {
+          "title": "Virtual Influencer",
+          "description": "AI Avatar Creation",
+          "useCase": "Generate consistent virtual influencer content with natural movements, gestures, and dance sequences. Build an AI persona that engages audiences across platforms."
+        },
+        "product": {
+          "title": "Brand Mascot Showcase",
+          "description": "Product Marketing",
+          "useCase": "Animate brand mascots and characters for dynamic product demonstrations, commercials, and promotional content that captures attention and drives engagement."
+        },
+        "tutorial": {
+          "title": "Educational Content",
+          "description": "How-to & Tutorials",
+          "useCase": "Produce instructional videos featuring animated characters demonstrating techniques, exercises, or movements. Make learning more engaging and accessible."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Complete technical details about Kling 2.6 Motion Control capabilities and requirements",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output Formats",
+          "inputImage": "Subject Image (PNG/JPG, Required)",
+          "inputVideo": "Reference Video (MP4, Required)",
+          "inputText": "Text Prompt (Optional Enhancement)",
+          "outputFormat": "MP4 Video Output"
+        },
+        "modes": {
+          "title": "Reference Orientation Modes",
+          "videoOriented": "Video-Oriented (Max 30 seconds)",
+          "imageOriented": "Image-Oriented (Max 10 seconds)",
+          "description": "Choose based on your content priority"
+        },
+        "capabilities": {
+          "title": "Core Capabilities",
+          "motionTransfer": "Motion & Gesture Transfer",
+          "keepSound": "Original Audio Preservation",
+          "textPrompt": "Text Prompt Enhancement",
+          "batchProcessing": "Batch Processing Support"
+        },
+        "performance": {
+          "title": "Performance & Access",
+          "generationTime": "Typical: 2-8 minutes",
+          "apiAccess": "Full API Access",
+          "resolution": "Up to 1080p HD Output"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Motion Transfer Model Comparison",
+      "subtitle": "See how Kling Motion Control compares to other motion transfer and video generation solutions",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial Support",
+      "notSupported": "Not Supported",
+      "features": {
+        "motionTransfer": "Motion Transfer",
+        "maxDuration": "Maximum Duration",
+        "soundPreservation": "Sound Preservation",
+        "textControl": "Text Prompt Control",
+        "proTier": "Pro Quality Tier"
+      }
+    },
+    "pricing": {
+      "title": "Transparent Per-Second Pricing",
+      "subtitle": "Pay only for the video duration you generate",
+      "perGeneration": "per generation",
+      "perSecond": "per second",
+      "standardLabel": "Standard ($0.07/sec)",
+      "proLabel": "Pro ($0.112/sec)",
+      "note": "Credits are calculated per second of output video. Example: A 10-second Video-Oriented generation costs approximately $0.70 (Standard) or $1.12 (Pro). Image-Oriented mode has a maximum of 10 seconds.",
+      "viewFullPricing": "View full pricing →",
+      "description": "Motion transfer powered by Kling 2.6",
+      "planSectionTitle": "Save More with a Subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": {
+        "0": {
+          "question": "What is Kling Motion Control and who developed it?",
+          "answer": "Kling 2.6 Motion Control is an advanced AI video generation feature developed by Kuaishou, the company behind the popular Kwai/Kuaishou short-video platform. It extracts choreography, gestures, and movements from reference videos and seamlessly applies them to any character image you provide. The technology uses sophisticated motion understanding and transfer algorithms to ensure natural, high-fidelity results."
+        },
+        "1": {
+          "question": "What inputs do I need to create a motion control video?",
+          "answer": "You need two required inputs: (1) A reference image showing your character/subject with clear body proportions (should occupy at least 5% of the image area), and (2) A reference video containing realistic movements with visible upper body or full body. Optionally, you can add a text prompt to describe environmental context, lighting, and style - but avoid describing motion since that comes from the video."
+        },
+        "2": {
+          "question": "What's the difference between Video-Oriented and Image-Oriented modes?",
+          "answer": "Video-Oriented mode transfers both the motion AND the spatial orientation from your reference video, making it ideal for dance sequences and elaborate full-body choreography (supports up to 30 seconds). Image-Oriented mode preserves your reference image's original pose while adopting the movements, which works better for portrait animations with camera movements like pans, tilts, and tracking shots (supports up to 10 seconds)."
+        },
+        "3": {
+          "question": "Can I keep the original music and sound from my reference video?",
+          "answer": "Yes! The 'Keep Original Sound' option (enabled by default) preserves the complete audio track from your reference video, including music, sound effects, and any other audio. This is perfect for dance videos where the movement needs to stay synchronized with specific music beats. You can also disable this option if you want to add different audio later."
+        },
+        "4": {
+          "question": "How much does Kling Motion Control cost?",
+          "answer": "Pricing is calculated per second of output video. Standard tier costs $0.07 per second (84 credits) and is great for testing and iterative development. Pro tier costs $0.112 per second (135 credits) and delivers higher quality output suitable for production use and complex choreography. For example, a 10-second video costs approximately $0.70 (Standard) or $1.12 (Pro)."
+        },
+        "5": {
+          "question": "What types of characters and reference videos work best?",
+          "answer": "For best results: Characters should have clear body proportions without significant occlusion, facing forward or at a slight angle. Reference videos should feature realistic human movements with visible upper body or full body - avoid videos with too many cuts or extreme camera angles. For prompts, describe the environment, lighting, and artistic style rather than the motion itself (e.g., 'cinematic lighting, outdoor setting, documentary style')."
+        }
+      }
+    }
+  }
+}

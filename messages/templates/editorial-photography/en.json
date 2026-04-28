@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Editorial Photography – High-Fashion Campaign Images | OpenCreator",
+    "description": "Create striking editorial-style visuals with AI for fashion, beauty, and lifestyle brands. AI fashion model generator for art-directed scenes, bold compositions, and magazine-worthy images.",
+    "keywords": [
+      "ai fashion model generator",
+      "ai model for clothing",
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "clothing product photography",
+      "lifestyle product photography",
+      "editorial photography generator",
+      "fashion campaign images",
+      "high fashion photo ai",
+      "create editorial photos with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#editorial", "#fashion", "#campaign"],
+    "title": "Editorial Photography",
+    "description": "Create striking editorial-style visuals with AI for fashion, beauty, and lifestyle brands. Generate art-directed scenes, bold compositions, and magazine-worthy images without studio rentals or complex lighting setups.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your brand, styling, and the editorial story you want to tell",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your editorial concept and theme",
+        "description": "Share references, seasonal ideas, and core story (minimal luxe, avant-garde, youth culture, etc.)."
+      },
+      {
+        "title": "Specify styling, models, and environment",
+        "description": "Describe model diversity, outfits, hair & makeup, and locations (studio, street, interiors)."
+      },
+      {
+        "title": "Generate AI editorial photography sets",
+        "description": "AI produces cohesive image series with consistent art direction, lighting, and mood."
+      },
+      {
+        "title": "Select hero shots and export for campaigns",
+        "description": "Use selected images for lookbooks, social, ads, and pitch decks."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands and teams that think in stories, not just SKUs",
+    "subtitle": "From fashion houses to indie labels, see who uses AI editorial imagery.",
+    "audiences": [
+      {
+        "label": "Fashion and beauty brands",
+        "description": "Create campaign images that feel like magazine spreads—even on tight budgets."
+      },
+      {
+        "label": "Creative and art directors",
+        "description": "Explore multiple directions before committing to full production."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Prototype campaign looks and moodboards for client approvals."
+      },
+      {
+        "label": "Stylists and photographers",
+        "description": "Test compositions and styling ideas ahead of real shoots."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Editorial Photography workflow?",
+        "answer": "An AI workflow for generating editorial-style campaign images with cohesive art direction and fashion-forward aesthetics."
+      },
+      {
+        "question": "Who is it for?",
+        "answer": "Fashion and beauty brands, creative directors, agencies, and photographers needing magazine-quality visuals quickly."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Describe concept, styling, models, and environment. Add references or moodboards if available."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "A set of editorial visuals suitable for lookbooks, social campaigns, and ad creative."
+      },
+      {
+        "question": "Can I iterate on different stories?",
+        "answer": "Yes. Generate multiple routes—minimal, avant-garde, or youth culture—and compare results."
+      },
+      {
+        "question": "How are credits used?",
+        "answer": "Generations consume credits based on scope and resolution. Iterate and export hero shots within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Editorial Photography – High-Fashion Campaign Images",
+      "description": "AI-generated editorial visual sets for fashion and beauty campaigns."
+    },
+    "softwareApplication": {
+      "name": "Editorial Photography Template",
+      "description": "AI workflow for creating magazine-style campaign imagery."
+    },
+    "faqPage": { "name": "Editorial Photography – FAQ" }
+  }
+}

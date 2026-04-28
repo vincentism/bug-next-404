@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "IP Merchandise Generation System – AI Character Merch Creator | OpenCreator",
+    "description": "Transform your IP characters into merchandise designs with AI. Generate product mockups for greeting cards, mugs, badges, pillows, posters and more from your character art.",
+    "keywords": [
+      "ip merchandise generator",
+      "character merch creator",
+      "ai merchandise design",
+      "ip product mockup",
+      "character goods generator",
+      "anime merch creator",
+      "mascot merchandise ai",
+      "ip licensing products"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ip_merchandise", "#character_design", "#product_mockup"],
+    "title": "IP Merchandise Generation System",
+    "description": "Transform your IP characters into merchandise designs instantly. Upload your character art, specify product categories and scene themes, and AI generates professional mockups for greeting cards, coffee cups, badges, mugs, pillows, outdoor posters, and phone UI designs. Perfect for IP owners looking to expand their character licensing business.",
+    "inputPlaceholder": "Upload your character image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your IP character",
+        "description": "Provide your character art or mascot design. The workflow uses Nano Banana Pro to analyze and adapt your character's illustration style for merchandise applications."
+      },
+      {
+        "title": "Define merchandise categories & themes",
+        "description": "Specify product types (greeting cards, mugs, badges, pillows, posters, phone UI) and scene themes (like Christmas, seasonal events). GPT-4o Mini generates optimized prompts for each product."
+      },
+      {
+        "title": "Generate batch merchandise mockups",
+        "description": "The workflow automatically splits prompts and generates multiple product mockups in parallel, maintaining consistent IP style across all merchandise designs."
+      },
+      {
+        "title": "Export production-ready files",
+        "description": "Download high-resolution product renders ready for manufacturing, licensing presentations, or e-commerce listings."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for IP owners and creative businesses",
+    "subtitle": "From indie artists to major brands, see who creates merchandise with AI.",
+    "audiences": [
+      {
+        "label": "IP owners & licensors",
+        "description": "Quickly visualize merchandise potential for your characters. Generate product mockups for licensing pitches and expand your IP revenue streams."
+      },
+      {
+        "label": "Artists & illustrators",
+        "description": "Turn your original characters into sellable merchandise without design expertise. Create professional product mockups for your online store or conventions."
+      },
+      {
+        "label": "Game & anime studios",
+        "description": "Develop merchandise lines for your game characters or anime IPs. Generate consistent product designs that maintain character integrity across all items."
+      },
+      {
+        "label": "Brand mascot teams",
+        "description": "Extend your brand mascot into promotional merchandise. Create cohesive product lines that strengthen brand recognition and customer engagement."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the IP Merchandise Generation System?",
+        "answer": "The IP Merchandise Generation System is an AI workflow that transforms your character art into merchandise product mockups. It uses Nano Banana Pro for style adaptation and GPT-4o Mini for generating optimized product prompts, creating realistic visualizations of your characters on greeting cards, mugs, badges, pillows, posters, and phone UI designs."
+      },
+      {
+        "question": "What types of merchandise can I generate?",
+        "answer": "The workflow supports greeting cards, coffee cups, tin badges, mugs, pillows, outdoor posters, and phone UI mockups. You can specify custom product categories and the AI will generate appropriate prompts and renders for each type."
+      },
+      {
+        "question": "Can I add seasonal themes to my merchandise?",
+        "answer": "Yes! The workflow includes a scene/theme input where you can specify seasonal events like Christmas, holidays, or any custom theme. The AI will incorporate these themes into all generated merchandise designs while maintaining your IP's visual identity."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for image-to-image style transfer and character adaptation, GPT-4o Mini for generating optimized merchandise prompts, and GPT-4o for text splitting to enable batch generation of multiple products."
+      },
+      {
+        "question": "How does batch generation work?",
+        "answer": "After you specify product categories, the workflow automatically generates prompts for each product type, splits them into individual tasks, and renders all merchandise mockups in parallel. This allows you to create a complete product line from a single character image."
+      },
+      {
+        "question": "Can I maintain consistent illustration style across products?",
+        "answer": "Absolutely. The workflow preserves your IP's illustration style (like American indie illustration, children's book style, healing poster style) across all merchandise types, ensuring brand consistency throughout your product line."
+      },
+      {
+        "question": "How does pricing work for merchandise generation?",
+        "answer": "Each merchandise mockup generation consumes credits based on the number of products generated. The batch processing approach is credit-efficient since it generates multiple products from a single workflow run."
+      },
+      {
+        "question": "What input do I need to provide?",
+        "answer": "You need three inputs: (1) your IP character image, (2) a list of merchandise categories you want to generate, and (3) optional scene/theme descriptions for seasonal or thematic variations."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "IP Merchandise Generation System – AI Character Merch Creator",
+      "description": "Transform your IP characters into merchandise designs with AI-powered product mockup generation."
+    },
+    "softwareApplication": {
+      "name": "IP Merchandise Generation System",
+      "description": "AI-powered tool for generating merchandise product mockups from character art and IP designs."
+    },
+    "faqPage": {
+      "name": "IP Merchandise Generation System – FAQ"
+    }
+  }
+}

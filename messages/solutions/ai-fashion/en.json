@@ -1,0 +1,150 @@
+{
+  "seo": {
+    "title": "AI Virtual Try-On & Fashion Model Generator | OpenCreator",
+    "description": "Generate AI fashion models wearing your clothing. Virtual try-on, AI clothes changer & lookbooks without expensive photoshoots. Free AI outfit generator.",
+    "keywords": [
+      "virtual try on",
+      "ai clothes changer",
+      "ai fashion model",
+      "ai outfit generator",
+      "clothing model generator",
+      "ai clothing generator",
+      "clothes swap ai",
+      "ai generated fashion models"
+    ]
+  },
+  "hero": {
+    "badge": "Fashion Solution",
+    "title": "AI models for your clothing line",
+    "description": "Show every piece on the right model without coordinating photoshoots. Use AI try-on workflows to turn simple garment photos into on-model, lookbook, and UGC-style imagery for your store and campaigns.",
+    "cta": "Try Virtual Try-On",
+    "secondaryCta": "See Templates",
+    "stats": {
+      "models": {
+        "label": "AI Models",
+        "value": "Unlimited"
+      },
+      "cost": {
+        "label": "vs Photoshoot",
+        "value": "90% less"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "One solution for fashion imagery",
+    "description": "Run the same workflow across your catalog: one setup for PDPs, one for lookbooks, one for social. The node graph stays stable – lighting, camera, background – while you swap garments in and out to keep collections visually consistent.",
+    "sections": {
+      "tryon": {
+        "title": "Virtual Try-On",
+        "subtitle": "Clothing on AI models"
+      },
+      "lookbook": {
+        "title": "Lookbooks & Campaigns",
+        "subtitle": "Editorial-style imagery"
+      },
+      "promo": {
+        "title": "UGC & Social Content",
+        "subtitle": "Authentic-looking promos"
+      }
+    },
+    "explore": "Explore",
+    "templates": {
+      "virtualTryOn": "Virtual Try-On",
+      "batchAiModelTryOn": "Batch AI Model Try-On",
+      "360OutfitDisplay": "360° Outfit Display",
+      "allThingsWearable": "All Things Wearable",
+      "petModelTryOn": "Pet Model Try-On",
+      "hauteAdornmentStudio": "Haute Adornment Studio",
+      "fashionLookbookMockup": "Fashion Lookbook Mockup",
+      "fashionModelStaging": "Fashion Model Staging",
+      "outfitBreakdownPoster": "Outfit Breakdown Poster",
+      "modelPosesIdeation": "Model Poses Ideation",
+      "streetwearUgcPromo": "Streetwear UGC Promo",
+      "sportswearOnModelAd": "Sportswear On-Model Ad",
+      "aiFashionOutdoorShorts": "AI Fashion Outdoor Shorts",
+      "sora2UgcPromo": "Sora 2 x UGC Promo",
+      "liveModelAiEnvironment": "Live Model AI Environment",
+      "textureProjectionHomeTextiles": "Texture Projection (Home Textiles)",
+      "productToBackgroundBagsShoes": "Product to Background (Bags & Shoes)",
+      "productToBackgroundOutdoorGear": "Product to Background (Outdoor Gear)",
+      "editorialPhotography": "Editorial Photography",
+      "christmasFashionStoryboards": "Christmas Fashion Storyboards",
+      "christmasFashionEditorial": "Christmas Fashion Editorial",
+      "fabricToModelCatwalk": "Fabric → Skirt → Model Catwalk",
+      "aigcFashionPhotography": "AIGC Fashion Photography",
+      "accessoriesModelReproduction": "Accessories Model Scene Reproduction",
+      "brandFashionEditorial": "Brand Fashion Editorial",
+      "tiktokFashionHaul": "TikTok Fashion Haul",
+      "headwearStyling": "Headwear Styling",
+      "fashionAccessoriesDisplay": "Fashion Accessories Display",
+      "apparelAiPromotionalVideo": "Apparel AI Promotional Video",
+      "ecommerceFashionModel": "E-commerce Fashion Model",
+      "clothingPromotionShortFilm": "Clothing Promotion Short Film"
+    }
+  },
+  "audiences": {
+    "title": "Built for",
+    "badge": "For fashion brands",
+    "description": "Skip the expensive photoshoots. Generate professional fashion imagery at a fraction of the cost.",
+    "items": {
+      "brands": {
+        "title": "Fashion Brands",
+        "description": "Launch new collections faster with AI-generated model imagery. Show your clothing on diverse models without coordinating shoots.",
+        "roles": "Brand owners, creative directors, ecommerce managers"
+      },
+      "sellers": {
+        "title": "Online Sellers",
+        "description": "Create professional product listings with model imagery that converts. Perfect for Shopify, Amazon, and marketplace sellers.",
+        "roles": "Store owners, dropshippers, resellers"
+      },
+      "creators": {
+        "title": "Content Creators",
+        "description": "Generate fashion content for social media without expensive photoshoots. Perfect for influencers and stylists.",
+        "roles": "Influencers, stylists, content creators"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": {
+      "q1": {
+        "question": "What kind of garment photos should I upload for the best results?",
+        "answer": "Use clear photos where the garment is fully visible, not cropped, and not blocked by props or text. Flat-lay, ghost mannequin, or simple on-hanger shots work well. Avoid busy backgrounds, strong reflections, or heavy motion blur. If you are reusing existing model photos, make sure the clothing area is not already heavily retouched or distorted, otherwise the AI has less signal to work with."
+      },
+      "q2": {
+        "question": "What are the main limitations of AI virtual try-on?",
+        "answer": "AI is very good at showing an overall look and feel, but it does not replace in-person fitting. Fine details like exact fabric thickness, stretch, or how a garment behaves across all body types may not be perfectly accurate. Extremely complex items (transparent fabrics, intricate lace, heavy reflections) are harder to generate reliably and may require more iterations or manual retouching afterwards."
+      },
+      "q3": {
+        "question": "How do batch and catalog workflows work for large collections?",
+        "answer": "You can feed a list of SKUs into a batch workflow, attach one or more garment photos per SKU, and generate consistent model imagery in one run. The node graph stays the same – lighting, camera angle, background – while only the product inputs change. This is useful for refreshing an entire collection or unifying imagery across multiple seasons without rebuilding the pipeline every time."
+      },
+      "q4": {
+        "question": "Can I control model diversity and brand representation?",
+        "answer": "Yes. You can specify desired attributes such as body type, skin tone, age range, and overall vibe (editorial, ecomm, streetwear) at the workflow or template level. Once you find a combination that matches your brand, you can reuse that setup across multiple shoots so your campaigns feel consistent and inclusive rather than random from batch to batch."
+      },
+      "q5": {
+        "question": "Can I use AI fashion images in ads and marketplaces?",
+        "answer": "In many cases, yes – brands use AI model imagery for product pages, lookbooks, and paid campaigns. However, you are responsible for complying with local advertising rules, marketplace policies, and any disclosure requirements around AI-generated content. Avoid using real people's faces or logos without consent, and double-check that your platform allows AI-generated try-on images before scaling them."
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Fashion & Virtual Try-On Solution",
+      "description": "Generate AI fashion models wearing your clothing without expensive photoshoots."
+    },
+    "softwareApplication": {
+      "name": "AI Fashion & Virtual Try-On Generator",
+      "description": "Virtual try-on, lookbooks, and social content for fashion brands."
+    },
+    "faqPage": {
+      "name": "AI Fashion Solution - FAQ"
+    }
+  },
+  "relatedSolutions": {
+    "title": "Explore More Solutions",
+    "subtitle": "Discover other AI-powered workflows to elevate your creative production",
+    "ctaLabel": "View solution"
+  }
+}

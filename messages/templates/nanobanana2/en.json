@@ -1,0 +1,125 @@
+{
+  "seo": {
+    "title": "Advanced AI Image Generator with Prompt Control | OpenCreator",
+    "description": "Create high-quality AI images from text prompts with advanced control over composition, style, and text rendering in one workflow.",
+    "keywords": [
+      "ai image generator",
+      "text to image ai",
+      "high quality ai image generation",
+      "prompt based image creator",
+      "ai art generator",
+      "photorealistic image ai",
+      "image style control ai",
+      "text rendering image ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "NEW!",
+    "tags": ["#GOOGLE", "#IMAGE_GENERATOR", "#NANO_BANANA"],
+    "title": {
+      "line1": "NANO BANANA 2",
+      "line2": "THE NEW WAVE IN GENERATIVE IMAGE"
+    },
+    "description": "Generate prompt-accurate images with better composition and text rendering. This workflow helps creators and teams test ideas quickly and output visuals ready for design, marketing, or concept use.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Put your prompt here…",
+    "ctaText": "Start Creating"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe what you want to create",
+        "description": "Enter a short brief about the visual you want to explore with Nano Banana, including style, subject, and desired mood."
+      },
+      {
+        "title": "Pick a style and format",
+        "description": "Choose from different aspect ratios and composition directions to guide how the model arranges the final image."
+      },
+      {
+        "title": "Generate and iterate",
+        "description": "Run the workflow to generate multiple Nano Banana results, then refine your prompt or parameters to explore variations."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For fast visual exploration and ideation",
+    "subtitle": "Use Nano Banana when you want quick, flexible image generation without heavy setup.",
+    "audiences": [
+      {
+        "label": "Designers and art directors",
+        "description": "Rapidly explore different visual directions before committing to a detailed production pipeline."
+      },
+      {
+        "label": "Content and growth teams",
+        "description": "Generate on-brand visuals for experiments, low-friction campaigns, and social posts."
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "Masterful Compliance",
+      "description": "From multi-step instructions to nuanced stylistic requests, Nano Banana 2 understands and executes with unparalleled precision."
+    },
+    {
+      "title": "Intelligent Presentation",
+      "description": "Transform raw data or complex ideas into clear, insightful text, charts, and infographics."
+    },
+    {
+      "title": "Deeper Reasoning",
+      "description": "Tap into a vast and accurate knowledge base, enabling deep reasoning for complex topics in science, history, and more."
+    },
+    {
+      "title": "Truly Global Fluency",
+      "description": "Communicate and create across dozens of languages with new levels of accuracy and cultural context."
+    }
+  ],
+  "faq": {
+    "items": [
+      {
+        "question": "What is the NANO BANANA 2 image generation template?",
+        "answer": "The NANO BANANA 2 template is an advanced AI image workflow in OpenCreator that lets you generate high-quality images from text prompts. It's designed to test next-gen image generators like Nano Banana 2 in a structured, repeatable workflow."
+      },
+      {
+        "question": "Who is this advanced image generator for?",
+        "answer": "It's ideal for designers, marketers, and creators who want fast concept art, product shots, or mood boards. You can also use it to benchmark different AI image models in a consistent environment."
+      },
+      {
+        "question": "What inputs do I need to get good results?",
+        "answer": "You only need a clear text prompt describing the subject, style, and composition you want. You can optionally iterate by duplicating runs, tweaking the prompt, or chaining results into other workflows."
+      },
+      {
+        "question": "Can I control style, aspect ratio, and level of detail?",
+        "answer": "Yes. Within the workflow you can adjust prompt details and generation parameters such as style direction and image size/aspect ratio where supported. This makes it easy to explore different looks for the same idea."
+      },
+      {
+        "question": "Does this template use a Google-style image model?",
+        "answer": "The template is designed around a modern \"Google image model\"-style generator such as Nano Banana 2. The exact backend may evolve over time, but the workflow remains focused on high-quality, reasoning-aware image generation."
+      },
+      {
+        "question": "Do I need prompt-engineering skills to use it?",
+        "answer": "No. Simple, direct descriptions already work well. However, adding details about mood, lighting, composition, and art style will help the model produce more precise images."
+      },
+      {
+        "question": "Can I use NANO BANANA 2 images commercially?",
+        "answer": "Commercial use depends on your OpenCreator plan and the underlying model's usage policy. Always review the terms in your account and any model-specific guidelines before using outputs in paid or public projects."
+      },
+      {
+        "question": "How is pricing handled for this AI image workflow?",
+        "answer": "Each generation consumes credits based on the model and settings you use. You can monitor your credit balance in OpenCreator and adjust resolution or frequency of runs to stay within budget."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "NANO BANANA 2 – Nano Banana Pro Image Generator",
+      "description": "Explore Nano Banana Pro (Gemini 3 Pro Image) through the Nano Banana 2 workflow in OpenCreator. Generate high-quality, text-aware images from prompts."
+    },
+    "softwareApplication": {
+      "name": "NANO BANANA 2 Image Generator",
+      "description": "An advanced AI image workflow in OpenCreator powered by Nano Banana 2, designed for high-fidelity prompt-aware image generation."
+    },
+    "faqPage": {
+      "name": "NANO BANANA 2 – FAQ"
+    }
+  }
+}

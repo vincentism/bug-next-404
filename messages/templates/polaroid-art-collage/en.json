@@ -1,0 +1,95 @@
+{
+  "seo": {
+    "title": "Polaroid Art Collage – AI Aesthetic Collage Workflow | OpenCreator",
+    "description": "Turn your product or lifestyle visuals into polaroid-style art collages. Generate on-brand social promo assets that feel nostalgic and aesthetic.",
+    "keywords": [
+      "polaroid collage maker",
+      "ai collage generator",
+      "polaroid style collage",
+      "aesthetic photo collage",
+      "social media collage design",
+      "product collage poster",
+      "scrapbook style collage",
+      "nostalgic photo collage"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#banana_pro", "#social_promo", "#aesthetic_collage"],
+    "title": "Polaroid Art Collage",
+    "description": "Create aesthetic polaroid-style collages for your brand in a few clicks. Mix products, lifestyle shots, and typography into cohesive social-first layouts.",
+    "inputPlaceholder": "Describe what you want to showcase in your polaroid collage",
+    "ctaText": "Create Collage"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define the story of your collage",
+        "description": "Describe the theme, products, and mood you want to express: new collection, brand story, seasonal drop, or campaign teaser."
+      },
+      {
+        "title": "Choose polaroid and layout style",
+        "description": "Specify the arrangement feeling: scattered polaroids, grid layout, overlapping frames, and background texture style."
+      },
+      {
+        "title": "Generate polaroid-style collage",
+        "description": "Run the workflow to create a cohesive collage that combines polaroid frames, product close-ups, and lifestyle context."
+      },
+      {
+        "title": "Refine and reuse across channels",
+        "description": "Export the final collage for social posts, stories, email headers, and landing page hero sections."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Great for social feeds, lookbooks, and brand storytelling",
+    "subtitle": "Use AI polaroid collages to bring a nostalgic, tactile feel to your digital campaigns.",
+    "audiences": [
+      {
+        "label": "Lifestyle and fashion brands",
+        "description": "Create moodboard-style collages for campaigns, lookbooks, and new collection announcements."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Quickly produce scroll-stopping visuals that mix product, texture, and typography in a single image."
+      },
+      {
+        "label": "Creative studios and agencies",
+        "description": "Prototype multiple collage directions for brand decks and campaigns before committing to manual design."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Polaroid Art Collage workflow?",
+        "answer": "Polaroid Art Collage is an AI workflow for generating polaroid-style collages that mix product, lifestyle, and texture into one aesthetic layout for social and brand storytelling."
+      },
+      {
+        "question": "What kind of input works best?",
+        "answer": "Short descriptions of your products, campaign theme, and preferred collage feeling work best. You can also describe colors, textures, and layout preferences."
+      },
+      {
+        "question": "Who is this workflow designed for?",
+        "answer": "It is designed for lifestyle brands, fashion labels, social media teams, and creative studios that need aesthetic, on-brand collages quickly."
+      },
+      {
+        "question": "Where can I use the generated collages?",
+        "answer": "You can use collages in social posts, stories, email headers, landing pages, and presentation decks, subject to OpenCreator's terms and model policies."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Polaroid Art Collage – AI Aesthetic Collage Workflow",
+      "description": "Turn your product or lifestyle visuals into aesthetic polaroid-style art collages for social media and brand storytelling."
+    },
+    "softwareApplication": {
+      "name": "Polaroid Art Collage AI Workflow",
+      "description": "An AI workflow in OpenCreator for generating polaroid-style collage images for social promo and branding."
+    },
+    "faqPage": {
+      "name": "Polaroid Art Collage – FAQ"
+    }
+  }
+}

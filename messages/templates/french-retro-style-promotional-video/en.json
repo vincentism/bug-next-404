@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "French Retro Promotional Video Maker | Vintage Brand Ad Style",
+    "description": "Generate elegant French retro promo videos with black-and-white tones, film grain texture, and cinematic pacing for brand storytelling and product campaigns.",
+    "keywords": [
+      "vintage promotional video",
+      "french retro video style",
+      "black and white ad video",
+      "film grain video effect",
+      "cinematic brand video",
+      "retro fashion ad",
+      "ai promo video maker",
+      "reels tiktok ad video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#Branding_Ads", "#VEO_3_1", "#Banana_Pro"],
+    "title": "French Retro Style Promotional Video",
+    "description": "Transform one reference image into a vintage brand film with French editorial tone. This workflow adds black-and-white grading, film grain texture, and restrained cinematic movement for premium campaigns.",
+    "inputPlaceholder": "Upload your product or model image",
+    "ctaText": "Run for Free!",
+    "outputImageAlt": "French retro-style black-and-white promotional video still"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload a reference image",
+        "description": "Start from a product shot or fashion reference. The workflow treats it as the visual anchor for styling."
+      },
+      {
+        "title": "Apply retro styling",
+        "description": "Use AI image editing to push a French vintage look: monochrome contrast, film grain, and subtle imperfections."
+      },
+      {
+        "title": "Generate multiple promo clips",
+        "description": "Create variations of slow, editorial movements such as walking shots, close-ups, and cinematic stillness—optimized for social ads."
+      },
+      {
+        "title": "Export for campaigns",
+        "description": "Download your final clips and use them on TikTok/Reels, landing pages, or brand campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For premium brands that need an editorial feel",
+    "subtitle": "Generate cinematic promo assets without a full shoot.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create short editorial videos for lookbooks, drops, and social campaigns."
+      },
+      {
+        "label": "Luxury product marketers",
+        "description": "Produce premium-feel promos for accessories, cosmetics, and lifestyle products."
+      },
+      {
+        "label": "Creative studios",
+        "description": "Prototype multiple concepts quickly and iterate with clients."
+      },
+      {
+        "label": "Independent creators",
+        "description": "Make film-like aesthetic clips for personal branding and portfolios."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the French Retro Style Promotional Video workflow?",
+        "answer": "It’s an AI workflow that turns a reference image into cinematic, vintage-style promotional videos with a French editorial vibe."
+      },
+      {
+        "question": "What inputs work best?",
+        "answer": "Clean product shots or fashion references with clear subjects. Higher resolution inputs generally produce more stable details."
+      },
+      {
+        "question": "Can I control the mood and pacing?",
+        "answer": "Yes. You can edit the prompts to make it more dramatic, softer, or more energetic, and control shot length via video node settings."
+      },
+      {
+        "question": "Is this suitable for ads?",
+        "answer": "Yes. It’s optimized for short-form ad formats and premium brand storytelling."
+      },
+      {
+        "question": "What models are used?",
+        "answer": "This workflow uses a combination of image editing and video generation models (including Veo 3.1) to produce cinematic results."
+      },
+      {
+        "question": "Can I use the output commercially?",
+        "answer": "In general, yes—outputs can be used commercially, but you should follow model provider terms and ensure your input assets are licensed."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "French Retro Style Promotional Video – Cinematic Vintage Ads Workflow",
+      "description": "Generate French retro-style promotional videos with film-grain aesthetics for brand campaigns."
+    },
+    "softwareApplication": {
+      "name": "French Retro Promo Video Workflow",
+      "description": "AI workflow for creating cinematic, vintage-style promotional videos from a reference image."
+    },
+    "faqPage": {
+      "name": "French Retro Style Promotional Video – FAQ"
+    }
+  }
+}

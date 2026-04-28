@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Studio-level Photography – AI Polished Product & Portraits | OpenCreator",
+    "description": "Produce studio-quality product and portrait photography with AI. Professional product photography services with simulated studio lighting, backgrounds, and product photo retouching services.",
+    "keywords": [
+      "product photography services",
+      "professional product photography",
+      "product photo retouching services",
+      "ecommerce photo editing services",
+      "product photo editing",
+      "ai product photography",
+      "studio photography generator",
+      "diy product photography setup",
+      "product photography lighting kit",
+      "how to take product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#studio_photography", "#product_photos", "#portraits"],
+    "title": "Studio-level Photography",
+    "description": "Produce studio-quality product and portrait photography with AI. Simulate professional lighting, backgrounds, and retouching to achieve campaign-ready visuals without traditional studio sessions.",
+    "inputPlaceholder": "Upload your base product or portrait photo to upgrade to studio quality",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload existing product or portrait photos",
+        "description": "Start from basic captures shot in natural or imperfect lighting."
+      },
+      {
+        "title": "Select studio style and background",
+        "description": "Choose seamless backdrops, gradient lighting, colored gels, or lifestyle-inspired studio setups."
+      },
+      {
+        "title": "Enhance with AI retouching and lighting",
+        "description": "AI refines exposure, contrast, skin or surface details, and overall polish."
+      },
+      {
+        "title": "Export for web, print, and campaigns",
+        "description": "Use upgraded visuals across PDPs, social, ads, and print collateral."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams that need studio-quality images at scale",
+    "subtitle": "From e-commerce to personal branding, see who levels up photography with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce and catalog teams",
+        "description": "Standardize quality across large product libraries without reshooting everything."
+      },
+      {
+        "label": "Personal branding and creator teams",
+        "description": "Turn simple photos into professional portraits for profiles, press, and campaigns."
+      },
+      {
+        "label": "Agencies and production studios",
+        "description": "Use AI as a complement to traditional photography for lower-budget projects."
+      },
+      {
+        "label": "Small businesses",
+        "description": "Achieve studio-like visuals without access to professional gear or locations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I upgrade photos to a studio look?",
+        "answer": "Upload product or portrait images—AI simulates studio lighting, backgrounds, and retouching for polished, campaign-ready results."
+      },
+      {
+        "question": "Which backdrops and lighting can I choose?",
+        "answer": "Seamless white, neutral gradients, colored gels, and lifestyle-inspired backdrops; select soft, hard, or rim lighting styles."
+      },
+      {
+        "question": "Can I control the retouching level?",
+        "answer": "Yes. Choose subtle cleanup or stronger retouching for skin and surface details; preview before exporting."
+      },
+      {
+        "question": "Is output suitable for print and web?",
+        "answer": "Export web-ready images or high-resolution files for print collateral, catalogs, and OOH."
+      },
+      {
+        "question": "Can I process large libraries?",
+        "answer": "Yes. Batch upgrade product lines to standardize quality without reshooting."
+      },
+      {
+        "question": "How do credits work at scale?",
+        "answer": "Credits depend on resolution and volume. Start with a representative sample, then roll out to full catalogs."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Studio-level Photography – AI Polished Product & Portraits",
+      "description": "Produce studio-quality product and portrait images with AI lighting and retouching."
+    },
+    "softwareApplication": {
+      "name": "Studio-level Photography Workflow Template",
+      "description": "AI workflow to upgrade product and portrait photos to studio-level quality."
+    },
+    "faqPage": {
+      "name": "Studio-level Photography – FAQ"
+    }
+  }
+}

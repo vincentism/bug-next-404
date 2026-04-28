@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Homeware Lifestyle Ad – Warm, Aspirational Video Content | OpenCreator",
+    "description": "Produce cozy, aspirational lifestyle ads for homeware with AI. Furniture photography and product video maker for showcasing furniture, decor, and household items in emotionally resonant scenes.",
+    "keywords": [
+      "furniture photography",
+      "product video maker",
+      "ai commercial generator",
+      "lifestyle product photography",
+      "virtual staging ai",
+      "ai decorator",
+      "homeware ad generator",
+      "home decor video ads",
+      "branding video for home products",
+      "professional product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#homeware", "#lifestyle_ads", "#branding"],
+    "title": "Homeware Lifestyle Ad",
+    "description": "Produce cozy, aspirational lifestyle ads for homeware products with AI. Show products in lived-in, well-lit scenes that feel natural and warm.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your homeware product, audience, and ideal lifestyle scene",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe product and use context",
+        "description": "Specify category (furniture, textiles, decor), materials, and where it lives in the home."
+      },
+      {
+        "title": "Pick lifestyle mood and setting",
+        "description": "Cozy family, minimalist design, luxury, boho, or modern apartment vibes."
+      },
+      {
+        "title": "Generate AI lifestyle ad sequences",
+        "description": "AI builds natural room scenes where your product appears aspirational and warm."
+      },
+      {
+        "title": "Export for social, web, and connected TV",
+        "description": "Download edits optimized for paid social, feeds, websites, and OTT."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands selling how home feels—not just what it looks like",
+    "subtitle": "From DTC homeware to retail chains, see who uses AI lifestyle ads.",
+    "audiences": [
+      {
+        "label": "Direct-to-consumer home brands",
+        "description": "Tell story-driven narratives that connect emotionally with buyers."
+      },
+      {
+        "label": "Furniture and decor retailers",
+        "description": "Generate room-scene ads without full location shoots."
+      },
+      {
+        "label": "Marketplace homeware sellers",
+        "description": "Elevate perception beyond plain catalog shots."
+      },
+      {
+        "label": "Creative and media agencies",
+        "description": "Explore multiple lifestyle directions per product quickly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Homeware Lifestyle Ad workflow?",
+        "answer": "An AI workflow that creates warm lifestyle ad sequences for homeware products."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "DTC brands, furniture/decor retailers, marketplace sellers, and agencies."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Describe product category, materials, lifestyle mood, and setting preferences."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "Edits optimized for social, web, and connected TV placements."
+      },
+      {
+        "question": "Can I choose different lifestyle styles?",
+        "answer": "Yes. Try cozy family, minimalist, luxury, boho, or modern apartment looks."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits by complexity and duration. Iterate and export within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Homeware Lifestyle Ad – Warm, Aspirational Video Content",
+      "description": "AI-generated lifestyle ads for homeware products."
+    },
+    "softwareApplication": {
+      "name": "Homeware Lifestyle Ad Template",
+      "description": "AI workflow that creates cozy lifestyle scenes for home products."
+    },
+    "faqPage": { "name": "Homeware Lifestyle Ad – FAQ" }
+  }
+}

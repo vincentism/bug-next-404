@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Pets x Bridal Sedan Chair Dance – How to Create Video Memes | OpenCreator",
+    "description": "Make a viral-style pet video meme for Instagram Reels and TikTok: generate a character plus background from text, then edit a base dance clip with video-to-video AI while preserving original motion.",
+    "keywords": [
+      "video meme generator",
+      "how to create video memes",
+      "how to make a meme for instagram",
+      "pet meme video",
+      "video to video ai",
+      "bridal sedan chair dance",
+      "new year video meme",
+      "video subject replacement",
+      "festival meme short video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#Kling_o1", "#Social_Promo"],
+    "title": "Pets x Bridal Sedan Chair Dance",
+    "description": "Generate a festive character + background from text, then apply them to a base clip to create a viral-style pet dance meme. This workflow is designed for high-speed iteration: swap prompts and quickly produce new variants.",
+    "inputPlaceholder": "Describe your pet character and the scene",
+    "ctaText": "Run for Free!",
+    "outputImageAlt": "Pets x bridal sedan chair dance cover image"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Write a character prompt",
+        "description": "Describe the pet character you want (pose, outfit, expression, vibe). The workflow generates a matching character image."
+      },
+      {
+        "title": "Generate a background",
+        "description": "Create a festive background (New Year / red & gold / stage lighting, etc.) to control the final scene atmosphere."
+      },
+      {
+        "title": "Edit a base clip with Kling o1",
+        "description": "Use video-to-video to replace the subject and apply the new background while keeping the original dance motion and camera."
+      },
+      {
+        "title": "Export for short-form",
+        "description": "Download and publish to TikTok/Reels/Shorts as a meme-style promo or brand post."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams who want fast seasonal meme content",
+    "subtitle": "Create many variations by changing a few prompts.",
+    "audiences": [
+      {
+        "label": "Social media teams",
+        "description": "Produce festival/holiday-themed meme content for engagement without heavy production."
+      },
+      {
+        "label": "Pet brands",
+        "description": "Make playful promo clips for pet products and campaigns."
+      },
+      {
+        "label": "Creators",
+        "description": "Experiment with different characters, poses, and backgrounds to find what goes viral."
+      },
+      {
+        "label": "Agencies",
+        "description": "Deliver multiple meme variants to clients quickly and consistently."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Pets x Bridal Sedan Chair Dance?",
+        "answer": "It’s a workflow that generates a pet character and background from text prompts, then uses Kling o1 video-to-video to apply them onto a base dance clip."
+      },
+      {
+        "question": "Is this text-to-video?",
+        "answer": "Not exactly. The workflow uses text-to-image for character/background, then edits a base clip using video-to-video."
+      },
+      {
+        "question": "What models are used?",
+        "answer": "The workflow uses text-to-image models for generating the assets, and Kling o1 for the final video-to-video edit."
+      },
+      {
+        "question": "Do I need a base video?",
+        "answer": "Yes. Video-to-video editing needs a base clip for motion and camera. The workflow is optimized for short clips."
+      },
+      {
+        "question": "Can I change the character style?",
+        "answer": "Yes. Update the text prompts to change the character, outfit, expression, and the entire scene vibe."
+      },
+      {
+        "question": "Can I use it for commercial posts?",
+        "answer": "In general, yes—but ensure you have rights to the base clip and follow provider/platform policies."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Pets x Bridal Sedan Chair Dance – Meme Video Workflow",
+      "description": "Generate a festive pet meme video by creating character/background assets and editing a base clip with Kling o1."
+    },
+    "softwareApplication": {
+      "name": "Seasonal Meme Video Workflow",
+      "description": "AI workflow for generating assets from text and producing meme videos with video-to-video editing."
+    },
+    "faqPage": {
+      "name": "Pets x Bridal Sedan Chair Dance – FAQ"
+    }
+  }
+}

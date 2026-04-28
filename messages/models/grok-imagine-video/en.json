@@ -1,0 +1,188 @@
+{
+  "model": {
+    "meta": {
+      "title": "Grok Imagine Video | AI Video Generator with Native Audio | OpenCreator",
+      "description": "Generate videos with audio using xAI's Grok Imagine Video on OpenCreator. Supports text-to-video and image-to-video, up to 15 seconds, multiple aspect ratios, and pay-per-second pricing."
+    },
+    "hero": {
+      "modelName": "Grok Imagine Video",
+      "tagline": "Video with Audio, T2V & I2V",
+      "description": "xAI's video generation model that can generate videos with audio. Use text-to-video or image-to-video, choose duration up to 15 seconds, and control aspect ratio and resolution with flexible pay-per-second pricing.",
+      "badge": "New",
+      "ctaText": "Try Grok Imagine Video Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "nativeAudio": "Video with Audio",
+        "lipSync": "Text & Image Inputs",
+        "upTo15s": "Up to 15s",
+        "payPerSecond": "Pay Per Second"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Grok Imagine Video a powerful video generation model",
+      "items": {
+        "nativeAudio": {
+          "title": "Video with Audio Output",
+          "description": "Generate MP4 videos that can include audio. Great for cinematic short clips and social content."
+        },
+        "lipSync": {
+          "title": "Text-to-Video & Image-to-Video",
+          "description": "Create videos directly from a text prompt, or animate an input image into a video with a prompt."
+        },
+        "duration": {
+          "title": "Up to 15 Seconds",
+          "description": "Choose durations from 1 to 15 seconds depending on your use case."
+        },
+        "flexiblePricing": {
+          "title": "Pay-Per-Second",
+          "description": "Flexible pricing at 60 credits per second. Pay only for the duration you need, from 1 to 15 seconds."
+        },
+        "fast": {
+          "title": "Resolution Control",
+          "description": "Select 480p or 720p output resolution for speed and cost control."
+        },
+        "aspectRatios": {
+          "title": "Multi-Format Support",
+          "description": "Support for multiple aspect ratios including 16:9, 9:16, 1:1, and more—ready for YouTube, TikTok, and Instagram."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Grok Imagine Video on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "lipSync": {
+          "title": "Talking Portrait",
+          "description": "Lip-Sync Demo",
+          "useCase": "Create realistic talking head videos with perfectly synced mouth movements for presentations and content."
+        },
+        "product": {
+          "title": "Product Showcase",
+          "description": "E-commerce Video",
+          "useCase": "Generate engaging product videos with dynamic camera movements and atmospheric audio for marketing."
+        },
+        "playful": {
+          "title": "Playful Scene",
+          "description": "Creative Content",
+          "useCase": "Create fun and engaging short-form video content perfect for social media and entertainment."
+        },
+        "lion": {
+          "title": "Lion Roar",
+          "description": "Audio Sync Demo",
+          "useCase": "Experience native audio synthesis with a majestic lion roaring in sync with its movements."
+        },
+        "ocean": {
+          "title": "Ocean Waves",
+          "description": "Ambient Sound",
+          "useCase": "Create peaceful nature scenes with synchronized ambient sound effects for relaxation content."
+        },
+        "tokyo": {
+          "title": "Tokyo Night",
+          "description": "Cinematic Scene",
+          "useCase": "Generate cinematic urban scenes with atmospheric audio perfect for storytelling and music videos."
+        },
+        "barista": {
+          "title": "Latte Art",
+          "description": "Lifestyle Content",
+          "useCase": "Create cozy lifestyle videos with ambient sounds perfect for social media and brand content."
+        },
+        "butterfly": {
+          "title": "Nature Macro",
+          "description": "Wildlife Video",
+          "useCase": "Generate beautiful nature macro shots with gentle ambient sounds for peaceful content."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Grok Imagine Video capabilities",
+      "categories": {
+        "video": {
+          "title": "Video Specs",
+          "duration": "Duration",
+          "resolution": "Resolution",
+          "frameRate": "Frame Rate",
+          "aspectRatios": "Aspect Ratios"
+        },
+        "audio": {
+          "title": "Audio Capabilities",
+          "nativeAudio": "Native Audio",
+          "lipSync": "Lip-Sync",
+          "soundEffects": "Sound Effects"
+        },
+        "input": {
+          "title": "Input Support",
+          "textToVideo": "Text to Video",
+          "imageToVideo": "Image to Video"
+        },
+        "pricing": {
+          "title": "Pricing",
+          "costPerSecond": "Cost Per Second",
+          "minimumDuration": "Minimum Duration",
+          "maximumDuration": "Maximum Duration"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Grok Imagine Video compares to other video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "nativeAudio": "Native Audio",
+        "lipSync": "Lip-Sync",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "cost": "Cost Efficiency",
+        "quality": "Visual Quality"
+      }
+    },
+    "pricing": {
+      "title": "Flexible Pricing",
+      "subtitle": "",
+      "description": "Pay per second, native audio",
+      "perGeneration": "per 6s video",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits scale with duration: 60 credits per second. A 6-second video costs 360 credits, 15-second costs 900 credits.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerGenerationLabel": "per 6s video"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Grok Imagine Video and who developed it?",
+          "answer": "Grok Imagine Video is xAI's video generation model. It supports generating videos with audio from text prompts or from input images."
+        },
+        "1": {
+          "question": "What makes Grok Imagine Video different from other video models?",
+          "answer": "It supports both text-to-video and image-to-video, with controllable duration (up to 15s), aspect ratio, and resolution—plus pay-per-second pricing."
+        },
+        "2": {
+          "question": "What video durations are supported?",
+          "answer": "Grok Imagine Video supports durations from 1 to 15 seconds. You can choose any duration within this range, and pricing scales at 60 credits per second."
+        },
+        "3": {
+          "question": "What resolutions and aspect ratios are available?",
+          "answer": "The model supports 480p and 720p resolutions with 8 aspect ratios: auto, 16:9, 4:3, 3:2, 1:1, 2:3, 3:4, and 9:16. Default is 720p with auto aspect ratio."
+        },
+        "4": {
+          "question": "How does the pricing work?",
+          "answer": "Grok Imagine Video uses pay-per-second pricing at 60 credits per second. A 1-second video costs 60 credits, 6-second costs 360 credits, and a 15-second video costs 900 credits."
+        },
+        "5": {
+          "question": "Can I use my own images as input?",
+          "answer": "Yes, Grok Imagine Video supports both text-to-video and image-to-video generation. For image-to-video, provide an image URL along with your prompt to animate the image into a video."
+        }
+      }
+    }
+  }
+}

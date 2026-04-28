@@ -1,0 +1,170 @@
+{
+  "model": {
+    "meta": {
+      "title": "Qwen 多角度图片生成器 | AI 镜头角度控制 | OpenCreator",
+      "description": "使用 Qwen Image Edit 从新的相机角度生成同一场景。控制水平旋转（0-360°）、垂直俯仰（-30° 至 90°）和缩放，实现 AI 多视角合成。",
+      "keywords": [
+        "Qwen 多角度",
+        "Qwen Image Edit Multiple Angles",
+        "多角度图片生成器",
+        "多视角图片生成",
+        "AI 镜头角度控制",
+        "图片视角变换",
+        "新视角合成",
+        "360 度产品展示",
+        "OpenCreator 角度控制"
+      ]
+    },
+    "hero": {
+      "modelName": "Qwen 多角度",
+      "tagline": "AI 镜头角度控制",
+      "description": "Qwen Image Edit Multiple Angles 采用经 LoRA 微调的 Qwen 架构，可从任意图片生成新视角。通过控制水平旋转、垂直俯仰和缩放，从单张输入照片生成一致的多视角输出。",
+      "badge": "新品",
+      "ctaText": "免费试用多角度",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "angleControl": "角度控制",
+        "multiView": "多视角",
+        "fullRotation": "360° 旋转",
+        "zoomControl": "缩放控制"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "基于 Qwen 多视角合成的精准镜头角度控制",
+      "items": {
+        "horizontal": {
+          "title": "360° 水平旋转",
+          "description": "围绕主体自由旋转虚拟相机，0° 至 360°。从单张输入生成正面、侧面、背面及任意方位角视图。"
+        },
+        "vertical": {
+          "title": "垂直俯仰控制",
+          "description": "仰角可调节范围 -30°（略低角度）至 90°（正上方俯视）。适合俯拍平铺或戏剧性透视拍摄。"
+        },
+        "zoom": {
+          "title": "10 级缩放控制",
+          "description": "通过 10 级缩放精调焦距，从广角全景到紧凑特写，无需裁切即可输出不同远近的画面。"
+        },
+        "consistency": {
+          "title": "主体一致性",
+          "description": "在生成的不同视角中保持视觉特征、光照和细节的连贯一致。"
+        },
+        "preview3d": {
+          "title": "交互式 3D 预览",
+          "description": "内置 3D 线框球体预览，拖动旋转、滚轮缩放，生成前即可实时查看相机位置。"
+        },
+        "workflow": {
+          "title": "画布工作流集成",
+          "description": "作为 OpenCreator 节点画布的原生原子使用。可与换背景、放大、视频生成等原子自由串联。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "效果展示",
+      "subtitle": "从单张输入图片生成的多角度输出",
+      "items": {
+        "multiGrid": {
+          "title": "多角度九宫格",
+          "description": "一张照片生成 9 个视角",
+          "useCase": "在单次工作流中生成完整的多角度套图，从每个方向展示你的主体。"
+        },
+        "topDown": {
+          "title": "俯视图",
+          "description": "垂直 90° 鸟瞰",
+          "useCase": "适合平铺产品摄影、建筑平面图和需要鸟瞰视角的目录拍摄。"
+        },
+        "leftRight": {
+          "title": "水平旋转",
+          "description": "左右旋转展示",
+          "useCase": "为电商商品详情页和 360° 产品展示从多个侧面角度展示产品。"
+        },
+        "lowAngle": {
+          "title": "低角度特写",
+          "description": "仰视 + 拉近",
+          "useCase": "通过略微仰视的角度创建戏剧性的编辑风格特写，适合时尚和奢侈品摄影。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "模型能力与参数",
+      "categories": {
+        "angleControl": {
+          "title": "角度控制",
+          "horizontalRange": "水平范围",
+          "verticalRange": "垂直范围",
+          "zoomLevels": "缩放级别",
+          "loraScale": "LoRA 强度"
+        },
+        "inputOutput": {
+          "title": "输入 / 输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "resolution": "输出分辨率"
+        },
+        "model": {
+          "title": "模型信息",
+          "architecture": "架构",
+          "provider": "供应商",
+          "apiKey": "API 端点"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "Qwen 多角度与其他图片编辑方式的对比",
+      "featureLabel": "功能",
+      "recommended": "推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "angleControl": "角度控制",
+        "fullRotation": "360° 旋转",
+        "verticalTilt": "垂直俯仰",
+        "zoomControl": "缩放控制",
+        "subjectConsistency": "主体一致性",
+        "batchWorkflow": "批量工作流"
+      }
+    },
+    "pricing": {
+      "title": "定价",
+      "subtitle": "简单的积分制定价",
+      "description": "每次多角度生成按分辨率消耗积分。订阅可获得更多每月积分。",
+      "note": "每次生成 36 积分。订阅更划算。",
+      "viewFullPricing": "查看完整定价",
+      "planSectionTitle": "套餐",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerGenerationLabel": "每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Qwen 多角度，它是如何工作的？",
+          "answer": "Qwen 多角度使用经 LoRA 专门训练用于新视角合成的 Qwen 微调架构。给定单张输入图片，它可以从由水平旋转（0-360°）、垂直俯仰（-30° 至 90°）和缩放级别（0-10）定义的新相机角度生成同一场景。"
+        },
+        "1": {
+          "question": "什么类型的图片效果最好？",
+          "answer": "清晰、光线良好的单一主体图片效果最佳——白色或简洁背景的产品图、光线干净的人像、或轮廓分明的物体。避免使用背景过于杂乱或主体严重遮挡的图片。"
+        },
+        "2": {
+          "question": "可以生成完整的 360° 产品视图吗？",
+          "answer": "可以。在 OpenCreator 工作流中串联多个 Angle Control 节点，设置不同的水平角度（如 0°、45°、90°、135°、180°、225°、270°、315°），即可从单张输入照片生成完整的旋转图集。"
+        },
+        "3": {
+          "question": "生成的视角精确度如何？",
+          "answer": "对于大多数主体，角度精度在目标的几度范围内。复杂主体中被遮挡的细节（如仅展示正面的人物背面）会由模型进行一定程度的创意推理。"
+        },
+        "4": {
+          "question": "与 3D 渲染相比如何？",
+          "answer": "与需要 3D 模型、贴图和渲染管线的 3D 渲染不同，Qwen 多角度直接从 2D 照片工作。速度更快，无需 3D 专业知识，但对于复杂的机械物体可能不及真正 3D 渲染的精度。"
+        },
+        "5": {
+          "question": "可以与其他 OpenCreator 功能组合使用吗？",
+          "answer": "可以。Angle Control 原子在 OpenCreator 节点画布中使用。可与换背景、图片放大、图生视频、虚拟试穿等任意原子连接，构建完整的创意工作流。"
+        }
+      }
+    }
+  }
+}

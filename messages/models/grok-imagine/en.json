@@ -1,0 +1,187 @@
+{
+  "model": {
+    "meta": {
+      "title": "Grok Imagine AI Image Generator | Prompt-Enhanced | OpenCreator",
+      "description": "Generate highly aesthetic images with xAI's Grok Imagine. Supports many aspect ratios and output formats, returns an enhanced revised prompt, and offers ultra-low cost pricing on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Grok Imagine",
+      "tagline": "Highly Aesthetic, Prompt-Enhanced",
+      "description": "xAI's text-to-image model for generating highly aesthetic visuals. Grok Imagine supports a wide range of aspect ratios and output formats, and returns an enhanced revised prompt to help you iterate faster—at an ultra-low cost.",
+      "badge": "New",
+      "ctaText": "Try Grok Imagine Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "auroraModel": "Revised Prompt",
+        "photorealistic": "Text to Image",
+        "styleModes": "Many Aspect Ratios",
+        "fastAffordable": "Multiple Formats"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Grok Imagine a powerful image generation model",
+      "items": {
+        "aurora": {
+          "title": "Prompt Enhancement (Revised Prompt)",
+          "description": "The API returns a revised_prompt (an enhanced prompt) so you can see what was actually used for generation and iterate more effectively."
+        },
+        "photorealistic": {
+          "title": "Flexible Aspect Ratios",
+          "description": "Generate images in many aspect ratios including 1:1, 16:9, 9:16, 20:9, 2:1, and more—ready for ads, social, and web."
+        },
+        "styleModes": {
+          "title": "Multiple Output Formats",
+          "description": "Export images as jpeg, png, or webp depending on your quality and file-size needs."
+        },
+        "editing": {
+          "title": "Precise Image Editing",
+          "description": "Use the Grok Imagine edit endpoint to modify an existing image with a text prompt—ideal for refinements and adjustments."
+        },
+        "lowCost": {
+          "title": "Ultra-Low Cost",
+          "description": "Generate images at just 24 credits per image. One of the most cost-effective high-quality image generators available."
+        },
+        "fast": {
+          "title": "Creator-Friendly Iteration",
+          "description": "Combine prompt enhancement, flexible ratios, and editing to iterate quickly and keep your creative workflow moving."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Grok Imagine on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "portrait": {
+          "title": "Professional Portrait",
+          "description": "Business Photography",
+          "useCase": "Create professional headshots and business portraits with natural lighting and studio quality."
+        },
+        "product": {
+          "title": "Product Photography",
+          "description": "E-commerce Ready",
+          "useCase": "Generate stunning product images perfect for e-commerce listings and marketing materials."
+        },
+        "landscape": {
+          "title": "Natural Landscape",
+          "description": "Scenic Photography",
+          "useCase": "Create breathtaking landscape and nature photography with rich colors and details."
+        },
+        "illustration": {
+          "title": "Ghibli Style Art",
+          "description": "Artistic Illustration",
+          "useCase": "Generate beautiful anime-style illustrations inspired by Studio Ghibli aesthetics."
+        },
+        "cyberpunk": {
+          "title": "Cyberpunk City",
+          "description": "Sci-Fi Concept Art",
+          "useCase": "Create futuristic cityscapes with neon lights and cyberpunk aesthetic for creative projects."
+        },
+        "food": {
+          "title": "Food Photography",
+          "description": "Culinary Visuals",
+          "useCase": "Generate appetizing food photography perfect for restaurants and food brands."
+        },
+        "fashion": {
+          "title": "Fashion Portrait",
+          "description": "Lifestyle Photography",
+          "useCase": "Create stunning fashion and lifestyle portraits with beautiful natural settings."
+        },
+        "architecture": {
+          "title": "Modern Architecture",
+          "description": "Architectural Design",
+          "useCase": "Generate minimalist architectural photography with clean lines and geometric shadows."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Grok Imagine capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "aspectRatios": "Aspect Ratios"
+        },
+        "modes": {
+          "title": "Generation Modes",
+          "textToImage": "Text to Image",
+          "imageEditing": "Image Editing",
+          "styleModes": "Revised Prompt"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationSpeed": "Generation Speed",
+          "architecture": "Architecture"
+        },
+        "quality": {
+          "title": "Quality Features",
+          "photorealism": "Photorealism",
+          "promptFidelity": "Prompt Enhancement",
+          "aesthetics": "Visual Aesthetics"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Grok Imagine compares to other image models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "textToImage": "Text to Image",
+        "speed": "Generation Speed",
+        "promptFollowing": "Prompt Enhancement",
+        "photorealism": "Photorealism",
+        "cost": "Cost Efficiency",
+        "quality": "Visual Quality"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "description": "Rich aesthetics, low cost",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Grok Imagine and who developed it?",
+          "answer": "Grok Imagine is xAI's text-to-image model for generating highly aesthetic images. On OpenCreator, you can use it for fast iteration with prompt enhancement and multiple output options."
+        },
+        "1": {
+          "question": "What makes Grok Imagine different from other image models?",
+          "answer": "Grok Imagine supports many aspect ratios and output formats, and returns a revised_prompt (enhanced prompt). This makes it easier to understand what was used and iterate on results."
+        },
+        "2": {
+          "question": "What aspect ratios does Grok Imagine support?",
+          "answer": "Grok Imagine supports a wide range of aspect ratios including 1:1, 16:9, 9:16, 4:3, 3:4, 3:2, 2:3, 2:1, 1:2, and mobile-specific ratios like 19.5:9 and 20:9."
+        },
+        "3": {
+          "question": "Does Grok Imagine enhance my prompt?",
+          "answer": "Yes. The API returns a revised_prompt field (an enhanced prompt) in the response, which you can use to learn how the model interpreted your request and refine future prompts."
+        },
+        "4": {
+          "question": "How much does it cost to generate images?",
+          "answer": "Grok Imagine costs just 24 credits per image for text-to-image generation and 27 credits for image editing, making it one of the most affordable high-quality image generators."
+        },
+        "5": {
+          "question": "What output formats are supported?",
+          "answer": "Grok Imagine supports JPEG, PNG, and WebP output formats. The default format is JPEG for optimal file size and quality balance."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Daily Necessities Amazon Image Set – AI Product Photography | OpenCreator",
+    "description": "Create professional Amazon listing images for daily necessities and household products with AI. Generate FBA images, lifestyle shots, and infographics for amazon product photo requirements.",
+    "keywords": [
+      "amazon listing images",
+      "fba images",
+      "amazon product photo requirements",
+      "ai product photography",
+      "best ai product photo generator",
+      "make product photos with ai",
+      "product image generator",
+      "lifestyle product photography",
+      "professional product photography",
+      "amazon product photography service"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#amazon", "#daily_necessities", "#household"],
+    "title": "Daily Necessities Amazon Image Set",
+    "description": "Create professional Amazon listing images for daily necessities and household products with AI. Generate complete image sets including lifestyle shots, feature highlights, and usage scenarios for everyday items. Perfect for sellers of home essentials and consumer goods.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product photo",
+        "description": "Provide an image of your daily necessity product—kitchenware, cleaning supplies, personal care items, or any household essentials. Basic product photos work perfectly."
+      },
+      {
+        "title": "Select image set style",
+        "description": "Choose from home lifestyle scenes, usage demonstrations, size comparisons, or feature highlight layouts designed for everyday product categories."
+      },
+      {
+        "title": "Generate Amazon-optimized images",
+        "description": "AI creates professional product photography showing your items in realistic home settings, with proper lighting and compositions that drive conversions."
+      },
+      {
+        "title": "Download and list on Amazon",
+        "description": "Export high-resolution images that meet Amazon requirements and showcase your daily necessities in the most appealing way to customers."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for household product sellers",
+    "subtitle": "From home essentials brands to general merchandise sellers, see who creates product imagery with AI.",
+    "audiences": [
+      {
+        "label": "Home essentials brands",
+        "description": "Create consistent, professional imagery for kitchen, bathroom, and household products that builds trust and drives sales."
+      },
+      {
+        "label": "Amazon FBA sellers",
+        "description": "Generate high-quality listing images for everyday items without expensive photography, maximizing profit margins on lower-priced goods."
+      },
+      {
+        "label": "Cleaning product sellers",
+        "description": "Showcase cleaning supplies in realistic usage scenarios that demonstrate effectiveness and build customer confidence."
+      },
+      {
+        "label": "Personal care brands",
+        "description": "Create aspirational lifestyle imagery for toiletries and personal care items that elevates product perception."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Daily Necessities Amazon Image Set?",
+        "answer": "This AI workflow creates complete Amazon listing image sets for everyday household products—kitchenware, cleaning supplies, personal care items, and home essentials—optimized for marketplace conversions."
+      },
+      {
+        "question": "What types of products can I photograph?",
+        "answer": "Any daily necessity: kitchen tools, storage containers, cleaning products, bathroom essentials, personal care items, home organization products, and general household goods."
+      },
+      {
+        "question": "How does it show products in use?",
+        "answer": "The AI generates realistic home lifestyle scenes showing your products being used naturally in kitchens, bathrooms, and living spaces—helping customers visualize the items in their own homes."
+      },
+      {
+        "question": "Can I create infographic-style images?",
+        "answer": "Yes. Generate images that highlight product features, dimensions, included quantities, and key benefits in visually compelling layouts perfect for Amazon listings."
+      },
+      {
+        "question": "Will images meet Amazon's requirements?",
+        "answer": "Absolutely. All generated images comply with Amazon's image guidelines including resolution, background requirements, and content standards for product listings."
+      },
+      {
+        "question": "Is this cost-effective for lower-priced items?",
+        "answer": "Yes. This workflow is ideal for daily necessities where traditional photography costs would significantly impact margins. Create professional images affordably."
+      },
+      {
+        "question": "Can I maintain consistency across my catalog?",
+        "answer": "Yes. Apply consistent styling across all your household product listings for cohesive brand presentation on Amazon."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Images are delivered in high resolution meeting Amazon's requirements, with quality suitable for zoom functionality and detail viewing."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Daily Necessities Amazon Image Set – AI Product Photography",
+      "description": "Create professional Amazon listing images for daily necessities and household products with AI-powered photography."
+    },
+    "softwareApplication": {
+      "name": "Daily Necessities Amazon Image Set AI",
+      "description": "AI-powered product photography tool for creating Amazon listing images for household products and daily essentials."
+    },
+    "faqPage": {
+      "name": "Daily Necessities Amazon Image Set – FAQ"
+    }
+  }
+}

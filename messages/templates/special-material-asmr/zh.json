@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "特殊材质 ASMR – 特殊材质 ASMR 视频生成器 | OpenCreator",
+    "description": "用 AI 生成聚焦特殊材质与纹理的 ASMR 风格视频，突出表面细节、纹理变化和动作节奏，服务于创作者和品牌内容。",
+    "keywords": [
+      "特殊材质 asmr",
+      "纹理 asmr 视频",
+      "材质向 asmr 内容",
+      "视觉触发 asmr",
+      "独特纹理视频生成",
+      "实验风 asmr 内容",
+      "ai 纹理 asmr 生成器"
+    ]
+  },
+  "hero": {
+    "featureTag": "视频生成",
+    "tags": ["#asmr", "#textures", "#experimental"],
+    "title": "特殊材质 ASMR",
+    "description": "围绕金属碎屑、动力沙、泡沫、珠子、凝胶等特殊或实验性材质生成 ASMR 视频。用近景画面突出材质的纹理、流动和变化，让观众看得上头、停不下来。",
+    "inputPlaceholder": "描述你想展示的特殊材质和对应的运动方式",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "描述你想呈现的特殊材质及特性",
+        "description": "说明它的外观、质感和行为方式，以及为什么看起来很解压（例如拉伸感、松脆感、弹性、流动感等）。"
+      },
+      {
+        "title": "选择主要动作与交互方式",
+        "description": "从戳压、切割、挤压、捏碎、倾倒、拉伸变形等动作中选择最适合这一材质的表现方式。"
+      },
+      {
+        "title": "生成特殊材质 ASMR 片段",
+        "description": "由 AI 自动生成聚焦纹理变化、图案和反应细节的近景画面。"
+      },
+      {
+        "title": "导出用于 ASMR 频道和实验向内容",
+        "description": "将片段作为独立短视频发布，或插入到更长的内容与品牌故事中使用。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "为探索新材质的 ASMR 创作者而设",
+    "subtitle": "从细分 ASMR 频道到实验风品牌，都可以用特殊材质内容做出差异化。",
+    "audiences": [
+      {
+        "label": "ASMR 与解压视频创作者",
+        "description": "围绕不同材质推出系列内容，不断更新题材，让频道保持新鲜感。"
+      },
+      {
+        "label": "材料科普与教育类频道",
+        "description": "以更具观感的方式展示不同材料的特性和行为。"
+      },
+      {
+        "label": "创意工作室与代理公司",
+        "description": "把这些特殊材质画面当作抽象背景、品牌视觉资产或概念性动效素材。"
+      },
+      {
+        "label": "产品与研发团队",
+        "description": "通过近景运动与细节画面，展示材料创新和质感优势。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Special Material ASMR 工作流是做什么的？",
+        "answer": "Special Material ASMR 是一个 AI 工作流，用来生成以特殊或独特材质为主题的 ASMR 风格视频，突出表面纹理和动作细节。"
+      },
+      {
+        "question": "Special Material ASMR 适合哪些人使用？",
+        "answer": "它适合 ASMR 创作者、以材质和设计为主的账号、使用特殊包装或材质的品牌，以及喜欢尝试新形式的内容创作者。"
+      },
+      {
+        "question": "开始制作需要提供什么输入？",
+        "answer": "你需要描述想要呈现的特殊材质，例如金属箔片、沙子、泡沫、布料等，并说明希望看到的动作或交互方式。"
+      },
+      {
+        "question": "这个工作流会输出什么样的内容？",
+        "answer": "工作流会生成聚焦材质纹理、图案和动作的 ASMR 视觉片段，强调细节变化和节奏感。"
+      },
+      {
+        "question": "这些 Special Material ASMR 片段可以用在什么地方？",
+        "answer": "你可以将它们用于 ASMR 账号的常规内容、围绕产品材质的品牌故事、设计展示，或作为 Campaign 中的视觉 B-roll 素材。"
+      },
+      {
+        "question": "这个工作流会直接生成 ASMR 声音吗？",
+        "answer": "工作流主要聚焦视觉层面的纹理与动作，你可以在后期叠加或自行制作声音，完成完整的 ASMR 体验。"
+      },
+      {
+        "question": "Special Material ASMR 的计费方式是怎样的？",
+        "answer": "该工作流基于 AI 视频模型，每次生成片段都会消耗一定积分。你可以先尝试多种材质创意，再放大那些真正契合内容策略的方向。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "特殊材质 ASMR – 特殊材质 ASMR 视频生成器",
+      "description": "用 AI 生成聚焦特殊材质与纹理的 ASMR 视觉内容，用于解压视频、品牌故事与设计展示。"
+    },
+    "softwareApplication": {
+      "name": "特殊材质 ASMR AI 工作流模板",
+      "description": "面向创作者和品牌的特殊材质 ASMR 内容生成工作流，帮助快速产出聚焦独特纹理的视觉片段。"
+    },
+    "faqPage": {
+      "name": "特殊材质 ASMR – 常见问题"
+    }
+  }
+}

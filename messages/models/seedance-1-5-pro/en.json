@@ -1,0 +1,160 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance 1.5 Pro AI Video Generator | Native Audio + Lip-sync | OpenCreator",
+      "description": "Preview ByteDance Seedance 1.5 Pro with native audio-video generation, lip-sync, and multilingual dialogue. OpenCreator prelaunch page."
+    },
+    "hero": {
+      "modelName": "Seedance 1.5 Pro",
+      "tagline": "Generate video and audio together",
+      "description": "ByteDance's Seedance 1.5 Pro generates video and audio simultaneously within a shared latent space, producing tight lip-sync and natural foley without post-processing. Supports 4-12 second videos at 720p with dialogue, sound effects, and ambient audio.",
+      "badge": "Coming Soon",
+      "ctaText": "Join the waitlist",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "nativeAudio": "Native audio",
+        "lipsync": "Lip-sync",
+        "multilingual": "Multilingual dialogue",
+        "camera": "Camera control",
+        "story": "Story workflows"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Built for marketing, dialogue, and multilingual content",
+      "items": {
+        "nativeAudio": {
+          "title": "Native audio-video generation",
+          "description": "Dual-branch diffusion transformer generates sound, dialogue, and visuals in a single pass for tighter sync."
+        },
+        "lipsync": {
+          "title": "Precise lip-sync",
+          "description": "Unified latent space ensures tight alignment between speech and mouth movements without post-processing."
+        },
+        "multilingual": {
+          "title": "Multilingual workflows",
+          "description": "Create variants across languages while maintaining a consistent visual story."
+        },
+        "camera": {
+          "title": "Cinematic camera control",
+          "description": "Support for pan, tilt, zoom, dolly, and tracking shots for film-like sequences."
+        },
+        "consistency": {
+          "title": "Character consistency",
+          "description": "Keep characters and styling stable across multiple clips in a sequence."
+        },
+        "marketing": {
+          "title": "Marketing-ready outputs",
+          "description": "Designed for short-form drama, ad spots, product demos, and talking-head content."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Use Cases",
+      "subtitle": "Representative OpenCreator workflows for Seedance 1.5 Pro",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "lipsync": {
+          "title": "Talking-head content",
+          "description": "Dialogue + lip-sync",
+          "useCase": "Create speaking scenes where audio and mouth movements stay naturally aligned."
+        },
+        "product": {
+          "title": "Product ads",
+          "description": "Marketing video",
+          "useCase": "Generate product clips with voiceover-style narration and ambient sound effects."
+        },
+        "story": {
+          "title": "Short narratives",
+          "description": "Storytelling",
+          "useCase": "Build consistent stories across clips with stable style, characters, and audio."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specs",
+      "subtitle": "Inputs, outputs, and core capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input formats",
+          "outputFormat": "Output format",
+          "audio": "Audio",
+          "resolution": "Resolution",
+          "duration": "Duration"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "textToVideo": "Text to Video",
+          "imageToVideo": "Image to Video",
+          "nativeAudio": "Native audio",
+          "lipsync": "Lip-sync"
+        },
+        "useCases": {
+          "title": "Use cases",
+          "ads": "Ads",
+          "multilingual": "Multilingual",
+          "storytelling": "Storytelling"
+        }
+      },
+      "values": {
+        "inputFormats": "Text, Image",
+        "outputFormat": "MP4",
+        "audio": "Included (dialogue + SFX)",
+        "resolution": "720p",
+        "duration": "4-12 seconds"
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "How Seedance 1.5 Pro compares to other video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not supported",
+      "features": {
+        "nativeAudio": "Native audio",
+        "lipSync": "Lip-sync",
+        "textToVideo": "Text to Video",
+        "imageToVideo": "Image to Video",
+        "cameraControl": "Camera control",
+        "characterConsistency": "Character consistency"
+      }
+    },
+    "pricing": {
+      "title": "Coming Soon",
+      "subtitle": "Seedance 1.5 Pro will be available on OpenCreator soon",
+      "ctaText": "Join the waitlist",
+      "comingSoonBadge": "Coming Soon",
+      "description": "Native audio-video generation model from ByteDance",
+      "note": "We will publish OpenCreator pricing and availability details after integration is complete.",
+      "viewFullPricing": "View full pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What makes Seedance 1.5 Pro different from other video models?",
+          "answer": "Seedance 1.5 Pro uses a dual-branch diffusion transformer that generates video and audio simultaneously within a shared latent space. This produces tight lip-sync and natural foley without requiring separate post-processing steps."
+        },
+        "1": {
+          "question": "What types of audio can Seedance 1.5 Pro generate?",
+          "answer": "It generates dialogue, sound effects, and ambient audio. Supports cinematic camera work including pan, tilt, zoom, dolly, and tracking shots."
+        },
+        "2": {
+          "question": "What resolution and duration does it support?",
+          "answer": "Seedance 1.5 Pro generates videos at 720p resolution with durations from 4 to 12 seconds. Higher resolutions may be available on alternative platforms."
+        },
+        "3": {
+          "question": "How much will it cost on OpenCreator?",
+          "answer": "Pricing will be published after Seedance 1.5 Pro is integrated. Costs are expected to depend on resolution, duration, and audio settings."
+        },
+        "4": {
+          "question": "Is Seedance 1.5 Pro available on OpenCreator now?",
+          "answer": "Not yet. This is a prelaunch page for upcoming availability."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.6 4K AI 视频生成器 | 4K/60fps 超高清 | OpenCreator",
+      "description": "体验 Kling 2.6 4K 的 4K/60fps 输出和自定义语音库。快手 AI 视频生成的下一代进化。在 OpenCreator 加入候补名单。"
+    },
+    "hero": {
+      "modelName": "Kling 2.6 4K",
+      "tagline": "4K/60fps 超高清视频生成",
+      "description": "Kling 2.6 4K 带来电影级画质输出，支持 4K 分辨率和 60fps 帧率，以及自定义语音库实现个性化音频。根据快手官方路线图，预计 2026 年 Q1 发布。",
+      "badge": "2026 Q1 即将发布",
+      "ctaText": "加入候补名单",
+      "secondaryCtaText": "查看当前模型",
+      "capabilities": {
+        "resolution": "4K 超高清",
+        "framerate": "60fps",
+        "customVoice": "自定义语音库",
+        "audioVisual": "音画同步",
+        "duration": "更长时长"
+      }
+    },
+    "features": {
+      "title": "预期功能",
+      "subtitle": "基于快手 2026 年 Q1 路线图公告",
+      "items": {
+        "resolution": {
+          "title": "4K 超高清输出",
+          "description": "以真正的 4K 分辨率（3840×2160）生成视频，适合电影级制作和大屏幕展示。"
+        },
+        "framerate": {
+          "title": "60fps 流畅动态",
+          "description": "双倍帧率带来丝滑流畅的动态效果，非常适合快速动作、体育和高端广告。"
+        },
+        "customVoice": {
+          "title": "自定义语音库",
+          "description": "上传并克隆语音，创建与品牌或角色一致的个性化音频。"
+        },
+        "audioSync": {
+          "title": "增强音画同步",
+          "description": "在 Kling 2.6 音画同生功能基础上，实现更紧密的口型同步和声音协调。"
+        },
+        "characterConsistency": {
+          "title": "改进角色一致性",
+          "description": "在更长的序列和多镜头制作中更好地保持角色身份一致性。"
+        },
+        "promptFollowing": {
+          "title": "高级提示理解",
+          "description": "更细腻地理解复杂提示词、故事情节和创意方向。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "预览",
+      "subtitle": "当前 Kling 2.6 Pro 的代表性示例 - 期待 4K 版本带来更高画质",
+      "tryWorkflow": "试用当前 Kling 2.6 →",
+      "items": {
+        "cinematic": {
+          "title": "电影级制作",
+          "description": "影院画质输出",
+          "useCase": "以 4K 分辨率创建广播级内容，完美适配电视、电影院和大屏幕。"
+        },
+        "commercial": {
+          "title": "高端广告",
+          "description": "奢侈品广告",
+          "useCase": "制作需要最高视觉保真度的奢侈品牌广告和产品展示。"
+        },
+        "vr": {
+          "title": "VR/AR 内容",
+          "description": "沉浸式体验",
+          "useCase": "生成适合虚拟现实和沉浸式显示的高分辨率内容。"
+        },
+        "sports": {
+          "title": "体育与动作",
+          "description": "60fps 流畅动态",
+          "useCase": "以清晰的 60fps 捕捉快速运动，适合体育、舞蹈和动作序列。"
+        },
+        "documentary": {
+          "title": "纪录片",
+          "description": "专业叙事",
+          "useCase": "以电影级画质和自定义旁白语音创作纪录片风格内容。"
+        },
+        "branding": {
+          "title": "品牌内容",
+          "description": "自定义语音身份",
+          "useCase": "使用克隆语音库为所有视频内容建立一致的品牌身份。"
+        }
+      }
+    },
+    "specs": {
+      "title": "预期规格",
+      "subtitle": "基于官方路线图 - 最终规格可能有所变化",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "framerate": "帧率"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "audioGeneration": "音频生成",
+          "customVoice": "自定义语音库"
+        },
+        "audioFeatures": {
+          "title": "音频功能",
+          "voiceCloning": "语音克隆",
+          "multiVoice": "多语音支持",
+          "soundEffects": "音效",
+          "ambientAudio": "环境音"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      },
+      "values": {
+        "inputFormats": "图片、文本",
+        "outputFormat": "MP4",
+        "maxResolution": "4K (3840×2160)",
+        "framerate": "最高 60fps"
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "Kling 2.6 4K 与当前模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 预期",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "resolution": "最大分辨率",
+        "framerate": "帧率",
+        "audioGeneration": "音频生成",
+        "customVoice": "自定义语音",
+        "lipSync": "口型同步"
+      }
+    },
+    "pricing": {
+      "title": "2026 Q1 即将发布",
+      "subtitle": "定价将在发布前公布",
+      "ctaText": "加入候补名单",
+      "comingSoonBadge": "即将上线",
+      "description": "4K/60fps 视频生成 + 自定义语音库",
+      "note": "基于快手官方路线图。最终定价和可用性将在发布时确认。",
+      "viewFullPricing": "查看当前价格 →"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Kling 2.6 4K 什么时候发布？",
+          "answer": "根据快手 2025 年 12 月公布的官方路线图，Kling 2.6 4K 支持 4K/60fps 输出和自定义语音库，计划于 2026 年 Q1 发布。"
+        },
+        "1": {
+          "question": "Kling 2.6 4K 会有哪些新功能？",
+          "answer": "主要升级包括 4K 分辨率（3840×2160）、60fps 帧率带来更流畅的动态效果，以及用于语音克隆和个性化音频的自定义语音库。"
+        },
+        "2": {
+          "question": "它会兼容当前的 Kling 2.6 工作流吗？",
+          "answer": "虽然尚未确认，但快手通常会保持向后兼容。现有工作流应该可以正常工作，并可选择启用 4K/60fps 输出。"
+        },
+        "3": {
+          "question": "Kling 2.6 4K 价格是多少？",
+          "answer": "定价尚未公布。鉴于更高的输出质量，预计价格会高于当前 Kling 2.6 Pro 的费率。官方定价发布后我们会更新此页面。"
+        },
+        "4": {
+          "question": "自定义语音库功能是什么？",
+          "answer": "自定义语音库将允许你上传语音样本来创建克隆语音，用于视频生成中，实现一致的品牌语音和角色身份。"
+        },
+        "5": {
+          "question": "如何获取发布通知？",
+          "answer": "收藏此页面并关注 OpenCreator 获取更新。快手发布 4K 版本后我们会第一时间通知。"
+        }
+      }
+    }
+  }
+}

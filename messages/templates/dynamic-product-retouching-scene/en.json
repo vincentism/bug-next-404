@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Dynamic Product Retouching & Scene Creation with AI | OpenCreator",
+    "description": "Retouch product photos and generate dynamic scenes with AI. Create polished ecommerce visuals, backgrounds, and short promo content.",
+    "keywords": [
+      "product retouching ai",
+      "ai product photo editing",
+      "product scene generator",
+      "dynamic product background",
+      "ecommerce product image enhancement",
+      "ai background generation",
+      "product marketing visuals",
+      "product video creation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Full Process",
+    "tags": ["#retouching", "#scene_creation", "#dynamic"],
+    "title": "Dynamic Product Retouching & Scene Creation",
+    "description": "Complete AI workflow for product retouching and dynamic scene creation. Transform raw product photos into professionally edited images with stunning backgrounds and motion content. Perfect for brands seeking premium product visuals efficiently.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Start Full Process"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your raw product image",
+        "description": "Provide a product photo in any condition. The AI analyzes the image and plans comprehensive retouching and scene creation."
+      },
+      {
+        "title": "AI performs professional retouching",
+        "description": "Nano Banana Pro enhances your product with professional-grade retouching—color correction, detail enhancement, and imperfection removal."
+      },
+      {
+        "title": "Generate stunning scene backgrounds",
+        "description": "The workflow creates premium background environments that complement your product's positioning and target market."
+      },
+      {
+        "title": "Add dynamic motion content",
+        "description": "Transform the retouched product and scene into dynamic video content with motion effects for marketing campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for product-focused brands",
+    "subtitle": "From small businesses to enterprise brands, see who uses the full retouching workflow.",
+    "audiences": [
+      {
+        "label": "E-commerce brands",
+        "description": "Transform basic product photos into premium visuals that compete with studio-quality photography at a fraction of the cost."
+      },
+      {
+        "label": "Product photographers",
+        "description": "Enhance your workflow with AI-powered retouching and scene creation that delivers consistent, high-quality results."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Generate diverse product visuals quickly for campaigns, testing, and seasonal promotions without reshooting."
+      },
+      {
+        "label": "Small businesses",
+        "description": "Access professional product photography quality without expensive equipment, studios, or post-production services."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Dynamic Product Retouching and Scene Creation workflow?",
+        "answer": "It's a comprehensive AI workflow that handles the entire product visual production process—from professional retouching to background creation to dynamic video content—in one seamless pipeline."
+      },
+      {
+        "question": "What types of products work best?",
+        "answer": "The workflow handles all product types—electronics, cosmetics, food, fashion, home goods, and more. It adapts the retouching and scene style to each product category."
+      },
+      {
+        "question": "What retouching is performed?",
+        "answer": "The AI applies professional retouching including color correction, exposure adjustment, detail enhancement, reflection cleanup, and imperfection removal."
+      },
+      {
+        "question": "Can I customize the scene backgrounds?",
+        "answer": "Yes. You can guide the AI toward specific environments—studio settings, lifestyle scenes, seasonal themes—to match your brand positioning and campaign needs."
+      },
+      {
+        "question": "Does this include video output?",
+        "answer": "Yes. The workflow generates both static images and dynamic video content, providing complete visual assets for all marketing channels."
+      },
+      {
+        "question": "How does this compare to manual retouching?",
+        "answer": "The AI delivers professional-quality results in minutes compared to hours of manual work, while maintaining consistency across your entire product catalog."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Dynamic Product Retouching and Scene Creation",
+      "description": "AI-powered full process workflow for product retouching, scene creation, and dynamic content generation."
+    },
+    "softwareApplication": {
+      "name": "Product Retouching and Scene Generator",
+      "description": "Complete AI workflow for professional product retouching and dynamic scene creation with video output."
+    },
+    "faqPage": {
+      "name": "Dynamic Product Retouching and Scene Creation – FAQ"
+    }
+  }
+}

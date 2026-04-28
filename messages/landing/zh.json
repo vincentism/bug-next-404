@@ -1,0 +1,319 @@
+{
+  "landing": {
+    "seo": {
+      "title": "OpenCreator | 内容创作者的统一生成式 AI 工作站",
+      "description": "我们把各种 Gen-AI 创作模型整合到一个直观的工作台中，让你无需频繁切换模型或购买多套订阅，就能高效产出高质量内容。",
+      "keywords": [
+        "AI 内容创作",
+        "生成式 AI 工具",
+        "AI 工作站",
+        "内容创作者工具",
+        "AI 模型集成",
+        "AI 视频生成",
+        "AI 图像生成",
+        "创意 AI 平台",
+        "统一 AI 界面",
+        "创作者 AI 工具"
+      ]
+    },
+    "hero": {
+      "titleLine1": "打造真正能卖货的",
+      "titleLine2": "视觉内容",
+      "tagline": "面向内容创作者的一体化 Gen-AI 工作站",
+      "description": "我们把各种 Gen-AI 创作模型整合到一个直观的工作台中，让你无需频繁切换模型或购买多套订阅，就能高效产出高质量内容。",
+      "ctaPrimary": "免费开始使用",
+      "ctaSecondary": "预约演示"
+    },
+    "seeHowItWorks": {
+      "title": "看看它如何工作",
+      "ctaPrimary": "免费开始使用",
+      "ctaSecondary": "预约演示",
+      "scenes": {
+        "scene1": "亚马逊产品图套装",
+        "scene2": "万物可穿戴",
+        "scene3": "Sora 2 x UGC 推广",
+        "scene4": "AI 时尚户外短片",
+        "scene5": "高定饰品工作室"
+      }
+    },
+    "whyOpenCreator": {
+      "title": "为什么选择 OpenCreator？",
+      "section1": {
+        "titleHighlight": "一站整合",
+        "titleRest": " 多款 AI 模型",
+        "description": "我们把最新、最好用的一线 AI 模型都收进一个工作台，不用再在不同平台之间来回切换，也不用为一堆订阅重复买单。",
+        "bullets": [
+          "20+ 款顶级 AI 模型，一站集成",
+          "一键对比，多模型出图选出最佳效果",
+          "告别为多套订阅反复付费"
+        ],
+        "ctaPrimary": "免费开始使用",
+        "ctaSecondary": "预约演示"
+      },
+      "section2": {
+        "titleHighlight": "高质量内容",
+        "titleRest": "几分钟就能产出",
+        "description": "强大不等于复杂。我们为追求内容质量的创作者而设计，只需几次点击，就能完成过去需要大量人力才能完成的创作。",
+        "bullets": [
+          "2 分钟上手，无需学习成本",
+          "100% 创作者友好，任何人都能轻松使用",
+          "AI 驱动创作，速度比人工快 10 倍以上"
+        ],
+        "ctaPrimary": "免费开始使用",
+        "ctaSecondary": "预约演示"
+      }
+    },
+    "modelShowcase": {
+      "title": "支持下列 AI 模型"
+    },
+    "templatesCarousel": {
+      "titlePrefix": "从这些",
+      "titleHighlight": "模板开始",
+      "description": "看看我们如何用 OpenCreator 做出吸睛内容。你可以在此基础上自由调整，用最新的 AI 模型把自己的点子变成作品。"
+    },
+    "cta": {
+      "titleLine1": "释放你的",
+      "titleLine2": "创意",
+      "ctaPrimary": "免费开始使用",
+      "ctaSecondary": "预约演示"
+    },
+    "pricing": {
+      "title": "价格",
+      "cta": "立即体验",
+      "creditsPerMonth": "点数 / 月",
+      "perCredit": "每点",
+      "perGeneration": "每次生成",
+      "perSecond": "每秒",
+      "sectionTitle": "订阅更优惠",
+      "creditsLabel": "点数",
+      "viewFullPricing": "查看全部价格 →",
+      "badgeCurrent": "{discount}% OFF",
+      "badgeUpTo": "最高 {discount}% OFF",
+      "discountCurrent": "订阅立享 {discount}% OFF",
+      "discountUpgrade": "升级到 Pro 最高可享 {discount}% OFF",
+      "perThousandTokens": "/千 tokens",
+      "usageBased": "按用量计费"
+    },
+    "footer": {
+      "brand": "OpenCreator",
+      "productTitle": "产品",
+      "links": {
+        "productWiki": "产品手册",
+        "pricing": "价格方案",
+        "community": "社区",
+        "affiliateProgram": "推广分成计划"
+      },
+      "solutionsTitle": "解决方案",
+      "solutionsLinks": {
+        "ecommerceProductImages": "电商产品图",
+        "aiFashion": "AI 时尚与试穿",
+        "aiPortrait": "AI 人像与头像",
+        "aiVideo": "AI 视频",
+        "aiDesign": "AI 设计"
+      },
+      "companyTitle": "公司",
+      "companyLinks": {
+        "privacyPolicy": "隐私政策",
+        "termsOfService": "服务条款",
+        "cookiePolicy": "Cookie 政策"
+      },
+      "contactTitle": "联系我们",
+      "contactLinks": {
+        "supportEmail": "support@opencreator.io",
+        "talkToFounder": "和创始人聊聊"
+      },
+      "copyright": "© 2025 SagaLabs Inc. 版权所有。"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "用完积分之后怎么办？",
+          "answer": "如果本月积分用完，你有几种选择：升级到更高阶的套餐以获得更多月度积分；在当前套餐基础上额外购买积分；或者先用完每月自动刷新的一部分免费积分。"
+        },
+        "1": {
+          "question": "升级套餐后会发生什么？",
+          "answer": "升级后，新套餐的所有权益和积分会立即生效。你旧套餐中未用完的积分会按比例折算，并自动计入下一次账单。"
+        },
+        "2": {
+          "question": "我可以怎样获得更多积分？",
+          "answer": "你可以在「购买更多积分」页面购买额外积分（Creator 及以上套餐用户可用）。这些积分会在你用完月度配额后自动顶上，作为备用池使用。"
+        },
+        "3": {
+          "question": "可以随时更改订阅套餐吗？",
+          "answer": "可以。无论是月付还是年付用户，都可以在订阅周期内随时调整套餐。年付方案在退款时会按照剩余积分比例进行折算。"
+        },
+        "4": {
+          "question": "未用完的积分会结转到下个月吗？",
+          "answer": "不会。每个结算周期开始时，积分都会重置。上一个月未用完的积分不会结转，以保证所有用户每月都从同一基准开始。"
+        },
+        "5": {
+          "question": "退款政策是什么？",
+          "answer": "开通年付套餐的用户享有 100% 无理由退款保障。如需退款，请发送邮件至 support@opencreator.io，附上你的账号邮箱和订单信息。"
+        },
+        "6": {
+          "question": "我的数据存在哪里？",
+          "answer": "用户数据会被安全地存储在符合高标准安全与隐私要求的美国数据中心。我们高度重视数据安全，确保你的信息被妥善处理和保护。"
+        },
+        "7": {
+          "question": "如果有问题，我应该联系谁？",
+          "answer": "如果你有任何问题或建议，可以直接发送邮件到 support@opencreator.io。你也可以加入我们的 Discord 社区，获取完整使用指南、有趣内容、常见问题解答和更多资源。"
+        }
+      }
+    },
+    "navbar": {
+      "home": "首页",
+      "solutions": "解决方案",
+      "pricing": "价格",
+      "affiliate": "推广分成计划",
+      "joinDiscord": "加入 Discord 社区",
+      "openClaw": "OpenClaw",
+      "bookADemo": "企业咨询",
+      "startForFree": "免费开始使用",
+      "language": "语言",
+      "ariaDiscord": "Discord",
+      "ariaWeChat": "微信",
+      "ariaSwitchLanguage": "切换语言",
+      "solutionItems": {
+        "ecommerceProductImages": "电商产品图",
+        "aiFashion": "AI 时尚与试穿",
+        "aiPortrait": "AI 人像与头像",
+        "aiVideo": "AI 视频",
+        "aiDesign": "AI 设计",
+        "viewAll": "查看所有模板"
+      },
+      "solutionDescriptions": {
+        "ecommerceProductImages": "适配电商平台与官网的产品图",
+        "aiFashion": "AI 模特、虚拟试穿与时尚素材",
+        "aiPortrait": "头像、人像和内容封面",
+        "aiVideo": "文字转视频、图片转视频和特效",
+        "aiDesign": "图片编辑、3D 和创意工具"
+      }
+    },
+    "bookDemoModal": {
+      "title": "企业 / 团队合作咨询",
+      "description": "如果您来自企业或团队，涉及项目制作、规模化内容生产，或有较大用量需求，欢迎联系我们进行企业级对接。",
+      "offerLabel": "我们将为您提供",
+      "bullets": [
+        "大额积分用量专属折扣，降低整体成本",
+        "成品内容素材服务（UGC、广告素材、产品展示等）",
+        "1v1 专属服务与技术支持",
+        "更高效的制作与协作方案支持",
+        "反馈直达产品与技术团队，优先响应与优化"
+      ],
+      "cta": "Book A Demo",
+      "qrAlt": "OpenCreator 企业咨询二维码"
+    },
+    "whoIsOpenCreator": {
+      "title": "OpenCreator 是什么？",
+      "subtitle": "#1 内容创作者的统一生成式 AI 界面",
+      "getStarted": "立即开始！",
+      "learnMore": "了解更多",
+      "openCreatorCard": {
+        "title": "OpenCreator",
+        "handle": "@opencreator.io",
+        "description": "我们将各类生成式 AI 创作模型集成到一个直观的界面中，让创作者无需切换模型或支付多个订阅费用，即可产出高质量内容。"
+      },
+      "whoIsItForCard": {
+        "title": "适合谁使用？",
+        "handle": "@opencreator.io",
+        "roles": ["独立电影制作人", "电影导演", "动画师", "音乐人", "AI 爱好者", "……"]
+      }
+    },
+    "affiliateHero": {
+      "title": "OpenCreator 推广分成计划",
+      "subtitle": "加入我们的推广计划，赚取 <highlight>40%</highlight> 的佣金",
+      "description": "我们将各类生成式 AI 创作模型集成到一个直观的界面中，让创作者无需切换模型或支付多个订阅费用，即可产出高质量内容。",
+      "ctaPrimary": "加入推广计划"
+    },
+    "affiliateHowItWorks": {
+      "title": "如何加入推广计划",
+      "steps": {
+        "0": {
+          "number": "步骤 1",
+          "title": "注册 OpenCreator 推广分成计划",
+          "description": "注册我们的推广分成计划，成为我们的合作伙伴。"
+        },
+        "1": {
+          "number": "步骤 2",
+          "title": "分享你的推广链接",
+          "description": "分享你的推广链接，让更多的人知道 OpenCreator。"
+        },
+        "2": {
+          "number": "步骤 3",
+          "title": "赚取佣金",
+          "description": "当有人通过你的推广链接注册 OpenCreator 时，你将赚取佣金。"
+        }
+      },
+      "ctaPrimary": "加入推广计划"
+    },
+    "affiliateBranding": {
+      "title": "推广资源",
+      "ctaPrimary": "获取推广资源"
+    },
+    "affiliateFaq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "如何加入推广计划？",
+          "answer": "注册我们的推广分成计划，成为我们的合作伙伴。"
+        },
+        "1": {
+          "question": "如何分享我的推广链接？",
+          "answer": "分享你的推广链接，让更多的人知道 OpenCreator。"
+        },
+        "2": {
+          "question": "如何赚取佣金？",
+          "answer": "当有人通过你的推广链接注册 OpenCreator 时，你将赚取佣金。"
+        },
+        "3": {
+          "question": "佣金如何结算？",
+          "answer": "佣金将在每月结算。"
+        },
+        "4": {
+          "question": "推广计划有哪些限制？",
+          "answer": "没有限制。"
+        },
+        "5": {
+          "question": "如何联系支持团队？",
+          "answer": "发送邮件到 support@opencreator.io。"
+        },
+        "6": {
+          "question": "我可以使用哪些类型的内容进行推广？",
+          "answer": "你可以使用任何适合你受众的内容类型：视频、博客文章、社交媒体动态、新闻通讯、植入等。发挥创意，选择最能吸引你社区的形式。"
+        },
+        "7": {
+          "question": "我可以使用付费广告推广我的推广链接吗？",
+          "answer": "不可以。推广链接不允许使用付费广告，包括搜索引擎、社交媒体平台或类似渠道上的广告。此政策有助于避免与 OpenCreator 自身营销活动产生冲突。任何滥用或试图钻空子的行为可能导致账户终止和佣金没收。"
+        },
+        "8": {
+          "question": "订阅后我可以获得哪些额外福利？",
+          "answer": "你将获得新模型集成的抢先体验、独家功能、高级模板和特别折扣。"
+        },
+        "9": {
+          "question": "我的团队可以共享一个账户吗？",
+          "answer": "我们建议每位成员使用自己的登录账户。团队版和企业版包含共享工作区和成员管理功能，可提供更好的安全性和协作体验。"
+        },
+        "10": {
+          "question": "我可以在多个平台上推广 OpenCreator 吗？",
+          "answer": "可以！你可以在任何符合我们推广条款的平台上分享你的推广链接。"
+        },
+        "11": {
+          "question": "推广者有专属支持吗？",
+          "answer": "当然有。我们提供资源和专属支持来帮助你成功。随时通过 support@opencreator.io 联系我们的团队。"
+        }
+      }
+    },
+    "workflow": {
+      "howItWorks": {
+        "title": "工作流程如何将你的想法变为成果",
+        "step": "步骤"
+      },
+      "workflowPreview": {
+        "title": "查看工作流实际效果",
+        "subtitle": "探索驱动此模板的真实 AI 工作流"
+      },
+      "copyThisTemplate": "复制此模板"
+    }
+  }
+}

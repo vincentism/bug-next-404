@@ -1,0 +1,95 @@
+{
+  "seo": {
+    "title": "Age Change Effect – AI Age Transformation Tool | OpenCreator",
+    "description": "Generate realistic younger or older portrait variations with AI for creative concepts, social content, and character visualization.",
+    "keywords": [
+      "age change effect",
+      "ai age transformation",
+      "ai aging filter",
+      "ai de aging effect",
+      "ai face aging",
+      "ai younger older filter",
+      "portrait age progression",
+      "age progression generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#banana_pro", "#social_promo", "#face_effects"],
+    "title": "Age Change Effect",
+    "description": "Create AI-powered age transformation visuals for portraits. Test younger or older variations for characters, campaigns, and social content without manual retouching.",
+    "inputPlaceholder": "Describe the portrait and age transformation you want to explore",
+    "ctaText": "Create Age Effect"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe the subject and context",
+        "description": "Provide a short description of the person or character, their style, and the context in which the age effect will be used."
+      },
+      {
+        "title": "Define target age direction",
+        "description": "Specify whether you want younger, older, or multiple age variations, along with the overall mood (fun, cinematic, realistic, etc.)."
+      },
+      {
+        "title": "Generate age transformation images",
+        "description": "Run the workflow to create AI-generated age-change visuals that keep the core identity while changing perceived age."
+      },
+      {
+        "title": "Review and select for use",
+        "description": "Pick the most suitable variations for social posts, creative pitch decks, or internal exploration, subject to usage policies."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators exploring character and campaign concepts",
+    "subtitle": "Use AI age effects to quickly explore how a face could look across different life stages.",
+    "audiences": [
+      {
+        "label": "Content creators and influencers",
+        "description": "Create playful or narrative-driven age transformation content for social platforms."
+      },
+      {
+        "label": "Creative directors and strategists",
+        "description": "Explore character aging concepts for campaigns, storytelling, and moodboards without manual photoshop work."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Prototype age-related visual ideas for pitches and treatments before committing to full production."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Age Change Effect workflow?",
+        "answer": "Age Change Effect is an AI workflow for generating age transformation visuals of portraits. It lets you explore younger or older variations for creative and social use cases."
+      },
+      {
+        "question": "What kind of input should I provide?",
+        "answer": "Short descriptions of the subject, target age direction, and desired mood or style are enough to guide the workflow."
+      },
+      {
+        "question": "Who is this workflow suitable for?",
+        "answer": "It is suitable for content creators, creative teams, and agencies who want to explore age-related visual ideas for storytelling and campaigns."
+      },
+      {
+        "question": "Can I use the results commercially?",
+        "answer": "Usage is subject to OpenCreator's terms of use and the policies of underlying AI models. Always make sure your use case respects privacy, likeness rights, and platform rules."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Age Change Effect – AI Age Transformation Workflow",
+      "description": "Explore AI-powered age transformation effects for portraits, generating younger and older variations for creative and social content."
+    },
+    "softwareApplication": {
+      "name": "Age Change Effect AI Workflow",
+      "description": "An AI workflow within OpenCreator for generating age-change visuals of faces for campaigns, storytelling, and social content."
+    },
+    "faqPage": {
+      "name": "Age Change Effect – FAQ"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Outdoor Sports Product Image Set – AI Sports Photography | OpenCreator",
+    "description": "Create professional product images for outdoor sports and fitness equipment with AI. Lifestyle product photography for action scenes, lifestyle shots, and feature highlights for athletic gear.",
+    "keywords": [
+      "lifestyle product photography",
+      "product photography services",
+      "professional product photography",
+      "ai product photography",
+      "product image generator",
+      "ai product image generation",
+      "outdoor sports photography",
+      "fitness equipment images",
+      "athletic gear photos",
+      "ai product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#sports", "#outdoor", "#fitness"],
+    "title": "Outdoor Sports Product Image Set",
+    "description": "Create professional product images for outdoor sports and fitness equipment with AI. Generate complete image sets featuring action scenes, nature environments, and product features that inspire adventure. Perfect for outdoor gear brands and sporting goods sellers.",
+    "inputPlaceholder": "Upload your outdoor product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product photo",
+        "description": "Provide an image of your outdoor sports product—camping gear, hiking equipment, fitness accessories, or athletic apparel. Basic product photos work perfectly."
+      },
+      {
+        "title": "Select environment and style",
+        "description": "Choose from mountain landscapes, trail settings, gym environments, beach scenes, or action contexts that best showcase your outdoor and sports products."
+      },
+      {
+        "title": "Generate adventure-ready imagery",
+        "description": "AI creates professional product photography showing your gear in inspiring outdoor settings with dynamic compositions and natural lighting."
+      },
+      {
+        "title": "Download your product set",
+        "description": "Export high-resolution images optimized for e-commerce platforms that capture the spirit of outdoor adventure and athletic performance."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for outdoor and sports brands",
+    "subtitle": "From camping gear makers to fitness equipment sellers, see who creates product imagery with AI.",
+    "audiences": [
+      {
+        "label": "Outdoor gear brands",
+        "description": "Create aspirational imagery showing camping, hiking, and adventure equipment in stunning natural environments without expensive location shoots."
+      },
+      {
+        "label": "Fitness equipment sellers",
+        "description": "Showcase workout gear and accessories in dynamic, motivating contexts that resonate with fitness-focused customers."
+      },
+      {
+        "label": "Sporting goods retailers",
+        "description": "Generate consistent, professional imagery for diverse product catalogs spanning multiple outdoor and sports categories."
+      },
+      {
+        "label": "Athletic apparel brands",
+        "description": "Create action-oriented lifestyle imagery that communicates performance and adventure for sportswear and accessories."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Outdoor Sports Product Image Set?",
+        "answer": "This AI workflow creates complete product image sets for outdoor sports and fitness equipment—featuring adventure scenes, action contexts, and feature highlights—designed to inspire active customers."
+      },
+      {
+        "question": "What types of products can I photograph?",
+        "answer": "Any outdoor or sports product: camping gear, hiking equipment, fitness accessories, athletic apparel, water sports gear, cycling equipment, and outdoor adventure tools."
+      },
+      {
+        "question": "What environments are available?",
+        "answer": "Choose from mountain landscapes, forest trails, beach settings, gym environments, urban outdoor spaces, and various weather conditions to match your product's use case."
+      },
+      {
+        "question": "Can I show products in action?",
+        "answer": "Yes. Generate dynamic imagery showing equipment being used in realistic outdoor scenarios—tents pitched in wilderness, gear on trail, equipment in use during activities."
+      },
+      {
+        "question": "How does it handle technical product details?",
+        "answer": "The workflow can create closeup shots highlighting materials, construction quality, technical features, and functionality crucial for outdoor gear purchases."
+      },
+      {
+        "question": "Is this suitable for seasonal campaigns?",
+        "answer": "Absolutely. Generate imagery for different seasons—winter sports, summer adventures, fall hiking—to support year-round marketing campaigns."
+      },
+      {
+        "question": "Can I maintain brand consistency?",
+        "answer": "Yes. Apply consistent environmental themes and styling across your entire outdoor product catalog for cohesive brand presentation."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Images are delivered in high resolution suitable for e-commerce platforms, social media, and print marketing materials."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Outdoor Sports Product Image Set – AI Sports Photography",
+      "description": "Create professional product images for outdoor sports and fitness equipment with AI-powered adventure photography."
+    },
+    "softwareApplication": {
+      "name": "Outdoor Sports Product Image Set AI",
+      "description": "AI-powered product photography tool for creating outdoor sports and fitness equipment images with adventure and action themes."
+    },
+    "faqPage": {
+      "name": "Outdoor Sports Product Image Set – FAQ"
+    }
+  }
+}

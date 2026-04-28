@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Style Transfer (Banana Pro) – AI Art Style Transformation | OpenCreator",
+    "description": "Transform images with AI-powered style transfer. Apply artistic styles, visual aesthetics, and creative treatments to your photos and designs automatically.",
+    "keywords": [
+      "style transfer ai",
+      "artistic style transformation",
+      "image style change",
+      "visual style transfer",
+      "ai art style",
+      "photo style transformation",
+      "creative style generator",
+      "design style transfer"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#style_transfer", "#creative", "#art_style"],
+    "title": "Style Transfer (Banana Pro)",
+    "description": "Transform your images with AI-powered style transfer. Apply artistic styles, visual aesthetics, and creative treatments to photos and designs while preserving content structure. Perfect for creators who want to explore unique visual styles and brand-consistent creative variations.",
+    "inputPlaceholder": "Upload your image and style reference",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your source image",
+        "description": "Provide the image you want to transform—photos, product images, or designs. Any image can be the starting point for style transfer."
+      },
+      {
+        "title": "Select or upload style reference",
+        "description": "Choose from preset artistic styles or upload a reference image whose visual style you want to apply. The AI analyzes colors, textures, and aesthetic characteristics."
+      },
+      {
+        "title": "Generate styled transformation",
+        "description": "AI applies the target style to your source image, blending the aesthetic characteristics while preserving the original content and structure."
+      },
+      {
+        "title": "Download your styled images",
+        "description": "Export high-resolution style-transferred images ready for creative projects, marketing materials, or artistic exploration."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for creative professionals and brands",
+    "subtitle": "From designers to marketing teams, see who transforms visual styles with AI.",
+    "audiences": [
+      {
+        "label": "Creative designers",
+        "description": "Explore artistic directions quickly by applying various styles to concepts, accelerating creative exploration and ideation."
+      },
+      {
+        "label": "Brand marketers",
+        "description": "Create consistent visual treatments across campaigns by applying brand-specific styles to diverse content types."
+      },
+      {
+        "label": "Social media creators",
+        "description": "Develop unique visual signatures by applying distinctive styles that make your content instantly recognizable."
+      },
+      {
+        "label": "Artists and illustrators",
+        "description": "Experiment with artistic styles and aesthetic combinations to inspire new creative directions and techniques."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Style Transfer?",
+        "answer": "Style Transfer is an AI technique that applies the visual aesthetic of one image (colors, textures, artistic characteristics) to another image while preserving the original content and structure."
+      },
+      {
+        "question": "What types of styles can I apply?",
+        "answer": "Apply any visual style: artistic painting styles, photographic treatments, illustration aesthetics, brand visual identities, or custom style references you provide."
+      },
+      {
+        "question": "Will it preserve my original content?",
+        "answer": "Yes. The AI maintains the structure and content of your source image while transforming its visual style. The result blends your content with the target aesthetic."
+      },
+      {
+        "question": "Can I use my own style references?",
+        "answer": "Absolutely. Upload any image as a style reference—the AI will extract and apply its visual characteristics to your source images."
+      },
+      {
+        "question": "Is this suitable for brand applications?",
+        "answer": "Yes. Use style transfer to create consistent brand aesthetics across different types of content, ensuring visual coherence in marketing materials."
+      },
+      {
+        "question": "How creative are the results?",
+        "answer": "Results range from subtle style adjustments to dramatic artistic transformations depending on the style reference and settings you choose."
+      },
+      {
+        "question": "Can I control the style intensity?",
+        "answer": "Yes. Adjust how strongly the target style is applied, from light stylization that preserves more original characteristics to strong transformation."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Style-transferred images are delivered in high resolution suitable for professional creative work, print, and digital applications."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Style Transfer (Banana Pro) – AI Art Style Transformation",
+      "description": "Transform images with AI-powered style transfer. Apply artistic styles and visual aesthetics automatically."
+    },
+    "softwareApplication": {
+      "name": "Style Transfer (Banana Pro) AI",
+      "description": "AI-powered style transfer tool for transforming images with artistic styles, visual aesthetics, and creative treatments."
+    },
+    "faqPage": {
+      "name": "Style Transfer (Banana Pro) – FAQ"
+    }
+  }
+}

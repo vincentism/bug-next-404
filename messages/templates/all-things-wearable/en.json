@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "All-Things Wearable – AI Virtual Try-On for Any Item | OpenCreator",
+    "description": "Upgrade product photos with AI-powered universal try-on. AI clothing generator and AI fashion models for placing any wearable on models—clothing, accessories, jewelry, bags, shoes, and more.",
+    "keywords": [
+      "ai clothing generator",
+      "ai fashion models",
+      "ai generated female models",
+      "ai product model generator",
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "how to take pictures of clothes to sell",
+      "ai product photography",
+      "ecommerce product photography",
+      "product on model generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#virtual_try_on", "#product_photography"],
+    "title": "All-Things Wearable",
+    "description": "An AI universal try‑on workflow for everyday sellers. Put any wearable — clothing, accessories, jewelry, bags, shoes, hats, scarves, and more — onto professional models in seconds. Powered by Banana Pro for clean, conversion‑ready imagery.",
+    "inputPlaceholder": "Upload your wearable product and model photo",
+    "ctaText": "Try Now"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your wearable product",
+        "description": "Add a clear photo of any wearable — from clothing and jewelry to bags and small accessories."
+      },
+      {
+        "title": "Select or upload a model",
+        "description": "Choose from our model library or upload your own to match your target audience."
+      },
+      {
+        "title": "AI fits the item naturally",
+        "description": "Banana Pro analyzes the product and model to create a natural, photorealistic composite with proper size, light, and shadow."
+      },
+      {
+        "title": "Download studio-quality results",
+        "description": "Download e‑commerce‑ready images in seconds — ideal for Amazon, Shopify, ads, and lookbooks."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "A simple solution for anyone selling wearables",
+    "subtitle": "From fashion labels to accessory makers, see who’s improving product imagery with All‑Things Wearable.",
+    "audiences": [
+      {
+        "label": "E-commerce sellers",
+        "description": "Create on‑model photos for any wearable without expensive shoots. Works great for Amazon, Shopify, and marketplaces."
+      },
+      {
+        "label": "Fashion brands",
+        "description": "Showcase collections on diverse models instantly. Scale lookbooks and A/B test different demographics."
+      },
+      {
+        "label": "Accessory makers",
+        "description": "Show jewelry, bags, scarves, hats, and more on real models — with scale and styling context flat‑lays can’t provide."
+      },
+      {
+        "label": "Dropshippers & resellers",
+        "description": "Differentiate supplier photos with unique on‑model imagery and build a premium brand presence."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What types of wearable items does All-Things Wearable support?",
+        "answer": "It supports most wearables: clothing (tops, bottoms, dresses, outerwear), accessories (bags, belts, scarves, hats), jewelry (necklaces, earrings, bracelets, rings), footwear (shoes, boots, sandals), eyewear (glasses, sunglasses), and more."
+      },
+      {
+        "question": "How is this different from Virtual Try-On?",
+        "answer": "Virtual Try-On focuses on helping customers see how clothes fit their body. All-Things Wearable is designed for sellers to create professional product-on-model photos for e-commerce listings – it works with any wearable item, not just clothing."
+      },
+      {
+        "question": "What image quality can I expect?",
+        "answer": "Powered by Banana Pro, our results are studio-quality with accurate lighting, natural shadows, and photorealistic compositing. Images are ready for high-resolution e-commerce platforms like Amazon and Shopify."
+      },
+      {
+        "question": "Can I use my own model photos?",
+        "answer": "Yes. You can upload your own model photos or choose from our library of diverse professional models. This lets you maintain brand consistency or target specific demographics."
+      },
+      {
+        "question": "How fast is the generation?",
+        "answer": "Most images are generated in 10-30 seconds depending on complexity. You can batch process multiple products to efficiently create entire catalog imagery."
+      },
+      {
+        "question": "Are the generated images commercial-safe?",
+        "answer": "Yes. All outputs are generated fresh by AI and are safe for commercial use. We recommend using model photos you have rights to, or our provided model library."
+      },
+      {
+        "question": "What if the fit doesn't look right?",
+        "answer": "You can adjust positioning and regenerate. The AI improves with clearer product photos – we recommend using images with clean backgrounds and good lighting for best results."
+      },
+      {
+        "question": "Is there a bulk processing option for large catalogs?",
+        "answer": "Yes. You can process multiple products efficiently through our workflow. Contact us for enterprise plans if you need to process thousands of SKUs regularly."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "All-Things Wearable – AI Universal Try-On",
+      "description": "AI-powered universal try-on for any wearable product. Create professional e-commerce imagery with any item on models."
+    },
+    "softwareApplication": {
+      "name": "All-Things Wearable AI Generator",
+      "description": "Put any wearable item on professional models instantly with AI. Perfect for e-commerce product photography."
+    },
+    "faqPage": {
+      "name": "All-Things Wearable – FAQ"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "One-Click Commercial Product Ads – AI Ad Generator | OpenCreator",
+    "description": "Generate professional commercial product ads with one click. AI-powered workflow creates stunning product advertisements with cinematic visuals and brand-aligned content.",
+    "keywords": [
+      "product ad generator",
+      "commercial advertising",
+      "AI product ads",
+      "one-click ad creator",
+      "product video ads",
+      "commercial content generator",
+      "AI advertising",
+      "product marketing video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Ad Gen",
+    "tags": ["#commercial", "#product_ads", "#one_click"],
+    "title": "One-Click Commercial Product Ads",
+    "description": "Generate professional commercial product ads with one click. AI creates stunning product advertisements with cinematic visuals, dramatic effects, and brand-aligned content. Perfect for brands seeking high-impact advertising without expensive production.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Generate Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product image",
+        "description": "Provide a product photo. The AI analyzes your product's features, design language, and potential advertising angles."
+      },
+      {
+        "title": "AI creates ad concepts",
+        "description": "Nano Banana Pro generates multiple advertising concepts with dramatic lighting, premium backgrounds, and compelling visual compositions."
+      },
+      {
+        "title": "Add commercial effects",
+        "description": "The workflow enhances visuals with professional effects—dynamic lighting, particle systems, and cinematic atmospheres that elevate your product."
+      },
+      {
+        "title": "Export ready-to-use ads",
+        "description": "Download your complete commercial ad content ready for digital campaigns, social media, or video platforms."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for product marketers",
+    "subtitle": "From brands to agencies, see who creates product ads with AI.",
+    "audiences": [
+      {
+        "label": "Product brands",
+        "description": "Create premium commercial content for your products without expensive video production or agency fees."
+      },
+      {
+        "label": "E-commerce businesses",
+        "description": "Elevate your product marketing with professional ad content that stands out in crowded marketplaces."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Generate high-volume ad variations quickly for A/B testing and campaign optimization."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Deliver impressive ad concepts to clients faster while maintaining premium quality standards."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the One-Click Commercial Product Ads workflow?",
+        "answer": "It's an AI-powered workflow that generates professional commercial product advertisements from a single product image, creating cinematic visuals and video content with one click."
+      },
+      {
+        "question": "What types of products work best?",
+        "answer": "The workflow handles all product types—electronics, cosmetics, food, fashion, home goods. It adapts the advertising style to match each product's character and target market."
+      },
+      {
+        "question": "What kind of output can I expect?",
+        "answer": "You get professional ad content including hero shots, dramatic product presentations, and video ads with cinematic effects suitable for commercial campaigns."
+      },
+      {
+        "question": "Can I customize the advertising style?",
+        "answer": "Yes. You can guide the AI toward specific styles—luxury premium, tech-forward, lifestyle casual—to match your brand positioning and campaign goals."
+      },
+      {
+        "question": "How fast is the generation process?",
+        "answer": "True to its name, the workflow generates complete ad content in minutes, making it ideal for rapid campaign development and testing."
+      },
+      {
+        "question": "Is this suitable for paid advertising?",
+        "answer": "Absolutely. The output is optimized for digital advertising platforms including social media ads, display advertising, and video campaigns."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "One-Click Commercial Product Ads",
+      "description": "AI-powered commercial ad generator for product marketing and advertising campaigns."
+    },
+    "softwareApplication": {
+      "name": "One-Click Product Ad Generator",
+      "description": "Generate professional commercial product ads with AI-powered cinematic visuals and effects."
+    },
+    "faqPage": {
+      "name": "One-Click Commercial Product Ads – FAQ"
+    }
+  }
+}

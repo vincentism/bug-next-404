@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Cleaning Product Image Set – Cleaning Product Photo Generator | OpenCreator",
+    "description": "Create image sets for cleaning products with AI. Professional product photography services for consistent, on-brand visuals that show products, usage, and benefits.",
+    "keywords": [
+      "product photography services",
+      "professional product photography",
+      "product image generator",
+      "ai product image generation",
+      "ecommerce product photo editing",
+      "product photo editing",
+      "lifestyle product photography",
+      "cleaning product image set",
+      "cleaning product photos",
+      "ai product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#cleaning", "#ecommerce", "#banana_pro"],
+    "title": "Cleaning Product Image Set",
+    "description": "Generate complete image sets for cleaning products with AI—from hero shots to usage and benefit-focused visuals. Keep your product pages and campaigns consistent without staging every scene manually.",
+    "inputPlaceholder": "Describe your cleaning product and target use cases",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your cleaning product and audience",
+        "description": "Provide details about the product type (spray, detergent, wipes, etc.), target surfaces, and who you’re selling to (home, professional, etc.)."
+      },
+      {
+        "title": "Define the image types you need",
+        "description": "Explain what you need in the set—hero shots, in-use images, detail shots, before/after style visuals, or benefit callouts."
+      },
+      {
+        "title": "Generate AI cleaning product image sets",
+        "description": "The workflow creates a set of visuals with consistent styling that covers key usage and value angles for your product."
+      },
+      {
+        "title": "Curate, refine, and export",
+        "description": "Select your favorite images, iterate if needed, then export assets for PDPs, landing pages, ads, and social campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For household and cleaning brands",
+    "subtitle": "Ideal for brands that sell cleaning products across e-commerce and retail.",
+    "audiences": [
+      {
+        "label": "Household cleaning brands",
+        "description": "Create image sets that cover hero, usage, and benefit shots for common cleaning products without staging every scenario."
+      },
+      {
+        "label": "DTC and marketplace sellers",
+        "description": "Quickly build complete image galleries for listing pages that match platform best practices."
+      },
+      {
+        "label": "Creative and marketing teams",
+        "description": "Generate visuals for campaigns and content calendars that need multiple angles on the same cleaning product range."
+      },
+      {
+        "label": "Agencies and production teams",
+        "description": "Use the workflow to prototype visual directions before investing in full-scale photo shoots."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Cleaning Product Image Set workflow?",
+        "answer": "Cleaning Product Image Set is an AI workflow that generates a series of images for cleaning products, covering hero, usage, detail, and benefit shots in a consistent style."
+      },
+      {
+        "question": "What input information should I provide?",
+        "answer": "Provide product type, key benefits, target surfaces, and any distinctive features or scents, plus any reference imagery you’d like to stay close to."
+      },
+      {
+        "question": "Can this work with multiple SKUs?",
+        "answer": "Yes. You can use it to generate sets for multiple related SKUs, keeping a shared visual language across a product line."
+      },
+      {
+        "question": "Where can I use the generated images?",
+        "answer": "Use them on PDPs, brand sites, campaign landing pages, retail partner assets, and social content where consistent visuals matter."
+      },
+      {
+        "question": "Can I keep everything on-brand?",
+        "answer": "You can guide the workflow with brand colors, tone, and styling references so the resulting images fit into your existing design system."
+      },
+      {
+        "question": "How are credits and pricing handled?",
+        "answer": "Each generated set consumes credits based on image creation steps. It’s priced to make generating full image sets per product practical."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Cleaning Product Image Set – Cleaning Product Photo Generator",
+      "description": "Create cleaning product image sets using OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Cleaning Product Image Set AI Workflow",
+      "description": "AI-powered workflow for generating multi-image sets for cleaning products in e-commerce and campaigns."
+    },
+    "faqPage": {
+      "name": "Cleaning Product Image Set – FAQ"
+    }
+  }
+}

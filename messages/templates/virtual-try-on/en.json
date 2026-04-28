@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Virtual Try-on – AI Fashion Fitting Room | OpenCreator",
+    "description": "Transform your shopping experience with AI-powered virtual try-on technology. See how clothes look on AI fashion models instantly—perfect for clothing photography and apparel photography for ecommerce.",
+    "keywords": [
+      "ai clothing generator",
+      "ai fashion models",
+      "virtual try on technology",
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "how to take pictures of clothes to sell",
+      "garment photography",
+      "ai generated female models",
+      "clothing brand photoshoot",
+      "ecommerce fashion tech"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#fashion", "#ecommerce", "#ar_technology"],
+    "title": "Virtual Try-on",
+    "description": "Transform your shopping experience with AI-powered virtual try-on technology. See how clothes look in seconds without changing rooms. Perfect for fashion retailers and online shoppers who want to reduce returns and increase confidence in online purchases.",
+    "inputPlaceholder": "Upload your photo and clothing item",
+    "ctaText": "Try Now"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your photo and clothing",
+        "description": "Take a clear photo or upload an existing one, then select the clothing item you want to try. Our AI analyzes both to create realistic virtual fitting."
+      },
+      {
+        "title": "AI analyzes and matches",
+        "description": "Advanced algorithms analyze your body measurements, pose, and the clothing's specifications to ensure accurate size and fit recommendations."
+      },
+      {
+        "title": "See instant results",
+        "description": "View how the clothing looks on your body type from multiple angles. Zoom in to check fabric details and fit accuracy."
+      },
+      {
+        "title": "Make confident purchases",
+        "description": "Save your favorites, compare different styles, and buy with confidence knowing exactly how each item will look and fit."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Revolutionary for fashion retail and online shopping",
+    "subtitle": "From major brands to independent designers, see who's transforming fashion with virtual try-on technology.",
+    "audiences": [
+      {
+        "label": "Fashion retailers",
+        "description": "Reduce return rates and increase customer satisfaction by letting shoppers try clothes virtually before buying."
+      },
+      {
+        "label": "Online shoppers",
+        "description": "Eliminate sizing uncertainty and buy clothes with confidence, knowing exactly how they'll fit your unique body type."
+      },
+      {
+        "label": "Fashion brands",
+        "description": "Create immersive shopping experiences that drive engagement and conversion while reducing operational costs."
+      },
+      {
+        "label": "Style consultants",
+        "description": "Help clients visualize different outfits and make better fashion choices with personalized virtual styling sessions."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Virtual Try-on workflow?",
+        "answer": "Virtual Try-on is an AI-powered workflow that creates realistic virtual fitting room experiences. Upload your photo and clothing to see how items look on you instantly."
+      },
+      {
+        "question": "How accurate is the virtual try-on technology?",
+        "answer": "Our AI uses advanced body analysis and fabric simulation to achieve high accuracy. Results show realistic draping, fit, and movement based on your actual measurements."
+      },
+      {
+        "question": "What types of clothing work best?",
+        "answer": "The system works excellently with tops, dresses, pants, jackets, and most fashion items. Some very complex or highly structured garments may have limitations."
+      },
+      {
+        "question": "Do I need special photos?",
+        "answer": "A clear, full-body photo in fitted clothing works best. Good lighting and simple poses help the AI analyze your proportions accurately."
+      },
+      {
+        "question": "Can I try on multiple items?",
+        "answer": "Yes. You can build complete outfits, mix and match different pieces, and save your favorite combinations for future reference."
+      },
+      {
+        "question": "How does this help reduce returns?",
+        "answer": "By showing exactly how clothes will fit your body type before purchase, virtual try-on eliminates sizing guesswork and dramatically reduces return rates."
+      },
+      {
+        "question": "Is my photo data secure?",
+        "answer": "Your photos are processed securely and used only for generating your virtual try-on results. We follow strict privacy and data protection standards."
+      },
+      {
+        "question": "Can retailers integrate this into their stores?",
+        "answer": "Yes. We offer easy integration options for e-commerce platforms, allowing retailers to add virtual try-on capabilities to their existing stores."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Virtual Try-on – AI Fashion Fitting Room",
+      "description": "Transform your shopping experience with AI-powered virtual fitting room technology for confident online shopping."
+    },
+    "softwareApplication": {
+      "name": "Virtual Try-on AI Generator",
+      "description": "AI-powered virtual fitting room technology for trying on clothes digitally and reducing fashion returns."
+    },
+    "faqPage": {
+      "name": "Virtual Try-on – FAQ"
+    }
+  }
+}

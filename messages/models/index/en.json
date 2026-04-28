@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "All AI models in one place",
+    "description": "Explore every AI model available in OpenCreator. Compare capabilities, credits per generation and find the best fit for your workflows.",
+    "note": "Model pricing and availability are powered directly by the internal configuration, so this page always reflects the latest changes."
+  },
+  "categories": {
+    "text": {
+      "title": "Text models",
+      "description": "General-purpose reasoning, writing and analysis models."
+    },
+    "image": {
+      "title": "Image generation",
+      "description": "Text-to-image and photo generation models."
+    },
+    "imageToImage": {
+      "title": "Image editing",
+      "description": "Image-to-image and editing focused models."
+    },
+    "video": {
+      "title": "Image to video",
+      "description": "Image-to-video models for cinematic clips and ads."
+    },
+    "textToVideo": {
+      "title": "Text to video",
+      "description": "Text-to-video models for scripts and storyboards."
+    },
+    "DescribeImage": {
+      "title": "Describe image",
+      "description": "Vision-language models to understand and describe images."
+    },
+    "startEndFrame": {
+      "title": "Start & end frame",
+      "description": "Models optimized for keyframe-based video generation."
+    },
+    "imageAngleControl": {
+      "title": "Image angle control",
+      "description": "Multi-view synthesis models that generate new angles from a single photo."
+    },
+    "videoLipSync": {
+      "title": "Video lip sync",
+      "description": "Models that sync lip motion to speech audio."
+    }
+  },
+  "modelCount": "{count, plural, one {model} other {models}}",
+  "roles": {
+    "free": "Free tier",
+    "canvas": "Canvas",
+    "flow": "Flow",
+    "api": "API",
+    "other": "Other"
+  },
+  "badges": {
+    "disabled": "Temporarily unavailable",
+    "unavailable": "Usage details coming soon"
+  },
+  "viewDetails": "View details"
+}

@@ -1,0 +1,212 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.5 Turbo AI 视频生成器 | 业界领先性能 | OpenCreator",
+      "description": "使用快手的 Kling 2.5 Turbo 创建精彩 AI 视频。业界领先性能，增强运动质量、风格一致性，成本降低 30%。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Kling 2.5 Turbo",
+      "tagline": "业界领先性能，更实惠",
+      "description": "快手 Kling AI 2.5 Turbo 在盲测中表现业界领先，文生视频和图生视频均超越竞争对手。增强的提示词理解、卓越的动作场景运动质量，成本比 2.1 低 30%。",
+      "badge": "最新",
+      "ctaText": "免费试用 Kling 2.5",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "duration": "5-10秒时长",
+        "resolution": "1080p 输出",
+        "performance": "业界领先"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Kling 2.5 Turbo 成为业界领先 AI 视频生成模型的原因",
+      "items": {
+        "prompt": {
+          "title": "增强提示词理解",
+          "description": "提升的提示词理解能力可处理复杂的多步骤指令和因果关系，精度更高。"
+        },
+        "motion": {
+          "title": "卓越的运动质量",
+          "description": "生成更动态的运动和更大幅度的镜头移动。在格斗、奔跑等高动态场景中表现出色，并配合镜头跟踪，还能处理花样滑冰、花样游泳和群舞等复杂动作场景。"
+        },
+        "style": {
+          "title": "风格一致性",
+          "description": "精确捕捉参考图片的艺术风格，保持色彩、光照、纹理和氛围。"
+        },
+        "aesthetic": {
+          "title": "增强美学效果",
+          "description": "更高的美学吸引力，改进的光照和构图使输出具有视觉连贯性和冲击力。"
+        },
+        "expressions": {
+          "title": "复杂微表情",
+          "description": "渲染细腻的面部表情，具有更丰富的戏剧张力，使视频输出与创意愿景一致。"
+        },
+        "cost": {
+          "title": "成本降低 30%",
+          "description": "大幅降低的定价使先进 AI 视频生成对全球创作者更加可及。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Kling 2.5 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "outfit": {
+          "title": "360° 服装展示",
+          "description": "电商产品视频",
+          "useCase": "将静态产品照片转换为具有增强运动质量的引人入胜视频内容。"
+        },
+        "streetwear": {
+          "title": "街头风 UGC 推广",
+          "description": "社交媒体内容",
+          "useCase": "创建具有卓越风格一致性的吸引眼球 UGC 风格视频。"
+        },
+        "character": {
+          "title": "一致角色广告",
+          "description": "品牌广告",
+          "useCase": "制作具有复杂微表情和戏剧张力的一致角色广告。"
+        },
+        "sportswear": {
+          "title": "运动服模特广告",
+          "description": "运动服展示",
+          "useCase": "为运动服和健身服产品呈现具有增强运动质量的动态姿势。"
+        },
+        "combat": {
+          "title": "高动态场景",
+          "description": "动作内容",
+          "useCase": "卓越的高动态场景，如带相机跟踪的战斗和奔跑。"
+        },
+        "dance": {
+          "title": "复杂舞蹈场景",
+          "description": "娱乐内容",
+          "useCase": "复杂动作场景，包括花样滑冰、花样游泳和群舞。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Kling 2.5 Turbo 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "multiReference": "多参考图（最多4张）",
+          "motionBrush": "运动画笔"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "promptAdherence": "提示词遵循",
+          "motionQuality": "运动质量",
+          "styleConsistency": "风格一致性",
+          "microExpressions": "微表情"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "costReduction": "成本降低"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Kling 2.5 Turbo 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "multiReference": "多参考图支持",
+        "maxDuration": "最大时长",
+        "resolution": "分辨率",
+        "motionQuality": "运动质量",
+        "styleConsistency": "风格一致性",
+        "costEfficiency": "性价比"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "每次生成消耗积分。比 Kling 2.1 定价低 30%。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Kling 2.5 Turbo？由谁开发？",
+          "answer": "Kling 2.5 Turbo 是快手于 2025 年 9 月推出的最新 AI 视频生成模型。它对文生视频和图生视频能力进行了重大升级，以业界领先的性能和比前代低 30% 的成本提供服务。"
+        },
+        "1": {
+          "question": "Kling 2.5 相比 Kling 2.1 有哪些改进？",
+          "answer": "Kling 2.5 Turbo 提供增强的提示词理解、卓越的运动质量、更好的风格一致性、改进的美学质量和复杂微表情渲染。它的成本也比 Kling 2.1 低 30%。"
+        },
+        "2": {
+          "question": "我可以用 Kling 2.5 创建什么类型的内容？",
+          "answer": "Kling 2.5 擅长创建电商产品视频、社交媒体内容、品牌广告、高动态动作场景、复杂舞蹈序列，以及任何需要卓越运动质量和风格一致性的内容。"
+        },
+        "3": {
+          "question": "Kling 2.5 视频可以有多长？",
+          "answer": "Kling 2.5 Turbo 支持 5 秒或 10 秒的视频时长，分辨率为 1080p 高清，与 Kling 2.1 相同，但质量显著提升。"
+        },
+        "4": {
+          "question": "Kling 2.5 支持多参考图吗？",
+          "answer": "是的！与 Kling 2.1 一样，Kling 2.5 Turbo 支持最多 4 张输入图片进行多参考图生成，实现视频内容中一致的角色和场景创作。"
+        },
+        "5": {
+          "question": "Kling 2.5 的定价与其他模型相比如何？",
+          "answer": "Kling 2.5 Turbo 的定价比 Kling 2.1 低 30%，使其成为最具性价比的高质量视频生成模型之一。每个 5 秒 1080p 视频仅需 25 积分，低于之前的 35 积分。"
+        },
+        "6": {
+          "question": "我可以在 OpenCreator 上免费试用 Kling 2.5 Turbo 吗？",
+          "answer": "可以！新用户注册即可获得免费积分，可用于试用 Kling 2.5 Turbo。你可以先体验增强的运动质量和风格一致性，再决定是否订阅。"
+        },
+        "7": {
+          "question": "Kling 2.5 的最长视频时长是多少？",
+          "answer": "Kling 2.5 Turbo 支持 5 秒和 10 秒的视频时长，分辨率为 1080p 高清。如需更长内容，可以生成多个片段并拼接，同时保持风格一致性。"
+        },
+        "8": {
+          "question": "Kling 2.5 支持哪些分辨率和比例？",
+          "answer": "Kling 2.5 Turbo 以 1080p 高清分辨率生成视频，支持常见比例（16:9、9:16、1:1）。建议按平台选择：YouTube 用 16:9，抖音/Reels 用 9:16。"
+        },
+        "9": {
+          "question": "Kling 2.5 和 Kling O1 怎么选？",
+          "answer": "Kling 2.5 Turbo 针对高动态场景、风格一致性和性价比进行了优化。Kling O1 是较新的模型，具有不同的能力。建议在 OpenCreator 上查看可用模型，选择最适合你工作流的版本。"
+        },
+        "10": {
+          "question": "Kling 2.5 和 Sora 2 怎么选？",
+          "answer": "Kling 2.5 Turbo 擅长运动质量、多参考图支持（最多 4 张）和性价比。Sora 2 更强调物理真实感和更长时长。动作场景和角色一致性选 Kling；电影级真实感选 Sora。"
+        },
+        "11": {
+          "question": "Kling 2.5 和 Veo 3 怎么选？",
+          "answer": "Kling 2.5 Turbo 以更低成本提供卓越的运动质量和多参考图工作流。Veo 3 擅长原生音频生成和音视频同步。根据你是否需要音频或多参考图支持来选择。"
+        },
+        "12": {
+          "question": "为什么 Kling 2.5 适合动作和舞蹈场景？",
+          "answer": "Kling 2.5 Turbo 具有增强的运动物理、镜头跟踪和复杂动作渲染能力。它能以比前代更流畅、更稳定的画面处理格斗、奔跑、花样滑冰、花样游泳和群舞等场景。"
+        }
+      }
+    }
+  }
+}

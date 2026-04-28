@@ -1,0 +1,217 @@
+{
+  "model": {
+    "meta": {
+      "title": "Sora 2 AI Video Generator | Text & Image to Video | OpenCreator",
+      "description": "Create stunning AI videos with OpenAI's Sora 2 on OpenCreator. Generate cinematic results with realistic physics, sharp visuals, and flexible duration options (8s/12s, up to 25s on Pro)."
+    },
+    "hero": {
+      "modelName": "Sora 2",
+      "tagline": "OpenAI's Most Advanced Video Model",
+      "description": "Experience the next generation of AI video creation with Sora 2 from OpenAI. Generate high-quality videos from text prompts or images with unprecedented realism, accurate physics simulation, and enhanced steerability.",
+      "badge": "Premium",
+      "ctaText": "Try Sora 2 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "duration": "8s / 12s (up to 25s Pro)",
+        "resolution": "1080p Output",
+        "physics": "Realistic Physics"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Sora 2 the most advanced AI video generation model",
+      "items": {
+        "physics": {
+          "title": "Realistic Physics",
+          "description": "Advanced physics simulation ensures objects move naturally with accurate gravity, momentum, and collision dynamics."
+        },
+        "realism": {
+          "title": "Sharp Realism",
+          "description": "Generate videos with unprecedented visual fidelity, detailed textures, and lifelike lighting effects."
+        },
+        "duration": {
+          "title": "Extended Duration",
+          "description": "Create videos with flexible duration options (8s/12s, up to 25s on Pro) for storytelling and complex scene compositions."
+        },
+        "steerability": {
+          "title": "Enhanced Steerability",
+          "description": "Precise control over camera movements, scene transitions, and character actions through detailed prompts."
+        },
+        "consistency": {
+          "title": "Object Permanence",
+          "description": "Maintains consistent object appearance and behavior throughout the entire video sequence."
+        },
+        "multimodal": {
+          "title": "Multi-Modal Input",
+          "description": "Generate videos from text descriptions, reference images, or combine both for maximum creative control."
+        },
+        "audio": {
+          "title": "Synchronized Audio",
+          "description": "Features synchronized dialogue and sound effects for more immersive video experiences (availability depends on workflow)."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Sora 2 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "ugc": {
+          "title": "Sora 2 x UGC Promo",
+          "description": "Social Media Marketing",
+          "useCase": "Create authentic UGC-style promotional videos that drive engagement on social platforms."
+        },
+        "ads": {
+          "title": "Sora 2 x Ads",
+          "description": "Brand Advertising",
+          "useCase": "Professional advertising content with cinematic quality and brand consistency."
+        },
+        "idols": {
+          "title": "Sora 2 x Idols",
+          "description": "Entertainment Content",
+          "useCase": "Generate dynamic idol and character content for entertainment and fan engagement."
+        },
+        "product": {
+          "title": "Product Showcase",
+          "description": "E-commerce Videos",
+          "useCase": "Transform product images into compelling video presentations for online stores."
+        },
+        "cinematic": {
+          "title": "Cinematic Scenes",
+          "description": "Film Production",
+          "useCase": "Create film-quality scenes with professional cinematography and visual effects."
+        },
+        "animation": {
+          "title": "Creative Animation",
+          "description": "Animated Content",
+          "useCase": "Bring illustrations and concepts to life with smooth, natural animation."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Sora 2 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "videoExtension": "Video Extension",
+          "cameraControl": "Camera Control"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "physicsSimulation": "Physics Simulation",
+          "objectPermanence": "Object Permanence",
+          "sceneComposition": "Scene Composition",
+          "styleTransfer": "Style Transfer"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Sora 2 compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "physicsSimulation": "Physics Simulation",
+        "objectPermanence": "Object Permanence",
+        "cameraControl": "Camera Control",
+        "audioGeneration": "Audio Generation"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "description": "OpenAI's most advanced video model, now available with flexible credit-based pricing on OpenCreator.",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Sora 2 and who developed it?",
+          "answer": "Sora 2 is OpenAI's flagship video generation model. OpenAI describes it as a general-purpose video-and-audio generation system; on OpenCreator, specific output options depend on the mode and availability."
+        },
+        "1": {
+          "question": "What types of content can I create with Sora 2?",
+          "answer": "Sora 2 excels at creating a wide range of content including social media videos, brand advertisements, product showcases, cinematic scenes, animated content, and entertainment videos. It supports both text-to-video and image-to-video generation."
+        },
+        "2": {
+          "question": "How long can Sora 2 videos be?",
+          "answer": "On OpenCreator, Sora 2 supports multiple duration options depending on the mode. You can generate 8-second or 12-second videos, and Pro mode supports up to 25 seconds."
+        },
+        "3": {
+          "question": "What makes Sora 2 different from other AI video models?",
+          "answer": "Sora 2 stands out for its realistic physics simulation, object permanence, and enhanced steerability. It produces videos with unprecedented visual fidelity and can handle complex multi-object scenes while maintaining consistency throughout."
+        },
+        "4": {
+          "question": "Can I use images as input for Sora 2?",
+          "answer": "Yes! Sora 2 supports both text-to-video and image-to-video generation. You can provide reference images to guide the video generation, or combine text prompts with images for maximum creative control."
+        },
+        "5": {
+          "question": "What resolution does Sora 2 support?",
+          "answer": "Sora 2 generates videos in up to 1080p HD resolution, ensuring high-quality output suitable for professional use cases including social media, advertising, and content creation."
+        },
+        "6": {
+          "question": "Is there a difference between Sora 2 and Sora 2 Pro on OpenCreator?",
+          "answer": "Yes. On OpenCreator, Pro mode unlocks higher-end output options (such as longer duration and higher resolution). If you want maximum quality, pick Pro; for faster iteration, use the standard mode."
+        },
+        "7": {
+          "question": "What aspect ratios can I generate with Sora 2?",
+          "answer": "On OpenCreator, Sora 2 supports multiple aspect ratios depending on the workflow (commonly 16:9 and 9:16). Choose the ratio based on your target platform (YouTube vs TikTok/Reels)."
+        },
+        "8": {
+          "question": "Does Sora 2 generate audio on OpenCreator?",
+          "answer": "OpenAI describes Sora 2 as a video-and-audio generation system. On OpenCreator, audio availability can vary by model mode and workflow. Check the output settings and preview to confirm whether audio is included."
+        },
+        "9": {
+          "question": "How do I write better prompts for realism and physics?",
+          "answer": "Use concrete, visual language and specify the key physical actions. Add constraints like camera framing, lighting, environment, and timing (e.g., “handheld close-up”, “slow push-in”, “golden hour”). Avoid contradictory instructions."
+        },
+        "10": {
+          "question": "Can I control camera movement and shot style?",
+          "answer": "Yes. Include camera instructions in your prompt (pan, dolly, zoom, tracking, lens style). For best results, keep camera direction simple and consistent, and avoid changing too many variables at once."
+        },
+        "11": {
+          "question": "How does Sora 2 compare to Veo 3 on OpenCreator?",
+          "answer": "Both are top-tier options. Veo 3 is known for native audio generation and strong audio-video synchronization, while Sora 2 emphasizes realism, physics, and longer clips depending on mode. The best choice depends on whether you prioritize audio or longer cinematic shots."
+        },
+        "12": {
+          "question": "How much does Sora 2 cost on OpenCreator?",
+          "answer": "Credits are consumed per generation and can vary by output settings (such as mode, resolution, and duration). The pricing section on this page shows the most up-to-date credit cost for your plan."
+        }
+      }
+    }
+  }
+}

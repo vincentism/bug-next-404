@@ -1,0 +1,180 @@
+{
+  "model": {
+    "meta": {
+      "title": "Imagen 4 AI 图像生成器 | Google DeepMind | OpenCreator",
+      "description": "使用 Google Imagen 4 创建精彩图像。写实品质、高级文字渲染、高达 2K 分辨率和超快生成。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Imagen 4",
+      "tagline": "写实完美",
+      "description": "Google DeepMind 最佳文生图模型。Imagen 4 提供写实图像，具有卓越清晰度、高级文字渲染、多样艺术风格和高达 2K 分辨率 - 全部超快生成。",
+      "badge": "Google DeepMind",
+      "ctaText": "免费试用 Imagen 4",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "textToImage": "文生图",
+        "photorealistic": "写实风格",
+        "textRendering": "文字渲染",
+        "highResolution": "2K 分辨率",
+        "ultraFast": "超快生成"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Imagen 4 为何是 Google 最佳文生图模型",
+      "items": {
+        "photorealistic": {
+          "title": "写实品质",
+          "description": "生成几乎无法与真实照片区分的图像。非常适合产品拍摄、肖像和写实场景。"
+        },
+        "textRendering": {
+          "title": "高级文字渲染",
+          "description": "改进的拼写、更长的文字字符串和新布局。创建具有准确排版的漫画、包装、海报和文字密集视觉内容。"
+        },
+        "ultraFast": {
+          "title": "超快生成",
+          "description": "即时测试数十个想法。Imagen 4 配备比以前模型快 10 倍的模式。"
+        },
+        "resolution": {
+          "title": "卓越清晰度",
+          "description": "生成高达 2K 分辨率的图像。针对创意优化，具有增强的色彩、风格和精细细节。"
+        },
+        "styles": {
+          "title": "多样艺术风格",
+          "description": "从写实到艺术，Imagen 4 支持广泛的风格，包括数字艺术、插画和经典美学。"
+        },
+        "details": {
+          "title": "精细细节",
+          "description": "精确捕捉复杂细节。非常适合复杂场景、纹理和详细构图。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Imagen 4 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "photorealistic": {
+          "title": "YouTube 缩略图",
+          "description": "Vlog 内容",
+          "useCase": "创建具有写实品质的抢眼 YouTube Vlog 缩略图。"
+        },
+        "product": {
+          "title": "产品摄影",
+          "description": "电商",
+          "useCase": "创建具有准确色彩和细节的专业产品图像。"
+        },
+        "typography": {
+          "title": "电影海报",
+          "description": "电影营销",
+          "useCase": "生成具有戏剧性构图和文字的精美电影海报。"
+        },
+        "artistic": {
+          "title": "艺术风格",
+          "description": "创意艺术",
+          "useCase": "探索从数字艺术到经典插画的多样艺术风格。"
+        },
+        "portrait": {
+          "title": "肖像",
+          "description": "人物主题",
+          "useCase": "创建具有自然光线和表情的精彩肖像摄影。"
+        },
+        "scenes": {
+          "title": "复杂场景",
+          "description": "详细构图",
+          "useCase": "生成具有多个元素和精细细节的复杂场景。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Imagen 4 功能的完整信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最高分辨率",
+          "aspectRatios": "宽高比"
+        },
+        "modes": {
+          "title": "生成模式",
+          "textToImage": "文生图",
+          "ultraFast": "超快模式",
+          "highQuality": "高品质模式"
+        },
+        "capabilities": {
+          "title": "能力",
+          "textRendering": "文字渲染",
+          "photorealism": "写实度",
+          "artStyles": "多样艺术风格"
+        },
+        "safety": {
+          "title": "安全与隐私",
+          "synthId": "SynthID 水印",
+          "safetyFilters": "安全过滤器"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Imagen 4 与其他图像模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToImage": "文生图",
+        "photorealism": "写实度",
+        "textRendering": "文字渲染",
+        "resolution": "最高分辨率",
+        "speed": "生成速度",
+        "artStyles": "艺术风格多样性"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "description": "逼真效果，构图与色彩精准",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "积分按生成次数消耗。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Imagen 4，由谁开发？",
+          "answer": "Imagen 4 是 Google DeepMind 最佳文生图模型。它生成具有卓越清晰度、高级文字渲染的写实图像，支持多样艺术风格，分辨率高达 2K。"
+        },
+        "1": {
+          "question": "Imagen 4 与其他图像模型有什么不同？",
+          "answer": "Imagen 4 在写实度、高级文字渲染（拼写、排版、布局）方面表现出色，并提供比以前模型快 10 倍的超快模式。它还包含 SynthID 水印以确保安全。"
+        },
+        "2": {
+          "question": "Imagen 4 可以在图像中渲染文字吗？",
+          "answer": "是的！Imagen 4 显著改进了文字渲染，具有更好的拼写、支持更长的文字字符串和新布局。非常适合漫画、包装、海报和文字密集的视觉内容。"
+        },
+        "3": {
+          "question": "Imagen 4 支持什么分辨率？",
+          "answer": "Imagen 4 生成高达 2K 分辨率的图像，针对创意优化，具有增强的色彩、风格和卓越清晰度。"
+        },
+        "4": {
+          "question": "Imagen 4 有多快？",
+          "answer": "Imagen 4 包含比以前模型快 10 倍的超快模式，让您可以即时测试数十个想法。"
+        },
+        "5": {
+          "question": "Imagen 4 可以生成哪些艺术风格？",
+          "answer": "Imagen 4 支持多样艺术风格，包括写实、数字艺术、插画、复古美学、漫画风格等。它可以适应各种创意方向。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance 1.0 Pro AI 视频生成器 | 多镜头叙事 | OpenCreator",
+      "description": "使用字节跳动的 Seedance 1.0 Pro 创建电影级 AI 视频。多镜头视频生成，具备流畅运动、丰富细节和精确的提示词遵循。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Seedance 1.0 Pro",
+      "tagline": "多镜头电影级视频生成",
+      "description": "体验字节跳动的 Seedance 1.0 Pro，一款支持从文本和图片进行多镜头叙事的高性能视频生成模型。创建具有流畅运动、丰富细节和电影美学的 1080p 视频。",
+      "badge": "多镜头",
+      "ctaText": "免费试用 Seedance Pro",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "multiShot": "多镜头",
+        "resolution": "1080p 输出",
+        "cinematic": "电影级质量"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Seedance 1.0 Pro 成为 AI 视频生成强大选择的原因",
+      "items": {
+        "multiShot": {
+          "title": "多镜头叙事",
+          "description": "原生支持多镜头视频生成，实现跨多个场景的连贯叙事。"
+        },
+        "motion": {
+          "title": "流畅稳定运动",
+          "description": "宽动态范围实现流畅运动，整个视频保持稳定、一致的移动。"
+        },
+        "prompt": {
+          "title": "精确提示词遵循",
+          "description": "语义理解方面的突破确保准确解读复杂提示词。"
+        },
+        "style": {
+          "title": "多样风格表达",
+          "description": "支持从照片级真实到风格化动画的各种艺术风格。"
+        },
+        "quality": {
+          "title": "丰富细节",
+          "description": "高保真输出，具有丰富纹理、精确光照和电影级调色。"
+        },
+        "resolution": {
+          "title": "1080p 高清输出",
+          "description": "以全高清分辨率生成专业级视频，适用于任何用途。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Seedance 1.0 Pro 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "cinematic": {
+          "title": "电影场景",
+          "description": "影视制作",
+          "useCase": "创建具有专业摄影和视觉叙事的电影级场景。"
+        },
+        "product": {
+          "title": "产品展示",
+          "description": "电商视频",
+          "useCase": "将产品图片转换为具有流畅运动的引人注目视频展示。"
+        },
+        "fashion": {
+          "title": "时尚内容",
+          "description": "服装营销",
+          "useCase": "具有逼真织物运动和模特姿势的动态时尚视频。"
+        },
+        "storytelling": {
+          "title": "多镜头故事",
+          "description": "叙事内容",
+          "useCase": "创建具有一致角色和场景的连贯多场景叙事。"
+        },
+        "commercial": {
+          "title": "商业广告",
+          "description": "品牌广告",
+          "useCase": "具有电影级质量和品牌一致性的专业广告内容。"
+        },
+        "creative": {
+          "title": "创意动画",
+          "description": "艺术内容",
+          "useCase": "表达从照片级真实到风格化动画的多样艺术风格。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Seedance 1.0 Pro 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "multiShot": "多镜头生成",
+          "firstLastFrame": "首尾帧控制"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "smoothMotion": "流畅运动",
+          "promptFollowing": "提示词遵循",
+          "styleVariety": "风格多样性",
+          "cinematicQuality": "电影级质量"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Seedance 1.0 Pro 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "multiShot": "多镜头",
+        "maxDuration": "最大时长",
+        "resolution": "分辨率",
+        "smoothMotion": "流畅运动",
+        "promptFollowing": "提示词遵循",
+        "styleVariety": "风格多样性"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "每次生成消耗积分。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Seedance 1.0 Pro？由谁开发？",
+          "answer": "Seedance 1.0 Pro 是由字节跳动开发的高性能视频生成模型。它支持从文本和图片进行多镜头视频生成，在语义理解和提示词遵循方面取得了突破。"
+        },
+        "1": {
+          "question": "我可以用 Seedance 1.0 Pro 创建什么类型的内容？",
+          "answer": "Seedance 1.0 Pro 擅长创建电影场景、产品展示、时尚内容、多镜头故事、商业广告和创意动画。它在多镜头叙事和多样风格表达方面特别出色。"
+        },
+        "2": {
+          "question": "Seedance 1.0 Pro 有什么独特之处？",
+          "answer": "Seedance 1.0 Pro 以其原生多镜头叙事能力、流畅稳定的运动、精确的提示词遵循和多样的风格表达而脱颖而出。它可以创建跨多个场景的连贯叙事。"
+        },
+        "3": {
+          "question": "Seedance 1.0 Pro 支持什么分辨率？",
+          "answer": "Seedance 1.0 Pro 以 1080p 高清分辨率生成视频，具有丰富细节、精确光照和电影级调色，提供专业级输出。"
+        },
+        "4": {
+          "question": "Seedance 1.0 Pro 支持文本和图片输入吗？",
+          "answer": "是的！Seedance 1.0 Pro 支持文生视频和图生视频两种生成方式。它还支持首尾帧控制，实现精确的运动引导。"
+        },
+        "5": {
+          "question": "Seedance 1.0 Pro 如何处理复杂提示词？",
+          "answer": "Seedance 1.0 Pro 在语义理解方面取得了突破，能够准确解读和遵循复杂、详细的提示词，实现精确的创意控制。"
+        }
+      }
+    }
+  }
+}

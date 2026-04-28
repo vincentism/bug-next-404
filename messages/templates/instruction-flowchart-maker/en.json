@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Instruction Flowchart Maker – AI Visual Guide Generator | OpenCreator",
+    "description": "Create professional instruction flowcharts and visual guides with AI. Transform complex processes into clear, step-by-step visual diagrams automatically.",
+    "keywords": [
+      "instruction flowchart maker",
+      "visual guide generator",
+      "process diagram ai",
+      "step by step guide creator",
+      "ai flowchart generator",
+      "instruction manual visuals",
+      "process mapping tool",
+      "how to guide diagram"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#instructions", "#flowchart", "#visual_guide"],
+    "title": "Instruction Flowchart Maker",
+    "description": "Transform complex instructions into clear visual flowcharts with AI. Create professional step-by-step guides, process diagrams, and visual manuals that anyone can follow. Perfect for product documentation, training materials, and customer support resources.",
+    "inputPlaceholder": "Describe your process or upload reference",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your instructions or process",
+        "description": "Describe your process in text or upload reference materials. Our AI understands complex workflows and breaks them down into logical, visual steps."
+      },
+      {
+        "title": "AI designs the flowchart structure",
+        "description": "The system automatically creates an optimal layout with clear visual hierarchy, decision points, and logical flow that guides users through each step."
+      },
+      {
+        "title": "Generate professional visual guides",
+        "description": "Create polished instruction flowcharts with consistent styling, icons, and visual elements that make complex processes easy to understand."
+      },
+      {
+        "title": "Export for documentation and training",
+        "description": "Download high-quality flowcharts ready for product manuals, training materials, e-commerce listings, or customer support documentation."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for documentation and training teams",
+    "subtitle": "From product managers to customer support, see who creates visual instructions with AI.",
+    "audiences": [
+      {
+        "label": "Product managers",
+        "description": "Create clear product usage guides and feature documentation that reduce customer confusion and support tickets."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Design professional assembly instructions and product guides that enhance customer experience and reduce returns."
+      },
+      {
+        "label": "Training teams",
+        "description": "Develop visual training materials and SOPs that accelerate employee onboarding and ensure process consistency."
+      },
+      {
+        "label": "Technical writers",
+        "description": "Transform complex technical processes into accessible visual guides that improve documentation quality and user comprehension."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Instruction Flowchart Maker?",
+        "answer": "The Instruction Flowchart Maker is an AI-powered workflow that transforms text instructions or process descriptions into professional visual flowcharts and step-by-step guides automatically."
+      },
+      {
+        "question": "What types of instructions can I visualize?",
+        "answer": "You can create flowcharts for any process: product assembly guides, software tutorials, cooking recipes, manufacturing procedures, customer service protocols, or any step-by-step workflow."
+      },
+      {
+        "question": "How complex can the flowcharts be?",
+        "answer": "The AI handles both simple linear processes and complex workflows with decision points, branches, and multiple pathways. It automatically optimizes the layout for clarity."
+      },
+      {
+        "question": "Can I customize the visual style?",
+        "answer": "Yes. You can adjust colors, icon styles, and overall design to match your brand guidelines or specific documentation requirements."
+      },
+      {
+        "question": "Is this suitable for product listings?",
+        "answer": "Absolutely. E-commerce sellers use this to create professional assembly instructions and usage guides that enhance product listings and reduce customer questions."
+      },
+      {
+        "question": "What output formats are available?",
+        "answer": "Flowcharts are delivered in high-resolution image formats suitable for print materials, digital documentation, websites, and mobile applications."
+      },
+      {
+        "question": "Can I create multi-language instructions?",
+        "answer": "Yes. You can generate the same flowchart with text in different languages, making it easy to create documentation for international audiences."
+      },
+      {
+        "question": "How does this improve over manual diagram creation?",
+        "answer": "The AI automates layout optimization, consistent styling, and visual hierarchy—tasks that typically require hours of design work—delivering professional results in minutes."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Instruction Flowchart Maker – AI Visual Guide Generator",
+      "description": "Transform complex instructions into clear visual flowcharts with AI. Create professional step-by-step guides automatically."
+    },
+    "softwareApplication": {
+      "name": "Instruction Flowchart Maker AI",
+      "description": "AI-powered instruction flowchart generator for creating professional visual guides, process diagrams, and step-by-step documentation."
+    },
+    "faqPage": {
+      "name": "Instruction Flowchart Maker – FAQ"
+    }
+  }
+}

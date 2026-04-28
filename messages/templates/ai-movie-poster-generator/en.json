@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Movie Poster Maker – AI Movie Poster Generator | OpenCreator",
+    "description": "Generate cinematic movie posters from your story ideas with AI and create key art concepts for trailers, launches, and campaigns.",
+    "keywords": [
+      "ai movie poster generator",
+      "movie poster maker",
+      "cinematic poster design",
+      "film key art generator",
+      "story to movie poster",
+      "movie marketing poster",
+      "ai film poster creator",
+      "teaser poster design"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#movie", "#visual_arts"],
+    "title": "Movie Poster Maker",
+    "description": "Bring your movie idea to life with our powerful AI workflow template. Simply input your story-line, and our AI will instantly generate a high-quality, visually striking movie poster tailored to your plot.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "What's the story?",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Summarize your film or story idea",
+        "description": "Provide a short synopsis, key characters, and genre notes so the workflow understands the core of your narrative."
+      },
+      {
+        "title": "Choose tone, layout, and influences",
+        "description": "Describe the poster feeling—tense thriller, epic sci-fi, tender drama—and mention any reference films or styles you love."
+      },
+      {
+        "title": "Generate AI movie poster concepts",
+        "description": "Run the Movie Poster Maker workflow to create multiple key art options tuned to your story, genre, and audience."
+      },
+      {
+        "title": "Shortlist, refine, and reuse the workflow",
+        "description": "Pick your favorite concepts, tweak prompts or story details, and reuse the same setup across sequels, spin-offs, or related projects."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for film and story-driven visuals",
+    "subtitle": "From indie films to streaming campaigns, see who uses AI movie posters to pitch and promote.",
+    "audiences": [
+      {
+        "label": "Directors & screenwriters",
+        "description": "Turn loglines and story summaries into cinematic key art that helps pitch projects to producers, festivals, or investors."
+      },
+      {
+        "label": "Indie film producers",
+        "description": "Quickly generate poster concepts for funding decks, test screenings, and early marketing materials."
+      },
+      {
+        "label": "Marketing teams & distributors",
+        "description": "Explore multiple poster directions for campaigns, thumbnails, and social key visuals from the same story input."
+      },
+      {
+        "label": "Authors & storytellers",
+        "description": "Create striking visual covers for books, web novels, or audio dramas based on your core story idea."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the AI Movie Poster Maker template?",
+        "answer": "AI Movie Poster Maker is a workflow that turns your story idea or script summary into cinematic movie poster designs. It’s an AI film poster generator tailored for directors, writers, and marketers."
+      },
+      {
+        "question": "What information should I provide for the best poster?",
+        "answer": "Include your film’s logline, genre, main characters, and any visual references (e.g., “dark noir,” “bright family adventure”). This helps the AI align the design with your story."
+      },
+      {
+        "question": "Can this template create multiple poster concepts for A/B testing?",
+        "answer": "Yes. You can generate multiple concepts with different prompts or styles and then compare them for audience tests and internal reviews."
+      },
+      {
+        "question": "Is the output suitable for print-quality posters?",
+        "answer": "You can create high-resolution images, but final print specs depend on your export settings and use case. Many users generate concepts in OpenCreator and then upscale or refine them as needed."
+      },
+      {
+        "question": "Does the template support specific poster layouts (e.g., character montage, minimalistic)?",
+        "answer": "You can describe layout preferences in your prompt (“character montage with central hero,” “minimalist title-only poster”). The AI uses these instructions as guidance for composition."
+      },
+      {
+        "question": "Can I use AI movie posters in marketing campaigns?",
+        "answer": "Yes, you can use the generated art in teasers, decks, and social campaigns if it fits within your plan’s usage rights. Always confirm the commercial terms attached to your account."
+      },
+      {
+        "question": "How do credits and costs work for AI film poster generation?",
+        "answer": "Each poster generation consumes credits. Complex or high-resolution generations may use more credits, so start with a few tests to find the style you like before scaling."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Movie Poster Maker",
+      "description": "Generate stunning movie posters from your story idea. Perfect for filmmakers, content creators, and movie enthusiasts."
+    },
+    "softwareApplication": {
+      "name": "AI Movie Poster Generator",
+      "description": "AI-powered tool that creates high-quality, visually striking movie posters from story descriptions."
+    },
+    "faqPage": {
+      "name": "AI Movie Poster Maker – FAQ"
+    }
+  }
+}

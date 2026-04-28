@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Pattern Extract – 照片一键提取无缝图案 | OpenCreator",
+    "description": "从包装、织物或表面照片中提取干净图案，并生成可重复平铺的无缝素材，适用于广告背景、品牌物料与网页设计。",
+    "keywords": [
+      "图案 提取",
+      "无缝 图案 生成",
+      "纹理 转图案 AI",
+      "照片 生成 重复图案",
+      "品牌 图案 制作",
+      "从照片生成无缝图案"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#图案设计", "#品牌", "#电商"],
+    "title": "图案提取",
+    "description": "从包装、织物、材质表面或品牌视觉中提取干净图案，生成可循环的无缝资产，便于在设计与营销中复用。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "上传含有目标图案的图片",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "上传产品或纹理图片",
+        "description": "例如包装、布料、墙纸或任何包含图案的表面。"
+      },
+      {
+        "title": "AI 分离核心图案元素",
+        "description": "自动识别重复单元，去除噪点与缺陷。"
+      },
+      {
+        "title": "生成无缝图案变体",
+        "description": "支持平铺、替换配色与不同密度版本。"
+      },
+      {
+        "title": "导出用于设计与营销",
+        "description": "下载高分辨率文件，用作广告背景、网页元素、品牌视觉或模型图。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合重视视觉统一性的设计与品牌团队",
+    "subtitle": "从电商到品牌代理，都可用 AI 图案提取加速产出。",
+    "audiences": [
+      {
+        "label": "品牌设计师",
+        "description": "把现实中的品牌元素转化为可扩展的数字图案。"
+      },
+      {
+        "label": "电商市场团队",
+        "description": "为产品图与落地页制作匹配的背景与边框。"
+      },
+      {
+        "label": "包装设计师",
+        "description": "为包装体系、产品线与季节款提取与优化图案。"
+      },
+      {
+        "label": "创意代理商",
+        "description": "无需手动描矢量，快速建立品牌图案库。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Pattern Extract 工作流？",
+        "answer": "用于从图片中提取图案并生成无缝、可复用资产的 AI 工作流。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "品牌设计师、电商市场、包装设计与创意代理等需要一致化图案资产的人。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "上传含有图案的图片，可按需指定配色与密度偏好。"
+      },
+      {
+        "question": "会得到什么输出？",
+        "answer": "高分辨率的无缝图案，包含不同配色与密度版本，便于设计复用。"
+      },
+      {
+        "question": "能否批量生成多个变体？",
+        "answer": "可以。可快速尝试不同配色与密度，适配不同场景。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "按分辨率与变体数量消耗积分，你可在套餐内迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Pattern Extract – 照片一键提取无缝图案",
+      "description": "从实拍图片中提取并生成无缝图案的 AI 能力。"
+    },
+    "softwareApplication": {
+      "name": "Pattern Extract 模板",
+      "description": "用于提取与生成无缝设计图案的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Pattern Extract – 常见问题"
+    }
+  }
+}

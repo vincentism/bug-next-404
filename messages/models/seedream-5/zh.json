@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedream 5.0 AI 图像生成器 | 字节跳动下一代图像模型 | OpenCreator",
+      "description": "预览字节跳动 Seedream 5.0 - AI 图像生成的下一代进化，预期在一致性、分辨率和创意能力方面有所提升。在 OpenCreator 加入候补名单。"
+    },
+    "hero": {
+      "modelName": "Seedream 5.0",
+      "tagline": "下一代 AI 图像创作",
+      "description": "Seedream 5.0 预计将在字节跳动 Seedream 4.5 的基础上进一步提升多参考图一致性、改进文字渲染和增强创意能力。这是一个即将发布模型的预热页面。",
+      "badge": "即将上线",
+      "ctaText": "加入候补名单",
+      "secondaryCtaText": "试用 Seedream 4.5",
+      "capabilities": {
+        "textToImage": "文生图",
+        "multiReference": "多参考图",
+        "resolution": "更高分辨率",
+        "textRendering": "更好文字渲染",
+        "editing": "高级编辑"
+      }
+    },
+    "features": {
+      "title": "预期功能",
+      "subtitle": "基于 Seedream 发展轨迹的预期改进",
+      "items": {
+        "multiRef": {
+          "title": "增强多参考图",
+          "description": "预期改进多参考图一致性保持能力，更好地识别和保留主体特征。"
+        },
+        "textRendering": {
+          "title": "卓越文字渲染",
+          "description": "在 Seedream 4.5 排版能力基础上，提供更可靠的文字生成和布局控制。"
+        },
+        "resolution": {
+          "title": "更高原生分辨率",
+          "description": "可能在 4K 基础上进一步提升，更好地保留细节和增强放大能力。"
+        },
+        "editing": {
+          "title": "高级图像编辑",
+          "description": "更精确的编辑功能，支持自然语言指令，更好地保留参考图细节。"
+        },
+        "promptFollowing": {
+          "title": "改进提示理解",
+          "description": "增强语义理解能力，更准确地解读复杂的创意需求。"
+        },
+        "speed": {
+          "title": "更快生成速度",
+          "description": "预期推理优化，在保持或提升输出质量的同时加快生成速度。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "预览",
+      "subtitle": "当前 Seedream 4.5 的示例 - 期待 5.0 带来更好的效果",
+      "tryWorkflow": "试用当前 Seedream 4.5 →",
+      "items": {
+        "ecommerce": {
+          "title": "电商",
+          "description": "产品摄影",
+          "useCase": "生成专业产品图片，多变体之间保持一致的风格。"
+        },
+        "brandVisual": {
+          "title": "品牌视觉",
+          "description": "营销设计",
+          "useCase": "创建连贯的品牌图像，可靠的文字渲染和布局一致性。"
+        },
+        "poster": {
+          "title": "海报设计",
+          "description": "排版 + 布局",
+          "useCase": "设计复杂排版和专业构图的海报。"
+        },
+        "advertising": {
+          "title": "广告",
+          "description": "营销创意",
+          "useCase": "制作在多个资产中保持品牌一致性的广告视觉。"
+        },
+        "character": {
+          "title": "角色设计",
+          "description": "一致角色",
+          "useCase": "创建在不同姿势和场景中保持一致的角色设计。"
+        },
+        "localization": {
+          "title": "本地化",
+          "description": "多语言",
+          "useCase": "生成多语言营销材料的本地化版本，文字准确。"
+        }
+      }
+    },
+    "specs": {
+      "title": "预期规格",
+      "subtitle": "预期能力 - 最终规格将在发布时确认",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "refImages": "参考图数量"
+        },
+        "capabilities": {
+          "title": "功能",
+          "textToImage": "文生图",
+          "imageEditing": "图像编辑",
+          "multiReference": "多参考图",
+          "textRendering": "文字渲染"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "layoutControl": "布局控制",
+          "styleTransfer": "风格迁移",
+          "objectEditing": "对象编辑",
+          "languageSupport": "语言支持"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      },
+      "values": {
+        "inputFormats": "JPG, PNG, WEBP",
+        "outputFormat": "PNG, JPG",
+        "maxResolution": "待公布（预期 >4K）",
+        "refImages": "待公布（预期 >10）"
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "Seedream 5.0 与当前模型的预期对比",
+      "featureLabel": "功能",
+      "recommended": "★ 预期",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToImage": "文生图",
+        "imageEditing": "图像编辑",
+        "multiReference": "多参考图",
+        "maxResolution": "最大分辨率",
+        "textRendering": "文字渲染"
+      }
+    },
+    "pricing": {
+      "title": "即将上线",
+      "subtitle": "定价将在发布时公布",
+      "ctaText": "加入候补名单",
+      "comingSoonBadge": "即将上线",
+      "description": "字节跳动下一代图像模型",
+      "note": "Seedream 5.0 尚未正式公布。此页面基于预期发展趋势。定价和可用性将在官方发布时确认。",
+      "viewFullPricing": "查看当前价格 →"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Seedream 5.0 什么时候发布？",
+          "answer": "字节跳动尚未正式公布 Seedream 5.0。目前 Seedream 4.5 是最新版本。此预热页面基于预期发展趋势。官方信息公布后我们会及时更新。"
+        },
+        "1": {
+          "question": "Seedream 5.0 可能会有哪些改进？",
+          "answer": "根据字节跳动的开发模式，Seedream 5.0 可能包括增强的多参考图一致性、改进的文字渲染、更高分辨率支持和更好的编辑功能。最终功能将在发布时确认。"
+        },
+        "2": {
+          "question": "我应该等 Seedream 5.0 还是现在用 4.5？",
+          "answer": "Seedream 4.5 已经是专业图像生成的优秀选择，支持 4K 输出、多参考图和强大的文字渲染。建议现在使用 4.5 进行项目，5.0 发布后可以升级。"
+        },
+        "3": {
+          "question": "定价与 Seedream 4.5 相比如何？",
+          "answer": "定价尚未公布。通常新版本模型的定价会相似或略有调整。官方定价发布后我们会更新此页面。"
+        },
+        "4": {
+          "question": "我的 Seedream 4.5 工作流能用于 5.0 吗？",
+          "answer": "字节跳动通常会保持版本间的兼容性。现有工作流应该可以继续使用，并可选择利用 5.0 的新功能。最终兼容性将在发布时确认。"
+        },
+        "5": {
+          "question": "如何获取 Seedream 5.0 发布通知？",
+          "answer": "收藏此页面并关注 OpenCreator 获取更新。字节跳动发布 Seedream 5.0 后我们会第一时间通知。"
+        }
+      }
+    }
+  }
+}

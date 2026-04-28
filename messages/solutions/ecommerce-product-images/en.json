@@ -1,0 +1,137 @@
+{
+  "seo": {
+    "title": "AI Product Photography Generator - Ecommerce Product Images | OpenCreator",
+    "description": "Generate professional AI product photos for Amazon, Shopify & ecommerce. Create white-background packshots, lifestyle scenes & marketplace listings in minutes.",
+    "keywords": [
+      "ai product photography",
+      "ai product image generator",
+      "product image generator",
+      "ai product photos",
+      "ecommerce product images",
+      "amazon product photo",
+      "ai photoshoot",
+      "product background generator"
+    ]
+  },
+  "hero": {
+    "badge": "Ecommerce Solution",
+    "title": "One solution for all your product images",
+    "description": "Stop juggling freelancers, studios, and one-off apps. From your website to marketplaces to paid ads, a single set of workflows produces consistent, high-quality product visuals.",
+    "cta": "Try This Workflow",
+    "secondaryCta": "See Templates",
+    "stats": {
+      "quality": {
+        "label": "Quality",
+        "value": "Pro-grade"
+      },
+      "time": {
+        "label": "Time",
+        "value": "5 min",
+        "sublabel": "per batch"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "One solution, every channel",
+    "description": "Instead of stitching together different tools for each channel, use this solution as the system of record for your product imagery. Configure workflows for PDPs, marketplaces, and ads once, then reuse them across SKUs and seasons.",
+    "sections": {
+      "productPages": {
+        "title": "Product Detail Pages",
+        "subtitle": "Hero shots & detail views"
+      },
+      "marketplaces": {
+        "title": "Marketplaces",
+        "subtitle": "Amazon, Shopify, eBay listings"
+      },
+      "adsAndSocial": {
+        "title": "Ads & Social",
+        "subtitle": "Campaign creatives"
+      }
+    },
+    "explore": "Explore"
+  },
+  "howItWorks": {
+    "title": "How the workflow works",
+    "description": "Whether you're unifying marketplace listings or preparing seasonal campaign assets, you can mix and match these workflows inside OpenCreator.",
+    "nodes": {
+      "imageInput": "Image Input",
+      "productReference": "Product Reference",
+      "imageToImage": "Image to Image",
+      "imageDescriber": "Image Describer",
+      "promptGenerator": "Prompt Generator",
+      "textSplitter": "Text Splitter",
+      "batchGeneration": "Batch Generation",
+      "imagesGenerated": "6 images generated"
+    },
+    "legend": {
+      "input": "Input Node",
+      "image": "Image Processing",
+      "text": "Text Processing"
+    }
+  },
+  "audiences": {
+    "title": "Built for",
+    "badge": "For lean teams",
+    "description": "No big studio or 3D team required. This solution is designed for teams who want great visuals without the overhead.",
+    "items": {
+      "dtc": {
+        "title": "DTC Brands",
+        "description": "You manage a growing product catalog and need visuals that keep pace with new launches and market expansion.",
+        "roles": "Brand managers, ecommerce leads, creative directors"
+      },
+      "marketplace": {
+        "title": "Marketplace Sellers",
+        "description": "You sell on Amazon, Shopify, or eBay and want marketplace-grade images without waiting for studio time.",
+        "roles": "Store owners, operations, performance marketers"
+      },
+      "agencies": {
+        "title": "Agencies & Studios",
+        "description": "You serve multiple clients and need to scale output without adding headcount or render costs.",
+        "roles": "Account managers, designers, production leads"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": {
+      "q1": {
+        "question": "Do I need professional studio photos to start, or are phone shots enough?",
+        "answer": "You do not need a full studio setup to get value from this workflow. Clear phone shots on a neutral background, simple 3D renders, or supplier images are usually enough. The workflow can handle background removal, basic lighting correction, and scene generation. However, if the source image is very blurry, heavily compressed, or the product is partially cut off, those issues will carry through – AI cannot perfectly recover details that are not there."
+      },
+      "q2": {
+        "question": "How do I keep product images consistent across my website, marketplaces, and ads?",
+        "answer": "Treat this solution as a central system for your product visuals. Set up a small set of workflows and templates for each channel (PDP hero, marketplace white background, lifestyle ads), then reuse them across SKUs. Instead of re-briefing a designer each time, you just swap in new product inputs while the camera angle, lighting, and background logic stay the same, so your catalog feels unified no matter where it appears."
+      },
+      "q3": {
+        "question": "How long does it take to generate a full set of images and how are credits used?",
+        "answer": "For a typical batch of 6–12 images for one SKU, you can usually get results in around 1–2 minutes, depending on the models and resolution you choose. Much larger batches across many SKUs can still take a few minutes overall. Each generation node in the workflow (for example, background replacement, lifestyle scene generation, upscaling) consumes credits when it runs. If you process many SKUs at once, you will see a corresponding spike in credit usage, so it is best to lock in a workflow you like with a small test set before scaling to your entire catalog."
+      },
+      "q4": {
+        "question": "What formats and sizes can I export, and can I serve multiple channels from one workflow?",
+        "answer": "You can export 1:1, 4:5, 16:9, and other common ecommerce aspect ratios, up to 4K resolution. A single workflow can branch into multiple output nodes – for example, one branch for marketplace-ready white-background shots and another for lifestyle or ad creatives. That way you reuse the same product input step but end up with channel-specific versions without repeating work."
+      },
+      "q5": {
+        "question": "Can this solution generate video as well, or is it only for still images?",
+        "answer": "The core of this solution is still images, but some templates can generate short clips, 360° spins, or simple animated ads. For more complex motion, you can pass your best product images into the AI Video solution templates (such as image-to-video) and build a separate video workflow there. Think of this as your base layer for reliable product visuals that other image and video workflows can build on top of."
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "Ecommerce Product Images Solution",
+      "description": "One AI solution to generate all your ecommerce product images."
+    },
+    "softwareApplication": {
+      "name": "AI Ecommerce Product Image Generator",
+      "description": "Generate professional product images for marketplaces and brand websites with AI workflows."
+    },
+    "faqPage": {
+      "name": "Ecommerce Product Images Solution - FAQ"
+    }
+  },
+  "relatedSolutions": {
+    "title": "Explore More Solutions",
+    "subtitle": "Discover other AI-powered workflows to elevate your creative production",
+    "ctaLabel": "View solution"
+  }
+}

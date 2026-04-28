@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "AI Short Film Generator for Sci-Fi Storytelling | OpenCreator",
+    "description": "Create sci-fi short films with AI, from concept art and storyboard to cinematic final shots. Ideal for creators exploring robotics and future narratives.",
+    "keywords": [
+      "ai short film generator",
+      "ai movie maker",
+      "sci fi short film ai",
+      "ai storyboard generator",
+      "cinematic video generator",
+      "robot short film",
+      "text to film ai",
+      "ai filmmaking tool"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#film", "#sci-fi", "#robot"],
+    "title": "CONNECT Film",
+    "description": "Build complete sci-fi short films in one workflow. Create robot concepts, generate scene-by-scene storyboards, and produce cinematic videos from a clear narrative prompt.",
+    "inputPlaceholder": "Describe your sci-fi film concept",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your film concept and theme",
+        "description": "Enter your creative brief—like exploring robot consciousness with 12 shots including assembly closeups, material textures, body movements, and mysterious atmospheric visuals with cold, high-end, delicate aesthetics."
+      },
+      {
+        "title": "AI generates storyboard script",
+        "description": "Multiple LLMs (GPT-4o Mini, Gemini 3) work together to create a detailed shot-by-shot storyboard script based on your concept, defining camera angles, movements, and visual style."
+      },
+      {
+        "title": "Design your robot character",
+        "description": "Upload reference images and style descriptions. Nano Banana Pro creates futuristic robot designs with biomorphic organic forms, frosted shells, translucent materials, and intricate mechanical details."
+      },
+      {
+        "title": "Generate cinematic storyboard frames",
+        "description": "Nano Banana Pro renders each storyboard frame with your robot character, maintaining consistency across shots with cold tones, textured closeups, and cinematic depth of field."
+      },
+      {
+        "title": "Produce final animated videos",
+        "description": "Sora 2 and VEO 3 bring your storyboards to life—generating 15-25 second animated clips for each scene that you can assemble into your complete short film."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for filmmakers and creative visionaries",
+    "subtitle": "From independent directors to brand storytellers, see who creates sci-fi films with AI.",
+    "audiences": [
+      {
+        "label": "Independent filmmakers",
+        "description": "Produce high-quality sci-fi short films without expensive CGI studios or animation teams—bring your creative visions to life affordably."
+      },
+      {
+        "label": "Concept artists & designers",
+        "description": "Visualize futuristic robot designs and create animated concept films to pitch ideas to clients, studios, or collaborators."
+      },
+      {
+        "label": "Brand content creators",
+        "description": "Create premium sci-fi branded content and product films that showcase innovation and cutting-edge technology aesthetics."
+      },
+      {
+        "label": "Social media creators",
+        "description": "Produce viral-worthy sci-fi content with stunning visual effects that captivates audiences and builds your creative reputation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the CONNECT Film workflow?",
+        "answer": "CONNECT Film is an AI workflow for creating cinematic sci-fi short films. It handles the entire process from concept to final video: script generation, robot character design, storyboard creation, and video production using Nano Banana Pro, Sora 2, and VEO 3."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses GPT-4o Mini and Gemini 3 for script and storyboard generation, Nano Banana Pro for robot design and frame rendering, and both Sora 2 and VEO 3 for final video animation with character consistency."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You need a text description of your film concept (theme, shot count, visual style) and reference images for robot design inspiration. The AI handles script writing, character design, and video production."
+      },
+      {
+        "question": "What kind of output can I expect?",
+        "answer": "You get a complete storyboard with multiple frames, a consistent robot character design, and animated video clips (15-25 seconds each) that you can assemble into your final short film."
+      },
+      {
+        "question": "Can I customize the robot design style?",
+        "answer": "Yes. Provide reference images and style descriptions (biomorphic, frosted shell, translucent, minimalist) to guide Nano Banana Pro in creating your unique robot character with consistent design across all frames."
+      },
+      {
+        "question": "How does character consistency work?",
+        "answer": "The workflow generates a robot three-view design sheet first, then uses this reference across all storyboard frames and video generation to maintain visual consistency throughout your film."
+      },
+      {
+        "question": "What video lengths are supported?",
+        "answer": "Each scene generates 8-25 second video clips depending on the model used. Sora 2 produces up to 12 seconds per clip, while VEO 3 can generate 8-second clips with different visual styles."
+      },
+      {
+        "question": "How are credits calculated?",
+        "answer": "Credits are consumed based on script generation, image creation (robot design + storyboard frames), and video generation with Sora 2 and VEO 3. Complex multi-scene films use more credits."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "CONNECT Film – AI Sci-Fi Short Film Creator",
+      "description": "Create cinematic sci-fi short films exploring consciousness and robotics with AI-powered design and video generation."
+    },
+    "softwareApplication": {
+      "name": "CONNECT Film AI Generator",
+      "description": "AI-powered sci-fi film creation tool using Nano Banana Pro, Sora 2, and VEO 3 for robot design, storyboarding, and video production."
+    },
+    "faqPage": {
+      "name": "CONNECT Film – FAQ"
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling O1 AI Video Generator | Unified Multimodal | OpenCreator",
+      "description": "Create stunning videos with Kling O1 by Kuaishou. The world's first unified multimodal video model with 3-10s duration, multi-subject integration, video editing, style re-rendering, and director-like memory for consistent characters."
+    },
+    "hero": {
+      "modelName": "Kling O1",
+      "tagline": "World's First Unified Multimodal Video Model",
+      "description": "Kling O1 is Kuaishou's groundbreaking unified multimodal creation tool. Powered by Multimodal Visual Language (MVL) framework, it integrates text, video, image, and subject inputs into a single engine. From reference-based generation to video editing and style re-rendering – all in one seamless workflow.",
+      "badge": "New",
+      "ctaText": "Try Kling O1",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "unified": "Unified Multimodal",
+        "duration": "3-10s Duration",
+        "multiSubject": "Multi-Subject",
+        "videoEditing": "Video Editing",
+        "styleRendering": "Style Re-render"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Kling O1 the industry's first unified multimodal video model",
+      "items": {
+        "unified": {
+          "title": "Unified Multimodal Engine",
+          "description": "Fuses reference-based generation, text-to-video, start/end frame generation, video in-painting, style re-rendering, and shot extension into one versatile engine."
+        },
+        "directorMemory": {
+          "title": "Director-Like Memory",
+          "description": "Retains identity of main characters, props, and settings with feature stability amidst dynamic camera movements. Solves the consistency challenge in AI video."
+        },
+        "multiSubject": {
+          "title": "Multi-Subject Integration",
+          "description": "Mix and match multiple subjects or blend them with reference images. Independently tracks each character and prop in complex group scenes."
+        },
+        "skillCombos": {
+          "title": "Skill Combos",
+          "description": "Execute compound creative variations in a single pass – insert subjects while modifying backgrounds, or generate from references while shifting artistic style."
+        },
+        "semanticEditing": {
+          "title": "Semantic Video Editing",
+          "description": "Simply input prompts like 'remove passersby' or 'transition day to dusk' – Kling O1 executes pixel-level semantic reconstruction automatically."
+        },
+        "flexibleDuration": {
+          "title": "Flexible Duration Control",
+          "description": "Support generation lengths between 3 and 10 seconds. Whether crafting brief visual impact or sustained narrative arcs, pacing is entirely user-defined."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Representative examples and use cases on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "filmProduction": {
+          "title": "Film & Television",
+          "description": "Professional Production",
+          "useCase": "Create consistent character narratives across multiple shots with director-like memory for seamless storytelling."
+        },
+        "socialMedia": {
+          "title": "Social Media Content",
+          "description": "Viral Content Creation",
+          "useCase": "Generate engaging short-form videos with multi-subject integration and style variations for maximum impact."
+        },
+        "advertising": {
+          "title": "Advertising Campaigns",
+          "description": "Brand Marketing",
+          "useCase": "Produce cohesive ad campaigns with consistent characters and props across all creative variations."
+        },
+        "ecommerce": {
+          "title": "E-commerce Videos",
+          "description": "Product Showcases",
+          "useCase": "Transform product images into dynamic videos with background modifications and style re-rendering."
+        },
+        "styleTransfer": {
+          "title": "Style Re-rendering",
+          "description": "Creative Effects",
+          "useCase": "Apply artistic style transformations to existing videos while maintaining subject consistency."
+        },
+        "videoEditing": {
+          "title": "AI Video Editing",
+          "description": "Semantic Editing",
+          "useCase": "Edit videos with natural language – remove objects, change lighting, swap attire without manual masking."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Kling O1 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputTypes": "Input Types",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Generation Capabilities",
+          "referenceVideo": "Reference-Based Video",
+          "textToVideo": "Text to Video",
+          "imageToVideo": "Image to Video",
+          "startEndFrame": "Start/End Frame"
+        },
+        "editing": {
+          "title": "Editing Features",
+          "videoInpainting": "Video In-painting",
+          "styleRerendering": "Style Re-rendering",
+          "shotExtension": "Shot Extension",
+          "semanticEditing": "Semantic Editing"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "multiSubject": "Multi-Subject Integration",
+          "directorMemory": "Director-Like Memory",
+          "skillCombos": "Skill Combos",
+          "mvlFramework": "MVL Framework"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Kling O1 compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "unifiedModel": "Unified Multimodal",
+        "textToVideo": "Text to Video",
+        "imageToVideo": "Image to Video",
+        "videoEditing": "Video Editing",
+        "maxDuration": "Max Duration",
+        "multiSubject": "Multi-Subject"
+      }
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Credits are consumed per generation",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost may vary by settings and is shown at checkout.",
+      "viewFullPricing": "View full pricing →",
+      "description": "World's first unified multimodal video model",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Kling O1 and who developed it?",
+          "answer": "Kling O1 is the world's first unified multimodal video model developed by Kuaishou Technology (Kling AI). Announced on December 1, 2025, it integrates text, video, image, and subject inputs into a single comprehensive engine powered by the Multimodal Visual Language (MVL) framework."
+        },
+        "1": {
+          "question": "What makes Kling O1 different from other video models?",
+          "answer": "Kling O1 is unique because it unifies all video generation and editing tasks into one model. It combines reference-based generation, text-to-video, video in-painting, style re-rendering, and shot extension – eliminating the need to switch between different tools. It also features 'director-like memory' for consistent characters."
+        },
+        "2": {
+          "question": "How long can Kling O1 videos be?",
+          "answer": "Kling O1 supports video generation between 3 and 10 seconds. This flexible duration control lets you create everything from brief visual impacts to sustained narrative arcs, with pacing entirely user-defined."
+        },
+        "3": {
+          "question": "What is the 'director-like memory' feature?",
+          "answer": "Director-like memory means Kling O1 retains the identity of main characters, props, and settings throughout generation. It ensures feature stability even with dynamic camera movements, solving the common 'consistency challenge' in AI video generation."
+        },
+        "4": {
+          "question": "Can Kling O1 edit existing videos?",
+          "answer": "Yes! Kling O1 excels at semantic video editing. You can input natural language prompts like 'remove passersby,' 'transition day to dusk,' or 'swap the protagonist's attire' – and the model executes pixel-level reconstruction without manual masking or keyframing."
+        },
+        "5": {
+          "question": "Is Kling O1 available on OpenCreator?",
+          "answer": "Yes. Kling O1 is available on OpenCreator. You can start creating from Templates or select Kling O1 directly in Canvas. Pricing and credit consumption details are listed on this page."
+        },
+        "6": {
+          "question": "Can I try Kling O1 for free?",
+          "answer": "Yes. New users receive free credits upon registration, which can be used to try Kling O1 and test the unified multimodal capabilities."
+        },
+        "7": {
+          "question": "What is Kling O1 pricing?",
+          "answer": "Kling O1 consumes credits per generation and actual cost may vary by settings. Subscribers can get additional discounts—see the pricing section on this page for details."
+        },
+        "8": {
+          "question": "What video resolutions does Kling O1 support?",
+          "answer": "Kling O1 generates videos at 1080p HD resolution with 24fps frame rate. It supports common aspect ratios including 16:9 for landscape and 9:16 for portrait content."
+        },
+        "9": {
+          "question": "How does Kling O1 compare to Kling 2.5 Turbo?",
+          "answer": "Kling O1 is a unified multimodal model that combines generation and editing in one engine, while Kling 2.5 Turbo focuses on high-quality video generation. O1 excels at semantic editing and multi-subject integration; 2.5 Turbo excels at motion quality and cost-effectiveness."
+        },
+        "10": {
+          "question": "What is the MVL (Multimodal Visual Language) framework?",
+          "answer": "MVL is Kuaishou's proprietary framework powering Kling O1. It enables the model to understand and process text, video, image, and subject inputs in a unified way, allowing seamless switching between generation and editing tasks."
+        },
+        "11": {
+          "question": "Can Kling O1 handle multiple characters in one video?",
+          "answer": "Yes! Kling O1's multi-subject integration feature independently tracks each character and prop in complex group scenes. Combined with director-like memory, it maintains consistency for all subjects throughout the video."
+        },
+        "12": {
+          "question": "What is style re-rendering in Kling O1?",
+          "answer": "Style re-rendering allows you to apply artistic style transformations to existing videos while maintaining subject consistency. You can change the visual style (e.g., anime, oil painting) without losing character identity."
+        }
+      }
+    }
+  }
+}

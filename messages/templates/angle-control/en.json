@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Angle Control - AI Multi-Angle Product and Character Images | OpenCreator",
+    "description": "Generate consistent angle variations from one image input. Use AI angle control to create front, side, and perspective views for ecommerce and creative production.",
+    "keywords": [
+      "angle control ai",
+      "image angle control",
+      "multi angle product images",
+      "product angle generator",
+      "product angle change",
+      "ai product photography",
+      "ecommerce product images",
+      "multi-angle image generation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Tutorial",
+    "tags": ["#angle_control", "#multi_view", "#tutorials"],
+    "title": "Angle Control",
+    "description": "Start from one image and generate consistent new viewpoints in minutes. This workflow is ideal when you need clean front, side, and dynamic angle variations without rebuilding the subject from scratch.",
+    "inputPlaceholder": "Upload one product or character image",
+    "ctaText": "Try Angle Control"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload a base image",
+        "description": "Use a clear source image of your product or character to preserve shape, material, and key visual details."
+      },
+      {
+        "title": "Set target viewpoints",
+        "description": "Choose the camera angles you need, such as front, side, top-down, or perspective hero views."
+      },
+      {
+        "title": "Run angle generation",
+        "description": "The angle-control node creates new viewpoints while keeping identity and styling aligned with the original input."
+      },
+      {
+        "title": "Export for listings and creative use",
+        "description": "Download your angle set and reuse it for ecommerce pages, social posts, ad mockups, and design reviews."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Great for teams that need more viewpoints fast",
+    "subtitle": "Create angle-complete image sets without additional photography sessions.",
+    "audiences": [
+      {
+        "label": "Ecommerce operators",
+        "description": "Produce complete listing visuals with multiple views so customers can better understand the product."
+      },
+      {
+        "label": "Design teams",
+        "description": "Preview how products or concepts look from different perspectives before final production."
+      },
+      {
+        "label": "Merchandisers",
+        "description": "Quickly generate angle variants for seasonal campaigns and platform-specific display requirements."
+      },
+      {
+        "label": "Content studios",
+        "description": "Deliver multi-view assets to clients faster while keeping style and subject consistency."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Angle Control?",
+        "answer": "Angle Control is an image workflow that generates new camera viewpoints from a single input image while keeping the subject visually consistent."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "You only need one clear source image. Higher-quality input usually gives more stable angle variations."
+      },
+      {
+        "question": "Can I generate multiple angles in one run?",
+        "answer": "Yes. You can iterate quickly and produce a set of front, side, and perspective outputs for different channels."
+      },
+      {
+        "question": "Will product details stay consistent?",
+        "answer": "The workflow is designed to preserve identity, color, and material cues. For best results, use sharp source images with clear edges."
+      },
+      {
+        "question": "Is this useful for ecommerce catalogs?",
+        "answer": "Absolutely. Multi-angle visuals can improve product understanding on listing pages and reduce manual shoot requirements."
+      },
+      {
+        "question": "Can I use it for characters as well as products?",
+        "answer": "Yes. It works for both objects and character-style inputs when the source image has clear structure and lighting."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Angle Control",
+      "description": "Generate consistent multi-angle image outputs from a single source image."
+    },
+    "softwareApplication": {
+      "name": "Angle Control Workflow",
+      "description": "AI workflow for creating front, side, and perspective image variations quickly."
+    },
+    "faqPage": {
+      "name": "Angle Control - FAQ"
+    }
+  }
+}

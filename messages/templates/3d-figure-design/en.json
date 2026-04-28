@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "3D Figure Design – AI 3D Figure Concept Generator | OpenCreator",
+    "description": "Design detailed 3D-style figures with AI for concept characters, mascots, and collectible figures. Explore poses, outfits, and surface details without traditional modeling tools.",
+    "keywords": [
+      "3d figure design",
+      "character figure generator",
+      "toy concept art",
+      "3d style character ai",
+      "collectible figure design",
+      "how to design 3d figures with ai",
+      "ai tool for character figure concept art"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#3d_figure", "#character_design", "#concept_art"],
+    "title": "3D Figure Design",
+    "description": "Design detailed 3D-style figures with AI—from stylized characters to product mascots and collectible figures. Explore poses, outfits, and surface details without traditional modeling tools, perfect for concepting, branding, and visual storytelling.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your 3D figure concept or upload a rough reference",
+    "ctaText": "Try now"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe or reference your figure concept",
+        "description": "Share personality, role, proportions, clothing style, and any key visual references so the workflow understands the figure you have in mind."
+      },
+      {
+        "title": "Choose style and rendering direction",
+        "description": "Select toy-like, realistic, stylized, chibi, or collectible figure aesthetics, plus lighting and material preferences for a 3D-feeling look."
+      },
+      {
+        "title": "Generate multiple 3D figure variations",
+        "description": "Run the workflow to create front, three-quarter, or full-body visuals with lighting and surface cues that read as 3D-style figures."
+      },
+      {
+        "title": "Export for pitch decks, brand assets, or modeling",
+        "description": "Download your favorite results as concept sheets, marketing visuals, or reference material for downstream 3D modeling pipelines."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams exploring figures as characters, products, or IP",
+    "subtitle": "From toy makers to game studios, see who designs figures with AI.",
+    "audiences": [
+      {
+        "label": "Toy and collectible brands",
+        "description": "Rapidly prototype new figure lines and limited editions for internal review, packaging, and campaign planning."
+      },
+      {
+        "label": "Game and entertainment studios",
+        "description": "Visualize character-based merchandise, skins, and in-game 3D avatars before full production."
+      },
+      {
+        "label": "Brand and marketing teams",
+        "description": "Create mascots and figure-based brand assets to support campaigns, events, and IP-driven storytelling."
+      },
+      {
+        "label": "Freelance illustrators and concept artists",
+        "description": "Generate starting points and variations for more detailed 3D or 2D rendering workflows with clients."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the 3D Figure Design AI workflow?",
+        "answer": "3D Figure Design is an AI-powered workflow for creating 3D-style figure visuals—ranging from stylized characters to product mascots and collectible figures. It focuses on generating high-quality concept images, not full 3D meshes or rigged models."
+      },
+      {
+        "question": "What kind of input works best for 3D figure design?",
+        "answer": "You can start from text-only briefs, image references, or a mix of both. Clear descriptions of personality, proportions, clothing style, and materials—plus rough sketches or photos—help the AI generate more accurate figure concepts."
+      },
+      {
+        "question": "Can this workflow replace traditional 3D modeling?",
+        "answer": "No. The workflow is designed for 3D-style concept images, not production-ready 3D assets. Use it to explore figure directions quickly, then pass the chosen visuals to 3D artists or modeling tools for final production."
+      },
+      {
+        "question": "Who typically uses the 3D Figure Design template?",
+        "answer": "It is ideal for toy and collectible brands, game and entertainment studios, brand and marketing teams, and freelance illustrators who need fast iterations on figure concepts before committing to full pipelines."
+      },
+      {
+        "question": "What types of 3D figure styles can I explore?",
+        "answer": "You can experiment with toy-like, realistic, stylized, chibi, or collectible figure aesthetics. Prompts can also specify materials, finishes, and lighting moods (matte, glossy, metallic, soft lighting, and more)."
+      },
+      {
+        "question": "How can I use the outputs from this workflow?",
+        "answer": "You can use generated figures in internal pitch decks, brand asset explorations, packaging mockups, and as reference sheets for downstream 3D modeling or detailed illustration work."
+      },
+      {
+        "question": "Is commercial use of generated figures allowed?",
+        "answer": "Commercial use depends on the terms and policies of OpenCreator and connected AI providers. Before using outputs in final products or large campaigns, check the latest licensing and usage guidelines in the product documentation."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "3D Figure Design – AI 3D Figure Concept Generator",
+      "description": "Design detailed 3D-style figure concepts with AI for characters, mascots, and collectible products."
+    },
+    "softwareApplication": {
+      "name": "3D Figure Design AI Workflow Template",
+      "description": "AI-powered workflow for generating 3D-style figure concept visuals for brands, games, and collectibles."
+    },
+    "faqPage": {
+      "name": "3D Figure Design – FAQ"
+    }
+  }
+}

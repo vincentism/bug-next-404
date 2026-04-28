@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "One-Stop Commercial Ad Production – AI Video Workflow | OpenCreator",
+    "description": "Create professional commercial ads from concept to final video with AI. Generate storyboards, scenes, and cinematic videos—the best AI commercial generator for product commercial photography.",
+    "keywords": [
+      "ai commercial generator",
+      "commercial photography",
+      "product commercial photography",
+      "ai product photography",
+      "product video maker",
+      "commercial ad production",
+      "ai video production",
+      "brand video creator",
+      "advertising video ai",
+      "cinematic ad maker"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#commercial_ads", "#video_production", "#branding"],
+    "title": "One-Stop Commercial Ad Production",
+    "description": "Transform your product into a cinematic commercial ad with one AI workflow. From reference images to storyboard generation, scene creation, and final video production—all powered by Nano Banana Pro and Sora 2. Perfect for brands, agencies, and marketers who need high-impact video ads without a production team.",
+    "inputPlaceholder": "Upload your product reference images",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload product reference images",
+        "description": "Provide reference images of your product from different angles. The AI analyzes these to create consistent 3-view renders for your commercial."
+      },
+      {
+        "title": "AI generates storyboard script",
+        "description": "Nano Banana Pro creates a professional ad storyboard with 15+ cinematic shots—including product showcases, action sequences, and atmospheric B-roll scenes."
+      },
+      {
+        "title": "Generate storyboard frames",
+        "description": "The workflow produces high-quality storyboard images for each shot, combining your product, environment, and character elements with cinematic composition."
+      },
+      {
+        "title": "Create final video with Sora 2",
+        "description": "Sora 2 transforms your storyboard frames into dynamic video clips with professional motion, ready for your commercial campaign."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for brands and creative teams",
+    "subtitle": "From startups to agencies, see who creates commercial ads with AI.",
+    "audiences": [
+      {
+        "label": "Brand marketers",
+        "description": "Create high-impact video ads for product launches and campaigns without expensive production costs or long timelines."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Rapidly prototype commercial concepts and produce polished video ads for client presentations and campaigns."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Generate professional product videos that drive conversions on social media and marketplace platforms."
+      },
+      {
+        "label": "Content creators",
+        "description": "Produce cinematic brand content and sponsored videos with production quality that rivals traditional studios."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the One-Stop Commercial Ad Production workflow?",
+        "answer": "This AI workflow creates complete commercial video ads from product reference images. It generates storyboards, scene compositions, and final videos using Nano Banana Pro for image generation and Sora 2 for video production."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for generating storyboard frames, product renders, and scene compositions. Sora 2 handles the final video generation, creating cinematic motion from your storyboard images."
+      },
+      {
+        "question": "What kind of input do I need?",
+        "answer": "You provide reference images of your product from different angles. The AI uses these to create consistent product renders and integrate them into cinematic commercial scenes."
+      },
+      {
+        "question": "How long are the generated videos?",
+        "answer": "The workflow generates approximately 20-second commercial videos with 15+ shots, including product showcases, action sequences, and atmospheric B-roll footage."
+      },
+      {
+        "question": "Can I customize the storyboard style?",
+        "answer": "Yes, you can provide direction for the ad style, mood, and specific shots you want. The AI adapts the storyboard to match your brand's visual identity and campaign goals."
+      },
+      {
+        "question": "What industries is this suitable for?",
+        "answer": "The workflow works for any product category—automotive, consumer electronics, fashion, food & beverage, luxury goods, and more. The AI adapts the commercial style to your product type."
+      },
+      {
+        "question": "Can I use this for social media ads?",
+        "answer": "Absolutely. The generated videos are perfect for social media advertising on platforms like Instagram, TikTok, YouTube, and Facebook, as well as traditional digital advertising."
+      },
+      {
+        "question": "How does this compare to traditional video production?",
+        "answer": "This workflow delivers professional-quality commercial videos in minutes instead of weeks, at a fraction of the cost of traditional production—no crew, equipment, or post-production team required."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "One-Stop Commercial Ad Production – AI Video Workflow",
+      "description": "Create professional commercial ads from concept to final video with AI-powered storyboard and video generation."
+    },
+    "softwareApplication": {
+      "name": "Commercial Ad Production AI",
+      "description": "AI-powered workflow for creating complete commercial video ads from product images using storyboard generation and video synthesis."
+    },
+    "faqPage": {
+      "name": "One-Stop Commercial Ad Production – FAQ"
+    }
+  }
+}

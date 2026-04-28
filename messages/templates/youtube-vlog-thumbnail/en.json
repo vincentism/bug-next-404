@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "YouTube Vlog Thumbnail - AI YouTube Thumbnail Maker | OpenCreator",
+    "description": "Design click-worthy YouTube vlog thumbnails that boost views and watch time. Generate professional, on-brand thumbnails with AI that highlight your story, emotion, and value.",
+    "keywords": [
+      "youtube thumbnail maker",
+      "vlog thumbnail generator",
+      "youtube thumbnail creator ai",
+      "video thumbnail design",
+      "high ctr thumbnail",
+      "how to create vlog thumbnails with ai",
+      "best ai youtube thumbnail generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#youtube", "#thumbnails", "#content_creation"],
+    "title": "YouTube Vlog Thumbnail",
+    "description": "Design click-worthy YouTube vlog thumbnails that boost views and watch time. Generate professional, on-brand thumbnails with AI that highlight your story, emotion, and value. Perfect for vloggers and content creators who publish consistently.",
+    "inputPlaceholder": "Describe your vlog episode and what you want viewers to feel",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your vlog topic and key moment",
+        "description": "Share what the video is about and the most exciting, surprising, or emotional moment."
+      },
+      {
+        "title": "Choose thumbnail style and layout",
+        "description": "Select energetic, cinematic, minimal, or reaction-focused styles tailored to your niche."
+      },
+      {
+        "title": "Generate multiple thumbnail options",
+        "description": "AI creates several thumbnail concepts with strong focal points, text overlays, and color contrast."
+      },
+      {
+        "title": "Pick a winner and export in YouTube-ready size",
+        "description": "Download your chosen thumbnail in the correct resolution and upload directly to YouTube."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For vloggers and YouTube creators",
+    "subtitle": "From daily vlog channels to niche creators, see who boosts CTR with AI thumbnails.",
+    "audiences": [
+      {
+        "label": "Daily vloggers",
+        "description": "Create consistent, eye-catching thumbnails without spending hours in design tools."
+      },
+      {
+        "label": "Lifestyle and travel creators",
+        "description": "Highlight destinations, experiences, and emotions to draw in new viewers."
+      },
+      {
+        "label": "Education and tutorial channels",
+        "description": "Clearly communicate the topic and outcome to increase qualified clicks."
+      },
+      {
+        "label": "Multi-channel creators and agencies",
+        "description": "Scale thumbnail production across many videos and channels without burning out your team."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the YouTube Vlog Thumbnail workflow?",
+        "answer": "YouTube Vlog Thumbnail is an AI-powered workflow that creates eye-catching thumbnails specifically designed for YouTube vlogs and content. Generate professional thumbnails that increase click-through rates and video visibility."
+      },
+      {
+        "question": "Who is YouTube Vlog Thumbnail designed for?",
+        "answer": "YouTube Vlog Thumbnail is perfect for content creators: YouTubers, vloggers, content creators, video marketers, and social media managers who need professional YouTube thumbnails."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your video topic, title, or content description. The AI creates thumbnails that accurately represent your video content while being visually appealing."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates professional YouTube thumbnails with proper dimensions, compelling visuals, and text overlays that follow YouTube best practices for maximum engagement."
+      },
+      {
+        "question": "Can I create thumbnails for different video types?",
+        "answer": "Yes. Generate thumbnails for various content types including vlogs, tutorials, reviews, gaming videos, educational content, and entertainment formats."
+      },
+      {
+        "question": "How do credits and pricing work for YouTube Vlog Thumbnail?",
+        "answer": "Each thumbnail generation consumes credits based on the complexity and style options selected. The cost is optimized compared to hiring graphic designers for custom thumbnails."
+      },
+      {
+        "question": "Are the thumbnails optimized for YouTube's requirements?",
+        "answer": "Absolutely. All generated thumbnails follow YouTube's recommended dimensions (1280x720), file size limits, and content guidelines for optimal platform performance."
+      },
+      {
+        "question": "Can I maintain consistent branding across my thumbnails?",
+        "answer": "Yes. The workflow can incorporate your brand colors, fonts, and style elements to create a cohesive look across your entire YouTube channel."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "YouTube Vlog Thumbnail - AI Thumbnail Generator",
+      "description": "Create eye-catching YouTube vlog thumbnails with AI to increase click-through rates and video visibility."
+    },
+    "softwareApplication": {
+      "name": "YouTube Vlog Thumbnail AI Generator",
+      "description": "AI-powered YouTube thumbnail generator for creating professional, high-converting video thumbnails."
+    },
+    "faqPage": {
+      "name": "YouTube Vlog Thumbnail - FAQ"
+    }
+  }
+}

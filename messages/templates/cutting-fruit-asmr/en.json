@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Cutting Fruit ASMR – Satisfying Slice Video Generator | OpenCreator",
+    "description": "Create close-up cutting fruit ASMR videos with crisp textures and motion. Perfect for food creators, kitchen brands, and satisfying content accounts.",
+    "keywords": [
+      "cutting fruit asmr",
+      "satisfying cutting videos",
+      "food asmr video",
+      "knife cutting visuals",
+      "fruit slicing clips",
+      "create fruit cutting asmr with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#asmr", "#food", "#satisfying"],
+    "title": "Cutting Fruit ASMR",
+    "description": "Create crisp, close-up cutting fruit ASMR videos with AI. Highlight textures, juiciness, and knife motion in visually satisfying sequences.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe the fruit, cutting style, and pacing you want",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define fruit and scene mood",
+        "description": "Describe the fruits and atmosphere—fresh, vibrant, minimal, or cinematic."
+      },
+      {
+        "title": "Select cutting style and speed",
+        "description": "Slice, dice, spiral, or precision cuts at slow, real-time, or fast speeds."
+      },
+      {
+        "title": "Generate cutting fruit ASMR sequences",
+        "description": "AI creates close-up shots showing texture, juice, and motion for maximum satisfaction."
+      },
+      {
+        "title": "Export for food channels and ads",
+        "description": "Download platform-ready clips for Shorts, Reels, and campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For food, kitchen, and ASMR-focused creators",
+    "subtitle": "From recipe channels to knife brands, see who uses Cutting Fruit ASMR.",
+    "audiences": [
+      {
+        "label": "Food and recipe creators",
+        "description": "Add highly satisfying cutting visuals that engage viewers."
+      },
+      {
+        "label": "Kitchen brands and retailers",
+        "description": "Showcase knife performance and freshness in dynamic shots."
+      },
+      {
+        "label": "ASMR and satisfying content accounts",
+        "description": "Use fruit cutting clips as reliable engagement spikes."
+      },
+      {
+        "label": "Food advertisers",
+        "description": "Create appetite-driving visuals for snack and fresh produce campaigns."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Cutting Fruit ASMR workflow?",
+        "answer": "An AI workflow for generating close-up, satisfying fruit cutting videos highlighting textures and motion."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Food creators, kitchen brands, advertisers, and ASMR accounts that need crisp, engaging slice visuals."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Describe the fruit types, cutting style, and pacing. Optionally add mood references and style notes."
+      },
+      {
+        "question": "What output will I get?",
+        "answer": "Short, platform-ready clips with close-up cutting sequences and satisfying details."
+      },
+      {
+        "question": "Can I control speed and framing?",
+        "answer": "Yes. You can specify slow, real-time, or hyper-fast pacing and choose framing preferences."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Each generation consumes credits based on clip length and complexity. Iterate within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Cutting Fruit ASMR – Satisfying Slice Video Generator",
+      "description": "AI-generated fruit cutting ASMR clips for social channels and ads."
+    },
+    "softwareApplication": {
+      "name": "Cutting Fruit ASMR Template",
+      "description": "AI workflow that creates texture-rich fruit cutting sequences."
+    },
+    "faqPage": { "name": "Cutting Fruit ASMR – FAQ" }
+  }
+}

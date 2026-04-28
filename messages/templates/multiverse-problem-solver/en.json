@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Multiverse Problem Solver – AI Creative Concept Generator | OpenCreator",
+    "description": "Generate multiple creative routes for the same problem in parallel—visual, conceptual, or narrative. Use AI to explore multiverse options for campaigns, product concepts, storytelling, and design challenges.",
+    "keywords": [
+      "creative concept generator",
+      "idea variation tool",
+      "multiverse ideation",
+      "many ideas from one brief",
+      "creative exploration ai",
+      "how to generate multiple creative directions with ai",
+      "ai tool for exploring alternative concepts"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ideation", "#multiverse", "#creative_exploration"],
+    "title": "Multiverse Problem Solver",
+    "description": "Generate multiple creative routes for the same problem in parallel—visual, conceptual, or narrative. Use AI to explore multiverse options for campaigns, product concepts, storytelling, and design challenges.",
+    "inputPlaceholder": "Describe the problem or brief you want many creative variations for",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Write your core problem or creative brief",
+        "description": "Describe the goal, constraints, audience, and any must-have elements so the workflow has a strong foundation to explore."
+      },
+      {
+        "title": "Set variation types and axes",
+        "description": "Decide what you want to vary across options—tone, style, format, audience segment, or visual direction."
+      },
+      {
+        "title": "Generate parallel solution routes with AI",
+        "description": "Run the Multiverse Problem Solver workflow so AI produces multiple distinct concepts or visual proposals from the same brief."
+      },
+      {
+        "title": "Compare, combine, and refine",
+        "description": "Review the different routes, shortlist promising ones, merge strong ideas, and deepen chosen directions in further rounds."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams who never want to see just one option",
+    "subtitle": "From creative leads to strategists, see who explores multiverse routes with AI.",
+    "audiences": [
+      {
+        "label": "Creative directors and art directors",
+        "description": "See multiple campaign directions side by side before narrowing down to a final route to develop."
+      },
+      {
+        "label": "Product and innovation teams",
+        "description": "Explore alternative product concepts, feature framings, or experience angles from a single brief."
+      },
+      {
+        "label": "Brand strategists and planners",
+        "description": "Visualize different positioning narratives and messaging frameworks to stress-test ideas."
+      },
+      {
+        "label": "Founders and solo creators",
+        "description": "Break out of single-idea thinking by running broad exploratory rounds before committing direction."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Multiverse Problem Solver AI workflow do?",
+        "answer": "This workflow helps you explore multiple creative routes for the same problem in parallel. It is designed as a multiverse-style concept and idea variation tool for campaigns, product concepts, storytelling, and design challenges."
+      },
+      {
+        "question": "What kind of input should I provide for Multiverse Problem Solver?",
+        "answer": "Start by writing a clear brief that includes the goal, constraints, audience, and any must-have elements. The more precise your description, the more meaningful the differences between generated routes will be."
+      },
+      {
+        "question": "How does this differ from a normal single-concept generator?",
+        "answer": "Instead of focusing on one result, the workflow is set up to vary tone, style, format, audience segment, or visual direction across outputs. You effectively get a multiverse of concepts to compare and combine, all grounded in the same core brief."
+      },
+      {
+        "question": "Who typically uses multiverse-style ideation with AI?",
+        "answer": "Creative and art directors exploring campaign routes, product and innovation teams testing alternate product framings, brand strategists comparing different narratives, and founders or solo creators who want to break out of a single-idea track."
+      },
+      {
+        "question": "How should I work with the many options this workflow produces?",
+        "answer": "A common pattern is to first scan all routes for promising directions, shortlist a few, and then either refine them with additional prompts or merge aspects from different options into a stronger combined concept."
+      },
+      {
+        "question": "How do credits and costs work for Multiverse Problem Solver generations?",
+        "answer": "Each round of multiverse exploration consumes credits based on how many variations you generate and the underlying models used. It is usually best to iterate in smaller exploratory batches first, then invest more credits in deepening your favorite routes."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Multiverse Problem Solver – AI Creative Concept Generator",
+      "description": "Explore many creative routes for the same brief in parallel using AI-powered multiverse ideation."
+    },
+    "softwareApplication": {
+      "name": "AI Multiverse Problem Solver",
+      "description": "AI workflow that generates multiple creative concept routes from a single brief for campaigns, products, and stories."
+    },
+    "faqPage": {
+      "name": "Multiverse Problem Solver – FAQ"
+    }
+  }
+}

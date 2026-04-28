@@ -1,0 +1,170 @@
+{
+  "model": {
+    "meta": {
+      "title": "FLUX 1.1 Pro AI Image Generator | Text to Image | OpenCreator",
+      "description": "Create stunning images with FLUX 1.1 Pro by Black Forest Labs. State-of-the-art text-to-image generation with blazing speed, excellent prompt following, and exceptional image diversity. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "FLUX 1.1 Pro",
+      "tagline": "State-of-the-Art Speed",
+      "description": "Black Forest Labs' flagship image generation model. FLUX 1.1 Pro delivers state-of-the-art performance with blazing speed, top-tier prompt following, exceptional visual quality, and remarkable output diversity.",
+      "badge": "Fastest",
+      "ctaText": "Try FLUX 1.1 Pro Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "textToImage": "Text to Image",
+        "blazingSpeed": "Blazing Speed",
+        "promptFollowing": "Prompt Following",
+        "highQuality": "High Quality",
+        "diversity": "Output Diversity"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes FLUX 1.1 Pro the fastest state-of-the-art image model",
+      "items": {
+        "speed": {
+          "title": "Blazing Fast Generation",
+          "description": "Generate high-quality images in seconds. FLUX 1.1 Pro is optimized for speed without compromising on quality."
+        },
+        "promptFollowing": {
+          "title": "Superior Prompt Following",
+          "description": "Exceptional understanding of complex prompts. Get exactly what you describe with high fidelity to your instructions."
+        },
+        "quality": {
+          "title": "Exceptional Visual Quality",
+          "description": "State-of-the-art image quality with stunning details, accurate colors, and professional-grade output."
+        },
+        "diversity": {
+          "title": "Output Diversity",
+          "description": "Generate diverse variations from the same prompt. Explore different interpretations and styles effortlessly."
+        },
+        "photorealism": {
+          "title": "Photorealistic Results",
+          "description": "Create hyper-realistic images that rival professional photography. Perfect for product shots and portraits."
+        },
+        "hands": {
+          "title": "Accurate Human Anatomy",
+          "description": "Improved generation of human hands and anatomy compared to previous models. More consistent and natural results."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with FLUX 1.1 Pro on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "portrait": {
+          "title": "UGC Promo",
+          "description": "Streetwear Marketing",
+          "useCase": "Create authentic UGC-style promotional content for streetwear and fashion brands."
+        },
+        "product": {
+          "title": "Character Consistency",
+          "description": "Consistent Characters",
+          "useCase": "Generate ads with consistent character appearances across multiple scenes."
+        },
+        "landscape": {
+          "title": "On-Model Ads",
+          "description": "Sportswear Marketing",
+          "useCase": "Create professional on-model advertising for sportswear and athletic brands."
+        },
+        "artistic": {
+          "title": "Lyrics to MV",
+          "description": "Music Video",
+          "useCase": "Transform song lyrics into creative music video visuals and scenes."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about FLUX 1.1 Pro capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "aspectRatios": "Aspect Ratios"
+        },
+        "modes": {
+          "title": "Generation Modes",
+          "textToImage": "Text to Image",
+          "ultraMode": "Ultra Mode (4MP)",
+          "rawMode": "Raw Mode"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationSpeed": "Generation Speed",
+          "parameters": "Model Parameters",
+          "architecture": "Architecture"
+        },
+        "quality": {
+          "title": "Quality Features",
+          "photorealism": "Photorealism",
+          "promptFidelity": "Prompt Fidelity",
+          "anatomyAccuracy": "Anatomy Accuracy"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how FLUX 1.1 Pro compares to other image models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "textToImage": "Text to Image",
+        "speed": "Generation Speed",
+        "promptFollowing": "Prompt Following",
+        "photorealism": "Photorealism",
+        "diversity": "Output Diversity",
+        "quality": "Visual Quality"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "description": "Super fast, image diversity",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is FLUX 1.1 Pro and who developed it?",
+          "answer": "FLUX 1.1 Pro is Black Forest Labs' flagship text-to-image model. It's developed by former Stability AI employees and is based on a 12 billion parameter rectified flow transformer architecture."
+        },
+        "1": {
+          "question": "What makes FLUX 1.1 Pro different from other image models?",
+          "answer": "FLUX 1.1 Pro offers state-of-the-art performance with blazing speed, exceptional prompt following, and remarkable output diversity. It excels at photorealism and generates more consistent human anatomy."
+        },
+        "2": {
+          "question": "How fast is FLUX 1.1 Pro?",
+          "answer": "FLUX 1.1 Pro is one of the fastest high-quality image generators available. It can generate detailed images in just seconds while maintaining exceptional quality."
+        },
+        "3": {
+          "question": "What are Ultra and Raw modes?",
+          "answer": "Ultra mode generates images at up to 4 megapixels (4x higher resolution) without affecting speed. Raw mode creates hyper-realistic images in the style of candid photography."
+        },
+        "4": {
+          "question": "What types of images can I create?",
+          "answer": "You can create portraits, product shots, landscapes, concept art, architectural visualizations, artistic styles, and more. FLUX 1.1 Pro supports diverse styles from photorealistic to artistic."
+        },
+        "5": {
+          "question": "How does FLUX 1.1 Pro handle human anatomy?",
+          "answer": "FLUX 1.1 Pro has significantly improved human anatomy generation, especially hands. It produces more consistent and natural-looking human features compared to previous generation models."
+        }
+      }
+    }
+  }
+}

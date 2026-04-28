@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "ASMR Promo – Sensory Marketing Video Creator | OpenCreator",
+    "description": "Create relaxing, sensory-focused promotional videos with ASMR elements. Generate calming content that creates intimate connections with viewers.",
+    "keywords": [
+      "asmr video creator",
+      "sensory marketing content",
+      "relaxing promotional video",
+      "asmr product demo",
+      "calming video generator",
+      "create asmr content with ai",
+      "sensory experience video",
+      "whisper marketing content"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#asmr", "#sensory", "#relaxing_content"],
+    "title": "ASMR Promo",
+    "description": "Create relaxing, sensory-focused promotional videos with ASMR elements. Generate calming content that creates intimate connections with viewers through satisfying sounds and visuals. Perfect for wellness, beauty, and lifestyle brands who want to stand out with unique, engaging content that viewers can't stop watching.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your product and desired ASMR experience...",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define product and ASMR experience",
+        "description": "Input your product details and specify the type of ASMR content you want, including sounds, textures, and the relaxing atmosphere."
+      },
+      {
+        "title": "Choose sensory elements and style",
+        "description": "Select from various ASMR elements including whispering, tapping, crinkling, nature sounds, or product-focused sensory experiences."
+      },
+      {
+        "title": "Generate relaxing ASMR promotional videos",
+        "description": "Create calming promotional content with satisfying sounds, gentle visuals, and intimate viewer connections."
+      },
+      {
+        "title": "Share across relaxation-focused platforms",
+        "description": "Deploy content on YouTube, TikTok, Instagram, and wellness platforms where ASMR content thrives and builds loyal audiences."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for wellness and lifestyle brands",
+    "subtitle": "From beauty products to food brands, see who creates ASMR content with AI.",
+    "audiences": [
+      {
+        "label": "Wellness & relaxation brands",
+        "description": "Create calming promotional content that aligns with wellness values and builds intimate connections with health-conscious consumers."
+      },
+      {
+        "label": "Beauty & skincare companies",
+        "description": "Generate ASMR-style product demonstrations that highlight textures and application experiences in relaxing, engaging ways."
+      },
+      {
+        "label": "Food & beverage brands",
+        "description": "Create satisfying sensory content featuring food sounds, textures, and preparation that drives appetite and purchase intent."
+      },
+      {
+        "label": "Lifestyle product marketers",
+        "description": "Develop unique ASMR promotional content that stands out in crowded social feeds and builds memorable brand experiences."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the ASMR Promo workflow?",
+        "answer": "ASMR Promo is an AI-powered workflow that creates relaxing, sensory-focused promotional videos with ASMR elements. Generate calming content that creates intimate connections with viewers through satisfying sounds and visuals."
+      },
+      {
+        "question": "Who is ASMR Promo designed for?",
+        "answer": "ASMR Promo is perfect for lifestyle brands: wellness companies, food brands, beauty products, and lifestyle marketers who want to create calming, engaging content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You describe your product or service and the type of ASMR experience you want to create, including sounds, textures, and the relaxing atmosphere you want to achieve."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates relaxing promotional videos with ASMR elements, satisfying sounds, and calming visuals that create intimate viewer connections."
+      },
+      {
+        "question": "Can I create different ASMR styles?",
+        "answer": "Yes. Generate various ASMR content types including whispering, tapping, crinkling, nature sounds, and product-focused sensory experiences."
+      },
+      {
+        "question": "How do credits and pricing work for ASMR Promo?",
+        "answer": "Each ASMR video generation consumes credits based on the complexity and length of the sensory content. The cost is optimized compared to professional ASMR production."
+      },
+      {
+        "question": "Is this suitable for product demonstrations?",
+        "answer": "Absolutely. Create ASMR-style product demonstrations that highlight textures, sounds, and sensory aspects of your products in a relaxing, engaging way."
+      },
+      {
+        "question": "Can I use this for wellness and relaxation content?",
+        "answer": "Yes. Generate ASMR content perfect for wellness brands, relaxation products, and therapeutic content that creates calming viewer experiences."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "ASMR Promo – Sensory Marketing Video Creator",
+      "description": "Create relaxing, sensory-focused promotional videos with ASMR elements for intimate viewer connections."
+    },
+    "softwareApplication": {
+      "name": "ASMR Promo AI Creator",
+      "description": "AI-powered ASMR video generator for creating calming sensory marketing content and promotional videos."
+    },
+    "faqPage": {
+      "name": "ASMR Promo – FAQ"
+    }
+  }
+}

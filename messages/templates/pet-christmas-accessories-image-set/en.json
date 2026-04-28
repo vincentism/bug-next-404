@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Pet Christmas Accessories Image Set – AI Holiday Pet Photography | OpenCreator",
+    "description": "Create professional Christmas-themed pet accessory product images with AI. Generate festive holiday scenes and lifestyle shots for pet products automatically.",
+    "keywords": [
+      "pet christmas photos",
+      "holiday pet accessories",
+      "christmas pet products",
+      "pet product photography",
+      "festive pet images",
+      "holiday pet listings",
+      "christmas dog accessories",
+      "pet holiday marketing"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#christmas", "#pet", "#holiday_accessories"],
+    "title": "Pet Christmas Accessories Image Set",
+    "description": "Create professional Christmas-themed product images for pet accessories with AI. Generate festive holiday scenes, cozy lifestyle shots, and seasonal product presentations that capture the joy of the season. Perfect for pet product sellers during the holiday shopping season.",
+    "inputPlaceholder": "Upload your pet accessory image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your pet product image",
+        "description": "Provide an image of your pet accessory—collars, costumes, toys, beds, or holiday-themed items. Basic product photos work perfectly for transformation."
+      },
+      {
+        "title": "Select Christmas theme style",
+        "description": "Choose from cozy fireplace scenes, Christmas tree settings, snowy outdoor backdrops, or festive studio setups perfect for holiday marketing."
+      },
+      {
+        "title": "Generate festive pet imagery",
+        "description": "AI creates charming Christmas-themed product photography showing your pet accessories in warm, festive contexts that drive holiday purchases."
+      },
+      {
+        "title": "Download your holiday set",
+        "description": "Export high-resolution images optimized for e-commerce platforms, social media campaigns, and holiday marketing materials."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for pet product sellers during holidays",
+    "subtitle": "From pet boutiques to Amazon sellers, see who creates holiday pet imagery with AI.",
+    "audiences": [
+      {
+        "label": "Pet accessory brands",
+        "description": "Create seasonal marketing imagery for Christmas product lines without expensive pet photography sessions and model coordination."
+      },
+      {
+        "label": "E-commerce pet sellers",
+        "description": "Transform basic product photos into festive holiday listings that stand out during competitive Christmas shopping periods."
+      },
+      {
+        "label": "Pet boutiques",
+        "description": "Generate professional holiday catalog imagery for in-store displays and online presence during the peak gifting season."
+      },
+      {
+        "label": "Pet influencer marketers",
+        "description": "Create charming holiday content featuring pet accessories for social media campaigns and influencer partnerships."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Pet Christmas Accessories Image Set?",
+        "answer": "This AI workflow creates festive Christmas-themed product images for pet accessories—collars, costumes, toys, and holiday items—with cozy holiday settings and seasonal styling."
+      },
+      {
+        "question": "What types of pet products can I photograph?",
+        "answer": "Any pet accessory: collars, leashes, costumes, sweaters, toys, beds, feeding accessories, and holiday-specific items like Santa hats or Christmas bandanas."
+      },
+      {
+        "question": "What Christmas themes are available?",
+        "answer": "Choose from cozy fireplace scenes, Christmas tree settings, gift-wrapped contexts, snowy outdoor backdrops, and warm indoor holiday atmospheres."
+      },
+      {
+        "question": "Can I include pets in the images?",
+        "answer": "The workflow focuses on product presentation in festive settings. Products can be shown on AI-generated pet models or styled in holiday contexts."
+      },
+      {
+        "question": "Is this suitable for Amazon holiday listings?",
+        "answer": "Absolutely. The output meets Amazon's image requirements and is optimized for the festive styling that performs well during holiday shopping seasons."
+      },
+      {
+        "question": "Can I create consistent holiday branding?",
+        "answer": "Yes. Apply the same Christmas theme across your entire pet product catalog for cohesive holiday marketing campaigns."
+      },
+      {
+        "question": "When should I prepare holiday imagery?",
+        "answer": "Prepare Christmas product images early—ideally by October/November—to maximize visibility during the competitive holiday shopping period."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Images are delivered in high resolution suitable for e-commerce platforms, social media, print catalogs, and holiday marketing materials."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Pet Christmas Accessories Image Set – AI Holiday Pet Photography",
+      "description": "Create professional Christmas-themed pet accessory product images with AI-powered festive holiday photography."
+    },
+    "softwareApplication": {
+      "name": "Pet Christmas Accessories Image Set AI",
+      "description": "AI-powered product photography tool for creating festive Christmas-themed images for pet accessories and holiday products."
+    },
+    "faqPage": {
+      "name": "Pet Christmas Accessories Image Set – FAQ"
+    }
+  }
+}

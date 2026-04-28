@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "TikTok Fashion Haul Video Generator | AI Influencer-Style Ads",
+    "description": "Create TikTok-style fashion haul videos with AI influencers. Turn product images into creator-style try-on clips for social commerce and paid campaigns.",
+    "keywords": [
+      "tiktok fashion haul video",
+      "ai influencer video generator",
+      "fashion try on video",
+      "social media fashion ads",
+      "clothing product video",
+      "tiktok ad creative",
+      "ugc fashion video",
+      "ai fashion marketing"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#tiktok", "#fashion_haul", "#influencer"],
+    "title": "TikTok Fashion Haul",
+    "description": "Create TikTok-ready fashion haul content with AI influencer presentation. Convert product visuals into natural try-on style short videos built for social engagement, creator commerce, and ad testing.",
+    "inputPlaceholder": "Upload your fashion product images",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your fashion products",
+        "description": "Provide images of your clothing items, accessories, or fashion products. The AI will prepare them for dynamic haul-style video presentation."
+      },
+      {
+        "title": "Select haul style and format",
+        "description": "Choose your video style—quick transitions, try-on reveals, outfit showcases, or trend-driven formats that resonate with TikTok and social media audiences."
+      },
+      {
+        "title": "AI generates haul video",
+        "description": "Using Nano Banana Pro and VEO 3.1, create authentic influencer-style fashion haul videos with engaging transitions, styling, and TikTok-native aesthetics."
+      },
+      {
+        "title": "Export for social media",
+        "description": "Download vertical videos optimized for TikTok, Instagram Reels, and YouTube Shorts—ready to post and drive engagement with your fashion products."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for fashion brands and social media marketers",
+    "subtitle": "From boutiques to major brands, see who creates fashion haul content with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create authentic influencer-style content for your products without hiring creators, enabling consistent social media presence at scale."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Generate engaging product videos that drive traffic from TikTok and Instagram to your store with proven haul-style formats."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Produce trend-aligned fashion content quickly, keeping your brand relevant and engaging across social platforms."
+      },
+      {
+        "label": "Fashion influencers",
+        "description": "Supplement your content with AI-generated haul videos, maintaining posting consistency while expanding your creative possibilities."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is TikTok Fashion Haul?",
+        "answer": "This AI workflow creates influencer-style fashion haul videos optimized for TikTok and social media. It generates authentic try-on content that showcases your fashion products in engaging, trend-driven formats."
+      },
+      {
+        "question": "What types of fashion products work best?",
+        "answer": "All fashion items work well: clothing, shoes, bags, accessories, jewelry, and complete outfits. The workflow adapts to showcase each product type in the most engaging haul format."
+      },
+      {
+        "question": "What video formats are generated?",
+        "answer": "Videos are optimized for vertical social media: 9:16 aspect ratio perfect for TikTok, Instagram Reels, and YouTube Shorts with platform-native aesthetics and pacing."
+      },
+      {
+        "question": "Can I customize the haul style?",
+        "answer": "Yes. Choose from various styles including quick transitions, detailed try-ons, outfit reveals, styling tips, and trend-based formats that match your brand and audience."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for product imagery and VEO 3.1 for dynamic video generation with authentic influencer-style motion and transitions."
+      },
+      {
+        "question": "How do credits work for video generation?",
+        "answer": "Video generation consumes credits based on duration and complexity. The workflow is optimized for social media-length content that maximizes engagement value."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "TikTok Fashion Haul – AI Influencer Video Generator",
+      "description": "Create viral TikTok-style fashion haul videos with AI for social media marketing."
+    },
+    "softwareApplication": {
+      "name": "TikTok Fashion Haul AI Generator",
+      "description": "AI-powered tool for creating influencer-style fashion haul videos for TikTok and social media."
+    },
+    "faqPage": {
+      "name": "TikTok Fashion Haul – FAQ"
+    }
+  }
+}

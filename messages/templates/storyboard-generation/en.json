@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Storyboard Generation – AI Video Storyboard Creator | OpenCreator",
+    "description": "Transform scripts and text into professional video storyboards with AI. Generate cinematic shot sequences with varied camera angles and compositions.",
+    "keywords": [
+      "ai storyboard generator",
+      "video storyboard creator",
+      "script to storyboard",
+      "film storyboard ai",
+      "shot sequence generator",
+      "cinematic storyboard",
+      "video pre-production",
+      "storyboard automation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#storyboard", "#film_production", "#video_planning"],
+    "title": "Storyboard Generation",
+    "description": "Transform any script or text into professional video storyboards. AI analyzes your content, identifies key visual moments, and generates cinematic shot sequences with varied camera angles—from establishing shots to close-ups. Perfect for filmmakers, video producers, and content creators planning their next production.",
+    "inputPlaceholder": "Enter your script or story",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your script or story",
+        "description": "Provide your text content—whether detailed or brief. GPT-5.2 analyzes the narrative and identifies the most impactful visual moments for your storyboard."
+      },
+      {
+        "title": "AI generates shot prompts",
+        "description": "The workflow creates professional shot descriptions with varied camera angles (wide, medium, close-up), ensuring cinematic rhythm and visual storytelling."
+      },
+      {
+        "title": "Split into individual frames",
+        "description": "Each shot is formatted as a separate storyboard frame with detailed visual prompts optimized for image generation."
+      },
+      {
+        "title": "Generate storyboard images",
+        "description": "Nano Banana Pro creates each frame, maintaining visual consistency across all shots for a cohesive storyboard presentation."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for visual storytellers",
+    "subtitle": "From indie filmmakers to production studios, see who creates storyboards with AI.",
+    "audiences": [
+      {
+        "label": "Filmmakers & directors",
+        "description": "Visualize your script before production. Generate professional storyboards to communicate your vision and plan shots efficiently."
+      },
+      {
+        "label": "Video producers",
+        "description": "Speed up pre-production with AI-generated storyboards. Create shot lists and visual references for your production team."
+      },
+      {
+        "label": "Content creators",
+        "description": "Plan your video content with cinematic precision. Develop engaging visual narratives for YouTube, social media, and branded content."
+      },
+      {
+        "label": "Advertising agencies",
+        "description": "Pitch creative concepts with polished storyboards. Present visual narratives to clients before committing to production budgets."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Storyboard Generation workflow?",
+        "answer": "This AI workflow transforms text content (scripts, stories, concepts) into professional video storyboards. It generates a sequence of cinematic shots with varied camera angles, creating visual references for film and video production."
+      },
+      {
+        "question": "How does it handle different content lengths?",
+        "answer": "The AI adapts to your content: for detailed scripts, it extracts key visual moments; for brief concepts, it expands with creative visual details. Both approaches result in compelling storyboard sequences."
+      },
+      {
+        "question": "What camera angles does it generate?",
+        "answer": "The workflow creates varied shot types following cinematic conventions: establishing shots, wide shots, medium shots, close-ups, extreme close-ups, low angles, high angles, and more—ensuring dynamic visual rhythm."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses GPT-5.2 for script analysis and shot prompt generation, GPT-4o for splitting content into individual frames, and Nano Banana Pro for generating the storyboard images."
+      },
+      {
+        "question": "How many frames can I generate?",
+        "answer": "You can specify the number of storyboard frames you need. The AI will select the most impactful visual moments from your content to fill the requested frame count."
+      },
+      {
+        "question": "Are the frames visually consistent?",
+        "answer": "Yes, Nano Banana Pro maintains visual consistency across all generated frames—including character appearance, lighting style, and color grading—for a cohesive storyboard."
+      },
+      {
+        "question": "Can I use this for commercial projects?",
+        "answer": "Absolutely. The generated storyboards can be used for commercial film productions, advertising campaigns, music videos, and client presentations."
+      },
+      {
+        "question": "What input format works best?",
+        "answer": "Any text format works: screenplay format, prose descriptions, bullet points, or even brief concept notes. The AI adapts its output based on the detail level of your input."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Storyboard Generation – AI Video Storyboard Creator",
+      "description": "Transform scripts and text into professional video storyboards with AI-powered shot sequence generation."
+    },
+    "softwareApplication": {
+      "name": "AI Storyboard Generator",
+      "description": "AI-powered tool for generating professional video storyboards from scripts and text content."
+    },
+    "faqPage": {
+      "name": "Storyboard Generation – FAQ"
+    }
+  }
+}

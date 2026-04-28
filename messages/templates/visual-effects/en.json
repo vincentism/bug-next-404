@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Visual Effects (VFX) – AI VFX Generator | OpenCreator",
+    "description": "Generate cinematic sci-fi visual effects from images with AI and produce VFX-style shots for concept videos and promos.",
+    "keywords": [
+      "ai vfx generator",
+      "visual effects generator",
+      "image to vfx",
+      "sci fi effects video",
+      "cinematic vfx creator",
+      "ai visual effects for filmmakers",
+      "video effects ai",
+      "vfx shot generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#vfx", "#visual_arts"],
+    "title": "Visual Effects (VFX)",
+    "description": "Turn existing shots into sci-fi inspired visual effects moments with AI. Upload a frame and add atmospheric beams, portals, glows, and other VFX elements so you can quickly explore looks for pitches, concepts, and stylized content.",
+    "inputPlaceholder": "Upload your shots and describe the visual effect you want to add",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Pick a shot you want to enhance",
+        "description": "Upload a base image or frame from your film, trailer, or game. This becomes the foundation for your AI-generated VFX shot."
+      },
+      {
+        "title": "Describe the visual effect you imagine",
+        "description": "Write a short prompt describing the effect—such as energy beams, portals, explosions, holograms, or sci-fi atmospheres—and the mood or color you want."
+      },
+      {
+        "title": "Generate multiple AI VFX variations",
+        "description": "Run the Visual Effects workflow to create cinematic variations on top of your original frame using AI image and video models."
+      },
+      {
+        "title": "Review, refine, and reuse the workflow",
+        "description": "Compare different VFX results, tweak your prompts or inputs, then reuse the same setup whenever you need more shots in a similar style."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for creators who need fast VFX",
+    "subtitle": "From indie films to game trailers, see who benefits most from AI-powered visual effects shots.",
+    "audiences": [
+      {
+        "label": "Indie filmmakers & directors",
+        "description": "Quickly turn concept frames into sci-fi-leaning shots for pitch decks, teasers, and proof-of-concept videos without a full VFX team."
+      },
+      {
+        "label": "VFX artists & motion designers",
+        "description": "Generate idea frames and variations for complex effects like energy beams, portals, or holograms before committing to full production work."
+      },
+      {
+        "label": "Game studios & environment artists",
+        "description": "Prototype in-game VFX moments and cinematic cutscene looks directly from static frames or concept art."
+      },
+      {
+        "label": "Content creators & YouTubers",
+        "description": "Add eye-catching VFX shots to thumbnails, intros, and sci-fi commentary videos using AI-enhanced images."
+      },
+      {
+        "label": "Agencies & creative teams",
+        "description": "Produce quick VFX explorations for client pitches and campaign ideas, then pass the strongest directions to production teams."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Visual Effects (VFX) template?",
+        "answer": "The Visual Effects (VFX) template is an AI VFX generator workflow that turns images into cinematic sci-fi visual effects shots. It’s useful for concept VFX and quick test shots."
+      },
+      {
+        "question": "What inputs does the VFX workflow require?",
+        "answer": "You typically provide a base image or frame plus a description of the effect you want (e.g., energy beam, portal, explosion, hologram). The workflow then generates stylized VFX frames or clips."
+      },
+      {
+        "question": "Can I use this for image-to-VFX transformations?",
+        "answer": "Yes. The template is designed for image-to-VFX scenarios where you already have a shot or concept frame and want to add AI-generated effects on top."
+      },
+      {
+        "question": "Is it suitable for final production VFX?",
+        "answer": "It’s best suited for concept development, previs, and stylized content. For high-end production shots, you may want to treat the AI output as a reference or plate to refine in traditional VFX tools."
+      },
+      {
+        "question": "Can I control intensity and style of the VFX?",
+        "answer": "You can guide intensity, color, and style through your prompts (e.g., subtle glow, over-the-top sci-fi blast). Running multiple variations helps you choose the best look."
+      },
+      {
+        "question": "Who should use the AI VFX generator template?",
+        "answer": "Filmmakers, VFX artists, game developers, and content creators who need fast VFX concepts for pitches, prototypes, or social content."
+      },
+      {
+        "question": "How are credits consumed in the Visual Effects (VFX) workflow?",
+        "answer": "Credits are consumed per generation based on the underlying image and video models used. Higher resolutions or longer sequences may use more credits than quick concept frames."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Visual Effects (VFX) – AI VFX Generator",
+      "description": "Generate cinematic sci-fi visual effects from images with OpenCreator’s Visual Effects (VFX) AI workflow."
+    },
+    "softwareApplication": {
+      "name": "Visual Effects (VFX) Workflow Template",
+      "description": "AI workflow that adds sci-fi-inspired visual effects to existing frames for concepts, pitches, and stylized content."
+    },
+    "faqPage": {
+      "name": "Visual Effects (VFX) – FAQ"
+    }
+  }
+}

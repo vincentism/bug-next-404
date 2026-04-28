@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Jewelry Full-Cycle Generator – AI Jewelry Design & Video | OpenCreator",
+    "description": "Create complete jewelry marketing assets with AI. Professional jewelry product photography, jewellery photography ideas, lifestyle images, and promotional videos from a single jewelry design.",
+    "keywords": [
+      "jewelry product photography",
+      "jewellery photography ideas",
+      "product video maker",
+      "ai product photography",
+      "professional product photography",
+      "product photography services",
+      "jewelry ai generator",
+      "jewelry video maker",
+      "ai jewelry design",
+      "jewelry e-commerce photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#jewelry", "#e-commerce", "#product_video"],
+    "title": "Jewelry Full-Cycle Generator",
+    "description": "Create complete jewelry marketing assets from a single design. AI generates professional product photos, lifestyle images, and stunning promotional videos—all optimized for e-commerce and social media. Perfect for jewelry brands, designers, and retailers looking to showcase their pieces with cinematic quality.",
+    "inputPlaceholder": "Upload your jewelry image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your jewelry design",
+        "description": "Provide a product photo of your jewelry piece. Nano Banana Pro analyzes the design details, materials, and aesthetic to create marketing-ready variations."
+      },
+      {
+        "title": "Generate product imagery",
+        "description": "AI creates multiple product shots: clean white background photos, lifestyle images with models, and detail close-ups highlighting craftsmanship."
+      },
+      {
+        "title": "Create promotional video",
+        "description": "Sora 2 generates a cinematic promotional video showcasing your jewelry with professional lighting, elegant movements, and premium aesthetics."
+      },
+      {
+        "title": "Export complete asset set",
+        "description": "Download all generated assets: product photos for listings, lifestyle images for social media, and video content for advertising campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for jewelry businesses",
+    "subtitle": "From independent designers to retail brands, see who creates jewelry content with AI.",
+    "audiences": [
+      {
+        "label": "Jewelry designers",
+        "description": "Showcase your creations with professional marketing assets. Generate complete content sets without expensive photography and video production."
+      },
+      {
+        "label": "E-commerce retailers",
+        "description": "Create consistent, high-quality product imagery for your entire jewelry catalog. Scale your content production while maintaining premium aesthetics."
+      },
+      {
+        "label": "Jewelry brands",
+        "description": "Develop cohesive marketing campaigns with matching photos and videos. Maintain brand consistency across all channels and platforms."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Generate scroll-stopping jewelry content for Instagram, TikTok, and Pinterest. Create engaging videos that drive traffic and conversions."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Jewelry Full-Cycle Generator?",
+        "answer": "This AI workflow creates complete marketing assets for jewelry pieces: product photography, lifestyle images, and promotional videos. It transforms a single jewelry photo into a full content set ready for e-commerce and social media."
+      },
+      {
+        "question": "What types of content does it generate?",
+        "answer": "The workflow generates product photos (white background, detail shots), lifestyle images (model wearing jewelry, styled scenes), and promotional videos with cinematic quality—all from your single input image."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for generating product and lifestyle images, and Sora 2 for creating cinematic promotional videos with professional lighting and elegant motion."
+      },
+      {
+        "question": "Does it work with all jewelry types?",
+        "answer": "Yes, the workflow handles rings, necklaces, bracelets, earrings, watches, and other jewelry pieces. It adapts the generated content to showcase each piece type appropriately."
+      },
+      {
+        "question": "How long are the generated videos?",
+        "answer": "The promotional videos are optimized for social media and advertising, typically 5-15 seconds—perfect for Instagram Reels, TikTok, and video ads."
+      },
+      {
+        "question": "Can I use this for my e-commerce store?",
+        "answer": "Absolutely. The generated product photos are optimized for e-commerce platforms like Shopify, Etsy, and Amazon. The lifestyle images and videos are perfect for product pages and marketing."
+      },
+      {
+        "question": "How does it maintain jewelry detail accuracy?",
+        "answer": "Nano Banana Pro carefully analyzes your jewelry's design elements—gemstones, metalwork, textures—and preserves these details across all generated images and video frames."
+      },
+      {
+        "question": "What input quality works best?",
+        "answer": "A clear, well-lit photo of your jewelry piece works best. The higher the input quality, the better the generated marketing assets will showcase your jewelry's details."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Jewelry Full-Cycle Generator – AI Jewelry Design & Video",
+      "description": "Create complete jewelry marketing assets with AI-powered product photography and video generation."
+    },
+    "softwareApplication": {
+      "name": "Jewelry Full-Cycle Generator",
+      "description": "AI-powered tool for generating complete jewelry marketing assets including product photos, lifestyle images, and promotional videos."
+    },
+    "faqPage": {
+      "name": "Jewelry Full-Cycle Generator – FAQ"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "AI Commercial Video Creator for Social Ad Campaigns | OpenCreator",
+    "description": "Create high-performing commercial videos with AI for paid social and ecommerce. Produce multiple hooks and formats for rapid campaign iteration.",
+    "keywords": [
+      "ai commercial video creator",
+      "ai video ad generator",
+      "marketing video maker",
+      "short form ad video",
+      "product ad video ai",
+      "paid social video ads",
+      "brand promo video generator",
+      "conversion video creatives"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#sora_2", "#branding_ads", "#video_marketing"],
+    "title": "Sora 2 x Ads",
+    "description": "Generate conversion-focused ad videos faster with AI. Turn one campaign brief into multiple creative angles and delivery formats for TikTok, Reels, and paid media testing.",
+    "inputPlaceholder": "Describe your video advertisement concept",
+    "ctaText": "Create Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your ad concept",
+        "description": "Input your video advertisement details, including product information, target audience, brand messaging, and desired visual style."
+      },
+      {
+        "title": "Choose Sora 2 style",
+        "description": "Select from professional, cinematic, or dynamic video styles optimized for different advertising platforms and campaign goals."
+      },
+      {
+        "title": "Generate AI video ads",
+        "description": "Sora 2 AI creates high-quality video advertisements with professional transitions, engaging visuals, and compelling messaging."
+      },
+      {
+        "title": "Export and deploy",
+        "description": "Download ready-to-use video ads optimized for social media, websites, and digital advertising platforms."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for video advertising and brand marketing",
+    "subtitle": "From startups to established brands, see who creates professional video ads with Sora 2.",
+    "audiences": [
+      {
+        "label": "Marketing agencies",
+        "description": "Scale video ad production for multiple clients while maintaining professional quality and brand consistency."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Create compelling product video ads that showcase features and drive sales conversions."
+      },
+      {
+        "label": "Digital marketers",
+        "description": "Generate high-performance video content for social media campaigns and digital advertising initiatives."
+      },
+      {
+        "label": "Business owners",
+        "description": "Create professional video advertisements without expensive production costs or technical expertise."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Sora 2 x Ads workflow?",
+        "answer": "Sora 2 x Ads is an AI-powered workflow that creates professional video advertisements using Sora 2 technology. Generate compelling video commercials that drive engagement and conversions."
+      },
+      {
+        "question": "Who is Sora 2 x Ads designed for?",
+        "answer": "Sora 2 x Ads is essential for video advertising and brand marketing: marketing agencies, e-commerce brands, digital marketers, and business owners who need professional video ads."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your video advertisement details, including product information, target audience, brand messaging, and desired visual style."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates high-quality video advertisements with professional transitions, engaging visuals, and compelling messaging optimized for advertising platforms."
+      },
+      {
+        "question": "Can I create ads for different platforms?",
+        "answer": "Yes. You can create video ads optimized for social media, websites, YouTube, and various digital advertising platforms with platform-specific formats."
+      },
+      {
+        "question": "How do credits and pricing work for Sora 2 x Ads?",
+        "answer": "Each video ad generation consumes credits based on the video length and complexity. The cost is optimized for creating professional advertising content."
+      },
+      {
+        "question": "Can I maintain brand consistency across video ads?",
+        "answer": "Absolutely. The workflow incorporates your brand elements, colors, and messaging while maintaining professional video advertising standards."
+      },
+      {
+        "question": "Is this suitable for product launches and campaigns?",
+        "answer": "Yes. Perfect for creating consistent video advertising content for product launches, seasonal campaigns, and ongoing brand initiatives."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Sora 2 x Ads – AI Video Advertising",
+      "description": "Create professional video advertisements with Sora 2 AI technology. Generate compelling video that drive engagement and conversions."
+    },
+    "softwareApplication": {
+      "name": "Sora 2 x Ads AI Generator",
+      "description": "AI-powered video advertisement creator using Sora 2 technology for generating professional marketing videos and commercials."
+    },
+    "faqPage": {
+      "name": "Sora 2 x Ads – FAQ"
+    }
+  }
+}

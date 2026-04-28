@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Consistent Character Ads – AI Brand Marketing | OpenCreator",
+    "description": "Create consistent character advertisements with AI. Generate branded content featuring uniform characters across marketing campaigns.",
+    "keywords": [
+      "consistent character ai",
+      "brand character generator",
+      "uniform advertising content",
+      "character branding tool",
+      "consistent marketing materials",
+      "brand identity characters",
+      "ai character advertising",
+      "uniform brand content"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#branding_ads", "#character_design", "#marketing_consistency"],
+    "title": "Consistent Character Ads",
+    "description": "Create consistent character advertisements with AI. Generate branded content featuring uniform characters across marketing campaigns. Perfect for brands who want to maintain character consistency and build strong brand recognition through memorable character-based marketing.",
+    "inputPlaceholder": "Describe your brand character or mascot",
+    "ctaText": "Create Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your brand character",
+        "description": "Provide detailed character specifications including appearance, personality traits, brand alignment, and intended role in marketing campaigns."
+      },
+      {
+        "title": "Choose ad style and context",
+        "description": "Select marketing contexts, product categories, and advertising styles where your character will appear while maintaining brand consistency."
+      },
+      {
+        "title": "Generate consistent character content",
+        "description": "AI creates advertisements featuring your uniform character across different scenarios, products, and marketing materials."
+      },
+      {
+        "title": "Deploy brand-consistent campaigns",
+        "description": "Export high-resolution character-based advertisements ready for multi-channel marketing campaigns and brand initiatives."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for brand consistency and character-based marketing",
+    "subtitle": "From startups to established brands, see who creates consistent character ads with AI.",
+    "audiences": [
+      {
+        "label": "Brand managers",
+        "description": "Maintain character consistency across all marketing materials while building strong brand recognition and identity."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Scale character-based content production for multiple clients while ensuring uniform character representation."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Create memorable character-driven advertisements that increase brand recall and customer engagement."
+      },
+      {
+        "label": "Content creators",
+        "description": "Develop consistent character content for social media, advertising, and brand storytelling initiatives."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Consistent Character Ads workflow?",
+        "answer": "Consistent Character Ads is an AI-powered workflow that creates consistent character advertisements. Generate branded content featuring uniform characters across marketing campaigns."
+      },
+      {
+        "question": "Who is Consistent Character Ads designed for?",
+        "answer": "Consistent Character Ads is essential for brand consistency and character-based marketing: brand managers, marketing agencies, e-commerce brands, and content creators who need consistent character content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide detailed character specifications including appearance, personality traits, brand alignment, and intended role in marketing campaigns."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates advertisements featuring your uniform character across different scenarios, products, and marketing materials while maintaining perfect consistency."
+      },
+      {
+        "question": "Can I use existing brand characters or mascots?",
+        "answer": "Yes. You can reference existing brand characters, mascots, or create new ones that align with your brand identity and marketing goals."
+      },
+      {
+        "question": "How do credits and pricing work for Consistent Character Ads?",
+        "answer": "Each advertisement generation consumes credits based on the image complexity and character customization requirements. The cost is optimized for creating consistent brand content."
+      },
+      {
+        "question": "Can I maintain character consistency across different products?",
+        "answer": "Absolutely. The workflow ensures your character maintains consistent appearance, personality, and brand alignment across all product categories and marketing contexts."
+      },
+      {
+        "question": "Is this suitable for multi-channel marketing campaigns?",
+        "answer": "Yes. Perfect for creating consistent character-based content across digital platforms, print media, social media, and omnichannel marketing initiatives."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Consistent Character Ads – AI Brand Marketing",
+      "description": "Create consistent character advertisements with AI. Generate branded content featuring uniform characters across marketing campaigns."
+    },
+    "softwareApplication": {
+      "name": "Consistent Character Ads AI Generator",
+      "description": "AI-powered character advertisement creator for generating consistent brand marketing content and uniform character materials."
+    },
+    "faqPage": {
+      "name": "Consistent Character Ads – FAQ"
+    }
+  }
+}

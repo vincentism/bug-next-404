@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Clothing Promotion Short Film – AI Fashion Video Creator | OpenCreator",
+    "description": "Create stunning clothing promotion short films with AI. Generate professional fashion videos with dynamic model shots, lifestyle scenes, and brand-aligned visuals for apparel marketing.",
+    "keywords": [
+      "clothing promotion video",
+      "fashion short film",
+      "AI fashion video",
+      "apparel marketing video",
+      "clothing brand video",
+      "fashion promo creator",
+      "AI garment video",
+      "fashion advertising"
+    ]
+  },
+  "hero": {
+    "featureTag": "Fashion Video",
+    "tags": ["#fashion", "#clothing", "#promo_video"],
+    "title": "Clothing Promotion Short Film",
+    "description": "Create stunning clothing promotion short films with AI. Generate professional fashion videos featuring dynamic model shots, lifestyle scenes, and brand-aligned visuals. Perfect for fashion brands, boutiques, and apparel marketers.",
+    "inputPlaceholder": "Upload your clothing or model image",
+    "ctaText": "Create Fashion Film"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your clothing or model image",
+        "description": "Provide a garment photo, flat lay, or model shot. The AI analyzes the clothing style, colors, and target aesthetic."
+      },
+      {
+        "title": "AI generates fashion scenes",
+        "description": "Nano Banana Pro creates stunning visual frames featuring your clothing in various settings—runway shots, lifestyle moments, detail close-ups."
+      },
+      {
+        "title": "Add cinematic motion",
+        "description": "The workflow transforms static images into dynamic video sequences with fashion-forward camera movements and transitions."
+      },
+      {
+        "title": "Export promotional video",
+        "description": "Download your complete fashion short film ready for social media, e-commerce listings, or brand campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for fashion marketers",
+    "subtitle": "From fashion brands to boutique owners, see who creates clothing videos with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create professional promotional videos for new collections without expensive video production or model shoots."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Elevate your product listings with dynamic video content that showcases your clothing in motion."
+      },
+      {
+        "label": "Boutique owners",
+        "description": "Compete with larger brands by creating high-quality fashion content on a small business budget."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Generate scroll-stopping fashion content for Instagram Reels, TikTok, and other video platforms."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Clothing Promotion Short Film workflow?",
+        "answer": "It's an AI-powered workflow that creates professional fashion promotional videos from clothing images, generating dynamic model shots, lifestyle scenes, and cinematic sequences."
+      },
+      {
+        "question": "What types of clothing work best?",
+        "answer": "The workflow handles all apparel types—dresses, suits, casual wear, sportswear, accessories. It adapts the visual style to match each garment's character and target market."
+      },
+      {
+        "question": "Do I need model photos?",
+        "answer": "No. You can start with flat lay images or garment photos. The AI can generate model presentations and lifestyle contexts from product-only images."
+      },
+      {
+        "question": "How long are the generated videos?",
+        "answer": "Videos are optimized for social media, typically 10-30 seconds of high-impact fashion content perfect for Reels, TikTok, and Stories."
+      },
+      {
+        "question": "Can I match my brand aesthetic?",
+        "answer": "Yes. You can guide the AI toward specific styles—luxury minimalism, streetwear energy, romantic elegance—to ensure brand consistency across your content."
+      },
+      {
+        "question": "Is this suitable for seasonal campaigns?",
+        "answer": "Absolutely. The workflow can generate themed content for seasonal collections, holiday campaigns, or special promotions with appropriate styling."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Clothing Promotion Short Film",
+      "description": "AI-powered fashion video creator for clothing promotion and apparel marketing."
+    },
+    "softwareApplication": {
+      "name": "Fashion Promo Video Generator",
+      "description": "Create stunning clothing promotion short films with AI-generated fashion visuals and cinematic motion."
+    },
+    "faqPage": {
+      "name": "Clothing Promotion Short Film – FAQ"
+    }
+  }
+}

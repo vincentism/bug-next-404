@@ -1,0 +1,105 @@
+{
+  "seo": {
+    "title": "Batch AI Model Try-On – AI Fashion Try-On Workflow | OpenCreator",
+    "description": "Generate AI model try-on images in batch for your fashion products. Create consistent AI fashion models on-model shots for clothing photography and apparel photography for ecommerce.",
+    "keywords": [
+      "ai fashion models",
+      "ai clothing generator",
+      "ai generated female models",
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "garment photography",
+      "how to take pictures of clothes to sell",
+      "clothing brand photoshoot",
+      "ai product model generator",
+      "ai ecommerce model photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#banana_pro", "#ecommerce", "#fashion_tryon"],
+    "title": "Batch AI Model Try-On",
+    "description": "Turn flat product shots into consistent model try-on images at scale. Generate full sets of on-model visuals that match your brand guidelines without repeated photo shoots.",
+    "inputPlaceholder": "Describe your apparel products and desired model/look style",
+    "ctaText": "Create Try-On Set"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Prepare your product inputs",
+        "description": "Upload or reference your fashion product images and provide basic details like category, fit, and key features."
+      },
+      {
+        "title": "Define model and styling",
+        "description": "Describe the model type, posing style, background, and overall visual direction that matches your brand."
+      },
+      {
+        "title": "Generate batch try-on images",
+        "description": "Run the workflow to generate a batch of consistent model try-on images across multiple SKUs or colorways."
+      },
+      {
+        "title": "Curate and export for channels",
+        "description": "Review, select, and export final images for product pages, lookbooks, ad creatives, and social campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for fashion e-commerce and merchandising teams",
+    "subtitle": "Use AI model try-on to scale on-model photography while keeping visual consistency across your catalog.",
+    "audiences": [
+      {
+        "label": "Fashion e-commerce brands",
+        "description": "Create full sets of on-model images for new collections without scheduling repeated studio shoots."
+      },
+      {
+        "label": "Marketplace sellers",
+        "description": "Upgrade plain flat lays to on-model visuals so listings stand out and feel more premium."
+      },
+      {
+        "label": "Merchandising teams",
+        "description": "Quickly prototype different model, styling, and layout directions before locking in a visual system for the season."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Deliver consistent try-on visuals for multiple fashion clients while controlling style and quality at scale."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Batch AI Model Try-On workflow?",
+        "answer": "Batch AI Model Try-On is an AI workflow that generates consistent model try-on images for fashion products at scale. It helps you turn flat product photos into on-model visuals for e-commerce and marketing."
+      },
+      {
+        "question": "What inputs do I need for this workflow?",
+        "answer": "You provide product images and simple guidance about your collection, target audience, and desired model/look style. The workflow uses this to guide the generated try-on images."
+      },
+      {
+        "question": "Can I generate images for multiple SKUs at once?",
+        "answer": "Yes. The workflow is designed to support batch scenarios so you can generate consistent model try-on images across multiple products or colorways."
+      },
+      {
+        "question": "Who should use this workflow?",
+        "answer": "Fashion e-commerce brands, marketplace sellers, merchandising teams, and agencies that need on-model images at scale without traditional studio constraints."
+      },
+      {
+        "question": "Can I use the results on product detail pages and ads?",
+        "answer": "Yes. Subject to OpenCreator's terms and underlying model policies, you can use the generated images across product pages, lookbooks, and paid campaigns."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Batch AI Model Try-On – AI Fashion Try-On Workflow",
+      "description": "Generate AI model try-on images in batch for fashion products so you can scale on-model photography across your catalog."
+    },
+    "softwareApplication": {
+      "name": "Batch AI Model Try-On AI Workflow",
+      "description": "An AI workflow inside OpenCreator for generating consistent model try-on images for fashion e-commerce and merchandising."
+    },
+    "faqPage": {
+      "name": "Batch AI Model Try-On – FAQ"
+    }
+  }
+}

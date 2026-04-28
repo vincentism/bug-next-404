@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "UGC Promo Video (Lipsync Version) – AI Video Content | OpenCreator",
+    "description": "Create engaging UGC promo video content with AI. Generate lipsync videos that feel authentic and drive social media engagement.",
+    "keywords": [
+      "ugc video generator",
+      "lipsync video ai",
+      "social media video content",
+      "video marketing generator",
+      "automated video creation",
+      "social media content ai",
+      "video promotion tool",
+      "digital video marketing"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#social_promo", "#video_marketing", "#content_creation"],
+    "title": "UGC Promo Video (Lipsync Version)",
+    "description": "Create engaging UGC promo video content with AI. Generate lipsync videos that feel authentic and drive social media engagement. Perfect for content creators, social media marketers, and brands who want to create shareable video content that resonates with audiences.",
+    "inputPlaceholder": "Describe your video concept or message",
+    "ctaText": "Create Video"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your video concept",
+        "description": "Input your video message, target audience, brand voice, and key content points. Include any specific lipsync requirements or visual preferences."
+      },
+      {
+        "title": "Choose video style and format",
+        "description": "Select from Instagram Reels, TikTok videos, or other social media formats. Choose aesthetic styles that match your brand and platform."
+      },
+      {
+        "title": "Generate lipsync content",
+        "description": "AI creates realistic lipsync videos with natural mouth movements, authentic expressions, and engaging visual elements."
+      },
+      {
+        "title": "Export and share",
+        "description": "Download high-quality videos ready for immediate deployment across social media platforms and marketing channels."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for video content creation and social media marketing",
+    "subtitle": "From individual creators to established brands, see who creates UGC video content with AI.",
+    "audiences": [
+      {
+        "label": "Content creators",
+        "description": "Scale video production while maintaining authenticity, creating consistent lipsync content that drives engagement."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Generate shareable video content quickly without expensive video production equipment or professional actors."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Produce high-volume video campaigns for multiple clients while maintaining quality and brand consistency."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Create product demonstration videos and promotional content that feels authentic and drives conversions."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the UGC Promo Video (Lipsync Version) workflow?",
+        "answer": "UGC Promo (Lipsync Version) is an AI-powered workflow that creates engaging UGC video content. Generate lipsync videos that feel authentic and drive social media engagement."
+      },
+      {
+        "question": "Who is UGC Promo Video (Lipsync Version) designed for?",
+        "answer": "UGC Promo Video (Lipsync Version) is essential for video content creation and social media marketing: content creators, social media managers, marketing agencies, and e-commerce brands who need authentic video content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your video message, target audience, brand voice, and key content points, along with any specific lipsync requirements or visual preferences."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates realistic lipsync videos with natural movements, authentic expressions, and engaging visual elements."
+      },
+      {
+        "question": "Can I create videos for different platforms?",
+        "answer": "Yes. You can create videos optimized for Instagram, TikTok, Facebook, and other social media platforms with platform-specific formats."
+      },
+      {
+        "question": "How do credits and pricing work for UGC Promo Video (Lipsync Version)?",
+        "answer": "Each video generation consumes credits based on the video length and complexity. The cost is optimized for creating high-engagement social media content."
+      },
+      {
+        "question": "Can I maintain brand consistency across video content?",
+        "answer": "Absolutely. The workflow incorporates your brand elements, voice, and visual identity while maintaining authentic UGC aesthetics."
+      },
+      {
+        "question": "Is this suitable for product demonstrations and tutorials?",
+        "answer": "Yes. Perfect for creating product demos, tutorials, and educational content that feels genuine and builds trust."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "UGC Promo Video (Lipsync Version) – AI Video Content",
+      "description": "Create engaging UGC video content with AI. Generate lipsync videos that feel authentic and drive social media engagement."
+    },
+    "softwareApplication": {
+      "name": "UGC Promo Video (Lipsync Version) AI Generator",
+      "description": "AI-powered video content creator for generating authentic social media content and promotional videos."
+    },
+    "faqPage": {
+      "name": "UGC Promo Video (Lipsync Version) – FAQ"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Crunchy Mukbang ASMR – Crispy Eating Video Generator | OpenCreator",
+    "description": "Generate crunchy mukbang-style ASMR videos focusing on crispy textures and satisfying bites. Designed for ASMR creators, food brands, and snack marketers.",
+    "keywords": [
+      "crunchy asmr video",
+      "mukbang asmr generator",
+      "snack asmr content",
+      "crunchy eating videos",
+      "food asmr maker",
+      "create crunchy mukbang asmr with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#asmr", "#food", "#mukbang"],
+    "title": "Crunchy Mukbang ASMR",
+    "description": "Generate crunchy mukbang-style ASMR videos with AI. Focus on crispy textures—chips, fried foods, snacks—captured in close-up, satisfying bites.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe the crunchy snack and mood you want to create",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your crunchy food focus",
+        "description": "Describe the snacks or foods—chips, fried items, cookies—and the ASMR vibe you want."
+      },
+      {
+        "title": "Choose framing and persona style",
+        "description": "Hands-only, implied eater persona, or purely food-focused framing for visual emphasis."
+      },
+      {
+        "title": "Generate crunchy mukbang ASMR visuals",
+        "description": "AI creates close-up bite sequences that emphasize crunch, crumbs, and texture."
+      },
+      {
+        "title": "Export clips for ASMR feeds and campaigns",
+        "description": "Download platform-ready clips for Shorts, Reels, and snack promotions."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For ASMR creators and food brands",
+    "subtitle": "From snack marketers to content accounts, see who uses crunchy ASMR.",
+    "audiences": [
+      {
+        "label": "ASMR content creators",
+        "description": "Produce satisfying, crunchy visuals that audiences love to replay."
+      },
+      {
+        "label": "Snack and food brands",
+        "description": "Create appetite-driving visuals featuring texture and crisp bites."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Use crunchy clips as high-engagement content in calendars."
+      },
+      {
+        "label": "Lifestyle and food channels",
+        "description": "Add sensory variety with crunchy-focused ASMR sequences."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Crunchy Mukbang ASMR workflow?",
+        "answer": "An AI workflow that generates crunchy mukbang-style ASMR clips with close-up bites and texture emphasis."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "ASMR creators, snack brands, social media managers, and food channels seeking sensory, crunchy content."
+      },
+      {
+        "question": "What inputs are needed?",
+        "answer": "Describe the snacks and mood, your framing preference, and any style references you want to match."
+      },
+      {
+        "question": "What outputs can I expect?",
+        "answer": "Short, platform-ready video clips with crisp textures and satisfying bites for social posting."
+      },
+      {
+        "question": "Can I control framing and pacing?",
+        "answer": "Yes. Choose hands-only or implied persona and adjust pacing preferences to guide generation."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits by complexity and length. Iterate within your plan and export selected clips."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Crunchy Mukbang ASMR – Crispy Eating Video Generator",
+      "description": "AI-generated crunchy mukbang ASMR videos for social content and snack campaigns."
+    },
+    "softwareApplication": {
+      "name": "Crunchy Mukbang ASMR Template",
+      "description": "AI workflow for creating crunchy, texture-focused ASMR clips."
+    },
+    "faqPage": { "name": "Crunchy Mukbang ASMR – FAQ" }
+  }
+}

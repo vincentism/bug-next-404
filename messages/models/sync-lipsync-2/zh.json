@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Sync Lipsync 2.0 AI | 零样本口型同步 | OpenCreator",
+      "description": "使用 Sync Labs 的 Lipsync 2.0 创建自然的口型同步视频。零样本模型，跨语言保留说话风格。支持真人、动画和 AI 生成内容。在 OpenCreator 试用。"
+    },
+    "hero": {
+      "modelName": "Sync Lipsync 2.0",
+      "tagline": "零样本自然口型同步",
+      "description": "Sync Lipsync 2.0 是一个零样本模型，用于生成与语音音频匹配的逼真口型动作。它跨语言保留说话风格，支持真人、动画和 AI 生成角色。",
+      "badge": "专业版",
+      "ctaText": "试用 Sync Lipsync 2.0",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "zeroShot": "零样本",
+        "stylePreserve": "风格保留",
+        "crossDomain": "跨领域",
+        "multiLanguage": "多语言",
+        "highQuality": "高质量"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Sync Lipsync 2.0 成为世界上最自然口型同步模型的原因",
+      "items": {
+        "zeroShot": {
+          "title": "零样本生成",
+          "description": "无需训练或微调。只需输入视频和音频，Lipsync 2.0 即可立即处理。"
+        },
+        "stylePreserve": {
+          "title": "风格保留",
+          "description": "模型通过观察来学习说话方式。即使跨语言翻译，也能保持其独特的表达风格。"
+        },
+        "crossDomain": {
+          "title": "跨领域支持",
+          "description": "支持真人、动画角色和 AI 生成的面孔，效果完美。"
+        },
+        "temperature": {
+          "title": "温度控制",
+          "description": "微调口型同步的表现力。根据场景需要调整为微妙或夸张。"
+        },
+        "activeSpeaker": {
+          "title": "活跃说话者检测",
+          "description": "自动检测多人视频中谁在说话，仅在该人说话时应用口型同步。"
+        },
+        "editForever": {
+          "title": "一次录制，永久编辑",
+          "description": "事后更改对话内容，同时保持原始说话者的表达风格。无需多次录制。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Sync Lipsync 2.0 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "dubbing": {
+          "title": "视频配音",
+          "description": "本地化",
+          "useCase": "使用 AI 为任何视频配音，同时跨语言保持自然的口型动作。"
+        },
+        "postEdit": {
+          "title": "后期制作编辑",
+          "description": "对话编辑",
+          "useCase": "在后期制作中更改对话，无需重新录制。编辑文字同时保留表达方式。"
+        },
+        "animation": {
+          "title": "动画口型同步",
+          "description": "3D 和 2D 角色",
+          "useCase": "为风格化的 3D 角色和 2D 动画添加逼真的口型同步。"
+        },
+        "aiAvatar": {
+          "title": "AI 头像视频",
+          "description": "数字人",
+          "useCase": "创建具有自然语音同步的超逼真 AI 头像视频。"
+        },
+        "multiPerson": {
+          "title": "多人视频",
+          "description": "活跃说话者",
+          "useCase": "处理多人视频，自动检测说话者并进行针对性口型同步。"
+        },
+        "translation": {
+          "title": "跨语言内容",
+          "description": "全球覆盖",
+          "useCase": "跨语言翻译内容，同时保留说话者的独特风格。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Sync Lipsync 2.0 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "videoFormats": "视频格式",
+          "audioFormats": "音频格式",
+          "outputFormat": "输出格式",
+          "maxDuration": "最大时长"
+        },
+        "capabilities": {
+          "title": "功能",
+          "zeroShot": "零样本",
+          "stylePreservation": "风格保留",
+          "activeSpeaker": "活跃说话者检测",
+          "crossDomain": "跨领域"
+        },
+        "controls": {
+          "title": "控制",
+          "temperature": "温度控制",
+          "expressiveness": "表现力",
+          "languageSupport": "语言支持",
+          "characterTypes": "角色类型"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Sync Lipsync 2.0 与其他口型同步模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "zeroShot": "零样本",
+        "stylePreserve": "风格保留",
+        "crossDomain": "跨领域",
+        "activeSpeaker": "活跃说话者",
+        "temperature": "温度控制",
+        "quality": "质量"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按使用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "积分根据视频时长计算。订阅可享更多优惠。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "世界上最自然的口型同步",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Sync Lipsync 2.0？",
+          "answer": "Sync Lipsync 2.0 是 Sync Labs 的零样本模型，用于生成与语音音频匹配的逼真口型动作。它无需训练即可使用，并跨不同语言和视频类型保留说话者的独特风格。"
+        },
+        "1": {
+          "question": "Sync Lipsync 2.0 与其他口型同步模型有什么不同？",
+          "answer": "Sync Lipsync 2.0 提供零样本生成（无需训练）、跨语言风格保留、跨领域支持（真人、动画、AI）、表现力温度控制，以及多人视频的活跃说话者检测。"
+        },
+        "2": {
+          "question": "Sync Lipsync 2.0 可以用于哪些类型的视频？",
+          "answer": "Sync Lipsync 2.0 支持真人视频、动画角色（2D 和 3D）和 AI 生成的面孔。适用于配音、后期制作编辑、头像视频和跨语言内容。"
+        },
+        "3": {
+          "question": "Sync Lipsync 2.0 能保留说话者的风格吗？",
+          "answer": "可以！模型通过观察来学习说话方式。即使跨语言翻译，也能保持其独特的表达风格。"
+        },
+        "4": {
+          "question": "我可以控制口型同步的表现力吗？",
+          "answer": "可以，Sync Lipsync 2.0 包含温度控制，让您微调表现力。为专业内容调整为微妙，或为更生动的场景调高。"
+        },
+        "5": {
+          "question": "Sync Lipsync 2.0 在 OpenCreator 上多少钱？",
+          "answer": "Sync Lipsync 2.0 在 OpenCreator 上每次生成 60 积分。可在 Canvas、Flow 和 API 中使用。订阅用户可享额外折扣。"
+        }
+      }
+    }
+  }
+}

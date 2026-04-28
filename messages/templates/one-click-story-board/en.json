@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "One-Click Story Board – AI Storyboard Generator | OpenCreator",
+    "description": "Turn scripts, ideas, or outlines into visual storyboards with a single workflow. Generate panel-by-panel sequences that show framing, action, and pacing for videos, ads, and narratives.",
+    "keywords": [
+      "storyboard generator",
+      "script to storyboard ai",
+      "one click storyboard",
+      "storyboard panels from text",
+      "video planning boards",
+      "how to turn scripts into storyboards with ai",
+      "ai tool for one click storyboard creation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#storyboard", "#preproduction", "#visual_planning"],
+    "title": "One-click Story Board",
+    "description": "Turn scripts, ideas, or outlines into visual storyboards with a single workflow. Generate panel-by-panel sequences that show framing, action, and pacing for videos, ads, and narratives.",
+    "inputPlaceholder": "Paste your script or scene outline to convert into storyboard panels",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Paste your script or scene breakdown",
+        "description": "Provide your script, scene outline, or bullet-point beats, including key actions, dialogue moments, and locations."
+      },
+      {
+        "title": "Choose storyboard style and fidelity",
+        "description": "Decide whether you want rough sketch-style boards for fast iteration or cleaner frames for client-ready presentations."
+      },
+      {
+        "title": "Generate AI storyboard panels automatically",
+        "description": "Run the One-Click Storyboard workflow to create sequential frames that follow your story flow, angles, and staging notes."
+      },
+      {
+        "title": "Review, reorder, and export boards",
+        "description": "Adjust the order, tweak scripts or prompts as needed, and export boards for production, client reviews, or internal alignment."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams who need visual plans faster than traditional boarding",
+    "subtitle": "From commercial shoots to YouTube videos, see who storyboards with one click.",
+    "audiences": [
+      {
+        "label": "Directors and DPs",
+        "description": "Quickly align teams around camera plans, coverage, and key moments before stepping on set."
+      },
+      {
+        "label": "Agencies and creative producers",
+        "description": "Convert scripts into boards that clients can understand at a glance, shortening feedback cycles."
+      },
+      {
+        "label": "YouTubers and content creators",
+        "description": "Plan episodes, explainers, or series visually so filming and editing stay on track."
+      },
+      {
+        "label": "Educators and trainers",
+        "description": "Generate boards as teaching aids for storytelling, filmmaking, and media production classes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the One-Click Storyboard AI workflow do?",
+        "answer": "This workflow turns scripts, ideas, or outlines into visual storyboards in a single run. It generates panel-by-panel sequences that help you see framing, action, and pacing before production."
+      },
+      {
+        "question": "What should I include in my script or outline for best results?",
+        "answer": "Include key actions, dialogue beats, locations, and any important visual cues like camera angles or mood. The clearer your scene breakdown, the easier it is for the workflow to propose meaningful frames."
+      },
+      {
+        "question": "Can I choose different storyboard styles or fidelity levels?",
+        "answer": "Yes. Depending on how the workflow is configured, you can lean toward rough sketch-style frames for fast planning or cleaner, more detailed panels when you need higher-fidelity boards for clients or internal reviews."
+      },
+      {
+        "question": "How do teams usually use AI-generated storyboards?",
+        "answer": "Teams often use them to align directors, DPs, producers, and clients on camera plans, coverage, and overall flow before committing to full production. They are also helpful for pitching concepts and structuring YouTube or educational content."
+      },
+      {
+        "question": "Can I reorder or refine panels after the first generation?",
+        "answer": "You can treat the first pass as a draft: reorder panels, adjust prompts or sections of your script, and then regenerate specific parts as needed to refine framing and pacing."
+      },
+      {
+        "question": "How do credits and costs work for One-Click Storyboard generations?",
+        "answer": "Each storyboard generation consumes credits based on the length and settings of the workflow. A good strategy is to start with shorter sequences or rougher styles, then invest more credits into higher-fidelity boards once the structure feels right."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "One-Click Story Board – AI Storyboard Generator",
+      "description": "Generate visual storyboards from scripts and outlines with AI-powered, one-click workflows for films, ads, and online content."
+    },
+    "softwareApplication": {
+      "name": "AI Storyboard Generator",
+      "description": "AI workflow that converts written scripts and outlines into storyboard panels to speed up preproduction and planning."
+    },
+    "faqPage": {
+      "name": "One-Click Story Board – FAQ"
+    }
+  }
+}

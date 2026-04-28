@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Image to Video – AI Image to Video Generator | OpenCreator",
+    "description": "Turn static images into dynamic clips with OpenCreator's AI Image to Video workflow. Product video maker for adding motion, camera moves, and subtle animations for social content and ads.",
+    "keywords": [
+      "product video maker",
+      "ai product image generation",
+      "ai commercial generator",
+      "image to video generator",
+      "animate image with ai",
+      "photo to video",
+      "image animation tool",
+      "ai motion from still image",
+      "how to turn images into videos with ai",
+      "best ai image to video generator for social media"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#image_to_video_ai", "#photo_to_video", "#ai_video_generator"],
+    "title": "Image to Video",
+    "description": "AI image to video generator. Transform photos into dynamic videos with AI. Create engaging photo to video animations with camera movements and effects. Perfect for social media content, product videos, and visual storytelling.",
+    "inputPlaceholder": "Upload an image and describe how you want it to move or transform",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your image",
+        "description": "Start with a clear, well-composed photo—product shot, illustration, portrait, or scene."
+      },
+      {
+        "title": "Describe the motion you want",
+        "description": "Guide the animation with text: pans, zooms, parallax, pacing, or ambient movement."
+      },
+      {
+        "title": "Generate animated video",
+        "description": "AI adds camera motion and subtle animation to bring your static image to life."
+      },
+      {
+        "title": "Export and use",
+        "description": "Download your video clip for social media, ads, presentations, or creative projects."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators who need motion from stills",
+    "subtitle": "From social media to product marketing, see who uses AI image to video.",
+    "audiences": [
+      {
+        "label": "Social media creators",
+        "description": "Turn static posts into eye-catching video content that stops the scroll."
+      },
+      {
+        "label": "Product marketers",
+        "description": "Animate product photos into motion-first creatives for ads and campaigns."
+      },
+      {
+        "label": "Presentation designers",
+        "description": "Add subtle movement to slides and explainer visuals for more engaging decks."
+      },
+      {
+        "label": "Content creators",
+        "description": "Breathe life into illustrations and key visuals for storytelling and social feeds."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Image to Video AI workflow do?",
+        "answer": "This workflow turns a single image into a short video clip by adding camera motion, ambient movement, and subtle animation. It is designed as an AI image to video generator for social content, ads, and storytelling."
+      },
+      {
+        "question": "What kind of input works best for Image to Video?",
+        "answer": "Start with a clear, well-lit image that has a strong subject and composition—such as a product shot, illustration, portrait, or scene. You can optionally add a short text description to guide how the camera should move and what kind of motion you want."
+      },
+      {
+        "question": "Can I control how the image moves in the final video?",
+        "answer": "Yes. In your prompt you can describe pans, zooms, parallax, and the overall pacing or mood (for example, slow cinematic zoom, fast social scroll animation, or subtle ambient movement). The workflow uses this description as guidance for the motion it generates."
+      },
+      {
+        "question": "What are typical use cases for AI Image to Video?",
+        "answer": "Common use cases include turning static product photos into motion-first creatives for ads, animating key visuals for social feeds, creating motion from illustrations, and adding subtle movement to slides or explainer visuals."
+      },
+      {
+        "question": "Can I generate multiple video variations from the same image?",
+        "answer": "You can run the workflow multiple times with different prompts, motion styles, or durations to explore variations. This is useful when testing different cuts for social media or campaigns."
+      },
+      {
+        "question": "How does pricing work for Image to Video generations?",
+        "answer": "Each generation consumes credits depending on the model settings you use. A good practice is to start with a few shorter test runs to find a motion style you like, then generate more polished versions once you are happy with the direction."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Image to Video – AI Image to Video Generator",
+      "description": "Turn static images into dynamic video clips with AI-powered motion and animation."
+    },
+    "softwareApplication": {
+      "name": "Image to Video AI Workflow",
+      "description": "AI workflow that transforms photos into animated videos with camera movements and effects."
+    },
+    "faqPage": { "name": "Image to Video – FAQ" }
+  }
+}

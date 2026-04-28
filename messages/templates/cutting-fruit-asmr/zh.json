@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Cutting Fruit ASMR – 切水果 ASMR 视频生成 | OpenCreator",
+    "description": "生成贴近质感与运动的切水果 ASMR 近景短片，适合美食创作者、厨房品牌与“解压”内容账号。",
+    "keywords": [
+      "切水果 asmr",
+      "解压切割视频",
+      "食物 asmr",
+      "刀工展示",
+      "水果切片",
+      "AI 切水果 asmr"
+    ]
+  },
+  "hero": {
+    "featureTag": "视频生成",
+    "tags": ["#ASMR", "#美食", "#解压"],
+    "title": "切水果 ASMR",
+    "description": "用 AI 生成近景切水果 ASMR 视频，突出果肉质感、多汁细节与刀具运动的连贯节奏。从切西瓜到削水蜜桃，生成让人感到解压满足的切水果画面，非常适合 ASMR 内容创作者和食品品牌。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "描述水果种类、切法与节奏偏好",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "确定水果与画面氛围",
+        "description": "描述水果类型与整体氛围，如清新、明快、极简或电影感。"
+      },
+      {
+        "title": "选择切法与速度",
+        "description": "如切片、切丁、旋切或精细刀工，并指定慢速、常速或更高速节奏。"
+      },
+      {
+        "title": "生成切水果 ASMR 片段",
+        "description": "AI 生成突出质地、汁水与运动细节的近景画面。"
+      },
+      {
+        "title": "导出用于美食频道与投放",
+        "description": "输出平台就绪短片，适配 Reels、Shorts 与广告素材。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合美食、厨房与 ASMR 向创作者",
+    "subtitle": "从菜谱频道到刀具品牌，都能用切水果 ASMR 提升互动。",
+    "audiences": [
+      {
+        "label": "美食与菜谱创作者",
+        "description": "用高满足感的切割细节提升观看粘性。"
+      },
+      {
+        "label": "厨房品牌与零售商",
+        "description": "以动态近景展示刀具表现与食材新鲜度。"
+      },
+      {
+        "label": "ASMR 与解压内容账号",
+        "description": "作为高互动的节奏片段用于填充内容日历。"
+      },
+      {
+        "label": "食品广告主",
+        "description": "用于零食或生鲜推广，营造强烈食欲与新鲜感。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Cutting Fruit ASMR 工作流？",
+        "answer": "这是一个生成近景切水果 ASMR 视频的 AI 工作流，突出质地、汁水与运动的细节表现。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "美食创作者、厨房品牌、广告主与 ASMR 账号等需要“高满足感”切割画面的团队。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "描述想要呈现的水果种类（如西瓜、芒果、草莓等），切割方式（如横切、纵切、切块、削皮），节奏快慢，以及画面氛围（如清新、治愈、满足感）。你也可以提供参考示例链接。"
+      },
+      {
+        "question": "能得到什么输出？",
+        "answer": "生成平台就绪的短视频片段，包含近景切割镜头、果肉纹理特写和汁水细节，可直接发布到短视频平台或用于产品营销。"
+      },
+      {
+        "question": "能控制速度与取景吗？",
+        "answer": "可以。可在慢速、常速或更高速之间选择，并指定取景与构图偏好。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "每次生成会按时长与复杂度消耗积分，你可以在套餐额度内迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Cutting Fruit ASMR – 切水果 ASMR 视频生成",
+      "description": "为社媒与广告生成贴近质感的切水果 ASMR 短片。"
+    },
+    "softwareApplication": {
+      "name": "Cutting Fruit ASMR 模板",
+      "description": "用于生成以切割为核心的 ASMR 近景片段的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Cutting Fruit ASMR – 常见问题"
+    }
+  }
+}

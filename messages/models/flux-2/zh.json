@@ -1,0 +1,154 @@
+{
+  "model": {
+    "meta": {
+      "title": "FLUX.2 图像生成模型 | 多参考图一致性与文字排版 | OpenCreator",
+      "description": "了解 FLUX.2：更强多参考图一致性、更可靠文字排版与生产级图像编辑能力。现已可在 OpenCreator 使用。"
+    },
+    "hero": {
+      "modelName": "FLUX.2",
+      "tagline": "面向生产流程的前沿视觉智能",
+      "description": "Black Forest Labs 的 FLUX.2 提供高保真生成与编辑能力，强调多参考图一致性、改进的文字渲染与原生图像编辑，适合品牌与电商生产流程。",
+      "badge": "新功能",
+      "ctaText": "查看价格",
+      "secondaryCtaText": "浏览模板",
+      "capabilities": {
+        "multiRef": "多参考图",
+        "typography": "文字排版",
+        "product": "产品一致性",
+        "editing": "图像编辑",
+        "highRes": "高分辨率"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "为品牌、产品与设计工作流而生",
+      "items": {
+        "multiRef": {
+          "title": "多参考图一致性",
+          "description": "用多张参考图保持人物/产品/风格在多次生成中的一致性。"
+        },
+        "text": {
+          "title": "更可靠的文字渲染",
+          "description": "更适合海报、包装、UI 模拟与信息图等排版场景。"
+        },
+        "detail": {
+          "title": "更强细节与写实",
+          "description": "更稳定的光照与材质表现，提升可用成片比例。"
+        },
+        "editing": {
+          "title": "文本 + 参考图编辑",
+          "description": "结合文本指令与参考图进行编辑，减少手工步骤。"
+        },
+        "prompt": {
+          "title": "更强提示词遵循",
+          "description": "对结构化提示词与构图约束的遵循更可靠。"
+        },
+        "workflow": {
+          "title": "更适配生产流程",
+          "description": "降低迭代成本，提高可交付输出的比例。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "示例",
+      "subtitle": "与 FLUX.2 目标工作流相近的 OpenCreator 代表性场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "brand": {
+          "title": "品牌海报",
+          "description": "排版与版式",
+          "useCase": "生成更清晰可读的文字与更一致的风格。"
+        },
+        "product": {
+          "title": "产品视觉",
+          "description": "多变体一致性",
+          "useCase": "在不同风格、角度与背景下保持产品一致性。"
+        },
+        "typography": {
+          "title": "设计资产",
+          "description": "UI 与信息图",
+          "useCase": "产出更适合设计流程的素材与更可靠的文字表现。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "输入输出与关键能力概览",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入形式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率"
+        },
+        "capabilities": {
+          "title": "能力",
+          "multiReference": "多参考图",
+          "textRendering": "文字渲染",
+          "imageEditing": "图像编辑"
+        },
+        "useCases": {
+          "title": "适用场景",
+          "productShots": "产品图",
+          "brandDesign": "品牌设计",
+          "typography": "排版"
+        }
+      },
+      "values": {
+        "inputFormats": "文本 + 图片（参考图）",
+        "outputFormat": "PNG/JPG",
+        "maxResolution": "最高 4MP"
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "FLUX.2 的定位",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "multiReference": "多参考图",
+        "textRendering": "文字渲染",
+        "imageEditing": "图像编辑",
+        "resolution": "分辨率",
+        "promptFollowing": "提示词遵循",
+        "productConsistency": "产品一致性"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按次消耗积分，用多少算多少",
+      "ctaText": "免费试用 FLUX.2",
+      "description": "Black Forest Labs 前沿图像模型",
+      "note": "每次生成积分消耗会随尺寸与质量参数变化，运行前会展示预计消耗。",
+      "viewFullPricing": "查看完整定价 →"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "FLUX.2 已经在 OpenCreator 上线了吗？",
+          "answer": "已上线。你可以在 OpenCreator 直接使用 FLUX.2（Flux 2 Pro）进行生成与编辑。"
+        },
+        "1": {
+          "question": "多参考图有什么用？",
+          "answer": "可以在多次生成中保持人物、产品与风格的一致性。"
+        },
+        "2": {
+          "question": "FLUX.2 适合做排版吗？",
+          "answer": "FLUX.2 定位为更强文字渲染能力，实际表现以接入 OpenCreator 后为准。"
+        },
+        "3": {
+          "question": "定价会怎么计算？",
+          "answer": "按次消耗积分，具体消耗受尺寸和质量参数影响，运行前会看到预计消耗。"
+        },
+        "4": {
+          "question": "如何快速上手？",
+          "answer": "可先从模板页选择品牌海报、产品图或设计资产场景，再按需求调整提示词与参考图。"
+        }
+      }
+    }
+  }
+}

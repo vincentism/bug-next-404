@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "AIGC Fashion Photography Workflow – AI Fashion Model Generator | OpenCreator",
+    "description": "Transform garment photos into professional fashion photography with AI models. Generate stunning clothing visuals, apparel photography for e-commerce, and fashion brand photoshoots without hiring models or photographers.",
+    "keywords": [
+      "ai fashion models",
+      "ai clothing generator",
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "garment photography",
+      "clothing brand photoshoot",
+      "ai product photography",
+      "how to take pictures of clothes to sell",
+      "fashion photography ai",
+      "virtual fashion model",
+      "ai model for clothing",
+      "ecommerce fashion photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#fashion", "#ecommerce", "#ai_photography"],
+    "title": "AIGC Fashion Photography",
+    "description": "Transform your garment photos into stunning fashion photography and videos with AI-generated models. Create professional clothing brand photoshoots, apparel photography for e-commerce, and dynamic fashion content—no models or photographers needed.",
+    "inputPlaceholder": "Upload your garment image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your garment image",
+        "description": "Provide a flat-lay or mannequin photo of your clothing item. Our AI will analyze the garment's style, color, and details to create the perfect fashion photography."
+      },
+      {
+        "title": "AI generates fashion model photos",
+        "description": "Nano Banana Pro creates stunning on-model images with AI-generated fashion models that perfectly showcase your garments in professional poses and settings."
+      },
+      {
+        "title": "Create dynamic fashion videos",
+        "description": "Transform your AI-generated fashion photos into captivating videos using Seedance, perfect for social media ads, lookbooks, and e-commerce product pages."
+      },
+      {
+        "title": "Download and publish",
+        "description": "Export high-resolution fashion photos and videos ready for your online store, social media campaigns, and marketing materials. Start selling with professional fashion content."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for fashion brands and e-commerce sellers",
+    "subtitle": "From emerging designers to established retailers, see who creates fashion content with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create lookbooks and campaigns without expensive photoshoots. Generate consistent, professional fashion photography that elevates your brand image."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Transform flat-lay photos into compelling on-model images that boost click-through rates and conversions on your online store."
+      },
+      {
+        "label": "Clothing dropshippers",
+        "description": "Stand out from competitors by turning supplier images into unique, professional fashion content that builds customer trust."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Create scroll-stopping fashion videos and images for Instagram, TikTok, and Pinterest without hiring models or photographers."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the AIGC Fashion Photography workflow?",
+        "answer": "It's an AI-powered workflow that transforms garment photos into professional fashion photography and videos. Using Nano Banana Pro for image generation and Seedance for video creation, it generates realistic on-model fashion content without hiring models or photographers."
+      },
+      {
+        "question": "What kind of garment images work best?",
+        "answer": "Flat-lay photos, mannequin shots, or clean product images work best. The AI can handle various clothing types including dresses, tops, pants, outerwear, and accessories. Higher quality input images produce better results."
+      },
+      {
+        "question": "Can I choose the model's appearance and pose?",
+        "answer": "The AI automatically selects appropriate models and poses based on your garment style. The workflow is optimized to showcase your clothing in the most flattering way for e-commerce and marketing purposes."
+      },
+      {
+        "question": "What video formats can I create?",
+        "answer": "The workflow generates vertical videos (9:16) perfect for TikTok, Instagram Reels, and mobile e-commerce. Videos feature dynamic movement and transitions that bring your fashion content to life."
+      },
+      {
+        "question": "How long does it take to generate fashion content?",
+        "answer": "Photo generation typically takes 1-2 minutes, while video creation takes 2-5 minutes depending on complexity. The entire workflow from garment upload to final video can be completed in under 10 minutes."
+      },
+      {
+        "question": "Is the AI-generated content suitable for commercial use?",
+        "answer": "Yes, all generated content is fully licensed for commercial use including e-commerce listings, social media marketing, paid advertising, and print materials."
+      },
+      {
+        "question": "Can I maintain brand consistency across multiple products?",
+        "answer": "Yes, the workflow produces consistent visual style across your product line, helping build brand recognition and a cohesive shopping experience for customers."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Each generation consumes credits based on the AI models used. Creating a complete fashion photo and video set costs a fraction of traditional photography, making professional content accessible to businesses of all sizes."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AIGC Fashion Photography Workflow – AI Fashion Model Generator",
+      "description": "Transform garment photos into professional fashion photography with AI-generated models and dynamic videos."
+    },
+    "softwareApplication": {
+      "name": "AIGC Fashion Photography AI Generator",
+      "description": "AI-powered fashion photography tool for generating professional on-model images and videos from garment photos."
+    },
+    "faqPage": {
+      "name": "AIGC Fashion Photography Workflow – FAQ"
+    }
+  }
+}

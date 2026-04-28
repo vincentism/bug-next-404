@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Blueprint to Render: AI Architectural & Product Rendering | OpenCreator",
+    "description": "Convert blueprints and line drawings into polished architectural or product renders with AI. Create presentation-ready visuals for proposals and marketing.",
+    "keywords": [
+      "blueprint to render",
+      "ai architectural render",
+      "floor plan to 3d render",
+      "product render generator",
+      "concept sketch to render",
+      "ai rendering from drawing",
+      "architectural visualization ai",
+      "design presentation render"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#blueprint", "#render", "#visualization"],
+    "title": "Blueprint to Render",
+    "description": "Turn technical blueprints into polished renders without a full 3D production pipeline. Generate presentation visuals for client decks, product concepts, and marketing previews in minutes.",
+    "inputPlaceholder": "Upload your blueprint or line drawing",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your blueprint or line drawing",
+        "description": "Start with a floor plan, product sketch, or technical blueprint exported as an image. The workflow treats it as a structural guide for the final render."
+      },
+      {
+        "title": "Describe the look and context you want",
+        "description": "Add a short text brief about materials, lighting, environment, and mood—for example, \"daytime interior showroom lighting\" or \"moody studio product shot\"."
+      },
+      {
+        "title": "Generate AI-powered renders from your blueprint",
+        "description": "The workflow uses your blueprint plus text instructions to create high-quality renders that keep the original structure while upgrading the visual style."
+      },
+      {
+        "title": "Review, iterate, and export",
+        "description": "Compare different variations, refine prompts if needed, then download the images you want to use in decks, marketing materials, or design reviews."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For architects, designers, and visual storytellers",
+    "subtitle": "Anyone who works with blueprints or technical drawings can turn them into clear, visual stories.",
+    "audiences": [
+      {
+        "label": "Architects & interior designers",
+        "description": "Quickly turn plans and elevations into visual concepts for client presentations, moodboards, and early-stage reviews."
+      },
+      {
+        "label": "Industrial & product designers",
+        "description": "Create styled hero shots and presentation renders from product blueprints without committing to full 3D modeling workflows."
+      },
+      {
+        "label": "Brand & creative teams",
+        "description": "Use technical drawings as a base to generate on-brand visuals for pitch decks, launch campaigns, and explainer content."
+      },
+      {
+        "label": "Studios & agencies",
+        "description": "Speed up concept visualization when working with clients who only have technical documentation or engineering drawings available."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Blueprint to Render workflow?",
+        "answer": "Blueprint to Render is an AI-powered workflow that turns flat blueprints or line drawings into visually compelling renders. It uses your existing plans as structure and upgrades them into presentation-ready images for marketing and design reviews."
+      },
+      {
+        "question": "What kind of input do I need to use this workflow?",
+        "answer": "You provide an image of your blueprint—such as a floor plan, product sketch, or technical drawing—and a short text description of the look you want. The workflow then generates renders based on that combination."
+      },
+      {
+        "question": "Can this workflow replace full 3D modeling?",
+        "answer": "Blueprint to Render is designed for fast visualization, not detailed CAD replacement. It helps you quickly generate concept visuals and marketing images from 2D drawings without setting up a full 3D pipeline."
+      },
+      {
+        "question": "Who benefits most from Blueprint to Render?",
+        "answer": "Architects, interior designers, product designers, and creative teams who need to communicate ideas visually using existing blueprints or technical drawings will benefit the most from this workflow."
+      },
+      {
+        "question": "What can I do with the generated renders?",
+        "answer": "You can use the renders in client decks, early-stage design reviews, marketing mockups, social posts, and other visual communication where a clear, attractive image works better than a raw blueprint."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Each run of the workflow consumes credits based on the underlying image generation steps. It is optimized for quickly turning existing drawings into useful, reusable visuals."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Blueprint to Render – AI Architectural & Product Render Generator",
+      "description": "Turn blueprints and technical drawings into marketing-ready renders with OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Blueprint to Render AI Workflow",
+      "description": "AI-powered workflow that generates presentation-ready renders from blueprints, floor plans, and product line drawings."
+    },
+    "faqPage": {
+      "name": "Blueprint to Render – FAQ"
+    }
+  }
+}

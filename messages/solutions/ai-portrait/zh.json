@@ -1,0 +1,133 @@
+{
+  "seo": {
+    "title": "AI 头像生成器 - 专业证件照与商务照 | OpenCreator",
+    "description": "生成专业 AI 头像，适用于领英、商务资料和社交媒体。专业级人像、头像和证件照，几分钟完成。无需拍照。",
+    "keywords": [
+      "ai头像生成器",
+      "ai专业头像",
+      "领英照片生成",
+      "ai证件照",
+      "ai商务照",
+      "头像生成器",
+      "ai虚拟形象",
+      "ai人像"
+    ]
+  },
+  "hero": {
+    "badge": "人像解决方案",
+    "title": "无需拍照的专业头像",
+    "description": "用简单自拍，通过引导式工作流生成专业级头像和虚拟形象。你只需选择背景和风格，AI 会帮你处理光线、细节和整体质感。",
+    "cta": "创建你的头像",
+    "secondaryCta": "查看模板",
+    "stats": {
+      "quality": {
+        "label": "质量",
+        "value": "专业级"
+      },
+      "time": {
+        "label": "时间",
+        "value": "2 分钟"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "一站式人像方案",
+    "description": "为不同场景配一套固定流程：一套用于 LinkedIn，一套用于团队统一头像，另一套用于创意虚拟形象。保持构图和背景一致，需要更新头像时直接复用同一套配置即可。",
+    "sections": {
+      "professional": {
+        "title": "专业头像",
+        "subtitle": "LinkedIn 与商务资料"
+      },
+      "creative": {
+        "title": "创意人像",
+        "subtitle": "虚拟形象与角色设计"
+      },
+      "content": {
+        "title": "内容创作",
+        "subtitle": "封面图与社交媒体"
+      }
+    },
+    "explore": "查看",
+    "templates": {
+      "linkedinHeadshot": "领英头像",
+      "aiAvatarGenerator": "情侣头像",
+      "studioLevelPhotography": "专业级摄影",
+      "ageChangeEffect": "年龄变换效果",
+      "3dCharacterRender": "3D 角色渲染",
+      "3dFigureDesign": "3D 人偶设计",
+      "consistentCharacterAds": "一致角色广告",
+      "hairstyleLab": "发型实验室",
+      "animalOlympics": "动物奥运会",
+      "multiverseProblemSolver": "多元宇宙问题解决者",
+      "povLeakedFootage": "POV 泄露画面",
+      "ugcPromoPost": "UGC 推广帖",
+      "aiThumbnailMaker": "YouTube 封面图",
+      "youtubeVlogThumbnail": "YouTube Vlog 封面"
+    }
+  },
+  "audiences": {
+    "title": "适用人群",
+    "badge": "为职场人士打造",
+    "description": "无论你需要一张头像还是为整个团队生成数百张，AI 让专业摄影人人可及。",
+    "items": {
+      "professionals": {
+        "title": "求职者与职场人士",
+        "description": "用精致专业的头像在 LinkedIn 和求职申请中脱颖而出，留下良好的第一印象。",
+        "roles": "求职者、自由职业者、顾问"
+      },
+      "teams": {
+        "title": "HR 与公司团队",
+        "description": "为整个团队创建一致的头像，无需协调时间或聘请摄影师。",
+        "roles": "HR 经理、行政经理、团队负责人"
+      },
+      "creators": {
+        "title": "内容创作者",
+        "description": "生成独特的虚拟形象和封面图，在社交平台和个人品牌中脱颖而出。",
+        "roles": "YouTuber、主播、播客主"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": {
+      "q1": {
+        "question": "我应该上传什么样的照片，才能生成好看的 AI 头像？",
+        "answer": "建议使用清晰、不过度美颜、不过度背光的自拍或半身照，脸部完整可见。自然表情或微笑通常效果最好。尽量避免墨镜、强磨皮滤镜或极端角度拍摄，这些都会让模型更难准确理解你的真实五官，导致不同风格之间的一致性变差。"
+      },
+      "q2": {
+        "question": "生成的头像能有多像我？有哪些边界？",
+        "answer": "我们的目标是：在保留你本人特征的前提下，提升光线、背景和整体专业感。如果你上传的照片本身模糊、滤镜很重，或者全部只拍一侧脸，模型在某些细节上可能会“猜”。像大幅度变年龄、极致妆容、二次元/幻想风格等创意效果，适合用于内容创作，但不应被视为你现实外貌的精确还原。"
+      },
+      "q3": {
+        "question": "这些头像适合用在 LinkedIn、公司官网等职场场景吗？",
+        "answer": "适合。很多用户会先生成一组偏正式的头像（正装/商务休闲、不同背景），再在 LinkedIn、公司官网、个人主页等场景复用。你可以保留一两张“标志性形象”，再为不同平台生成略有变化的版本，让整体形象既统一又不完全重复。"
+      },
+      "q4": {
+        "question": "团队批量头像工作流是怎么运作的？",
+        "answer": "针对团队场景，你可以在同一个工作流中上传多位成员的照片，并统一设置构图、背景和光线。每个人仍然会得到自己的一组结果，但整体的画面系统是一致的，非常适合一次性为公司所有成员更新头像，而无需安排集中拍摄。"
+      },
+      "q5": {
+        "question": "AI 头像可以用于证件照、护照等正式证件吗？",
+        "answer": "不建议，也不符合大多数国家/地区的规定。AI 生成的人像不应用于护照、身份证、签证等需要真实拍摄的证件场景。它们主要用于职场形象和线上个人品牌，而不是法律意义上的身份识别。使用前请务必确认当地法规和所在机构的具体要求。"
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI 人像与头像生成器",
+      "description": "无需拍照，生成专业 AI 头像和人像。"
+    },
+    "softwareApplication": {
+      "name": "AI 人像与头像生成器",
+      "description": "为 LinkedIn、公司资料和社交媒体生成专业级头像。"
+    },
+    "faqPage": {
+      "name": "AI 人像解决方案 - 常见问题"
+    }
+  },
+  "relatedSolutions": {
+    "title": "探索更多解决方案",
+    "subtitle": "发现更多 AI 驱动的工作流，提升你的创意生产力",
+    "ctaLabel": "查看该解决方案"
+  }
+}

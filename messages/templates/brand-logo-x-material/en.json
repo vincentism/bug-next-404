@@ -1,0 +1,105 @@
+{
+  "seo": {
+    "title": "Brand Logo x Material – Textured Brand Assets Generator | OpenCreator",
+    "description": "Turn your logo into rich, material-based visuals using AI. Apply metals, glass, fabric, stone, liquid, and other materials to create eye-catching key visuals for campaigns, packaging, and social.",
+    "keywords": [
+      "logo material generator",
+      "textured logo design",
+      "3d logo material ai",
+      "logo treatment ideas",
+      "branding material visuals",
+      "create material based logo visuals with ai",
+      "ai logo texture exploration"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#branding", "#logo", "#materials"],
+    "title": "Brand Logo x Material",
+    "description": "Turn your logo into rich, material-based visuals using AI. Apply metals, glass, fabric, stone, liquid, and other materials to your logo to create eye-catching key visuals for campaigns, packaging, and social.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload your logo and describe the materials or textures you want to explore",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your logo file",
+        "description": "Provide a clean vector or high-resolution logo on a simple background."
+      },
+      {
+        "title": "Select or describe target materials",
+        "description": "Choose metals, fabrics, liquids, glass, stone, neon, or custom textures aligned with your brand."
+      },
+      {
+        "title": "Generate logo x material variations",
+        "description": "AI renders your logo as if it were made from chosen materials, with realistic lighting and depth."
+      },
+      {
+        "title": "Export assets for campaigns and brand systems",
+        "description": "Use visuals in hero banners, social posts, packaging explorations, and presentation decks."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands exploring new visual territories",
+    "subtitle": "From startups to established brands, see who reimagines logos with materials.",
+    "audiences": [
+      {
+        "label": "Brand and visual identity designers",
+        "description": "Experiment with logo treatments for pitches and rebrands."
+      },
+      {
+        "label": "Marketing and campaign teams",
+        "description": "Create tactile, premium-feel hero visuals for launches."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Prototype multiple logo treatment routes to present to clients fast."
+      },
+      {
+        "label": "Packaging and industrial designers",
+        "description": "Visualize how brand marks might appear in real-world materials."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Brand Logo x Material workflow?",
+        "answer": "It is an AI workflow that turns flat logos into material-based visuals—metals, glass, fabric, stone, liquid, and more—for brand assets and campaigns."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Brand designers, marketers, agencies, and packaging teams who need quick, high-quality logo treatments and explorations."
+      },
+      {
+        "question": "What inputs do I need?",
+        "answer": "Upload a clean logo file and describe the materials or textures you want to explore. Optionally add brand mood or references."
+      },
+      {
+        "question": "What does the output look like?",
+        "answer": "High-quality logo visuals rendered as if made from your chosen materials, suitable for presentations and campaign mockups."
+      },
+      {
+        "question": "Can I try multiple styles?",
+        "answer": "Yes. You can explore multiple material directions and iterate quickly until you find the best brand fit."
+      },
+      {
+        "question": "How are credits used?",
+        "answer": "Each generation consumes credits based on complexity and resolution. You can iterate within your plan and export selected results."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Brand Logo x Material – Textured Brand Assets Generator",
+      "description": "AI-generated logo x material visuals for campaigns and brand systems."
+    },
+    "softwareApplication": {
+      "name": "Brand Logo x Material Template",
+      "description": "AI workflow that renders logos with realistic materials and textures."
+    },
+    "faqPage": { "name": "Brand Logo x Material – FAQ" }
+  }
+}

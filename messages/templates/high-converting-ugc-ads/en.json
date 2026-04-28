@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "High-Converting UGC Ads – AI Video Ad Generator | OpenCreator",
+    "description": "Create authentic UGC-style video ads that convert. AI analyzes your product, generates pain-point hooks, creates influencer-style visuals, and produces talking-head videos with Sora 2.",
+    "keywords": [
+      "ugc ad generator",
+      "ai ugc video maker",
+      "high converting video ads",
+      "influencer style ads",
+      "talking head video ai",
+      "product video ads",
+      "social media ad generator",
+      "authentic video marketing"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Ads",
+    "tags": ["#Sora_2", "#E-commerce", "#Social_Promo"],
+    "title": "High-Converting UGC Ads",
+    "description": "Turn any product into authentic UGC-style video ads that actually convert. AI analyzes your product page, identifies customer pain points, generates compelling hooks, and creates realistic influencer-style talking-head videos. Perfect for e-commerce brands and marketers who need scalable, high-performing ad content.",
+    "inputPlaceholder": "Enter your product URL",
+    "ctaText": "Create UGC Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input product URL and target market",
+        "description": "Provide your product page link and specify your target market or customer segment. The AI will analyze your product thoroughly."
+      },
+      {
+        "title": "AI analyzes pain points",
+        "description": "GPT-5.2 and Gemini 3 Pro deep-dive into your product, identifying user pain points, target personas, and competitive positioning."
+      },
+      {
+        "title": "Generate hooks and visuals",
+        "description": "AI creates multiple attention-grabbing hooks and generates authentic UGC-style first-frame images with diverse creator personas."
+      },
+      {
+        "title": "Produce talking-head videos",
+        "description": "VEO 3.1 transforms the images into realistic talking-head videos with natural lip sync, gestures, and authentic influencer delivery."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Scale your ad creative without the hassle",
+    "subtitle": "See who's using AI to create high-converting UGC content.",
+    "audiences": [
+      {
+        "label": "E-commerce brands",
+        "description": "Generate unlimited UGC-style ads for A/B testing without hiring creators or managing influencer relationships."
+      },
+      {
+        "label": "Performance marketers",
+        "description": "Rapidly iterate on ad creative with data-driven hooks and diverse creator representations."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Scale video ad production for multiple clients while maintaining authentic UGC aesthetics."
+      },
+      {
+        "label": "DTC startups",
+        "description": "Create professional-quality video ads on a bootstrap budget with fast turnaround times."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the High-Converting UGC Ads workflow?",
+        "answer": "This AI workflow creates authentic UGC-style video ads from just a product URL. It analyzes your product, generates pain-point-focused hooks, creates diverse influencer-style visuals, and produces realistic talking-head videos using VEO 3.1."
+      },
+      {
+        "question": "How does the AI analyze my product?",
+        "answer": "The workflow uses GPT-5.2 and Gemini 3 Pro to analyze your product page, extracting features, benefits, target users, pain points, and competitive positioning to inform the ad creative."
+      },
+      {
+        "question": "What makes these ads 'high-converting'?",
+        "answer": "The AI focuses on pain-point-first messaging, authentic UGC aesthetics, and proven direct-response copywriting patterns. Each hook is designed to stop the scroll and address real customer problems."
+      },
+      {
+        "question": "Can I get different creator personas?",
+        "answer": "Yes. The workflow generates visuals with diverse creator personas across different genders, ethnicities, and settings to help you test what resonates with your audience."
+      },
+      {
+        "question": "What video format and quality can I expect?",
+        "answer": "Videos are generated in 9:16 vertical format at 1080p, optimized for TikTok, Instagram Reels, and other social platforms. Each video is approximately 6 seconds."
+      },
+      {
+        "question": "How authentic do the videos look?",
+        "answer": "The AI specifically generates UGC-style aesthetics: slightly imperfect lighting, casual framing, natural skin texture, and realistic smartphone-video quality. They're designed to blend seamlessly with organic content."
+      },
+      {
+        "question": "Can I use these for paid advertising?",
+        "answer": "Absolutely. The generated content is designed for commercial use in paid social campaigns, performance marketing, and brand advertising."
+      },
+      {
+        "question": "How many ad variations can I create?",
+        "answer": "The workflow generates 3 different hooks and 3 different creator visuals, giving you multiple combinations to test. You can run the workflow multiple times for more variations."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "High-Converting UGC Ads – AI Video Ad Generator",
+      "description": "Create authentic UGC-style video ads that convert with AI-powered product analysis and realistic talking-head videos."
+    },
+    "softwareApplication": {
+      "name": "High-Converting UGC Ads AI Generator",
+      "description": "AI-powered workflow that creates authentic UGC-style video ads with pain-point hooks and realistic influencer-style talking-head videos."
+    },
+    "faqPage": {
+      "name": "High-Converting UGC Ads – FAQ"
+    }
+  }
+}

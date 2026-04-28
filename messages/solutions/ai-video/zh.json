@@ -1,0 +1,167 @@
+{
+  "seo": {
+    "title": "AI 视频生成器 - 文字转视频与图片转视频 | OpenCreator",
+    "description": "用 AI 从文字或图片创建精彩视频。生成动画、口型同步、VFX 和特效。适合内容创作者、营销团队和影视制作人。",
+    "keywords": [
+      "ai视频生成器",
+      "文字转视频",
+      "图片转视频",
+      "ai动画生成器",
+      "口型同步ai",
+      "ai视频制作",
+      "视频特效ai",
+      "ai广告生成"
+    ]
+  },
+  "hero": {
+    "badge": "视频解决方案",
+    "title": "几分钟内用 AI 创建视频",
+    "description": "通过预设工作流，把剧本、图片和粗略想法变成可直接使用的视频成片。在同一套流程里组合文生视频、图生视频、VFX、口型同步和音乐，而不必自己搭一堆复杂工具。",
+    "cta": "试用视频生成",
+    "secondaryCta": "查看模板",
+    "stats": {
+      "models": {
+        "label": "AI 模型",
+        "value": "10+"
+      },
+      "time": {
+        "label": "生成时间",
+        "value": "< 10 分钟"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "满足所有视频需求的一站式方案",
+    "description": "从模板起步，在画布上按需调整整个工作流：可以做短视频、广告片、讲解视频、预告片或 ASMR 内容。通过替换模型或节点，而不是重建项目，让不同版本复用同一条制作管线。",
+    "sections": {
+      "generation": {
+        "title": "视频生成",
+        "subtitle": "文字和图片转视频"
+      },
+      "effects": {
+        "title": "特效与编辑",
+        "subtitle": "VFX、口型同步、转场"
+      },
+      "content": {
+        "title": "内容创作",
+        "subtitle": "ASMR、广告、宣传片"
+      }
+    },
+    "explore": "查看",
+    "templates": {
+      "imageToVideo": "图片转视频",
+      "motionTransfer": "动作迁移",
+      "textToVideo": "剧本生成短片",
+      "aiAnimationGenerator": "AI 动画生成器",
+      "sketchToFilm": "草图转短片",
+      "jsonToVideo": "JSON 转视频",
+      "aiMovieTrailerMaker": "AI 电影预告片生成器",
+      "aiMusicVideoGenerator": "AI 音乐视频生成器",
+      "lipSync": "口型同步",
+      "backgroundVfx": "背景特效",
+      "visualEffects": "视觉特效",
+      "videoEdit": "视频编辑",
+      "backgroundMusic": "背景音乐",
+      "sora2xAds": "Sora 2 广告",
+      "veo31Ads": "Veo 3.1 广告",
+      "asmrPromo": "ASMR 推广",
+      "ugcUnboxingVideo": "UGC 开箱视频",
+      "ugcPromoVideoLipsync": "UGC 推广视频（口型同步版）",
+      "crunchyMukbangAsmr": "酥脆吃播 ASMR",
+      "cuttingFruitAsmr": "切水果 ASMR",
+      "foodSlimeAsmr": "食物史莱姆 ASMR",
+      "kittenSlimeAsmr": "小猫史莱姆 ASMR",
+      "specialMaterialAsmr": "特殊材质 ASMR",
+      "foodProductAsmr": "食品产品 ASMR",
+      "sora2xIdols": "Sora 2 偶像",
+      "veo31Playground": "Veo 3.1 创意空间",
+      "nineGridShotBreakdown": "九宫格分镜",
+      "storyboardGeneration": "分镜图生成",
+      "multiCameraStoryboards": "多机位分镜图",
+      "commercialAdProduction": "商业广告一站式制作",
+      "12ShotStoryboard": "12宫格分镜一键成片",
+      "dynamicPosterCreation": "动态海报制作",
+      "highConvertingUgcAds": "高转化素人种草广告视频",
+      "adsRemake": "复刻爆款视频",
+      "frenchRetroStylePromotionalVideo": "法式复古风宣传片",
+      "petSealDance": "宠物 x 海豹舞",
+      "petsXBridalSedanChairDance": "宠物 x 大花轿舞蹈",
+      "aiInfluencerHyperRealLifestyleStudio": "AI Influencer – 超写实生活方式影棚",
+      "everythingTurnsIntoRobots": "万物变机器人",
+      "virtualHumanSings": "数字人唱歌",
+      "apparelAiPromotionalVideo": "服饰AI宣发视频",
+      "automotiveAdvertisingStoryboard": "汽车广告分镜工作流",
+      "conceptRacingCarVideo": "概念赛车视频制作流分解",
+      "clothingPromotionShortFilm": "服装宣发短片",
+      "oneClickCommercialProductAds": "一键生成产品商业广告",
+      "aiHandbagPromoVideo": "包包AI宣发视频",
+      "connectFilm": "CONNECT短片",
+      "pureSweetGirlyMv": "纯妹妹风MV"
+    }
+  },
+  "audiences": {
+    "title": "适用人群",
+    "badge": "为创作者打造",
+    "description": "无论你是独立创作者还是营销团队成员，AI 视频生成都能随需求扩展。",
+    "items": {
+      "creators": {
+        "title": "内容创作者",
+        "description": "无需昂贵设备或剪辑技能，即可创建引人入胜的社交视频、YouTube 内容和病毒式传播的短片。",
+        "roles": "YouTuber、TikToker、网红"
+      },
+      "marketers": {
+        "title": "营销团队",
+        "description": "批量制作广告创意、产品演示和宣传视频。快速测试不同版本。",
+        "roles": "效果营销、品牌经理、代理商"
+      },
+      "filmmakers": {
+        "title": "电影人与艺术家",
+        "description": "探索 AI 生成动画、VFX 和电影级内容的创意可能性。",
+        "roles": "导演、动画师、视觉艺术家"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": {
+      "q1": {
+        "question": "在使用 AI 视频工作流前，我需要准备什么？",
+        "answer": "至少需要一份大致的脚本、几张参考图片，或者一段基础素材视频。对于文生视频模板，清晰的场景描述和大致节奏（每个镜头大概讲什么）会帮助模型规划镜头。对于图生视频，请上传清晰度较高、主体完整可见的图片，最好在 1080p 及以上，避免严重水印、强噪点或主体被裁切。"
+      },
+      "q2": {
+        "question": "每次生成大概要多久？Credits 怎么消耗？",
+        "answer": "大部分模板生成 5-10 秒的视频，只需要几分钟即可完成，但在高负载或使用更重的视频模型时，整条链路可能会接近 10 分钟。像 Sora、Veo 3.x 这类高阶模型，每次运行消耗的 Credits 会明显高于轻量模型。同一个工作流里可能会依次调用多个模型（例如：文案 → 视频 → 特效 → 音乐），每个真正运行的节点都会各自消耗一次 Credits。建议先用较短时长或成本更低的模型调试，确定效果后再切换到高质量模型做最终版。"
+      },
+      "q3": {
+        "question": "我能多大程度上控制运动镜头、构图和风格？",
+        "answer": "你可以控制故事走向、节奏和整体风格，但很难做到对每一帧精准控制。可以通过结构化提示词、分镜脚本、参考图片等方式引导构图和运动趋势。想要更稳定的效果，尽量在多次迭代中保持提示词一致，固定关键参考帧，并在同一个工作流里反复微调，而不是每次从零开始。对于极其精确的走位、镜头轨迹，通常仍然需要在生成后用传统剪辑工具做精修。"
+      },
+      "q4": {
+        "question": "可以在一个项目里组合多个模板和模型吗？",
+        "answer": "可以。OpenCreator 本质上是一个工作流编辑器，你可以从“剧本生成短片”模板开始，把结果接到口型同步、VFX 或背景音乐等节点，再通过 Assemble / 编辑节点把所有片段拼成一个完整视频。你也可以只替换单个节点来测试不同的视频模型，而不用重搭整条链路，这样方便在同一结构下 A/B 测试多种创意版本。"
+      },
+      "q5": {
+        "question": "AI 生成的视频可以用于商业和客户项目吗？",
+        "answer": "原则上，在 OpenCreator 中生成的视频可以用于商业用途，包括广告投放和品牌内容。但你需要自行确保：遵守各模型提供方的使用条款、本地法律法规以及平台政策；不上传没有版权或授权的素材（例如：他人 Logo、版权视频、未授权的人脸）；在对外发布或交付给客户前，对成片做一次合规与内容审核。"
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI 视频生成器",
+      "description": "用 AI 创建精彩视频 - 文字转视频、图片转视频等。"
+    },
+    "softwareApplication": {
+      "name": "AI 视频生成器",
+      "description": "通过 AI 工作流将文字和图片转化为专业视频。"
+    },
+    "faqPage": {
+      "name": "AI 视频生成器 - 常见问题"
+    }
+  },
+  "relatedSolutions": {
+    "title": "探索更多解决方案",
+    "subtitle": "发现更多 AI 驱动的工作流，提升你的创意生产力",
+    "ctaLabel": "查看该解决方案"
+  }
+}

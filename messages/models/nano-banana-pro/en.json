@@ -1,0 +1,180 @@
+{
+  "model": {
+    "meta": {
+      "title": "Nano Banana Pro AI Image Generator | Gemini 3 Pro Image | OpenCreator",
+      "description": "Create studio-quality images with Nano Banana Pro (Gemini 3 Pro Image). Built on Gemini 3 with precise text rendering, real-world knowledge, and multi-language support. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Nano Banana Pro",
+      "tagline": "Studio-Quality Control",
+      "description": "Built on Gemini 3. Create and edit images with studio-quality levels of precision and control. Nano Banana Pro delivers sharp, legible text for posters, intricate diagrams, and detailed product mockups.",
+      "badge": "Google AI",
+      "ctaText": "Try Nano Banana Pro Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "textToImage": "Text to Image",
+        "imageToImage": "Image to Image",
+        "textRendering": "Text Rendering",
+        "reasoning": "Deep Reasoning",
+        "multiLanguage": "Multi-Language"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Nano Banana Pro the state-of-the-art image generation model",
+      "items": {
+        "compliance": {
+          "title": "Masterful Compliance",
+          "description": "From multi-step instructions to nuanced stylistic requests, Nano Banana Pro understands and executes with studio-quality precision."
+        },
+        "presentation": {
+          "title": "Intelligent Presentation",
+          "description": "Transform raw data or complex ideas into clear, insightful text, charts, and infographics with accurate visual representation."
+        },
+        "reasoning": {
+          "title": "Deeper Reasoning",
+          "description": "Tap into a vast and accurate knowledge base, enabling deep reasoning for complex topics in science, history, and more."
+        },
+        "fluency": {
+          "title": "Truly Global Fluency",
+          "description": "Communicate and create across dozens of languages with new levels of accuracy and cultural context."
+        },
+        "textRendering": {
+          "title": "Superior Text Rendering",
+          "description": "Generate images with readable, accurate text - perfect for posters, signs, and text-heavy visuals."
+        },
+        "quality": {
+          "title": "High-Fidelity Output",
+          "description": "Produce stunning, detailed images with exceptional quality suitable for professional use."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Nano Banana Pro on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "conceptArt": {
+          "title": "Concept Art",
+          "description": "Creative Design",
+          "useCase": "Generate stunning concept art and visual explorations for creative projects."
+        },
+        "productVisuals": {
+          "title": "Product Visuals",
+          "description": "E-commerce",
+          "useCase": "Create professional product images and lifestyle shots for marketing."
+        },
+        "infographics": {
+          "title": "Infographics",
+          "description": "Data Visualization",
+          "useCase": "Transform complex data into clear, visually appealing infographics."
+        },
+        "posters": {
+          "title": "Posters & Signs",
+          "description": "Text-Heavy Visuals",
+          "useCase": "Generate posters and signs with accurate, readable text rendering."
+        },
+        "socialMedia": {
+          "title": "Social Media",
+          "description": "Content Creation",
+          "useCase": "Create scroll-stopping visuals for social media campaigns."
+        },
+        "moodBoards": {
+          "title": "Mood Boards",
+          "description": "Visual Exploration",
+          "useCase": "Rapidly explore different visual directions and styles."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Nano Banana Pro capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "aspectRatios": "Aspect Ratios"
+        },
+        "modes": {
+          "title": "Generation Modes",
+          "textToImage": "Text to Image",
+          "imageToImage": "Image to Image",
+          "inpainting": "Inpainting"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "textRendering": "Text Rendering",
+          "multiLanguage": "Multi-Language",
+          "reasoning": "Deep Reasoning"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationSpeed": "Generation Speed",
+          "batchGeneration": "Batch Generation"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Nano Banana Pro compares to other image models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "textToImage": "Text to Image",
+        "imageToImage": "Image to Image",
+        "textRendering": "Text Rendering",
+        "reasoning": "Deep Reasoning",
+        "multiLanguage": "Multi-Language",
+        "quality": "Output Quality"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "description": "Google's state-of-the-art image model",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Nano Banana Pro and who developed it?",
+          "answer": "Nano Banana Pro is Google DeepMind's state-of-the-art image generation model, built on Gemini 3 Pro. It creates and edits images with studio-quality precision, featuring sharp text rendering, real-world knowledge, and multi-language support."
+        },
+        "1": {
+          "question": "What makes Nano Banana Pro different from other image models?",
+          "answer": "Nano Banana Pro excels in studio-quality control, allowing fine control over every aspect of your images. It has superior text rendering for posters and diagrams, real-world knowledge for accurate infographics, and supports translation across dozens of languages."
+        },
+        "2": {
+          "question": "Can Nano Banana Pro render text in images?",
+          "answer": "Yes! Nano Banana Pro has exceptional text rendering. It generates sharp, legible text for posters, intricate diagrams, and detailed product mockups. You can even specify font types or simulate different handwriting styles."
+        },
+        "3": {
+          "question": "What types of images can I create?",
+          "answer": "You can create concept art, product visuals, infographics, posters, social media content, mood boards, and more. The model supports various styles from photorealistic to artistic."
+        },
+        "4": {
+          "question": "Does Nano Banana Pro support multiple languages?",
+          "answer": "Yes! Nano Banana Pro supports translation and localization across dozens of languages. You can generate text in multiple languages and translate designs for different locales, though it may occasionally struggle with grammar or cultural nuances."
+        },
+        "5": {
+          "question": "Can I use Nano Banana Pro images commercially?",
+          "answer": "Commercial use depends on your OpenCreator plan and Google's usage policy. All images are watermarked with SynthID technology for AI detection. Always review the terms before using outputs in commercial projects."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Product 360° View Picture – 360 Product Image Generator | OpenCreator",
+    "description": "Create 360-degree product view pictures for e-commerce with AI. Generate multi-angle product visuals for professional 360 product photography without a full studio setup.",
+    "keywords": [
+      "360 product photography",
+      "product image generator",
+      "ai product image generation",
+      "ai product photography",
+      "ecommerce product photo editing",
+      "professional product photography",
+      "product 360 view",
+      "360 product photo generator",
+      "how to take product photos",
+      "product spin image"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#product_photography", "#360_view"],
+    "title": "Product 360° View Picture",
+    "description": "Turn your product into a 360-degree view picture set with AI. Use a small number of reference shots to generate consistent, multi-angle visuals that help shoppers understand your product from every side.",
+    "inputPlaceholder": "Upload your product image or reference shots",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product references",
+        "description": "Start with one or a few clear product images. The workflow uses them as the visual base for generating a 360° view picture set."
+      },
+      {
+        "title": "Describe the product and viewing style",
+        "description": "Add a short text brief about your product type, background style, and usage scenario—for example, \"clean studio on white\" or \"lifestyle tabletop shot\"."
+      },
+      {
+        "title": "Generate a 360-degree view picture set",
+        "description": "The workflow creates a coherent series of images that show your product from multiple angles, helping customers see details that a single photo would miss."
+      },
+      {
+        "title": "Select, refine, and export",
+        "description": "Pick the angles and versions you like best, optionally iterate with updated prompts, then download high-resolution assets for your store or marketplace listings."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For e-commerce brands who need to show every angle",
+    "subtitle": "Perfect for sellers who want to boost trust and reduce returns with clearer product visuals.",
+    "audiences": [
+      {
+        "label": "Online storefronts and DTC brands",
+        "description": "Give customers a better sense of your product with 360-style image sets, without needing a dedicated 360 camera rig or studio team."
+      },
+      {
+        "label": "Marketplace sellers",
+        "description": "Stand out on platforms that support multiple listing images by showing your product from every important angle in a consistent visual style."
+      },
+      {
+        "label": "Product marketing teams",
+        "description": "Create clear, multi-angle visuals for feature callouts, comparison graphics, and landing pages where a single hero shot is not enough."
+      },
+      {
+        "label": "Small shops and solo creators",
+        "description": "Upgrade simple product snapshots into more complete 360° view sets that make your catalog look professional with minimal effort."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product 360° View Picture workflow?",
+        "answer": "Product 360° View Picture is an AI-powered workflow that helps you create multi-angle product view pictures for e-commerce. It turns a small set of product photos into a more complete 360-style image experience."
+      },
+      {
+        "question": "Do I need a special 360 camera to use this workflow?",
+        "answer": "No. You can start with regular product photos. The workflow focuses on generating coherent, multi-angle visuals from your existing images rather than requiring dedicated 360 hardware."
+      },
+      {
+        "question": "What kind of input works best?",
+        "answer": "Clear, well-lit product images with minimal motion blur work best. A few different angles can help the workflow better understand your product shape and details."
+      },
+      {
+        "question": "How can 360-style pictures help my store?",
+        "answer": "Showing your product from multiple angles builds trust, reduces uncertainty, and can help lower returns—especially for physical goods where shape, texture, and details matter."
+      },
+      {
+        "question": "Where can I use the generated 360° view pictures?",
+        "answer": "You can use the images on your product detail pages, marketplace listings, comparison pages, social posts, and any marketing materials that benefit from multiple viewpoints."
+      },
+      {
+        "question": "How are credits and pricing handled for this workflow?",
+        "answer": "Each run of the workflow consumes credits based on the underlying image generation steps. It is designed to be cost-effective for building richer product visuals from the assets you already have."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product 360° View Picture – 360 Product Image Generator",
+      "description": "Create 360-degree product view pictures from your existing images with OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Product 360° View Picture AI Workflow",
+      "description": "AI-powered workflow for generating multi-angle product view pictures for e-commerce and product marketing."
+    },
+    "faqPage": {
+      "name": "Product 360° View Picture – FAQ"
+    }
+  }
+}

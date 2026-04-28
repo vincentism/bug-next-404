@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Pattern Extract – Turn Photos into Seamless Design Assets | OpenCreator",
+    "description": "Extract clean patterns and textures from any product or image with AI. Create seamless, reusable pattern assets for ads, backgrounds, and branding.",
+    "keywords": [
+      "pattern extractor",
+      "seamless pattern generator",
+      "texture to pattern ai",
+      "create repeating pattern from image",
+      "branding pattern maker",
+      "turn photo into seamless pattern"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#pattern_design", "#branding", "#ecommerce"],
+    "title": "Pattern Extract",
+    "description": "Extract clean patterns and textures from packaging, fabrics, surfaces, or brand visuals. Turn them into seamless, reusable assets for design and marketing.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload an image with the pattern you want to extract",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload a product or texture image",
+        "description": "Use packaging shots, fabric photos, wallpapers, or any surface with a pattern you like."
+      },
+      {
+        "title": "AI isolates the core pattern elements",
+        "description": "Detects repeating elements, removes noise, and cleans up imperfections."
+      },
+      {
+        "title": "Generate seamless pattern variations",
+        "description": "Create tiling, alternate colorways, and different density versions."
+      },
+      {
+        "title": "Export pattern assets for design and marketing",
+        "description": "Download high-resolution files for ad backgrounds, websites, brand visuals, or mockups."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For designers and brands that care about visual consistency",
+    "subtitle": "From e-commerce to branding agencies, see who uses AI pattern extraction.",
+    "audiences": [
+      {
+        "label": "Brand designers",
+        "description": "Turn real-world elements into scalable digital patterns across touchpoints."
+      },
+      {
+        "label": "E-commerce marketers",
+        "description": "Create matching backgrounds and frames for product photos and pages."
+      },
+      {
+        "label": "Packaging designers",
+        "description": "Extract and refine patterns for packaging systems and seasonal editions."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Build branded pattern libraries quickly without manual vector tracing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Pattern Extract workflow?",
+        "answer": "An AI workflow that extracts patterns from images and generates seamless, reusable assets."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Brand designers, e-commerce marketers, packaging designers, and agencies needing consistent patterns."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Upload an image containing a pattern and specify colorways or density preferences if needed."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "High-resolution seamless patterns in different colorways and densities for design use."
+      },
+      {
+        "question": "Can I generate multiple variations?",
+        "answer": "Yes. Create alternate colorways and tiling densities for different contexts."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits based on resolution and variation count. Iterate within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Pattern Extract – Turn Photos into Seamless Design Assets",
+      "description": "AI-generated seamless patterns extracted from real images."
+    },
+    "softwareApplication": {
+      "name": "Pattern Extract Template",
+      "description": "AI workflow that extracts and generates seamless design patterns."
+    },
+    "faqPage": { "name": "Pattern Extract – FAQ" }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "AI Fashion Outdoor Shorts Generator | Editorial Fashion Photography | OpenCreator",
+    "description": "Create stunning editorial fashion imagery in outdoor settings with AI. Generate artistic fashion photography featuring elegant outfits in natural landscapes, perfect for lookbooks, campaigns, and high-fashion editorials.",
+    "keywords": [
+      "outdoor fashion photography",
+      "AI editorial photography",
+      "fashion lookbook generator",
+      "outdoor editorial shoots",
+      "AI fashion campaign",
+      "natural light fashion photography",
+      "artistic fashion imagery"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#editorial", "#fashion_photography", "#outdoor_shoot"],
+    "title": "AI Fashion Outdoor Shorts",
+    "description": "Create stunning editorial fashion imagery in outdoor settings with AI. Generate artistic fashion photography featuring elegant outfits in natural landscapes, perfect for lookbooks, campaigns, and high-fashion editorials.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your fashion style, outdoor setting, and artistic mood",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your editorial concept",
+        "description": "Share your artistic vision—describe the outdoor setting like open fields, gardens, or natural landscapes, and the mood you want to create."
+      },
+      {
+        "title": "Choose fashion style and aesthetic",
+        "description": "Select the type of fashion—from flowing dresses and haute couture to romantic and ethereal styles that complement natural outdoor backdrops."
+      },
+      {
+        "title": "Generate AI editorial imagery",
+        "description": "Use AI to produce artistic fashion photography with natural lighting, elegant poses, and dreamy outdoor atmospheres reminiscent of high-fashion editorials."
+      },
+      {
+        "title": "Export for campaigns and lookbooks",
+        "description": "Deploy your editorial fashion imagery across brand campaigns, lookbooks, magazine submissions, and social media content."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators who love artistic fashion imagery",
+    "subtitle": "From fashion brands to creative agencies, see who creates editorial outdoor fashion with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands and designers",
+        "description": "Create editorial-style lookbooks and campaign imagery featuring your collections in artistic outdoor settings."
+      },
+      {
+        "label": "Creative agencies and studios",
+        "description": "Produce high-fashion editorial concepts and mood boards without expensive on-location photoshoots."
+      },
+      {
+        "label": "Fashion photographers and stylists",
+        "description": "Generate reference imagery and creative concepts for outdoor editorial shoots and client presentations."
+      },
+      {
+        "label": "Social media content creators",
+        "description": "Create artistic, magazine-quality fashion content that elevates your visual storytelling on Instagram and Pinterest."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the AI Fashion Outdoor Shorts workflow?",
+        "answer": "AI Fashion Outdoor Shorts is an AI workflow for creating artistic editorial fashion imagery in outdoor settings. It generates elegant, magazine-quality photography featuring fashion in natural landscapes with dreamy, artistic aesthetics."
+      },
+      {
+        "question": "Who is this template designed for?",
+        "answer": "This template is ideal for fashion brands, creative agencies, photographers, stylists, and content creators who want to produce editorial-style fashion imagery in outdoor settings."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You describe your editorial concept, including the outdoor setting (fields, gardens, natural landscapes), the fashion style (flowing dresses, haute couture, romantic styles), and the artistic mood you want to achieve."
+      },
+      {
+        "question": "What type of output does this workflow produce?",
+        "answer": "The workflow produces AI-generated editorial fashion photography with natural lighting, elegant poses, and artistic outdoor atmospheres—similar to high-fashion magazine editorials."
+      },
+      {
+        "question": "Can I customize the outdoor setting and style?",
+        "answer": "Yes, you can specify various natural settings like open fields, flower gardens, countryside landscapes, and choose different fashion aesthetics from ethereal and romantic to bold and avant-garde."
+      },
+      {
+        "question": "Where can I use the generated content?",
+        "answer": "You can use the outputs for brand lookbooks, fashion campaigns, magazine submissions, social media content, mood boards, and creative presentations."
+      },
+      {
+        "question": "How do credits and pricing work?",
+        "answer": "Running AI workflows in OpenCreator consumes credits based on the underlying image models and generation parameters. You can start with test generations and scale once satisfied with the results."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Fashion Outdoor Shorts Generator | Editorial Fashion Photography",
+      "description": "Create stunning editorial fashion imagery in outdoor settings with AI for fashion brands and creative agencies."
+    },
+    "softwareApplication": {
+      "name": "AI Fashion Outdoor Shorts Workflow Template",
+      "description": "AI workflow that helps create artistic editorial fashion photography featuring elegant outfits in natural outdoor landscapes."
+    },
+    "faqPage": {
+      "name": "AI Fashion Outdoor Shorts – FAQ"
+    }
+  }
+}

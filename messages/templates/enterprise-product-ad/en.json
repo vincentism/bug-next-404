@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Enterprise Product Ad – AI B2B Marketing | OpenCreator",
+    "description": "Create professional enterprise product advertisements with AI. AI commercial generator and commercial product photography for compelling B2B marketing content.",
+    "keywords": [
+      "ai commercial generator",
+      "commercial product photography",
+      "ai product photography",
+      "professional product photography services",
+      "ai product image generator",
+      "enterprise advertising ai",
+      "b2b marketing generator",
+      "professional ad creator",
+      "business marketing content",
+      "corporate advertisement maker"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#branding_ads", "#b2b_marketing", "#enterprise"],
+    "title": "Enterprise Product Ad",
+    "description": "Create professional enterprise advertisements with AI. Generate compelling B2B marketing content that drives business conversions. Perfect for B2B marketers, enterprise sales teams, and business development professionals who need to communicate value propositions effectively.",
+    "inputPlaceholder": "Describe your enterprise product or service",
+    "ctaText": "Create Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your enterprise offering",
+        "description": "Provide detailed information about your B2B product or service, including value propositions, target industries, and key business benefits."
+      },
+      {
+        "title": "Choose professional ad style",
+        "description": "Select from corporate, technical, or solution-focused advertisement styles optimized for business audiences and decision-makers."
+      },
+      {
+        "title": "Generate enterprise-grade ads",
+        "description": "AI creates sophisticated advertisements with professional messaging, business-appropriate imagery, and compelling value propositions."
+      },
+      {
+        "title": "Deploy across B2B channels",
+        "description": "Export high-resolution advertisements ready for LinkedIn, industry publications, trade shows, and professional marketing campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for B2B marketing and enterprise sales",
+    "subtitle": "From startups to Fortune 500 companies, see who creates enterprise ads with AI.",
+    "audiences": [
+      {
+        "label": "B2B marketers",
+        "description": "Create professional enterprise advertisements that communicate complex value propositions and drive qualified business leads."
+      },
+      {
+        "label": "Enterprise sales teams",
+        "description": "Develop compelling sales materials and presentations that resonate with decision-makers and procurement professionals."
+      },
+      {
+        "label": "Business development professionals",
+        "description": "Generate persuasive content for outreach, proposals, and client communications that establish credibility and trust."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Scale B2B content production for multiple enterprise clients while maintaining professional quality and brand consistency."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Enterprise Product Ad workflow?",
+        "answer": "Enterprise Product Ad is an AI-powered workflow that creates professional enterprise advertisements. Generate compelling B2B marketing content that drives business conversions."
+      },
+      {
+        "question": "Who is Enterprise Product Ad designed for?",
+        "answer": "Enterprise Product Ad is essential for B2B marketing and enterprise sales: B2B marketers, enterprise sales teams, business development professionals, and marketing agencies who need professional B2B content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide detailed information about your B2B product or service, including value propositions, target industries, and key business benefits."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates sophisticated advertisements with professional messaging, business-appropriate imagery, and compelling value propositions."
+      },
+      {
+        "question": "Can I create ads for different industries?",
+        "answer": "Yes. You can create industry-specific advertisements that speak directly to your target market's unique challenges and needs."
+      },
+      {
+        "question": "How do credits and pricing work for EnterpriseAC ProductAd?",
+        "answer": "Each advertisement generation consumes credits based on the image complexity and customization. The cost is optimized for creating high-impact B2B content."
+      },
+      {
+        "question": "Can I maintain brand consistency across all enterprise materials?",
+        "answer": "Absolutely. The workflow incorporates your brand elements, corporate messaging, and visual identity while maintaining professional B2B standards."
+      },
+      {
+        "question": "Is this suitable for technical products and services?",
+        "answer": "Yes. Perfect for communicating complex technical solutions and enterprise offerings in an accessible, professional format."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Enterprise Product Ad – AI B2B Marketing",
+      "description": "Create professional enterprise advertisements with AI. Generate compelling B2B marketing content that drives business conversions."
+    },
+    "softwareApplication": {
+      "name": "Enterprise Product Ad AI Generator",
+      "description": "AI-powered enterprise advertisement creator for generating professional B2B marketing content and sales materials."
+    },
+    "faqPage": {
+      "name": "Enterprise Product Ad – FAQ"
+    }
+  }
+}

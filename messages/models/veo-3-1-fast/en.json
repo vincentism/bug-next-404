@@ -1,0 +1,210 @@
+{
+  "model": {
+    "meta": {
+      "title": "Veo 3.1 Fast AI Video Generator | Faster & Cost-Effective | OpenCreator",
+      "description": "Create stunning videos faster with Google's Veo 3.1 Fast. Optimized for rapid iteration with first-last frame control and native audio. Lower cost, high quality. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Veo 3.1 Fast",
+      "tagline": "Speed Meets Quality",
+      "description": "Google's optimized video generation model for rapid iteration. Veo 3.1 Fast delivers high-quality videos with first-last frame control and native audio at lower cost and faster generation times.",
+      "badge": "Fast & Affordable",
+      "ctaText": "Try Veo 3.1 Fast Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "firstLastFrame": "First-Last Frame",
+        "nativeAudio": "Native Audio",
+        "fastGeneration": "Fast Generation",
+        "resolution": "1080p Output"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Veo 3.1 Fast ideal for rapid content creation",
+      "items": {
+        "speed": {
+          "title": "Faster Generation",
+          "description": "Optimized for lower latency and faster generation times. Perfect for rapid iteration, prototyping, and time-sensitive projects."
+        },
+        "firstLastFrame": {
+          "title": "First & Last Frame Control",
+          "description": "Provide start and end frames to generate smooth, coherent transitions. Ideal for controlled motion and precise animations."
+        },
+        "costEffective": {
+          "title": "Cost-Effective",
+          "description": "Lower computational costs make it budget-friendly for content creators. Get high-quality results without breaking the bank."
+        },
+        "audio": {
+          "title": "Native Audio",
+          "description": "Generate synchronized sound effects, ambient noise, and audio that matches your video content automatically."
+        },
+        "quality": {
+          "title": "High Quality Output",
+          "description": "Maintains high quality standards with 1080p resolution and cinematic visual quality despite faster generation."
+        },
+        "iteration": {
+          "title": "Rapid Prototyping",
+          "description": "Quickly test ideas and iterate on concepts. Generate multiple variations to find the perfect result."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Veo 3.1 Fast on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "transition": {
+          "title": "Smooth Transitions",
+          "description": "Motion Control",
+          "useCase": "Create precise motion between two frames using first-last frame mode for controlled animations."
+        },
+        "product": {
+          "title": "Product Videos",
+          "description": "E-commerce Content",
+          "useCase": "Quickly generate product showcase videos for e-commerce listings and social media."
+        },
+        "social": {
+          "title": "Social Content",
+          "description": "Quick Turnaround",
+          "useCase": "Create scroll-stopping content rapidly for TikTok, Instagram, and YouTube Shorts."
+        },
+        "prototype": {
+          "title": "Concept Testing",
+          "description": "Rapid Iteration",
+          "useCase": "Test multiple creative directions quickly before committing to final production."
+        },
+        "commercial": {
+          "title": "Ad Variations",
+          "description": "A/B Testing",
+          "useCase": "Generate multiple ad variations for testing different creative approaches."
+        },
+        "animation": {
+          "title": "Motion Graphics",
+          "description": "Dynamic Content",
+          "useCase": "Create dynamic motion graphics and animated content efficiently."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Veo 3.1 Fast capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "modes": {
+          "title": "Generation Modes",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "firstLastFrame": "First-Last Frame"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationSpeed": "Generation Speed",
+          "costEfficiency": "Cost Efficiency",
+          "nativeAudio": "Native Audio"
+        },
+        "output": {
+          "title": "Output Quality",
+          "resolution": "Resolution",
+          "frameRate": "Frame Rate",
+          "aspectRatios": "Aspect Ratios"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Veo 3.1 Fast compares to other models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "firstLastFrame": "First-Last Frame",
+        "multiReference": "Multi-Reference Mode",
+        "nativeAudio": "Native Audio",
+        "generationSpeed": "Generation Speed",
+        "costEfficiency": "Cost Efficiency",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Veo 3.1 Fast offers lower cost per generation compared to Standard.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Veo 3.1 Fast and how is it different from Veo 3.1?",
+          "answer": "Veo 3.1 Fast is Google's optimized video generation model designed for faster generation times and lower costs. While Veo 3.1 Standard focuses on maximum quality with multi-reference mode, Veo 3.1 Fast uses first-last frame control for rapid iteration and prototyping."
+        },
+        "1": {
+          "question": "What is First-Last Frame mode?",
+          "answer": "First-Last Frame mode lets you provide a starting and ending image. Veo 3.1 Fast generates a smooth, natural transition between them with accompanying audio. This is ideal for controlled motion and precise animations."
+        },
+        "2": {
+          "question": "How much faster is Veo 3.1 Fast?",
+          "answer": "Veo 3.1 Fast is optimized for lower latency and faster generation times compared to the Standard version. It's ideal for rapid iteration, prototyping, or time-sensitive content creation."
+        },
+        "3": {
+          "question": "Does Veo 3.1 Fast support audio?",
+          "answer": "Yes! Veo 3.1 Fast generates native audio including synchronized sound effects and ambient noise. Audio quality is maintained while optimizing for speed."
+        },
+        "4": {
+          "question": "What video durations and resolutions are supported?",
+          "answer": "Veo 3.1 Fast generates videos at 720p or 1080p resolution, 24 FPS, with durations of 4, 6, or 8 seconds. It supports both 16:9 (landscape) and 9:16 (portrait) aspect ratios."
+        },
+        "5": {
+          "question": "When should I use Veo 3.1 Fast vs Veo 3.1 Standard?",
+          "answer": "Use Veo 3.1 Fast for rapid prototyping, A/B testing, social media content, and budget-conscious projects. Use Veo 3.1 Standard when you need maximum quality, subject consistency with multi-reference mode, or complex scenes."
+        },
+        "6": {
+          "question": "What is Veo 3.1 Fast generation time?",
+          "answer": "Veo 3.1 Fast is optimized for lower latency, typically generating videos faster than Veo 3.1 Standard. Exact generation time varies based on video duration and server load, but expect significantly reduced wait times."
+        },
+        "7": {
+          "question": "How fast is Veo 3.1 Fast generation speed?",
+          "answer": "Veo 3.1 Fast offers faster generation speed compared to Standard mode, making it ideal for rapid iteration. The speed improvement comes from optimized processing while maintaining high visual quality."
+        },
+        "8": {
+          "question": "What is Veo 3.1 Fast FPS (frames per second)?",
+          "answer": "Veo 3.1 Fast generates videos at 24 FPS (frames per second), which is the standard cinematic frame rate. This provides smooth, professional-looking motion for all generated content."
+        },
+        "9": {
+          "question": "Can I try Veo 3.1 Fast for free on OpenCreator?",
+          "answer": "Yes! New users receive free credits upon registration, which can be used to try Veo 3.1 Fast. This lets you test the faster generation and first-last frame control before subscribing."
+        },
+        "10": {
+          "question": "How does Veo 3.1 Fast compare to Veo 3?",
+          "answer": "Veo 3.1 Fast is an optimized version focused on speed and cost-efficiency, while Veo 3 offers the full feature set including multi-reference mode. Choose Fast for quick iterations; choose Veo 3 for maximum quality and features."
+        },
+        "11": {
+          "question": "What aspect ratios does Veo 3.1 Fast support?",
+          "answer": "Veo 3.1 Fast supports both 16:9 (landscape) and 9:16 (portrait) aspect ratios. Choose based on your target platform: 16:9 for YouTube, 9:16 for TikTok/Reels."
+        },
+        "12": {
+          "question": "Does Veo 3.1 Fast cost less than Veo 3.1 Standard?",
+          "answer": "Yes, Veo 3.1 Fast offers lower cost per generation compared to Standard mode. This makes it budget-friendly for content creators who need to generate multiple variations or iterate quickly."
+        }
+      }
+    }
+  }
+}

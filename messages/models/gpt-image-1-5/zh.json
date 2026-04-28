@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "GPT Image 1.5 AI 图像生成器 | OpenAI | OpenCreator",
+      "description": "使用 OpenAI 的 GPT Image 1.5 创建精美图像。4 倍更快生成、精确编辑、更强指令遵循和改进的文字渲染。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "GPT Image 1.5",
+      "tagline": "OpenAI 旗舰图像生成器",
+      "description": "GPT Image 1.5 是 OpenAI 最新的旗舰图像生成模型，提供 4 倍更快的创建速度、精确的编辑能力和更强的指令遵循能力。非常适合迭代创意工作流和专业图像制作。",
+      "badge": "新品",
+      "ctaText": "免费试用 GPT Image 1.5",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "textToImage": "文生图",
+        "imageEditing": "精确编辑",
+        "speed": "4倍更快",
+        "textRendering": "文字渲染",
+        "instructionFollowing": "强指令遵循"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 GPT Image 1.5 成为 OpenAI 最先进图像模型的原因",
+      "items": {
+        "speed": {
+          "title": "4 倍更快生成",
+          "description": "生成图像速度比之前模型快 4 倍，实现快速迭代和高效的创意工作流。"
+        },
+        "editing": {
+          "title": "精确编辑",
+          "description": "添加或删除对象、更改视觉风格、调整服装，并在不重新生成整个图像的情况下优化特定区域。"
+        },
+        "instruction": {
+          "title": "更强指令遵循",
+          "description": "增强了准确遵循复杂提示的能力，特别是在迭代编辑过程中保持一致的结果。"
+        },
+        "text": {
+          "title": "改进的文字渲染",
+          "description": "在图像中生成更清晰的文字，解决了 AI 图像生成中长期存在的挑战。"
+        },
+        "detail": {
+          "title": "细节保持",
+          "description": "在编辑过程中保持精细细节和质量，确保商业用途的专业级输出。"
+        },
+        "versatile": {
+          "title": "多样化风格",
+          "description": "支持从写实到艺术的多种视觉风格，配有预设滤镜和流行设计。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 GPT Image 1.5 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "product": {
+          "title": "产品摄影",
+          "description": "电商图像",
+          "useCase": "为在线商店创建具有完美光线和背景的专业产品照片。"
+        },
+        "marketing": {
+          "title": "营销视觉",
+          "description": "品牌资产",
+          "useCase": "生成具有准确文字和品牌元素的连贯营销材料。"
+        },
+        "portrait": {
+          "title": "肖像生成",
+          "description": "专业头像",
+          "useCase": "为专业档案和社交媒体创建逼真的肖像和头像。"
+        },
+        "poster": {
+          "title": "海报设计",
+          "description": "排版与布局",
+          "useCase": "设计具有准确文字渲染和专业排版的精美海报。"
+        },
+        "social": {
+          "title": "社交媒体内容",
+          "description": "吸睛帖子",
+          "useCase": "为 Instagram、TikTok 等社交平台创建吸引眼球的视觉内容。"
+        },
+        "editing": {
+          "title": "图像编辑",
+          "description": "精确修改",
+          "useCase": "对现有图像进行有针对性的更改，同时保持整体质量。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 GPT Image 1.5 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "aspectRatios": "宽高比"
+        },
+        "capabilities": {
+          "title": "功能",
+          "textToImage": "文生图",
+          "imageEditing": "图像编辑",
+          "inpainting": "局部重绘",
+          "textRendering": "文字渲染"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "iterativeEditing": "迭代编辑",
+          "stylePresets": "风格预设",
+          "detailPreservation": "细节保持",
+          "instructionFollowing": "指令遵循"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 GPT Image 1.5 与其他领先 AI 图像模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToImage": "文生图",
+        "imageEditing": "图像编辑",
+        "textRendering": "文字渲染",
+        "maxResolution": "最大分辨率",
+        "speed": "生成速度",
+        "instructionFollowing": "指令遵循"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按使用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "积分根据图像尺寸和质量而异。订阅可享更多优惠。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "OpenAI 旗舰图像模型",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 GPT Image 1.5？由谁开发？",
+          "answer": "GPT Image 1.5 是 OpenAI 于 2025 年 12 月发布的最新旗舰图像生成模型。与之前的模型相比，它提供 4 倍更快的生成速度、精确的编辑能力和更强的指令遵循能力。"
+        },
+        "1": {
+          "question": "我可以用 GPT Image 1.5 创建什么类型的内容？",
+          "answer": "GPT Image 1.5 擅长创建产品摄影、营销视觉、肖像、海报设计、社交媒体内容和图像编辑。它支持从写实到艺术的多种视觉风格。"
+        },
+        "2": {
+          "question": "GPT Image 1.5 有多快？",
+          "answer": "GPT Image 1.5 的运行速度比其前代产品快 4 倍，可实现快速迭代和高效的专业创意工作流。"
+        },
+        "3": {
+          "question": "GPT Image 1.5 能在图像中渲染文字吗？",
+          "answer": "可以！GPT Image 1.5 显著改进了文字渲染能力，可在图像中生成更清晰的文字。这解决了 AI 图像生成中长期存在的挑战。"
+        },
+        "4": {
+          "question": "GPT Image 1.5 有哪些编辑功能？",
+          "answer": "GPT Image 1.5 支持精确编辑，包括添加或删除对象、更改视觉风格、调整服装，以及在不重新生成整个图像的情况下优化特定区域。"
+        },
+        "5": {
+          "question": "GPT Image 1.5 与其他 AI 图像模型相比如何？",
+          "answer": "GPT Image 1.5 以其速度（4 倍更快）、精确编辑能力和强大的指令遵循能力而脱颖而出。虽然 Nano Banana Pro 等模型有不同的优势，但 GPT Image 1.5 在迭代创意工作流方面表现出色。"
+        }
+      }
+    }
+  }
+}

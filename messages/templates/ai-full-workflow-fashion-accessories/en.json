@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "AI Fashion Accessories Pipeline – Design to Marketing | OpenCreator",
+    "description": "Build fashion accessory visuals from design to marketing. Generate product photos, lifestyle scenes, and promo videos in one pipeline.",
+    "keywords": [
+      "ai fashion accessories design",
+      "jewelry product image generator",
+      "accessories marketing visuals",
+      "ai product photography for jewelry",
+      "fashion accessories video ads",
+      "ecommerce accessories content",
+      "accessory lifestyle photo generator",
+      "fashion marketing automation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Full Workflow",
+    "tags": ["#accessories", "#workflow", "#end_to_end"],
+    "title": "AI Full Workflow for Fashion Accessories",
+    "description": "Complete AI workflow for fashion accessories from product shots to marketing content. Generate professional images, lifestyle presentations, and promotional videos in one seamless pipeline. Perfect for accessory brands seeking efficient end-to-end content production.",
+    "inputPlaceholder": "Upload your accessory image",
+    "ctaText": "Start Full Workflow"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your accessory product",
+        "description": "Provide an image of your fashion accessory—jewelry, bags, scarves, watches. The AI analyzes the product and plans the complete content pipeline."
+      },
+      {
+        "title": "Generate product photography",
+        "description": "Nano Banana Pro creates professional product shots: white background images, detail close-ups, and multi-angle views optimized for e-commerce."
+      },
+      {
+        "title": "Create lifestyle content",
+        "description": "The workflow generates lifestyle imagery showing your accessory in use—model presentations, styled scenes, and aspirational contexts."
+      },
+      {
+        "title": "Produce promotional video",
+        "description": "Transform static images into dynamic video content with motion effects, suitable for social media ads and brand campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for accessory brands and marketers",
+    "subtitle": "From jewelry designers to fashion retailers, see who uses the full workflow.",
+    "audiences": [
+      {
+        "label": "Accessory brands",
+        "description": "Streamline your entire content production from product photography to marketing videos with one integrated AI workflow."
+      },
+      {
+        "label": "Jewelry designers",
+        "description": "Bring your designs to market faster with professional content covering every touchpoint from listing to advertising."
+      },
+      {
+        "label": "Fashion e-commerce",
+        "description": "Scale your accessory content production while maintaining premium quality across product pages and marketing channels."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Deliver complete content packages to accessory brand clients efficiently, from product shots to campaign videos."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the AI Full Workflow for Fashion Accessories?",
+        "answer": "It's a comprehensive AI pipeline that handles the entire content production process for fashion accessories—from product photography to lifestyle imagery to promotional videos—in one seamless workflow."
+      },
+      {
+        "question": "What types of accessories work best?",
+        "answer": "The workflow handles all fashion accessories: jewelry (rings, necklaces, bracelets, earrings), bags, watches, scarves, belts, hats, and more. It adapts to each accessory type."
+      },
+      {
+        "question": "What content does the full workflow produce?",
+        "answer": "You get a complete content package: professional product shots, lifestyle images with models/scenes, and dynamic video content—everything needed for e-commerce and marketing."
+      },
+      {
+        "question": "How long does the full workflow take?",
+        "answer": "The complete pipeline runs in minutes, producing what would traditionally take hours or days of photography, styling, and post-production work."
+      },
+      {
+        "question": "Can I customize the output style?",
+        "answer": "Yes. You can guide the aesthetic direction at each stage—from product photography style to lifestyle scene settings to video pacing and effects."
+      },
+      {
+        "question": "Is this suitable for launching new products?",
+        "answer": "Absolutely. The workflow is perfect for new product launches, providing all the visual content needed to list products and run marketing campaigns."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Full Workflow for Fashion Accessories",
+      "description": "Complete AI production pipeline for fashion accessory content from product shots to marketing videos."
+    },
+    "softwareApplication": {
+      "name": "Fashion Accessories Full Workflow Generator",
+      "description": "End-to-end AI workflow for fashion accessory content production including product photography and promotional videos."
+    },
+    "faqPage": {
+      "name": "AI Full Workflow for Fashion Accessories – FAQ"
+    }
+  }
+}

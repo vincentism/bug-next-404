@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "GPT Image 1.5 AI Image Generator | OpenAI | OpenCreator",
+      "description": "Create stunning images with GPT Image 1.5 from OpenAI. 4x faster generation, precise editing, stronger instruction following, and improved text rendering. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "GPT Image 1.5",
+      "tagline": "OpenAI's Flagship Image Generator",
+      "description": "GPT Image 1.5 is OpenAI's newest flagship image generation model, delivering 4x faster creation speeds, precise editing capabilities, and stronger instruction following. Perfect for iterative creative workflows and professional image production.",
+      "badge": "New",
+      "ctaText": "Try GPT Image 1.5 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "textToImage": "Text to Image",
+        "imageEditing": "Precise Editing",
+        "speed": "4x Faster",
+        "textRendering": "Text Rendering",
+        "instructionFollowing": "Strong Instructions"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes GPT Image 1.5 OpenAI's most advanced image model",
+      "items": {
+        "speed": {
+          "title": "4x Faster Generation",
+          "description": "Generate images up to four times faster than previous models, enabling rapid iteration and efficient creative workflows."
+        },
+        "editing": {
+          "title": "Precise Editing",
+          "description": "Add or remove objects, change visual styles, adjust clothing, and refine specific areas without regenerating the entire image."
+        },
+        "instruction": {
+          "title": "Stronger Instruction Following",
+          "description": "Enhanced ability to follow complex prompts accurately, especially during iterative edits for consistent results."
+        },
+        "text": {
+          "title": "Improved Text Rendering",
+          "description": "Generate more legible text inside images, addressing a long-standing challenge in AI image generation."
+        },
+        "detail": {
+          "title": "Detail Preservation",
+          "description": "Maintains fine details and quality during edits, ensuring professional-grade output for commercial use."
+        },
+        "versatile": {
+          "title": "Versatile Styles",
+          "description": "Support for diverse visual styles from photorealistic to artistic, with preset filters and trending designs."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with GPT Image 1.5 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "product": {
+          "title": "Product Photography",
+          "description": "E-commerce Imagery",
+          "useCase": "Create professional product photos with perfect lighting and backgrounds for online stores."
+        },
+        "marketing": {
+          "title": "Marketing Visuals",
+          "description": "Brand Assets",
+          "useCase": "Generate cohesive marketing materials with accurate text and brand elements."
+        },
+        "portrait": {
+          "title": "Portrait Generation",
+          "description": "Professional Headshots",
+          "useCase": "Create realistic portraits and headshots for professional profiles and social media."
+        },
+        "poster": {
+          "title": "Poster Design",
+          "description": "Typography & Layout",
+          "useCase": "Design stunning posters with accurate text rendering and professional typography."
+        },
+        "social": {
+          "title": "Social Media Content",
+          "description": "Engaging Posts",
+          "useCase": "Create scroll-stopping visuals for Instagram, TikTok, and other social platforms."
+        },
+        "editing": {
+          "title": "Image Editing",
+          "description": "Precise Modifications",
+          "useCase": "Edit existing images with targeted changes while preserving overall quality."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about GPT Image 1.5 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "aspectRatios": "Aspect Ratios"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "textToImage": "Text to Image",
+          "imageEditing": "Image Editing",
+          "inpainting": "Inpainting",
+          "textRendering": "Text Rendering"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "iterativeEditing": "Iterative Editing",
+          "stylePresets": "Style Presets",
+          "detailPreservation": "Detail Preservation",
+          "instructionFollowing": "Instruction Following"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how GPT Image 1.5 compares to other leading AI image models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "textToImage": "Text to Image",
+        "imageEditing": "Image Editing",
+        "textRendering": "Text Rendering",
+        "maxResolution": "Max Resolution",
+        "speed": "Generation Speed",
+        "instructionFollowing": "Instruction Following"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits vary by image size and quality. Subscribe to save more.",
+      "viewFullPricing": "View full pricing →",
+      "description": "OpenAI's flagship image model",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is GPT Image 1.5 and who developed it?",
+          "answer": "GPT Image 1.5 is OpenAI's newest flagship image generation model, released in December 2025. It delivers 4x faster generation speeds, precise editing capabilities, and stronger instruction following compared to previous models."
+        },
+        "1": {
+          "question": "What types of content can I create with GPT Image 1.5?",
+          "answer": "GPT Image 1.5 excels at creating product photography, marketing visuals, portraits, poster designs, social media content, and image editing. It supports diverse visual styles from photorealistic to artistic."
+        },
+        "2": {
+          "question": "How fast is GPT Image 1.5?",
+          "answer": "GPT Image 1.5 runs up to 4x faster than its predecessor, enabling rapid iteration and efficient creative workflows for professional use."
+        },
+        "3": {
+          "question": "Can GPT Image 1.5 render text in images?",
+          "answer": "Yes! GPT Image 1.5 has significantly improved text rendering capabilities, producing more legible text inside images. This addresses a long-standing challenge in AI image generation."
+        },
+        "4": {
+          "question": "What editing capabilities does GPT Image 1.5 have?",
+          "answer": "GPT Image 1.5 supports precise editing including adding or removing objects, changing visual styles, adjusting clothing, and refining specific areas without regenerating the entire image."
+        },
+        "5": {
+          "question": "How does GPT Image 1.5 compare to other AI image models?",
+          "answer": "GPT Image 1.5 stands out for its speed (4x faster), precise editing capabilities, and strong instruction following. While models like Nano Banana Pro offer different strengths, GPT Image 1.5 excels in iterative creative workflows."
+        }
+      }
+    }
+  }
+}

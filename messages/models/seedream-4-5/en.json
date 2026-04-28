@@ -1,0 +1,215 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedream 4.5 AI Image Generator | ByteDance | OpenCreator",
+      "description": "ByteDance's most advanced AI image model combining generation and editing in one unified model. Seedream 4.5 offers multi-reference support (up to 10 images), superior text rendering, editing consistency, and up to 4K resolution for professional creative work."
+    },
+    "hero": {
+      "modelName": "Seedream 4.5",
+      "tagline": "ByteDance’s advanced image model",
+      "description": "ByteDance's most advanced AI image model combining generation and editing in one unified model. Seedream 4.5 offers multi-reference support (up to 10 images), superior text rendering, editing consistency, and up to 4K resolution for professional creative work.",
+      "badge": "New",
+      "ctaText": "Try Seedream 4.5 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "textToImage": "Text to Image",
+        "multiReference": "Up to 10 References",
+        "resolution": "2K-4K Output",
+        "textRendering": "Text Rendering",
+        "editing": "Image Editing"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Seedream 4.5 ByteDance's most advanced image model",
+      "items": {
+        "multiRef": {
+          "title": "Multi-Image Fusion",
+          "description": "Support for up to 10 reference images in a single edit. The model precisely identifies target elements across all inputs while maintaining character consistency."
+        },
+        "textRendering": {
+          "title": "Superior Text Rendering",
+          "description": "Enhanced text rendering capabilities including dense text layouts, poster-style typography, and improved small text clarity. Perfect for marketing materials."
+        },
+        "clarity": {
+          "title": "Clearer Subjects",
+          "description": "Refined fine details with stronger spatial coherence and cinematic lighting. Subjects stay clear even in complex multi-image scenes."
+        },
+        "resolution": {
+          "title": "High Resolution Output",
+          "description": "Generate images from 2K up to 4K resolution, suitable for professional and commercial use cases including print and large displays."
+        },
+        "faceRendering": {
+          "title": "Enhanced Face Rendering",
+          "description": "Improved face rendering accuracy ensures realistic and consistent facial features across generated images."
+        },
+        "instructionFollowing": {
+          "title": "Reliable Instruction Following",
+          "description": "Smarter adherence to complex prompts for dependable, repeatable results."
+        },
+        "unifiedEditing": {
+          "title": "Unified Generation & Editing",
+          "description": "Combines image generation and editing in one model. Apply targeted edits while preserving subject details, lighting, and color tone with high consistency."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Representative examples and use cases on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "ecommerce": {
+          "title": "E-commerce Product Imagery",
+          "description": "Product Photography",
+          "useCase": "Create professional product photos with consistent styling and perfect lighting for online stores."
+        },
+        "brandVisual": {
+          "title": "Brand Visual Creation",
+          "description": "Marketing Assets",
+          "useCase": "Generate cohesive brand visuals across campaigns with multi-reference consistency."
+        },
+        "poster": {
+          "title": "Poster Design",
+          "description": "Typography & Layout",
+          "useCase": "Create stunning posters with accurate text rendering and professional typography."
+        },
+        "advertising": {
+          "title": "Advertising Campaigns",
+          "description": "Ad Creative",
+          "useCase": "Produce high-quality advertising visuals with reliable instruction following."
+        },
+        "gameArt": {
+          "title": "Game Art & Assets",
+          "description": "Creative Production",
+          "useCase": "Generate consistent game art and creative assets with multi-frame character consistency."
+        },
+        "localization": {
+          "title": "Text Localization",
+          "description": "Multi-Language",
+          "useCase": "Create localized marketing materials with accurate text rendering in multiple languages."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Seedream 4.5 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "refImages": "Reference Images"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "textToImage": "Text to Image",
+          "imageEditing": "Image Editing",
+          "multiReference": "Multi-Reference",
+          "textRendering": "Text Rendering"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "spatialCoherence": "Spatial Coherence",
+          "faceRendering": "Face Rendering",
+          "cinematicLighting": "Cinematic Lighting",
+          "instructionFollowing": "Instruction Following"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Seedream 4.5 compares to other leading AI image models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "textToImage": "Text to Image",
+        "imageEditing": "Image Editing",
+        "multiReference": "Multi-Reference",
+        "maxResolution": "Max Resolution",
+        "textRendering": "Text Rendering",
+        "referenceCount": "Max References"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Subscribe to save more on every generation.",
+      "viewFullPricing": "View full pricing →",
+      "description": "ByteDance's most advanced image model",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Seedream 4.5 and who developed it?",
+          "answer": "Seedream 4.5 is an advanced AI image generation model developed by ByteDance's Doubao team. It's a refinement-focused upgrade from Seedream 4.0 that brings sharper visuals, stronger spatial coherence, and more reliable instruction following for professional image creation."
+        },
+        "1": {
+          "question": "What types of content can I create with Seedream 4.5?",
+          "answer": "Seedream 4.5 excels at e-commerce product imagery, brand visual creation, poster design, advertising campaigns, game art and assets, and text composition with localization. It's built for professional workflows that require structural accuracy and dependable execution."
+        },
+        "2": {
+          "question": "How many reference images can Seedream 4.5 use?",
+          "answer": "Seedream 4.5 supports up to 10 reference images in a single edit. The model precisely identifies target elements across all inputs while maintaining character consistency across multi-image scenes."
+        },
+        "3": {
+          "question": "What resolution does Seedream 4.5 output?",
+          "answer": "Seedream 4.5 supports output resolutions from 2K up to 4K, depending on your settings. This makes it suitable for most professional and commercial use cases including print materials and large displays."
+        },
+        "4": {
+          "question": "How good is Seedream 4.5 at rendering text?",
+          "answer": "Seedream 4.5 has excellent text rendering capabilities including dense text layouts, poster-style typography, and improved small text clarity. It's particularly well-suited for marketing materials and designs that combine images with text."
+        },
+        "5": {
+          "question": "How much does Seedream 4.5 cost on OpenCreator?",
+          "answer": "Seedream 4.5 costs 48 credits per generation on OpenCreator. Subscribers get additional discounts. You can try it free with your initial credits when you sign up."
+        },
+        "6": {
+          "question": "Can I try Seedream 4.5 for free on OpenCreator?",
+          "answer": "Yes! New users receive free credits upon registration, which can be used to try Seedream 4.5. This lets you test multi-reference editing and text rendering before subscribing."
+        },
+        "7": {
+          "question": "What is Seedream 4.5 image editing and how does it work?",
+          "answer": "Seedream 4.5 combines generation and editing in one unified model. You can upload reference images and apply targeted edits while preserving subject details, lighting, and color tone with high consistency."
+        },
+        "8": {
+          "question": "How does Seedream 4.5 compare to Seedream 4.0?",
+          "answer": "Seedream 4.5 delivers significant improvements in prompt adherence, alignment, aesthetics, and editing consistency. It better preserves subject details, lighting, and color tone compared to 4.0."
+        },
+        "9": {
+          "question": "What aspect ratios does Seedream 4.5 support?",
+          "answer": "Seedream 4.5 supports various aspect ratios including 1:1, 16:9, 9:16, 4:3, and 3:4. Choose based on your use case: 1:1 for social media, 16:9 for banners, 9:16 for mobile content."
+        },
+        "10": {
+          "question": "How does Seedream 4.5 compare to Flux?",
+          "answer": "Both are top-tier image models. Seedream 4.5 excels at multi-reference editing (up to 10 images), text rendering, and editing consistency. Flux is known for photorealism and prompt adherence. Choose based on your workflow needs."
+        },
+        "11": {
+          "question": "Is Seedream 4.5 good for e-commerce product images?",
+          "answer": "Yes! Seedream 4.5 is excellent for e-commerce with its multi-reference support, high resolution (up to 4K), and reliable subject consistency. It's widely used for product photography, lifestyle shots, and catalog imagery."
+        },
+        "12": {
+          "question": "Can Seedream 4.5 generate images with text and logos?",
+          "answer": "Yes. Seedream 4.5 has strong text rendering and logo design capabilities. It handles dense text layouts, poster-style typography, and brand elements with improved clarity and consistency."
+        }
+      }
+    }
+  }
+}

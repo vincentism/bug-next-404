@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Fashion Lookbook Mockup – Fashion Lookbook Visual Generator | OpenCreator",
+    "description": "Create fashion lookbook mockups with AI. Clothing photography and apparel photography for ecommerce—turn outfits and collections into polished lookbook-style visuals.",
+    "keywords": [
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "garment photography",
+      "clothing brand photoshoot",
+      "how to take pictures of clothes to sell",
+      "ai fashion models",
+      "fashion lookbook mockup",
+      "lookbook page design",
+      "fashion editorial graphic",
+      "ai clothing generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#fashion", "#lookbook", "#branding"],
+    "title": "Fashion Lookbook Mockup",
+    "description": "Transform your outfits and collections into fashion lookbook visuals with AI. Generate clean, editorial-style pages that showcase full looks, details, and mood without manually designing every layout.",
+    "inputPlaceholder": "Describe your collection or upload your looks",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your collection or series",
+        "description": "Describe the collection, theme, or set of looks you want to present, including key pieces, season, and overall mood."
+      },
+      {
+        "title": "Choose lookbook style and structure",
+        "description": "Specify the lookbook direction—for example, \"minimal editorial spread\", \"collage-style streetwear lookbook\", or \"clean ecommerce look grid\"."
+      },
+      {
+        "title": "Generate AI-powered lookbook mockups",
+        "description": "The workflow creates lookbook-style images that arrange your looks in a cohesive visual narrative, ready for campaigns and online presentation."
+      },
+      {
+        "title": "Refine pages and export for use",
+        "description": "Select your favorite layouts, iterate if needed, then export assets for landing pages, digital lookbooks, PDFs, and social content."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For fashion brands and visual storytellers",
+    "subtitle": "Ideal for teams presenting collections, capsules, or seasonal edits.",
+    "audiences": [
+      {
+        "label": "Fashion and apparel brands",
+        "description": "Turn seasonal collections into lookbook-style visuals faster, from website features to brand decks and B2B materials."
+      },
+      {
+        "label": "E-commerce and merchandising teams",
+        "description": "Create collection overviews and curated edits that sit between product grids and full editorial campaigns."
+      },
+      {
+        "label": "Stylists, editors, and creators",
+        "description": "Showcase styled looks in a narrative format that feels like a digital magazine spread or curated editorial."
+      },
+      {
+        "label": "Agencies and creative studios",
+        "description": "Use the workflow to quickly explore lookbook storytelling directions before committing to final design production."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Fashion Lookbook Mockup workflow?",
+        "answer": "Fashion Lookbook Mockup is an AI workflow that generates lookbook-style visuals for fashion collections, campaigns, and styled looks. It helps you create editorial-feeling pages without building every layout by hand."
+      },
+      {
+        "question": "What kind of input should I prepare?",
+        "answer": "You can start from descriptions of your looks or collections, and optionally provide reference images or product shots. The clearer the theme and mood, the better the results."
+      },
+      {
+        "question": "Can I control the aesthetic of the lookbook?",
+        "answer": "Yes. You can describe your desired aesthetic—minimal, luxury, streetwear, vintage, etc.—and mention layout preferences like grids, full-bleed images, or collage compositions."
+      },
+      {
+        "question": "Where can I use the generated lookbook visuals?",
+        "answer": "You can use them on campaign landing pages, brand sites, digital lookbooks, PDFs for buyers, and social feeds to tell a cohesive collection story."
+      },
+      {
+        "question": "Will this replace full layout design?",
+        "answer": "Think of it as a fast way to explore and produce strong starting points. You can use the outputs directly or refine them further in your design tools to match strict brand guidelines."
+      },
+      {
+        "question": "How are credits and pricing handled?",
+        "answer": "Each generation consumes credits based on image creation steps. It’s optimized so you can try multiple lookbook directions before deciding which ones to keep."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Fashion Lookbook Mockup – Fashion Lookbook Visual Generator",
+      "description": "Create fashion lookbook mockups using OpenCreator's AI workflows for collections and campaigns."
+    },
+    "softwareApplication": {
+      "name": "Fashion Lookbook Mockup AI Workflow",
+      "description": "AI-powered workflow for generating lookbook-style visuals for fashion brands and creators."
+    },
+    "faqPage": {
+      "name": "Fashion Lookbook Mockup – FAQ"
+    }
+  }
+}

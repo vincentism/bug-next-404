@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "AI Athletic Ad Generator | High-Energy Sports Campaigns | OpenCreator",
+    "description": "Generate dynamic athletic ads that capture motion, strength, and intensity. AI commercial generator for sports scenes featuring athletes, training moments, and product integrations.",
+    "keywords": [
+      "ai commercial generator",
+      "product video maker",
+      "commercial photography",
+      "ai fashion models",
+      "ai clothing generator",
+      "sports ad generator",
+      "athletic video ads",
+      "fitness commercial maker",
+      "athletic commercials with ai",
+      "ai video generator for sports brands"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#sports", "#athletic", "#branding_ads"],
+    "title": "Athletic Ad",
+    "description": "Generate dynamic athletic ads that capture motion, strength, and intensity. Use AI to create sports scenes featuring athletes, training moments, and product integrations for apparel, footwear, and performance brands.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your sport, product, and desired intensity level",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your sport and hero moment",
+        "description": "Share whether it is running, basketball, gym training, outdoor sports, or multi-sport, and describe the key moment you want to highlight."
+      },
+      {
+        "title": "Choose visual tone and pacing",
+        "description": "Select gritty, inspirational, cinematic slow-motion, or fast-cut highlight styles so the ad matches your brand and audience."
+      },
+      {
+        "title": "Generate AI athletic ad sequences",
+        "description": "Use AI to produce sequences that highlight movement, effort, sweat, and performance gear in high-energy sports contexts."
+      },
+      {
+        "title": "Export for campaigns and launches",
+        "description": "Deploy assets across product drops, seasonal launches, fitness campaigns, and brand films focused on performance culture."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands living in performance culture",
+    "subtitle": "From sportswear to fitness apps, see who runs athletic ads with AI.",
+    "audiences": [
+      {
+        "label": "Sportswear and footwear brands",
+        "description": "Show products in motion across multiple performance environments, from gyms to outdoor tracks and courts."
+      },
+      {
+        "label": "Gyms, studios, and fitness apps",
+        "description": "Promote services, communities, and training programs with energetic, aspirational visuals."
+      },
+      {
+        "label": "Sports nutrition and wellness brands",
+        "description": "Connect products to active lifestyles and training rituals through dynamic sports scenes."
+      },
+      {
+        "label": "Agencies working on sports accounts",
+        "description": "Prototype and iterate on sports campaign looks before committing to full shoots, sharing options with clients faster."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Athletic Ad workflow?",
+        "answer": "Athletic Ad is an AI workflow for generating dynamic sports ads that capture motion, strength, and intensity. It helps you create scenes featuring athletes, training moments, and performance gear for high-energy campaigns."
+      },
+      {
+        "question": "Who is the Athletic Ad template designed for?",
+        "answer": "Athletic Ad is ideal for sportswear and footwear brands, gyms and fitness apps, sports nutrition and wellness brands, and agencies that work on sports-related accounts."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You describe your sport, product, and desired intensity level—such as running, basketball, gym training, or outdoor sports—along with the mood and tone you want for the ad."
+      },
+      {
+        "question": "What type of output does this workflow produce?",
+        "answer": "The workflow produces AI-generated athletic ad sequences that highlight movement, effort, and performance gear in energetic, campaign-ready visuals."
+      },
+      {
+        "question": "Where can I use the generated assets?",
+        "answer": "You can use the outputs across product drops, seasonal campaigns, app launches, social ads, and brand films focused on performance culture."
+      },
+      {
+        "question": "Does this replace traditional sports shoots?",
+        "answer": "It does not replace all high-end production, but it helps you prototype looks, explore directions, and generate additional campaign assets much faster."
+      },
+      {
+        "question": "How do credits and pricing work for Athletic Ad?",
+        "answer": "Running AI workflows in OpenCreator consumes credits based on the underlying video models and generation length. You can start with shorter concepts and scale once you are satisfied with the direction."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Athletic Ad Generator | High-Energy Sports Campaigns",
+      "description": "Generate dynamic, high-energy athletic ads with AI for sportswear, fitness, and performance brands."
+    },
+    "softwareApplication": {
+      "name": "Athletic Ad Workflow Template",
+      "description": "AI workflow that helps brands and agencies create athletic ad sequences featuring sports action and performance gear."
+    },
+    "faqPage": {
+      "name": "Athletic Ad – FAQ"
+    }
+  }
+}

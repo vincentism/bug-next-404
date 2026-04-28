@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Meta 海报广告 – AI Meta 海报广告生成器 | OpenCreator",
+    "description": "用 AI 为 Facebook 和 Instagram 生成高转化海报风广告素材。从简单商品信息出发，快速产出适合投放的视觉海报。",
+    "keywords": [
+      "AI海报设计",
+      "Meta广告素材",
+      "Facebook海报广告",
+      "Instagram海报广告",
+      "AI商业广告生成",
+      "AI广告视频制作",
+      "社媒广告生成器",
+      "AI横幅制作"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#Meta_广告", "#海报", "#品牌广告"],
+    "title": "Meta 海报广告",
+    "description": "用 AI 一键生成适合 Facebook 和 Instagram 的海报风广告素材。从简短文案或商品图片出发，快速产出视觉统一、结构清晰的社媒广告海报，服务品牌广告与效果投放。",
+    "inputPlaceholder": "描述你的 Meta 广告或粘贴商品信息",
+    "ctaText": "免费试用"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "明确你的 Meta 投放目标",
+        "description": "在工作流中说明你的投放目标（如品牌曝光、引流或转化），并可选上传商品图片或品牌素材，作为海报的视觉基础。"
+      },
+      {
+        "title": "描述信息重点与视觉风格",
+        "description": "用简短文字说明核心卖点、优惠信息、目标人群和期望氛围，例如“醒目促销海报”或“极简高端品牌感”。"
+      },
+      {
+        "title": "生成 AI 驱动的 Meta 海报广告",
+        "description": "工作流根据你的文案和参考素材，生成适合 Meta 投放位的海报风广告图，让商品信息、标题和视觉重点一目了然。"
+      },
+      {
+        "title": "筛选版本并导出用于投放",
+        "description": "在多个版本中选择你最满意的方案，如有需要可微调提示词再次生成，然后导出图片，用于在 Meta Ads Manager 中创建或更新广告。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "面向正在做 Meta 投放的品牌与投放团队",
+    "subtitle": "为需要 Facebook / Instagram 海报风广告素材的团队而设计。",
+    "audiences": [
+      {
+        "label": "效果广告投放经理",
+        "description": "在不依赖完整设计流程的前提下，用简单 Brief 快速产出多版海报创意，加快 A/B 测试节奏。"
+      },
+      {
+        "label": "电商与 DTC 品牌",
+        "description": "将新品发布、促销活动和节日运营转化为契合品牌调性的 Meta 海报广告素材。"
+      },
+      {
+        "label": "创意团队与代理商",
+        "description": "把工作流当作创意伙伴，在正式设计前先快速探索多种 Meta 海报方向。"
+      },
+      {
+        "label": "中小团队与个人卖家",
+        "description": "在没有专职设计师的情况下，也能快速产出看起来专业的 Meta 海报广告素材，把精力更多放在投放与运营上。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是“Meta 海报广告”工作流？",
+        "answer": "“Meta 海报广告”是一个 AI 驱动的工作流，帮助你为 Facebook 和 Instagram 生成海报风广告素材。从简单 Brief 和商品输入出发，自动生成适合付费社媒投放的海报创意。"
+      },
+      {
+        "question": "使用这个工作流需要专业设计能力吗？",
+        "answer": "不需要。你只需用自然语言描述商品、优惠和视觉风格，工作流会为你生成海报风广告素材。有设计经验可以写出更精细的提示词，但并非前提条件。"
+      },
+      {
+        "question": "我可以使用现有商品图片或品牌元素吗？",
+        "answer": "可以。你可以在工作流中使用商品照片或品牌素材作为参考，并通过提示词引导，让生成的海报在视觉上更贴近你的品牌风格。"
+      },
+      {
+        "question": "这个工作流适合哪些类型的 Meta 活动？",
+        "answer": "你可以将其用于冷启动、再营销、节日促销、新品发布以及日常 Always-on 投放等场景，只要需要有视觉冲击力的海报广告。"
+      },
+      {
+        "question": "生成的海报如何用于实际投放？",
+        "answer": "你可以在工作流中导出选中的海报图片，然后像平常一样上传到 Meta Ads Manager，在创建或编辑广告组时使用。"
+      },
+      {
+        "question": "使用这个工作流的费用如何计算？",
+        "answer": "每次运行会根据底层图像生成步骤消耗一定积分。整体设计为：在可接受的成本下，尽可能多地帮助你探索不同创意方向。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Meta 海报广告 – AI Meta 海报广告生成器",
+      "description": "使用 OpenCreator 的 AI 工作流，为 Facebook 和 Instagram 生成可直接用于投放的海报广告素材。"
+    },
+    "softwareApplication": {
+      "name": "Meta 海报广告 AI 工作流",
+      "description": "一个基于 AI 的工作流，用于创建适合 Meta 平台的海报风广告素材。"
+    },
+    "faqPage": {
+      "name": "Meta 海报广告 – 常见问题"
+    }
+  }
+}

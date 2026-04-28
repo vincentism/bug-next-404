@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Text to Image – AI Text to Image Generator | OpenCreator",
+    "description": "Generate high-quality images from text descriptions with OpenCreator's AI Text to Image workflow. AI product image generation and product image generator for design, marketing, and creative projects.",
+    "keywords": [
+      "ai product image generation",
+      "product image generator",
+      "ai product generator",
+      "ai product photos",
+      "text to image ai",
+      "ai image generator from text",
+      "text to image generator",
+      "create images from text",
+      "ai art generator",
+      "best text to image ai tool"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#text_to_image", "#ai_art", "#image_generation"],
+    "title": "Text to Image",
+    "description": "Turn words into visuals. Describe what you want, and AI generates the image. Perfect for concept art, product mockups, marketing visuals, and creative exploration.",
+    "inputPlaceholder": "Describe the image you want to create…",
+    "ctaText": "Generate Now"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Write your description",
+        "description": "Describe the subject, style, composition, mood, and details you want in the image."
+      },
+      {
+        "title": "AI generates the visual",
+        "description": "Advanced AI models interpret your text and create a matching high-quality image."
+      },
+      {
+        "title": "Refine and iterate",
+        "description": "Adjust your prompt, try different styles, or generate variations until you get the perfect result."
+      },
+      {
+        "title": "Download and use",
+        "description": "Export your AI-generated images for presentations, social media, marketing, or design projects."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For anyone who needs visuals from ideas",
+    "subtitle": "From designers to marketers, see who uses AI text to image generation.",
+    "audiences": [
+      {
+        "label": "Designers & creatives",
+        "description": "Rapidly explore concepts and visual directions without starting from scratch."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Generate custom visuals for campaigns, social posts, and ad creatives on demand."
+      },
+      {
+        "label": "Content creators",
+        "description": "Create unique images for blogs, videos, presentations, and storytelling."
+      },
+      {
+        "label": "Product teams",
+        "description": "Visualize product ideas, mockups, and concepts before committing to production."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Text to Image AI?",
+        "answer": "Text to Image is an AI workflow that generates images from text descriptions. Simply describe what you want to see, and the AI creates a matching visual based on your prompt."
+      },
+      {
+        "question": "What kind of images can I generate?",
+        "answer": "You can create virtually any type of image: illustrations, concept art, product mockups, landscapes, portraits, abstract art, and more. The key is writing clear, descriptive prompts."
+      },
+      {
+        "question": "How do I write a good prompt?",
+        "answer": "Describe the subject, style, composition, colors, mood, and any specific details. For example: 'A modern minimalist living room with large windows, warm lighting, and indoor plants, photographed in architectural magazine style.' The more specific, the better."
+      },
+      {
+        "question": "Can I control the style and quality?",
+        "answer": "Yes. In your prompt, specify the artistic style (photorealistic, illustration, watercolor, 3D render, etc.), quality level, and other parameters. You can also generate multiple versions to explore different interpretations."
+      },
+      {
+        "question": "Can I use AI-generated images commercially?",
+        "answer": "Commercial usage depends on your OpenCreator plan and the AI model's terms. Review your account's usage rights and any model-specific guidelines before using images in commercial projects."
+      },
+      {
+        "question": "How does credit usage work?",
+        "answer": "Each image generation consumes credits based on the model, resolution, and settings. You can check your credit balance and adjust parameters to manage usage within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Text to Image – AI Text to Image Generator",
+      "description": "Generate high-quality images from text descriptions using advanced AI models."
+    },
+    "softwareApplication": {
+      "name": "Text to Image AI Workflow",
+      "description": "AI-powered workflow that creates images from text prompts for design and creative projects."
+    },
+    "faqPage": { "name": "Text to Image – FAQ" }
+  }
+}

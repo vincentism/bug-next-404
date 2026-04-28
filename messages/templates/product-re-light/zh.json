@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Product Re-light – 产品图重打光 | OpenCreator",
+    "description": "用 AI 一键修复“偏暗、平、光位不佳”的产品图。可调方向、强度与氛围，让画面接近棚拍效果，无需重拍。",
+    "keywords": [
+      "产品摄影服务",
+      "专业产品拍摄",
+      "产品摄影灯光",
+      "AI产品图片编辑",
+      "电商图片修图",
+      "产品图片修图服务",
+      "商业产品摄影",
+      "产品图光线优化",
+      "AI产品摄影"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#产品摄影", "#光线", "#电商"],
+    "title": "产品重打光",
+    "description": "用 AI 重打光修复暗淡或光位不理想的产品图，不用重拍也能获得接近棚拍质感的成片。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "上传需要提升光线的产品图",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "上传现有产品图",
+        "description": "即便是光线不佳、阴影不均的图片也能处理。"
+      },
+      {
+        "title": "选择光型与强度",
+        "description": "柔光棚拍、聚光戏剧、自然日光或自定义光型。"
+      },
+      {
+        "title": "AI 重打光",
+        "description": "自动调整高光、阴影与反射，统一光向与氛围。"
+      },
+      {
+        "title": "导出用于电商与广告",
+        "description": "下载高分辨率图片，适配 Amazon、Shopify 与付费广告。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合追求稳定高质感产品图的团队",
+    "subtitle": "从小店到大目录，都能用重打光提升一致性。",
+    "audiences": [
+      {
+        "label": "电商品牌",
+        "description": "不必重拍，也能把现有图片提升到棚拍级别。"
+      },
+      {
+        "label": "平台卖家",
+        "description": "修正不同货号的光线差异，提升整体可信度。"
+      },
+      {
+        "label": "产品摄影师",
+        "description": "以 AI 作为光线修正的第一步，节约后期时间。"
+      },
+      {
+        "label": "设计与市场团队",
+        "description": "为不同活动与季节快速适配光线氛围。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Product Re-light？",
+        "answer": "一个用于修复与增强产品图光线的 AI 工作流，无需重拍即可获得接近棚拍的结果。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "电商品牌、平台卖家、摄影师与设计团队，尤其是需要大规模统一光线的场景。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "上传任意产品图片，并选择偏好的光型与强度即可。"
+      },
+      {
+        "question": "能得到什么输出？",
+        "answer": "更高分辨率、更佳光线表现的产品图，可直接用于详情页与广告。"
+      },
+      {
+        "question": "能否选择不同光线氛围？",
+        "answer": "可以。支持柔光、聚光、日光以及自定义设置。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "每次重打光按分辨率与调整幅度消耗积分，你可以在额度内迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Re-light – 产品图重打光",
+      "description": "面向电商的 AI 重打光，提升产品图画质与一致性。"
+    },
+    "softwareApplication": {
+      "name": "Product Re-light 模板",
+      "description": "将产品图重打光至棚拍质感的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Product Re-light – 常见问题"
+    }
+  }
+}

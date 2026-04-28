@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Outfit Breakdown Poster – Fashion Outfit Breakdown Generator | OpenCreator",
+    "description": "Create outfit breakdown posters with AI. Turn complete looks into clean breakdown visuals that highlight each item, ideal for fashion brands and e-commerce.",
+    "keywords": [
+      "outfit breakdown poster",
+      "fashion outfit breakdown",
+      "lookbook outfit layout",
+      "clothing item breakdown",
+      "fashion styling graphic",
+      "ai fashion poster",
+      "outfit composition chart",
+      "ecommerce fashion graphic"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#fashion", "#ecommerce", "#banana_pro"],
+    "title": "Outfit Breakdown Poster",
+    "description": "Turn full looks into clear outfit breakdown posters with AI. Showcase each item in a styled outfit—tops, bottoms, shoes, and accessories—in a single visual that feels editorial and shoppable.",
+    "inputPlaceholder": "Describe the outfit or upload your look",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Start from a look or product list",
+        "description": "Describe the outfit you want to break down or provide a list of items (top, bottom, outerwear, shoes, accessories) that make up the look."
+      },
+      {
+        "title": "Describe the visual style and layout",
+        "description": "Specify the mood and layout direction—for example, \"clean editorial grid\", \"streetwear collage\", or \"minimal product card layout\"."
+      },
+      {
+        "title": "Generate AI-powered outfit breakdown posters",
+        "description": "The workflow creates posters that visually separate each item while keeping a cohesive overall aesthetic, making it easy to see how the outfit comes together."
+      },
+      {
+        "title": "Refine and export for your channels",
+        "description": "Pick your favorite poster variations, iterate if needed, then export for use on product pages, lookbooks, social content, and ads."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For fashion brands, stylists, and content teams",
+    "subtitle": "Perfect for anyone who wants to visually explain complete looks in a single graphic.",
+    "audiences": [
+      {
+        "label": "Fashion and apparel brands",
+        "description": "Show how individual SKUs work together in outfits and collections, helping customers understand pairing ideas at a glance."
+      },
+      {
+        "label": "E-commerce and merchandising teams",
+        "description": "Create outfit breakdown visuals for PDPs, category pages, and editorial modules without manually compositing assets."
+      },
+      {
+        "label": "Stylists and creators",
+        "description": "Share curated looks with your audience using clean breakdown posters that show every piece involved."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Use the workflow to ideate outfit storytelling layouts quickly before building final visuals in your design tools."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Outfit Breakdown Poster workflow?",
+        "answer": "Outfit Breakdown Poster is an AI workflow that generates visuals showing a complete outfit broken into its components. It helps fashion brands and creators communicate how each item fits into the look."
+      },
+      {
+        "question": "What inputs work best?",
+        "answer": "A description of the outfit or a list of items, plus optional reference images, works best. You can also describe the desired style (minimal, editorial, collage) to guide the final output."
+      },
+      {
+        "question": "Can I use this for existing catalog items?",
+        "answer": "Yes. You can base your prompts on existing SKUs or collections, then use the resulting posters on PDPs, lookbooks, and editorial content to drive discovery and cross-sell."
+      },
+      {
+        "question": "Where can I use the generated posters?",
+        "answer": "You can use them in product detail pages, lookbooks, social media posts, email campaigns, and digital ads where you want to highlight how pieces work together."
+      },
+      {
+        "question": "Can I match my brand visual identity?",
+        "answer": "You can steer the workflow toward your brand style by describing color palettes, tone, and layout vibes in your prompt. For strict guidelines, treat outputs as starting points and refine them in your design stack."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Each generation consumes credits based on the underlying image steps. It is optimized for exploring multiple layouts and styles before committing to final campaign assets."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Outfit Breakdown Poster – Fashion Outfit Breakdown Generator",
+      "description": "Create outfit breakdown posters for fashion looks using OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Outfit Breakdown Poster AI Workflow",
+      "description": "AI-powered workflow for generating fashion outfit breakdown posters for brands and e-commerce."
+    },
+    "faqPage": {
+      "name": "Outfit Breakdown Poster – FAQ"
+    }
+  }
+}

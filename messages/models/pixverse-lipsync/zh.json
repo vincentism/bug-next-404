@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Pixverse Lipsync AI | 逼真口型同步 | OpenCreator",
+      "description": "使用 Pixverse Lipsync 创建逼真的口型同步视频。高质量音视频同步，适用于说话头像视频、动画肖像和社交内容。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Pixverse Lipsync",
+      "tagline": "逼真 AI 口型同步",
+      "description": "Pixverse Lipsync 使用先进算法从音频生成逼真的口型同步动画，实现高质量同步。非常适合说话头像视频、动画肖像和社交媒体内容创作。",
+      "badge": "热门",
+      "ctaText": "免费试用 Pixverse Lipsync",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "videoToVideo": "视频转视频",
+        "audioSync": "音频同步",
+        "lipSync": "口型同步",
+        "realistic": "逼真输出",
+        "fast": "快速处理"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Pixverse Lipsync 成为口型同步生成强大选择的原因",
+      "items": {
+        "realistic": {
+          "title": "逼真口型动作",
+          "description": "生成自然的口型动作，准确匹配语音音频，实现高质量同步。"
+        },
+        "audioSync": {
+          "title": "音视频同步",
+          "description": "先进算法确保音频输入和生成的口型动作逐帧精确对齐。"
+        },
+        "versatile": {
+          "title": "多格式支持",
+          "description": "支持多种视频格式包括 MP4、MOV、WebM，以及 MP3、WAV、AAC 等音频格式。"
+        },
+        "quality": {
+          "title": "高质量输出",
+          "description": "在添加逼真口型同步的同时保持视频质量，适合专业和社交媒体内容。"
+        },
+        "fast": {
+          "title": "快速处理",
+          "description": "高效的生成流程快速交付结果，让内容创作者能够快速迭代。"
+        },
+        "api": {
+          "title": "API 访问",
+          "description": "完整的 API 访问，可集成到自动化工作流和内容生产流程中。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Pixverse Lipsync 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "talkingHead": {
+          "title": "说话头像视频",
+          "description": "社交内容",
+          "useCase": "为社交媒体创建具有逼真口型同步的吸引人说话头像视频。"
+        },
+        "marketing": {
+          "title": "营销视频",
+          "description": "品牌内容",
+          "useCase": "制作具有同步发言人内容的专业营销视频。"
+        },
+        "dubbing": {
+          "title": "视频配音",
+          "description": "本地化",
+          "useCase": "将视频配音成不同语言，同时保持自然的口型动作。"
+        },
+        "ugc": {
+          "title": "UGC 内容",
+          "description": "创作者经济",
+          "useCase": "生成具有真实口型同步的用户生成风格内容。"
+        },
+        "education": {
+          "title": "教育内容",
+          "description": "在线学习",
+          "useCase": "创建具有清晰同步语音的教育视频，提高参与度。"
+        },
+        "avatar": {
+          "title": "头像动画",
+          "description": "数字角色",
+          "useCase": "为数字头像和角色添加逼真的语音同步动画。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Pixverse Lipsync 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "videoFormats": "视频格式",
+          "audioFormats": "音频格式",
+          "outputFormat": "输出格式",
+          "maxDuration": "最大时长"
+        },
+        "capabilities": {
+          "title": "功能",
+          "lipSync": "口型同步",
+          "audioSync": "音频同步",
+          "faceDetection": "人脸检测",
+          "multiLanguage": "多语言"
+        },
+        "quality": {
+          "title": "质量",
+          "realism": "逼真度",
+          "consistency": "一致性",
+          "resolution": "分辨率保持",
+          "frameRate": "帧率"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Pixverse Lipsync 与其他口型同步模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "lipSync": "口型同步",
+        "realism": "逼真度",
+        "speed": "速度",
+        "multiLanguage": "多语言",
+        "apiAccess": "API 访问",
+        "freeTier": "免费层"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按使用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "积分根据视频时长计算。订阅可享更多优惠。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "逼真口型同步生成",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Pixverse Lipsync？",
+          "answer": "Pixverse Lipsync 是一个从音频生成逼真口型同步动画的 AI 模型。它使用先进算法在音频输入和视频中的口型动作之间创建高质量同步。"
+        },
+        "1": {
+          "question": "我可以用 Pixverse Lipsync 创建什么类型的内容？",
+          "answer": "Pixverse Lipsync 非常适合创建说话头像视频、营销内容、视频配音、UGC 内容、教育视频和具有逼真口型同步的头像动画。"
+        },
+        "2": {
+          "question": "Pixverse Lipsync 支持哪些视频格式？",
+          "answer": "Pixverse Lipsync 支持常见视频格式包括 MP4、MOV、WebM、M4V 和 GIF。支持的音频格式包括 MP3、OGG、WAV、M4A 和 AAC。"
+        },
+        "3": {
+          "question": "口型同步有多逼真？",
+          "answer": "Pixverse Lipsync 生成高质量、逼真的口型动作，准确匹配音频输入。该模型专为专业级输出设计，适合社交媒体和营销内容。"
+        },
+        "4": {
+          "question": "Pixverse Lipsync 可以用于多种语言吗？",
+          "answer": "可以，Pixverse Lipsync 支持多种语言的音频，适合跨不同市场的配音和本地化项目。"
+        },
+        "5": {
+          "question": "Pixverse Lipsync 在 OpenCreator 上多少钱？",
+          "answer": "Pixverse Lipsync 在 OpenCreator 上每次生成 48 积分。可在免费层、Canvas、Flow 和 API 中使用。订阅用户可享额外折扣。"
+        }
+      }
+    }
+  }
+}

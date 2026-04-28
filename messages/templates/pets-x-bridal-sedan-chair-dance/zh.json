@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "宠物 x 大花轿舞蹈 – 节日 meme 短视频工作流 | OpenCreator",
+    "description": "用文字生成宠物角色与喜庆背景，再用 video-to-video AI 做视频编辑，在保留原动作与镜头的前提下完成换主体与换场景。",
+    "keywords": [
+      "宠物meme视频",
+      "大花轿舞蹈",
+      "新年短视频",
+      "视频换主体",
+      "社交推广内容",
+      "video to video AI",
+      "节日梗视频改编"
+    ]
+  },
+  "hero": {
+    "featureTag": "视频生成",
+    "tags": ["#Kling_o1", "#Social_Promo"],
+    "title": "宠物 x 大花轿舞蹈",
+    "description": "先用文字生成“宠物角色图”和“喜庆舞台背景图”，再把它们应用到基础舞蹈视频上，生成更适合节日传播的 meme 风格短视频。通过改提示词即可快速产出多版本。",
+    "inputPlaceholder": "描述你的宠物角色与场景",
+    "ctaText": "免费试用",
+    "outputImageAlt": "宠物大花轿舞蹈示例封面图"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "写角色提示词",
+        "description": "描述你要生成的宠物角色（动作、表情、穿搭、氛围等），工作流会先生成对应的角色图。"
+      },
+      {
+        "title": "生成喜庆背景",
+        "description": "生成新年/红金/舞台灯光等背景，用于控制最终场景氛围。"
+      },
+      {
+        "title": "用 Kling o1 编辑基础视频",
+        "description": "通过 video-to-video 在尽量保留原动作与机位的前提下，替换主体并应用新背景，做出可传播的舞蹈 meme。"
+      },
+      {
+        "title": "导出用于短视频平台",
+        "description": "下载成片发布到短视频平台，也可用于节日营销与品牌内容。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合快速做“节日热点内容”的团队",
+    "subtitle": "少量改动提示词，就能产出多版本素材。",
+    "audiences": [
+      {
+        "label": "社媒运营团队",
+        "description": "快速制作节日/热点 meme 内容，提升互动与传播。"
+      },
+      {
+        "label": "宠物品牌",
+        "description": "制作更有趣的品牌短视频内容，用于活动与投放。"
+      },
+      {
+        "label": "内容创作者",
+        "description": "不断更换角色与背景组合，探索更容易爆的版本。"
+      },
+      {
+        "label": "代理与工作室",
+        "description": "高效率交付多版本 meme 素材给客户。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "“宠物 x 大花轿舞蹈”工作流是什么？",
+        "answer": "这是一个工作流：用文字先生成宠物角色图与背景图，再使用 Kling o1 的 video-to-video 把它们应用到基础舞蹈视频上，实现换主体/换场景的 meme 风格短片。"
+      },
+      {
+        "question": "这是文生视频吗？",
+        "answer": "不完全是。它是“文生图（角色/背景）+ 视频编辑（video-to-video）”的组合。"
+      },
+      {
+        "question": "使用了哪些模型？",
+        "answer": "角色与背景由文生图模型生成，最终视频由 Kling o1 进行视频编辑生成。"
+      },
+      {
+        "question": "需要基础视频吗？",
+        "answer": "需要。video-to-video 需要基础视频来提供动作与镜头参考，短片段通常更稳定。"
+      },
+      {
+        "question": "可以换角色风格吗？",
+        "answer": "可以。修改提示词即可改变角色、穿搭、表情和整个场景氛围。"
+      },
+      {
+        "question": "可以用于商业内容吗？",
+        "answer": "原则上可以，但请确保基础视频素材有合法授权，并遵守模型与平台政策。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "宠物 x 大花轿舞蹈 – 节日 meme 短视频工作流",
+      "description": "用文生图生成素材，并用 Kling o1 video-to-video 编辑基础舞蹈视频，制作节日 meme 风格短片。"
+    },
+    "softwareApplication": {
+      "name": "节日 meme 视频工作流",
+      "description": "通过文生图生成角色/背景，并用视频编辑模型制作 meme 短视频的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "宠物 x 大花轿舞蹈 – 常见问题"
+    }
+  }
+}

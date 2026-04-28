@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Product to Background (Outdoor Gear) – Outdoor Product Background Generator | OpenCreator",
+    "description": "Place outdoor products into on-brand backgrounds with AI. AI background generator for lifestyle product photography—turn simple product visuals into environment-specific scenes.",
+    "keywords": [
+      "ai background generator",
+      "background maker",
+      "lifestyle product photography",
+      "product background remover",
+      "ai product photography",
+      "product photo editing",
+      "outdoor product background",
+      "product to background",
+      "outdoor gear scene image",
+      "professional product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#outdoor", "#ecommerce", "#banana_pro"],
+    "title": "Product to Background (Outdoor Gear)",
+    "description": "Place your outdoor gear into the right environment with AI. Transform simple product visuals into lifestyle-ready scenes that match real outdoor use cases—from hiking trails to campsites and beyond.",
+    "inputPlaceholder": "Upload your product and describe the outdoor scene",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload or describe your outdoor product",
+        "description": "Start with a product image or description for items like backpacks, tents, jackets, boots, or accessories."
+      },
+      {
+        "title": "Describe the target environment",
+        "description": "Specify the type of outdoor scene—mountain trail, forest, lakeside, urban outdoor, campsite, etc.—and how you want the product to be framed."
+      },
+      {
+        "title": "Generate AI outdoor background scenes",
+        "description": "The workflow places your product into realistic outdoor environments that align with your brand and target use cases."
+      },
+      {
+        "title": "Select scenes and export for campaigns",
+        "description": "Review variations, choose the compositions that best match your story, then export images for PDPs, social, and paid campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For outdoor brands and gear marketers",
+    "subtitle": "Ideal for brands who need environment-specific visuals without constant location shoots.",
+    "audiences": [
+      {
+        "label": "Outdoor and sports brands",
+        "description": "Show gear in real-world-inspired environments that match your audience’s activities, from hiking to climbing and camping."
+      },
+      {
+        "label": "E-commerce and marketplace teams",
+        "description": "Upgrade plain studio shots with outdoor scenes that tell clearer stories on product pages and marketplaces."
+      },
+      {
+        "label": "Creative and content teams",
+        "description": "Create outdoor visuals for campaigns and brand stories without needing to organize every shoot on location."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Use the workflow to explore environment concepts quickly before refining hero visuals in post-production."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product to Background (Outdoor Gear) workflow?",
+        "answer": "Product to Background (Outdoor Gear) is an AI workflow that places outdoor products into realistic, brand-aligned outdoor scenes. It helps you tell better product stories without relying solely on location shoots."
+      },
+      {
+        "question": "Do I need clean product cutouts?",
+        "answer": "Clean product images with simple backgrounds generally work best, but you can also start from existing PDP shots. The clearer the product, the easier it is for the workflow to place it in new scenes."
+      },
+      {
+        "question": "Can I control the level of realism and style?",
+        "answer": "Yes. You can describe how realistic, stylized, or illustrative you want the scenes to be, as well as lighting and mood."
+      },
+      {
+        "question": "What types of products does this support?",
+        "answer": "Backpacks, tents, sleeping bags, jackets, footwear, accessories, and most gear typically used in outdoor or adventure contexts."
+      },
+      {
+        "question": "Where can I use the generated images?",
+        "answer": "Use them in product galleries, collection pages, hero banners, social campaigns, and performance ads to better communicate context of use."
+      },
+      {
+        "question": "How is pricing handled?",
+        "answer": "Each generation consumes credits based on the underlying image editing and generation steps. It’s optimized for iterating on multiple scenes per product."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product to Background (Outdoor Gear) – Outdoor Product Background Generator",
+      "description": "Place outdoor products into environment-specific backgrounds with OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Product to Background (Outdoor Gear) AI Workflow",
+      "description": "AI-powered workflow for placing outdoor products into realistic outdoor scenes for e-commerce and campaigns."
+    },
+    "faqPage": {
+      "name": "Product to Background (Outdoor Gear) – FAQ"
+    }
+  }
+}

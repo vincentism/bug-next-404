@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "Digital 3C Special Effect Lighting – AI Product Video | OpenCreator",
+    "description": "Create stunning 3C digital product photos and videos with special effect lighting. AI-powered workflow for electronics, gadgets, and tech product marketing.",
+    "keywords": [
+      "3C product photography",
+      "digital product lighting",
+      "tech product video",
+      "product video maker",
+      "commercial photography",
+      "electronics photography ai",
+      "special effect lighting",
+      "gadget product photos",
+      "ai product video",
+      "tech marketing visuals",
+      "consumer electronics ad video",
+      "3C brand video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#3c_digital", "#special_effects", "#product_video"],
+    "title": "Digital 3C Special Effect Lighting",
+    "description": "Transform your 3C digital products with stunning special effect lighting. Create eye-catching photos and cinematic videos for electronics, gadgets, and tech products using AI-powered dramatic lighting effects that make your products stand out.",
+    "inputPlaceholder": "Upload your 3C product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your 3C product",
+        "description": "Provide a clear image of your electronic device, gadget, or tech product. The AI analyzes the product's form and surfaces for optimal lighting effects."
+      },
+      {
+        "title": "Apply special effect lighting",
+        "description": "The workflow applies dramatic lighting effects—neon glows, light trails, reflections, and atmospheric effects that highlight your product's premium features."
+      },
+      {
+        "title": "Generate photos and video",
+        "description": "Using Nano Banana Pro and Kling 1.6, create stunning still images and dynamic videos with cinematic lighting that captures attention in any feed."
+      },
+      {
+        "title": "Export for marketing",
+        "description": "Download high-resolution images and videos ready for product launches, social media campaigns, and premium brand marketing materials."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for tech brands and electronics marketers",
+    "subtitle": "From startups to enterprise tech companies, see who creates 3C visuals with AI.",
+    "audiences": [
+      {
+        "label": "Electronics brands",
+        "description": "Showcase smartphones, tablets, laptops, and gadgets with premium lighting effects that convey innovation and quality."
+      },
+      {
+        "label": "Tech marketers",
+        "description": "Create scroll-stopping product visuals for social media, ads, and campaigns that stand out in crowded digital spaces."
+      },
+      {
+        "label": "Product managers",
+        "description": "Generate professional launch materials quickly without extensive photography setup or post-production work."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Elevate your 3C product listings with cinematic visuals that justify premium pricing and attract tech-savvy buyers."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Digital 3C Special Effect Lighting?",
+        "answer": "This AI workflow creates stunning photos and videos of 3C digital products with special effect lighting—neon glows, light trails, dramatic reflections, and atmospheric effects."
+      },
+      {
+        "question": "What 3C products work best?",
+        "answer": "Smartphones, tablets, laptops, headphones, smartwatches, gaming peripherals, and any electronics with reflective or sleek surfaces benefit most from special effect lighting."
+      },
+      {
+        "question": "Can I create both images and videos?",
+        "answer": "Yes. The workflow uses Nano Banana Pro for stunning still images and Kling 1.6 for cinematic video content with dynamic lighting effects."
+      },
+      {
+        "question": "What types of lighting effects are available?",
+        "answer": "Effects include neon edge lighting, light trails, lens flares, atmospheric glows, reflective highlights, and dramatic shadows that emphasize product design."
+      },
+      {
+        "question": "Is this suitable for product launches?",
+        "answer": "Absolutely. The cinematic quality is perfect for product reveals, launch campaigns, and premium marketing materials that create excitement."
+      },
+      {
+        "question": "How do credits work for this workflow?",
+        "answer": "Image and video generation consume credits separately based on complexity. Video effects typically require more credits but deliver high-impact marketing content."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Digital 3C Special Effect Lighting – AI Product Video",
+      "description": "Create stunning 3C digital product photos and videos with special effect lighting using AI."
+    },
+    "softwareApplication": {
+      "name": "Digital 3C Special Effect Lighting Generator",
+      "description": "AI-powered tool for creating dramatic lighting effects on electronics and tech product visuals."
+    },
+    "faqPage": {
+      "name": "Digital 3C Special Effect Lighting – FAQ"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "AI Handbag Promo Video - Fashion Accessory Ad Workflow | OpenCreator",
+    "description": "Create polished handbag promo videos from product images. This workflow combines image enhancement, scene styling, and video generation for ecommerce campaigns.",
+    "keywords": [
+      "ai video ads",
+      "ai product video generator",
+      "ai fashion video generator",
+      "fashion video ads",
+      "handbag promo video",
+      "bag ad video",
+      "ecommerce video ads",
+      "ai product marketing video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Ecommerce Video",
+    "tags": ["#ecommerce", "#banana_pro", "#sora2"],
+    "title": "AI Handbag Promo Video",
+    "description": "Turn handbag photos into campaign-ready video creatives. The workflow chains image enhancement and video generation nodes so you can produce premium accessory promos faster.",
+    "inputPlaceholder": "Upload product photos for your handbag campaign",
+    "ctaText": "Create Handbag Video"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload handbag references",
+        "description": "Add one or multiple product images to define shape, texture, hardware details, and brand look."
+      },
+      {
+        "title": "Refine key visuals",
+        "description": "Image-to-image steps transform your references into polished campaign frames with cleaner lighting and stronger visual focus."
+      },
+      {
+        "title": "Generate promo clips",
+        "description": "Video generation nodes animate key frames into short ad clips suitable for paid social and marketplace creatives."
+      },
+      {
+        "title": "Assemble launch-ready assets",
+        "description": "Export final videos and reuse the same workflow structure for new SKUs, collections, or seasonal themes."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for fashion teams shipping fast",
+    "subtitle": "Build high-end accessory promos without long production cycles.",
+    "audiences": [
+      {
+        "label": "Bag and accessory brands",
+        "description": "Launch polished campaign videos quickly for new drops, events, and paid media pushes."
+      },
+      {
+        "label": "Ecommerce marketers",
+        "description": "Produce conversion-focused motion creatives from existing product photos instead of arranging frequent shoots."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Deliver multiple visual directions for client approval with less production overhead."
+      },
+      {
+        "label": "Social content teams",
+        "description": "Repurpose one workflow into many short-form cuts for reels, stories, and feed placements."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the AI Handbag Promo Video workflow?",
+        "answer": "It is a template that converts handbag product images into short promotional videos by combining image refinement and video generation nodes."
+      },
+      {
+        "question": "Do I need video footage to use it?",
+        "answer": "No. You can start from still product images and let the workflow generate motion outputs from those assets."
+      },
+      {
+        "question": "Can I upload multiple references?",
+        "answer": "Yes. The workflow supports multiple product inputs so you can maintain style consistency across scenes and clips."
+      },
+      {
+        "question": "Is it suitable for paid ads?",
+        "answer": "Yes. The generated clips are designed for social ad formats, product launches, and high-frequency creative testing."
+      },
+      {
+        "question": "Can I adapt it for other accessories?",
+        "answer": "Absolutely. You can reuse the same workflow for shoes, jewelry, and other fashion accessories by replacing product references."
+      },
+      {
+        "question": "How do I keep results on-brand?",
+        "answer": "Use consistent product references, visual prompts, and scene direction. Save your best node settings and reuse them as a brand baseline."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Handbag Promo Video",
+      "description": "Generate campaign-ready handbag promo videos from product images with AI workflows."
+    },
+    "softwareApplication": {
+      "name": "AI Handbag Promo Workflow",
+      "description": "AI workflow for producing fashion accessory promo videos from image references."
+    },
+    "faqPage": {
+      "name": "AI Handbag Promo Video - FAQ"
+    }
+  }
+}

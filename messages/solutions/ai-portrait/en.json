@@ -1,0 +1,133 @@
+{
+  "seo": {
+    "title": "AI Headshot Generator - Professional LinkedIn Photo | OpenCreator",
+    "description": "Generate professional AI headshots for LinkedIn & business profiles. Studio-quality portraits, avatars & profile pictures in minutes. No photoshoot required.",
+    "keywords": [
+      "ai headshot generator",
+      "ai professional headshot generator",
+      "linkedin photo generator",
+      "ai profile picture generator",
+      "ai business photo generator",
+      "headshot generator",
+      "ai avatar generator",
+      "ai portrait"
+    ]
+  },
+  "hero": {
+    "badge": "Portrait Solution",
+    "title": "Professional headshots without the photoshoot",
+    "description": "Turn simple selfies into studio-style headshots and avatars using guided workflows. Choose backgrounds and styles that match your industry while the AI handles lighting and polish.",
+    "cta": "Create Your Headshot",
+    "secondaryCta": "See Templates",
+    "stats": {
+      "quality": {
+        "label": "Quality",
+        "value": "Studio-grade"
+      },
+      "time": {
+        "label": "Time",
+        "value": "2 min"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "One solution for every profile",
+    "description": "Use one workflow for LinkedIn, one for team portraits, and another for creative avatars. Keep framing and backgrounds consistent, then reuse the same setup whenever you or your team need to refresh portraits.",
+    "sections": {
+      "professional": {
+        "title": "Professional Headshots",
+        "subtitle": "LinkedIn & business profiles"
+      },
+      "creative": {
+        "title": "Creative Portraits",
+        "subtitle": "Avatars & character design"
+      },
+      "content": {
+        "title": "Content Creation",
+        "subtitle": "Thumbnails & social media"
+      }
+    },
+    "explore": "Explore",
+    "templates": {
+      "linkedinHeadshot": "LinkedIn Headshot",
+      "aiAvatarGenerator": "Couple Avatars",
+      "studioLevelPhotography": "Studio-level Photography",
+      "ageChangeEffect": "Age Change Effect",
+      "3dCharacterRender": "3D Character Render",
+      "3dFigureDesign": "3D Figure Design",
+      "consistentCharacterAds": "Consistent Character Ads",
+      "hairstyleLab": "Hairstyle Lab",
+      "animalOlympics": "Animal Olympics",
+      "multiverseProblemSolver": "Multiverse Problem Solver",
+      "povLeakedFootage": "POV Leaked Footage",
+      "ugcPromoPost": "UGC Promo Post",
+      "aiThumbnailMaker": "YouTube Thumbnail",
+      "youtubeVlogThumbnail": "YouTube Vlog Thumbnail"
+    }
+  },
+  "audiences": {
+    "title": "Built for",
+    "badge": "For professionals",
+    "description": "Whether you need one headshot or hundreds for your team, AI makes professional photography accessible to everyone.",
+    "items": {
+      "professionals": {
+        "title": "Job Seekers & Professionals",
+        "description": "Stand out on LinkedIn and job applications with a polished, professional headshot that makes a great first impression.",
+        "roles": "Job seekers, freelancers, consultants"
+      },
+      "teams": {
+        "title": "HR & Company Teams",
+        "description": "Create consistent headshots for your entire team without coordinating schedules or hiring photographers.",
+        "roles": "HR managers, office managers, team leads"
+      },
+      "creators": {
+        "title": "Content Creators",
+        "description": "Generate unique avatars and thumbnails that stand out across social platforms and personal brands.",
+        "roles": "YouTubers, streamers, podcasters"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": {
+      "q1": {
+        "question": "What kind of photo should I upload to get a good AI headshot?",
+        "answer": "Use a clear selfie or portrait where your face is fully visible, not heavily filtered, and not backlit. Neutral expressions or a slight smile work best. Avoid sunglasses, strong beauty filters, or extreme angles – these make it harder for the model to understand your real features and can lead to inconsistent results across styles."
+      },
+      "q2": {
+        "question": "Will the AI really look like me? What are the limits?",
+        "answer": "The goal is to keep your identity recognizable while improving lighting, background, and styling. If your upload photos are blurry, extremely stylized, or all from the same side, the model may guess on some details. Large changes like drastic age shifts, extreme makeup, or fantasy styles are great for creative use, but they should not be treated as exact representations of your real-world appearance."
+      },
+      "q3": {
+        "question": "Can I use these headshots for LinkedIn, company websites, and other professional contexts?",
+        "answer": "Yes. Many users generate a set of professional variations (formal, smart casual, different backgrounds) and reuse them across LinkedIn, company profiles, and personal sites. You can keep one or two anchor looks and then generate lighter variations for different channels so your online presence still feels consistent."
+      },
+      "q4": {
+        "question": "How do team and batch headshot workflows work?",
+        "answer": "For teams, you can upload photos for multiple people into a single workflow and apply the same framing, background, and lighting settings. Each person still gets their own result set, but the visual system stays consistent across the entire company. This is especially useful when you need to refresh everyone's portraits at once without coordinating a physical photoshoot."
+      },
+      "q5": {
+        "question": "Are AI headshots suitable for legal IDs or official documents?",
+        "answer": "No. AI-generated portraits should not be used for passports, government IDs, visas, or any context where regulations require a real, unaltered photo. They are designed for professional branding and social presence, not for legal identification. Always check local rules and your organization's policies before using AI portraits in formal processes."
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Portrait & Headshot Generator",
+      "description": "Generate professional AI headshots and portraits without photoshoots."
+    },
+    "softwareApplication": {
+      "name": "AI Portrait & Headshot Generator",
+      "description": "Studio-quality headshots for LinkedIn, company profiles, and social media."
+    },
+    "faqPage": {
+      "name": "AI Portrait Solution - FAQ"
+    }
+  },
+  "relatedSolutions": {
+    "title": "Explore More Solutions",
+    "subtitle": "Discover other AI-powered workflows to elevate your creative production",
+    "ctaLabel": "View solution"
+  }
+}

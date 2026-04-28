@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "Lyrics to MV – AI Music Video Storyboard Generator | OpenCreator",
+    "description": "Turn song lyrics into music video storyboards with AI and generate scene ideas for artist releases and social promotion.",
+    "keywords": [
+      "ai music video generator",
+      "lyrics to music video",
+      "ai lyric video maker",
+      "music video storyboard generator",
+      "song to video ai",
+      "mv creator ai",
+      "musician video generator",
+      "album promo music video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#music", "#visual_arts"],
+    "title": "Lyrics to MV",
+    "description": "Just input your song lyrics, and the AI will handle the rest—automatically generating a complete, shot-by-shot storyboard for your music video. This all-in-one solution makes it effortless to turn your creative vision into reality. Perfect for musicians, directors, and creators looking to streamline the music video production process with stunning results.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Put your song lyrics here…",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Paste your lyrics and context",
+        "description": "Drop in your full lyrics or key sections, along with notes on genre, mood, pacing, and any visual references you already have in mind."
+      },
+      {
+        "title": "Let the workflow break down the song",
+        "description": "The workflow helps interpret your lyrics into sections and scenes so each verse, chorus, or bridge can inspire distinct visual moments."
+      },
+      {
+        "title": "Generate storyboard-style video sequences",
+        "description": "Run the Lyrics to Music Video template to create cinematic shot suggestions and sequences that match the feeling of your track."
+      },
+      {
+        "title": "Refine, rerun, and reuse the flow",
+        "description": "Adjust prompts, styles, or key scenes, then rerun the workflow to compare different directions and reuse the project for future songs."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for music storytellers",
+    "subtitle": "From indie artists to directors, see who turns lyrics into visual stories with this workflow.",
+    "audiences": [
+      {
+        "label": "Musicians & bands",
+        "description": "Turn raw song lyrics into clear, cinematic storyboard sequences you can use to plan or pitch your next music video."
+      },
+      {
+        "label": "Music video directors & producers",
+        "description": "Quickly explore visual directions for different tracks, genres, and moods without hiring storyboard artists for every idea."
+      },
+      {
+        "label": "Labels & marketing teams",
+        "description": "Generate visual concepts for campaigns, teasers, and social clips based on key lyrics or hooks from upcoming releases."
+      },
+      {
+        "label": "Indie creators & content editors",
+        "description": "Use AI-generated MV storyboards as a starting point for lyric videos, short clips, and behind-the-scenes content."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Lyrics to Music Video template do?",
+        "answer": "Lyrics to Music Video is an AI workflow that turns song lyrics into cinematic music video storyboards or sequences. It helps musicians and creators visualize their tracks as videos."
+      },
+      {
+        "question": "What do I need to provide as input?",
+        "answer": "You paste your lyrics and optionally describe the genre, mood, color palette, and any visual motifs you want. The workflow then breaks the lyrics into sections and generates matching visuals."
+      },
+      {
+        "question": "Does it generate a full finished music video?",
+        "answer": "The template focuses on storyboards and AI-generated video sequences, not a final, fully edited music video. You can use the output as reference or as stylized content for social media."
+      },
+      {
+        "question": "Can I sync visuals to specific song sections?",
+        "answer": "You can describe how you want different sections (intro, verse, chorus, bridge) to look, and the workflow will try to align visuals with those parts. For precise sync, you may want to refine timing manually after export."
+      },
+      {
+        "question": "Is this workflow suitable for independent musicians?",
+        "answer": "Yes. It's tailored for artists who want to ideate music videos without a large budget or production team, from indie musicians to producers and labels."
+      },
+      {
+        "question": "Can I control the visual style (e.g., live-action vs. animated)?",
+        "answer": "You can guide the style through your prompt (e.g., \"animated MV,\" \"live-action cinematic,\" \"lo-fi collage\"). While AI interpretation varies, clear stylistic instructions improve consistency."
+      },
+      {
+        "question": "How are credits used for Lyrics to Music Video?",
+        "answer": "Each generation consumes credits based on the models and video length involved. You can run shorter sections first to test the style before committing more credits to longer sequences."
+      },
+      {
+        "question": "Can I reuse the same lyrics in other OpenCreator workflows?",
+        "answer": "Yes. You can reuse your lyrics in other image or video workflows (e.g., album cover, thumbnail, or typography templates) to keep visual branding consistent."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Lyrics to MV – AI Music Video Storyboard Generator",
+      "description": "Turn your song lyrics into cinematic music video storyboards with an AI-powered workflow."
+    },
+    "softwareApplication": {
+      "name": "Lyrics to MV AI Workflow Template",
+      "description": "AI workflow that turns song lyrics and style notes into music video storyboard sequences."
+    },
+    "faqPage": {
+      "name": "Lyrics to Music Video – FAQ"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "UGC Promo Post – AI Social Media Content | OpenCreator",
+    "description": "Create authentic UGC-style promotional posts with AI. AI video ad maker free and ai commercial generator for engaging social media content that drives engagement and conversions.",
+    "keywords": [
+      "ai commercial generator",
+      "ai video ad maker free",
+      "ai product photography",
+      "lifestyle product photography",
+      "ecommerce product photography",
+      "ugc content generator",
+      "ai social media posts",
+      "user generated content marketing",
+      "social media promotion ai",
+      "instagram post creator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#social_promo", "#content_marketing", "#engagement"],
+    "title": "UGC Promo Post",
+    "description": "Create authentic UGC-style promotional posts with AI. Generate engaging social media content that feels genuine and drives real engagement. Perfect for brands and marketers who want to connect with audiences through authentic, user-generated style content.",
+    "inputPlaceholder": "Describe your product or promotion",
+    "ctaText": "Create Post"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your product or campaign",
+        "description": "Input your product details, brand voice, target audience, and key messaging points. Include any specific UGC style or aesthetic preferences."
+      },
+      {
+        "title": "Choose UGC style and platform",
+        "description": "Select from Instagram posts, TikTok content, or other social platforms. Choose aesthetic styles like casual, lifestyle, or trend-based content."
+      },
+      {
+        "title": "Generate authentic UGC content",
+        "description": "AI creates realistic user-generated style posts with natural poses, authentic settings, and genuine engagement elements that resonate with audiences."
+      },
+      {
+        "title": "Download and publish",
+        "description": "Export high-quality social media posts ready for immediate deployment across your marketing channels and social platforms."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for social media marketing and brand promotion",
+    "subtitle": "From startups to established brands, see who creates UGC content with AI.",
+    "audiences": [
+      {
+        "label": "Social media managers",
+        "description": "Scale content production while maintaining authenticity, creating consistent UGC-style posts that drive engagement across platforms."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Showcase products in authentic contexts that build trust and drive conversions through relatable, user-generated style content."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Deliver high-volume UGC campaigns for multiple clients while maintaining quality and authenticity across diverse brand voices."
+      },
+      {
+        "label": "Content creators",
+        "description": "Generate inspiration and variations for UGC-style content, saving time while maintaining creative authenticity and engagement."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the UGC Promo Post workflow?",
+        "answer": "UGC Promo Post is an AI-powered workflow that creates authentic user-generated style promotional posts. Generate engaging social media content that drives engagement and conversions."
+      },
+      {
+        "question": "Who is UGC Promo Post designed for?",
+        "answer": "UGC Promo Post is essential for social media marketing and brand promotion: social media managers, e-commerce brands, marketing agencies, and content creators who need authentic social content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your product details, brand voice, target audience, and key messaging points, along with any specific UGC style or aesthetic preferences."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates realistic user-generated style posts with natural poses, authentic settings, and genuine engagement elements optimized for social platforms."
+      },
+      {
+        "question": "Can I create content for different social platforms?",
+        "answer": "Yes. You can create content optimized for Instagram, TikTok, Facebook, and other social platforms with platform-specific formats and styles."
+      },
+      {
+        "question": "How do credits and pricing work for UGC Promo Post?",
+        "answer": "Each post generation consumes credits based on the image complexity and customization. The cost is optimized for creating high-engagement social media content."
+      },
+      {
+        "question": "Can I maintain brand consistency across UGC posts?",
+        "answer": "Absolutely. The workflow incorporates your brand elements, voice, and visual identity while maintaining the authentic UGC aesthetic your audience trusts."
+      },
+      {
+        "question": "Is this suitable for product launches and campaigns?",
+        "answer": "Yes. Perfect for creating consistent UGC-style content for product launches, seasonal campaigns, and ongoing social media marketing initiatives."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "UGC Promo Post – AI Social Media Content",
+      "description": "Create authentic user-generated style promotional posts with AI for engaging social media content that drives conversions."
+    },
+    "softwareApplication": {
+      "name": "UGC Promo Post AI Generator",
+      "description": "AI-powered UGC content creator for generating authentic social media posts and promotional content."
+    },
+    "faqPage": {
+      "name": "UGC Promo Post – FAQ"
+    }
+  }
+}

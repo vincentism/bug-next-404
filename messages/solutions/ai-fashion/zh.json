@@ -1,0 +1,150 @@
+{
+  "seo": {
+    "title": "AI 虚拟试穿与时尚模特生成器 | OpenCreator",
+    "description": "用 AI 模特展示你的服装。虚拟试穿、AI 换装、造型手册，无需昂贵拍摄。免费 AI 穿搭生成器。",
+    "keywords": [
+      "虚拟试穿",
+      "ai换装",
+      "ai时尚模特",
+      "ai穿搭生成器",
+      "服装模特生成",
+      "ai服装生成",
+      "换装ai",
+      "ai模特生成"
+    ]
+  },
+  "hero": {
+    "badge": "时尚解决方案",
+    "title": "用 AI 模特展示你的服装",
+    "description": "不用再频繁约拍模特和摄影棚，只需上传服装图片，即可通过虚拟试穿工作流生成上身图、造型手册图片和 UGC 风格内容，覆盖店铺和投放场景。",
+    "cta": "试用虚拟试穿",
+    "secondaryCta": "查看模板",
+    "stats": {
+      "models": {
+        "label": "AI 模特",
+        "value": "无限"
+      },
+      "cost": {
+        "label": "对比拍摄",
+        "value": "省 90%"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "一站式时尚图片方案",
+    "description": "用同一套工作流跑完整个系列：一套配置用于详情页主图，一套用于造型手册，一套用于社交内容。机位、光线和背景保持稳定，只替换不同款式的服装，让整季视觉既统一又高效。",
+    "sections": {
+      "tryon": {
+        "title": "虚拟试穿",
+        "subtitle": "AI 模特穿搭展示"
+      },
+      "lookbook": {
+        "title": "造型手册",
+        "subtitle": "编辑风格图片"
+      },
+      "promo": {
+        "title": "社交推广",
+        "subtitle": "真实感推广素材"
+      }
+    },
+    "explore": "查看",
+    "templates": {
+      "virtualTryOn": "虚拟试穿",
+      "batchAiModelTryOn": "批量 AI 模特试穿",
+      "360OutfitDisplay": "360° 穿搭展示",
+      "allThingsWearable": "万物可穿",
+      "petModelTryOn": "宠物模特试穿",
+      "hauteAdornmentStudio": "高级配饰工作室",
+      "fashionLookbookMockup": "时尚造型手册",
+      "fashionModelStaging": "时尚模特场景",
+      "outfitBreakdownPoster": "穿搭分解海报",
+      "modelPosesIdeation": "模特姿势创意",
+      "streetwearUgcPromo": "街头风 UGC 推广",
+      "sportswearOnModelAd": "运动服模特广告",
+      "aiFashionOutdoorShorts": "AI 户外时尚短裤",
+      "sora2UgcPromo": "Sora 2 x UGC 推广",
+      "liveModelAiEnvironment": "真人模特 AI 环境融合",
+      "textureProjectionHomeTextiles": "纹理投影（家纺）",
+      "productToBackgroundBagsShoes": "产品转背景（箱包鞋履）",
+      "productToBackgroundOutdoorGear": "产品转背景（户外装备）",
+      "editorialPhotography": "时尚编辑摄影",
+      "christmasFashionStoryboards": "圣诞时尚分镜图",
+      "christmasFashionEditorial": "圣诞时尚大片",
+      "fabricToModelCatwalk": "布匹→裙子→模特走秀",
+      "aigcFashionPhotography": "AIGC时尚摄影流程",
+      "accessoriesModelReproduction": "配饰模特场景复刻",
+      "brandFashionEditorial": "品牌时尚大片",
+      "tiktokFashionHaul": "TK博主服装种草视频",
+      "headwearStyling": "帽饰佩戴",
+      "fashionAccessoriesDisplay": "整套时尚配饰展示",
+      "apparelAiPromotionalVideo": "服饰AI宣发视频",
+      "ecommerceFashionModel": "电商时装模特",
+      "clothingPromotionShortFilm": "服装宣发短片"
+    }
+  },
+  "audiences": {
+    "title": "适用人群",
+    "badge": "为时尚品牌打造",
+    "description": "跳过昂贵的拍摄，以极低成本生成专业时尚图片。",
+    "items": {
+      "brands": {
+        "title": "时尚品牌",
+        "description": "用 AI 模特图片更快推出新系列，无需协调拍摄即可展示多样化模特穿搭。",
+        "roles": "品牌主、创意总监、电商经理"
+      },
+      "sellers": {
+        "title": "电商卖家",
+        "description": "用模特图片创建专业产品列表，提高转化率。适合淘宝、京东和各平台卖家。",
+        "roles": "店主、代发卖家、分销商"
+      },
+      "creators": {
+        "title": "内容创作者",
+        "description": "无需昂贵拍摄即可生成时尚内容。适合网红和造型师。",
+        "roles": "网红、造型师、内容创作者"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": {
+      "q1": {
+        "question": "要获得最好效果，我应该上传什么样的服装图片？",
+        "answer": "建议使用服装主体完整、没有被裁切、没有被道具或大面积文字遮挡的图片。平铺图、假模特（镂空模特）、简单的挂拍图都可以。尽量避免背景过于复杂、强反光或明显运动模糊的照片。如果使用已有模特图做换装，尽量选择服装区域没有被强烈修图或严重变形的素材，以便 AI 更好理解版型和轮廓。"
+      },
+      "q2": {
+        "question": "AI 虚拟试穿有哪些局限？",
+        "answer": "AI 很擅长还原整体造型氛围，但并不能完全替代线下试穿体验。比如：布料真实的厚度、弹性、在不同体型上的所有细节表现，可能不会 100% 精准。特别复杂的材质（高透明蕾丝、强反光亮片等）生成难度较高，通常需要多次迭代，必要时仍然建议配合人工修图。"
+      },
+      "q3": {
+        "question": "大货上新或整季目录，批量工作流是怎么运作的？",
+        "answer": "你可以把一批 SKU 作为列表输入到批量工作流中，为每个 SKU 绑定一张或多张服装图片，在一次运行中生成整套模特图。工作流中的节点结构保持不变——光线、机位、背景统一，只是输入的产品换成不同款式。这样在上新一整季或统一多季旧图风格时，不需要每次重搭流程。"
+      },
+      "q4": {
+        "question": "如何控制模特多样性和品牌调性？",
+        "answer": "你可以在工作流或模板层面指定希望的模特特征，例如体型、肤色、年龄段以及整体气质（电商、杂志感、街头风等）。一旦找到符合品牌调性的组合，就可以在多个批次中重复使用这一配置，让整季的模特图既多样又统一，而不是每批次风格完全随机。"
+      },
+      "q5": {
+        "question": "这些 AI 模特图片可以用于广告和平台商品页吗？",
+        "answer": "很多品牌会将 AI 模特图用于商品详情页、造型册和广告素材。但你需要自行确认：所在市场的广告和合规要求、各电商平台是否允许使用 AI 生成试穿图片、是否需要做 AI 内容标识。同时请避免在未取得授权的情况下使用真实人物的肖像或他人 Logo，并在大规模投放前先小范围验证平台审核规则。"
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI 时尚与虚拟试穿解决方案",
+      "description": "用 AI 模特展示你的服装，无需昂贵拍摄。"
+    },
+    "softwareApplication": {
+      "name": "AI 时尚与虚拟试穿生成器",
+      "description": "虚拟试穿、造型手册、社交内容，适合时尚品牌。"
+    },
+    "faqPage": {
+      "name": "AI 时尚解决方案 - 常见问题"
+    }
+  },
+  "relatedSolutions": {
+    "title": "探索更多解决方案",
+    "subtitle": "发现更多 AI 驱动的工作流，提升你的创意生产力",
+    "ctaLabel": "查看该解决方案"
+  }
+}

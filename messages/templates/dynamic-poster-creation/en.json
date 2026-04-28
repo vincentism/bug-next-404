@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Dynamic Poster Creation – AI Animated Poster Generator | OpenCreator",
+    "description": "Transform static images into dynamic animated posters with AI. Create eye-catching motion graphics by combining character photos with AI-generated scenes and video effects using Nano Banana Pro.",
+    "keywords": [
+      "dynamic poster",
+      "animated poster maker",
+      "ai motion poster",
+      "poster animation",
+      "ai poster generator",
+      "motion graphics poster",
+      "animated marketing poster",
+      "video poster maker",
+      "ai animated graphics",
+      "dynamic visual content",
+      "motion poster creator",
+      "animated social media poster"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#dynamic_poster", "#motion_graphics", "#animation"],
+    "title": "Dynamic Poster Creation",
+    "description": "Transform static images into captivating dynamic posters with AI. Upload a character photo, combine it with AI-generated scenes, add motion effects like falling snow—and bring your visuals to life with subtle animations.",
+    "inputPlaceholder": "Upload your image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your character or product image",
+        "description": "Provide a photo of a person, product, or any subject you want to animate. The AI will preserve the character's appearance while creating dynamic scenes."
+      },
+      {
+        "title": "AI generates scene composition",
+        "description": "Nano Banana Pro combines your image with a reference scene, creating a new composition that maintains character consistency while placing them in an engaging environment."
+      },
+      {
+        "title": "Add dynamic effects and atmosphere",
+        "description": "The AI enhances the scene with atmospheric effects like falling snow, particles, or other motion elements that add depth and visual interest to your poster."
+      },
+      {
+        "title": "Generate animated video poster",
+        "description": "The final step transforms your enhanced image into a subtle motion video, with characters and elements gently animated to create an eye-catching dynamic poster."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for marketers and creators who want standout visuals",
+    "subtitle": "From social media to advertising, see who creates dynamic posters with AI.",
+    "audiences": [
+      {
+        "label": "Social media marketers",
+        "description": "Create scroll-stopping animated content that outperforms static images. Dynamic posters drive higher engagement and click-through rates on social platforms."
+      },
+      {
+        "label": "Brand designers",
+        "description": "Elevate brand campaigns with motion graphics that capture attention. Transform product shots and brand imagery into premium animated content."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Make product listings stand out with animated hero images. Dynamic posters showcase products in engaging ways that static photos can't match."
+      },
+      {
+        "label": "Event promoters",
+        "description": "Create eye-catching promotional materials for events, launches, and campaigns. Animated posters generate more buzz and shares than traditional graphics."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Dynamic Poster Creation workflow?",
+        "answer": "This AI workflow transforms static images into animated dynamic posters. It combines character photos with AI-generated scenes, adds atmospheric effects, and creates subtle motion animations—perfect for social media and marketing content."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro (google/gemini-3.0-flash-image) for scene composition and image editing, and Seedance (doubao-seedance-1-0-pro) for generating the final animated video with subtle motion effects."
+      },
+      {
+        "question": "What kind of images work best?",
+        "answer": "Character photos, product images, and portraits work excellently. The AI preserves the subject's appearance while creating dynamic scenes around them. Both people and products can be animated effectively."
+      },
+      {
+        "question": "What effects can be added to the poster?",
+        "answer": "The workflow can add various atmospheric effects like falling snow, particles, light rays, and ambient motion. These effects enhance the visual appeal while maintaining focus on your main subject."
+      },
+      {
+        "question": "What's the output format and quality?",
+        "answer": "The workflow generates high-quality video files in 9:16 (vertical) or 16:9 (horizontal) aspect ratios, optimized for social media platforms like Instagram, TikTok, and digital advertising."
+      },
+      {
+        "question": "How long is the animated poster?",
+        "answer": "The generated dynamic poster is a short looping video, typically 3-5 seconds, designed to capture attention quickly and loop seamlessly for social media autoplay."
+      },
+      {
+        "question": "Can I customize the scene and effects?",
+        "answer": "Yes. You can provide reference images for the scene style and specify the type of effects you want. The AI adapts to your creative direction while maintaining character consistency."
+      },
+      {
+        "question": "How are credits calculated?",
+        "answer": "Credits are consumed based on the AI models used—Nano Banana Pro for image composition and Seedance for video generation. The cost reflects the value of creating professional animated marketing content."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Dynamic Poster Creation – AI Animated Poster Generator",
+      "description": "Transform static images into dynamic animated posters with AI for social media and marketing."
+    },
+    "softwareApplication": {
+      "name": "Dynamic Poster AI Generator",
+      "description": "AI-powered tool for creating animated dynamic posters from static images with motion effects."
+    },
+    "faqPage": {
+      "name": "Dynamic Poster Creation – FAQ"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "AI Animal Olympics Video Generator | Fun Viral Animal Content | OpenCreator",
+    "description": "Create hilarious \"Animal Olympics\" style videos with AI. Turn everyday animals into athletes competing in fun, over-the-top challenges—perfect for viral social content, entertainment accounts, and playful brand campaigns.",
+    "keywords": [
+      "animal video generator",
+      "funny animal videos",
+      "animal olympics clips",
+      "viral animal content",
+      "cute animal video maker",
+      "funny animal competition videos with ai",
+      "ai animal challenge video generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#animals", "#viral", "#social_promo"],
+    "title": "Animal Olympics",
+    "description": "Create hilarious \"Animal Olympics\" style videos with AI. Turn everyday animals into athletes competing in fun, over-the-top challenges—perfect for viral social content, entertainment accounts, and playful brand campaigns.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe the animal competition or event you want to create",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your animal cast and event",
+        "description": "Share which animals you want to feature and what kind of Olympic-style challenge or event they are competing in."
+      },
+      {
+        "title": "Choose tone and visual style",
+        "description": "Select cute, epic, comedic, or cartoonish styles tailored to your audience and brand voice."
+      },
+      {
+        "title": "Generate Animal Olympics videos with AI",
+        "description": "Use AI to create clips of animals performing exaggerated, funny, or impressive actions in competition settings."
+      },
+      {
+        "title": "Export for Reels, Shorts, and feeds",
+        "description": "Download platform-optimized clips ready for TikTok, Instagram Reels, YouTube Shorts, and other social channels."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators who want fun, shareable animal content",
+    "subtitle": "From meme pages to playful brands, see who uses AI Animal Olympics.",
+    "audiences": [
+      {
+        "label": "Entertainment and meme accounts",
+        "description": "Fill your feeds with light-hearted, funny animal content that audiences love to share and replay."
+      },
+      {
+        "label": "Family and kids brands",
+        "description": "Create safe, humorous animal videos that delight younger audiences and parents alike."
+      },
+      {
+        "label": "Pet and animal-related brands",
+        "description": "Promote products and campaigns with entertaining, thematic animal competition content."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Use Animal Olympics clips as engagement spikes or themed moments in your content calendar."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Animal Olympics workflow?",
+        "answer": "Animal Olympics is an AI workflow for creating fun, \"Animal Olympics\" style videos where everyday animals become athletes in over-the-top challenges. It is designed for light-hearted, viral social content."
+      },
+      {
+        "question": "Who is Animal Olympics designed for?",
+        "answer": "Animal Olympics is perfect for entertainment and meme accounts, family and kids brands, pet and animal-related brands, and social media managers who want playful animal content."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You describe your animal cast and the type of Olympic-style challenge or event you want to see them compete in, along with tone and style preferences."
+      },
+      {
+        "question": "What type of output does this workflow create?",
+        "answer": "The workflow generates short AI videos of animals performing exaggerated, funny, or impressive actions in competition-style settings."
+      },
+      {
+        "question": "Where can I use Animal Olympics videos?",
+        "answer": "You can share the clips on TikTok, Instagram Reels, YouTube Shorts, and other social platforms as fun, shareable content or to support playful brand campaigns."
+      },
+      {
+        "question": "Is the content suitable for younger audiences?",
+        "answer": "The template is designed for fun, humorous animal concepts. You can describe family-friendly scenarios when prompting to align with kids and family audiences."
+      },
+      {
+        "question": "How do credits and pricing work for Animal Olympics?",
+        "answer": "Animal Olympics uses AI video models that consume credits per run. You can experiment with different concepts and then scale the ones that perform best within your OpenCreator credit plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Animal Olympics Video Generator | Fun Viral Animal Content",
+      "description": "Create AI-generated Animal Olympics style videos for viral animal content and playful brand campaigns."
+    },
+    "softwareApplication": {
+      "name": "Animal Olympics Workflow Template",
+      "description": "AI workflow for creating funny, competition-style animal videos for social channels and campaigns."
+    },
+    "faqPage": {
+      "name": "Animal Olympics – FAQ"
+    }
+  }
+}

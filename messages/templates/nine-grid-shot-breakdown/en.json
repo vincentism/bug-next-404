@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "One-Click Nine-Grid Shot Breakdown – AI Cinematic Storyboard | OpenCreator",
+    "description": "Generate professional 3×3 cinematic storyboard grids from a single image. AI creates 9 unique camera angles including wide shots, close-ups, and detail shots.",
+    "keywords": [
+      "nine grid storyboard",
+      "cinematic shot breakdown",
+      "ai storyboard generator",
+      "camera angle generator",
+      "film storyboard ai",
+      "shot composition tool",
+      "3x3 storyboard grid",
+      "movie storyboard maker"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#storyboard", "#cinematography", "#shot_breakdown"],
+    "title": "One-Click Nine-Grid Shot Breakdown",
+    "description": "Transform any image into a professional 3×3 cinematic storyboard grid. AI analyzes your subject and generates 9 unique camera angles—from establishing wide shots to extreme close-ups—maintaining consistent lighting, costume, and character across all frames. Perfect for filmmakers, content creators, and brand advertisers.",
+    "inputPlaceholder": "Upload your reference image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your reference image",
+        "description": "Provide a single image with your subject (person, group, or object). Nano Banana Pro analyzes the composition, key subjects, and their spatial relationships."
+      },
+      {
+        "title": "AI generates cinematic grid",
+        "description": "The workflow creates a 3×3 storyboard with 9 professional camera angles: Row 1 (establishing shots), Row 2 (core coverage), Row 3 (details & angles)."
+      },
+      {
+        "title": "Consistent visual style",
+        "description": "All 9 frames maintain unified lighting, costume, color grading, and subject identity—ready for film production or brand campaigns."
+      },
+      {
+        "title": "Export high-resolution grid",
+        "description": "Download the complete storyboard grid in 2:3 aspect ratio, optimized for professional film and advertising workflows."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for visual storytellers",
+    "subtitle": "From indie filmmakers to brand teams, see who creates storyboards with AI.",
+    "audiences": [
+      {
+        "label": "Filmmakers & directors",
+        "description": "Quickly visualize shot compositions before production. Generate professional storyboards that communicate your vision to the entire crew."
+      },
+      {
+        "label": "Content creators",
+        "description": "Plan your video content with cinematic precision. Create engaging shot variety for YouTube, TikTok, and social media productions."
+      },
+      {
+        "label": "Brand advertisers",
+        "description": "Develop compelling visual narratives for campaigns. Present polished storyboards to clients before committing to expensive productions."
+      },
+      {
+        "label": "Photography teams",
+        "description": "Explore creative angles and compositions for photo shoots. Use the grid as a shot list reference for consistent, professional results."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Nine-Grid Shot Breakdown workflow?",
+        "answer": "This AI workflow transforms a single reference image into a professional 3×3 cinematic storyboard grid. It generates 9 unique camera angles including extreme long shots, medium shots, close-ups, and detail shots—all maintaining consistent visual style."
+      },
+      {
+        "question": "What camera angles are included in the grid?",
+        "answer": "The grid follows professional cinematography standards: Row 1 has establishing shots (extreme long shot, long shot, medium long shot), Row 2 covers core angles (medium shot waist-up, medium shot waist-down, close-up), Row 3 provides details (extreme close-up, low angle, back view)."
+      },
+      {
+        "question": "Does it work with groups or just single subjects?",
+        "answer": "The workflow adapts to any subject type—single person, couples, groups, or objects. It analyzes the spatial relationships and interaction patterns to create appropriate compositions for each shot type."
+      },
+      {
+        "question": "What AI model powers this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for image-to-image generation, creating each of the 9 frames while maintaining consistent lighting, costume, and character identity across the entire storyboard grid."
+      },
+      {
+        "question": "What aspect ratio is the output?",
+        "answer": "Each frame in the grid uses a 2:3 aspect ratio, which is standard for cinematic storyboards. The complete grid is rendered at 4K resolution for professional use."
+      },
+      {
+        "question": "Can I use this for commercial projects?",
+        "answer": "Yes, the generated storyboards can be used for commercial film productions, brand campaigns, advertising pitches, and client presentations."
+      },
+      {
+        "question": "How does it maintain consistency across frames?",
+        "answer": "The workflow ensures all 9 frames share unified lighting direction, costume details, color grading, and subject identity. This is achieved through Nano Banana Pro's advanced image understanding capabilities."
+      },
+      {
+        "question": "What input do I need to provide?",
+        "answer": "You only need to upload a single reference image. The workflow includes a detailed prompt template that guides the AI to generate all 9 cinematic angles automatically."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "One-Click Nine-Grid Shot Breakdown – AI Cinematic Storyboard",
+      "description": "Generate professional 3×3 cinematic storyboard grids from a single image with AI-powered shot breakdown."
+    },
+    "softwareApplication": {
+      "name": "Nine-Grid Shot Breakdown Generator",
+      "description": "AI-powered tool for generating cinematic storyboard grids with 9 unique camera angles from a single reference image."
+    },
+    "faqPage": {
+      "name": "One-Click Nine-Grid Shot Breakdown – FAQ"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "model": {
+    "meta": {
+      "title": "Luma Ray3 Modify | Video-to-Video Editing | OpenCreator",
+      "description": "Ray3 Modify is designed for performance-preserving video-to-video workflows with keyframes and character reference. Join the waitlist on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Luma Ray3 Modify",
+      "tagline": "Performance-preserving video-to-video editing",
+      "description": "Ray3 Modify focuses on editing real footage with AI while preserving timing, motion, and emotional intent. OpenCreator will provide access as soon as it’s available.",
+      "badge": "Coming Soon",
+      "ctaText": "View pricing",
+      "secondaryCtaText": "Learn more",
+      "capabilities": {
+        "v2v": "Video-to-video",
+        "keyframes": "Start/end frames",
+        "character": "Character reference",
+        "performance": "Performance preservation",
+        "continuity": "Continuity"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Designed for hybrid workflows with real performances",
+      "items": {
+        "keyframes": {
+          "title": "Start & end frames",
+          "description": "Guide transitions and scene evolution with keyframe constraints."
+        },
+        "character": {
+          "title": "Character reference",
+          "description": "Lock identity and costume continuity across a shot."
+        },
+        "performance": {
+          "title": "Performance preservation",
+          "description": "Keep timing, motion, and emotional delivery while changing the scene."
+        },
+        "continuity": {
+          "title": "Continuity-aware edits",
+          "description": "Reduce destabilization and maintain spatial consistency when editing footage."
+        },
+        "editing": {
+          "title": "Intentional scene edits",
+          "description": "Modify environments, styling, and cinematography with more predictability."
+        },
+        "pipeline": {
+          "title": "Production-oriented workflow",
+          "description": "Built to fit film, advertising, and VFX pipelines that require repeatability."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Use Cases",
+      "subtitle": "Example OpenCreator scenarios that match Ray3 Modify workflows",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "modify": {
+          "title": "Scene modification",
+          "description": "Change environment and styling",
+          "useCase": "Transform a shot while preserving the actor’s performance."
+        },
+        "vfx": {
+          "title": "VFX-style edits",
+          "description": "Production iteration",
+          "useCase": "Iterate on looks and effects without re-shooting the performance."
+        },
+        "production": {
+          "title": "Advertising production",
+          "description": "Hybrid AI workflow",
+          "useCase": "Shoot once, personalize many variants with controlled edits."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specs",
+      "subtitle": "Inputs, outputs, and control points",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input formats",
+          "outputFormat": "Output format",
+          "duration": "Duration"
+        },
+        "controls": {
+          "title": "Controls",
+          "keyframes": "Keyframes",
+          "characterReference": "Character reference",
+          "performance": "Performance preservation"
+        },
+        "production": {
+          "title": "Production",
+          "continuity": "Continuity",
+          "repeatability": "Repeatability"
+        }
+      },
+      "values": {
+        "inputFormats": "Video + text instructions",
+        "outputFormat": "MP4",
+        "duration": "Varies"
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "How it differs from typical video-to-video workflows",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not supported",
+      "features": {
+        "videoToVideo": "Video-to-video",
+        "performance": "Performance preservation",
+        "characterReference": "Character reference",
+        "keyframes": "Keyframes",
+        "continuity": "Continuity",
+        "control": "Control"
+      }
+    },
+    "pricing": {
+      "title": "Coming Soon",
+      "subtitle": "Ray3 Modify will be available on OpenCreator soon",
+      "ctaText": "Join the waitlist",
+      "comingSoonBadge": "Coming Soon",
+      "description": "Video-to-video editing workflow",
+      "note": "Pricing and availability will be updated once Ray3 Modify is integrated into OpenCreator.",
+      "viewFullPricing": "View full pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "Is Ray3 Modify available on OpenCreator?",
+          "answer": "Not yet. This is a pre-launch landing page."
+        },
+        "1": {
+          "question": "What is video-to-video used for?",
+          "answer": "It’s often used to transform footage while preserving performance and timing."
+        },
+        "2": {
+          "question": "Will keyframes be supported?",
+          "answer": "The exact feature set will be confirmed once the integration is live."
+        },
+        "3": {
+          "question": "Can I prepare workflows now?",
+          "answer": "Yes. You can build your pipeline on OpenCreator and swap models when available."
+        },
+        "4": {
+          "question": "When will it launch?",
+          "answer": "We’ll update this page once we have confirmed availability."
+        }
+      }
+    }
+  }
+}

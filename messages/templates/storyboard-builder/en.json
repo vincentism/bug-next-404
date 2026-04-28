@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "Storyboard Builder – AI Storyboard Generator from Scripts | OpenCreator",
+    "description": "Automatically generate clean, production-ready storyboards from scripts or scene descriptions with AI. Turn text into composed frames that align teams on framing and pacing.",
+    "keywords": [
+      "storyboard generator",
+      "script to storyboard",
+      "storyboard builder ai",
+      "storyboard maker for film",
+      "visual script planner",
+      "ai storyboard creator for filmmakers",
+      "how to create storyboards from a script with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#storyboard", "#preproduction", "#film"],
+    "title": "Storyboard Builder",
+    "description": "Automatically generate clean, production-ready storyboards from plain text scripts or ideas. Turn scenes into composed frames with camera notes, helping teams align on story, framing, and pacing before shooting or animating.",
+    "inputPlaceholder": "Paste your scene descriptions or script beats to convert into storyboard frames",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide scene breakdowns or script excerpts",
+        "description": "Paste key beats, actions, and locations you want translated into frames."
+      },
+      {
+        "title": "Choose framing and visual style",
+        "description": "Select cinematic, comic-style, rough sketch, or clean line-art storyboard aesthetics."
+      },
+      {
+        "title": "Generate storyboard frames with AI",
+        "description": "AI creates a sequence of panels with consistent characters, environments, and camera angles."
+      },
+      {
+        "title": "Reorder, annotate, and export",
+        "description": "Rearrange frames, add notes, and export PDFs or images for production and collaboration."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams who need fast, clear visual plans",
+    "subtitle": "From film to advertising, see who builds boards with AI.",
+    "audiences": [
+      {
+        "label": "Film and TV production teams",
+        "description": "Align directors, DPs, and departments around shared visual plans."
+      },
+      {
+        "label": "Animation and game studios",
+        "description": "Create storyboards for cutscenes, trailers, and key in-game moments."
+      },
+      {
+        "label": "Agencies and commercial directors",
+        "description": "Turn script concepts into visual decks for client approvals."
+      },
+      {
+        "label": "Independent creators",
+        "description": "Plan complex shots and sequences without hiring dedicated storyboard artists."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the AI Storyboard Builder workflow?",
+        "answer": "AI Storyboard Builder turns plain text scripts, scene descriptions, or beats into visual storyboard frames. It helps production teams quickly align on framing, pacing, and composition before committing time and budget to full storyboarding."
+      },
+      {
+        "question": "What kind of input works best for storyboard generation?",
+        "answer": "Clear scene breakdowns work best: short descriptions of action, location, characters, and any important camera notes. You can paste script excerpts or bullet-pointed beats and then add notes about tone or visual style."
+      },
+      {
+        "question": "Does this replace a human storyboard artist?",
+        "answer": "No. The workflow is ideal for fast previs, internal alignment, and early client decks—not a full replacement for professional storyboard artists. Many teams use AI boards as a starting point and then refine or redraw them later."
+      },
+      {
+        "question": "What kind of output can I expect from Storyboard Builder?",
+        "answer": "The workflow generates sequences of storyboard-style frames with consistent characters, environments, and indicative camera angles. You can review them in OpenCreator, then export them as images or PDFs for collaboration."
+      },
+      {
+        "question": "Who is Storyboard Builder designed for?",
+        "answer": "It is built for film and TV production teams, animation and game studios, agencies and commercial directors, and independent creators who need fast, clear visual plans from scripts or ideas."
+      },
+      {
+        "question": "How is this different from other storyboard-related templates?",
+        "answer": "Storyboard Builder focuses on going from text to boards. Other templates like Sketches to Film or Script to Film are better suited for turning existing boards or scripts into moving sequences and animatics."
+      },
+      {
+        "question": "Can I annotate and reorder frames after generation?",
+        "answer": "Yes. You can rearrange panels, add notes, and export organized boards for production, pitch decks, or client reviews. The AI handles initial generation; you stay in control of the final sequence."
+      },
+      {
+        "question": "How do credits work when using AI Storyboard Builder?",
+        "answer": "Each generation consumes credits based on the underlying image and workflow steps. You can start with shorter scenes or key sequences to test the style before running longer or more complex scripts."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Storyboard Builder – AI Storyboard Generator from Scripts",
+      "description": "Generate visual storyboards from scripts and scene descriptions using AI. Ideal for film, TV, animation, and commercial teams."
+    },
+    "softwareApplication": {
+      "name": "Storyboard Builder AI Workflow Template",
+      "description": "AI-powered workflow template that creates storyboard-style frames from scripts and scene breakdowns."
+    },
+    "faqPage": {
+      "name": "Storyboard Builder – FAQ"
+    }
+  }
+}

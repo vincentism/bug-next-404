@@ -1,0 +1,156 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance 1.5 Pro AI 视频生成器 | 音画同生 + 口型同步 | OpenCreator",
+      "description": "了解 Seedance 1.5 Pro：支持音画同生、口型同步与多语言对白的下一代视频模型。OpenCreator 预热页现已上线。"
+    },
+    "hero": {
+      "modelName": "Seedance 1.5 Pro",
+      "tagline": "音画同生的下一代视频模型",
+      "description": "字节跳动的 Seedance 1.5 Pro 在共享潜空间中同时生成视频和音频，无需后处理即可产生紧密的口型同步和自然的音效。支持 4-12 秒 720p 视频，包含对白、音效和环境音。",
+      "badge": "新功能",
+      "ctaText": "免费试用 Seedance 1.5 Pro",
+      "secondaryCtaText": "查看价格",
+      "capabilities": {
+        "nativeAudio": "音画同生",
+        "lipsync": "口型同步",
+        "multilingual": "多语言对白",
+        "camera": "镜头意图",
+        "story": "叙事工作流"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "面向广告、对白与多语言内容的实用能力",
+      "items": {
+        "nativeAudio": {
+          "title": "音画同生",
+          "description": "在同一次生成中完成画面与声音，追求更紧密的同步效果。"
+        },
+        "lipsync": {
+          "title": "更好的口型同步",
+          "description": "对白与嘴型更贴合，适合口播/人物说话等场景。"
+        },
+        "multilingual": {
+          "title": "多语言工作流",
+          "description": "在不同语言版本之间复用同一套视觉叙事结构，做内容本地化。"
+        },
+        "camera": {
+          "title": "更电影化的镜头意图",
+          "description": "支持在提示词里表达镜头语言与运动意图，生成更像“镜头”的画面。"
+        },
+        "consistency": {
+          "title": "角色一致性",
+          "description": "多片段叙事中保持角色外观与风格稳定，提高可用性。"
+        },
+        "marketing": {
+          "title": "更适合营销素材",
+          "description": "面向广告、产品演示与创作者内容，提高可交付的输出比例。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "适用场景",
+      "subtitle": "与 Seedance 1.5 Pro 目标能力相近的 OpenCreator 示例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "lipsync": {
+          "title": "口播/人物说话",
+          "description": "对白 + 口型",
+          "useCase": "生成对白场景时尽量保持声音与嘴型同步。"
+        },
+        "product": {
+          "title": "产品广告",
+          "description": "营销视频",
+          "useCase": "生成带旁白/环境音氛围的产品短片，用于投放与落地页。"
+        },
+        "story": {
+          "title": "叙事短片",
+          "description": "故事表达",
+          "useCase": "用多片段构建一致风格的短叙事内容。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "输入输出与关键能力概览",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入形式",
+          "outputFormat": "输出格式",
+          "audio": "音频"
+        },
+        "capabilities": {
+          "title": "能力",
+          "textToVideo": "文生视频",
+          "imageToVideo": "图生视频",
+          "nativeAudio": "音画同生",
+          "lipsync": "口型同步"
+        },
+        "useCases": {
+          "title": "适用场景",
+          "ads": "广告",
+          "multilingual": "多语言",
+          "storytelling": "叙事"
+        }
+      },
+      "values": {
+        "inputFormats": "文本 / 图片",
+        "outputFormat": "MP4",
+        "audio": "包含"
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "与上一代能力差异的定位",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "nativeAudio": "音画同生",
+        "lipSync": "口型同步",
+        "textToVideo": "文生视频",
+        "imageToVideo": "图生视频",
+        "cameraControl": "镜头控制",
+        "characterConsistency": "角色一致性"
+      }
+    },
+    "pricing": {
+      "title": "即将上线",
+      "subtitle": "Seedance 1.5 Pro 即将在 OpenCreator 提供",
+      "ctaText": "加入候补名单",
+      "comingSoonBadge": "即将上线",
+      "description": "音画同生视频模型",
+      "note": "待模型集成上线后，将在此展示定价与可用性信息。",
+      "viewFullPricing": "查看完整定价 →"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Seedance 1.5 Pro 已经在 OpenCreator 上线了吗？",
+          "answer": "尚未上线。本页用于提前预热与收集潜在用户需求。"
+        },
+        "1": {
+          "question": "这里说的“音画同生”是什么意思？",
+          "answer": "指在同一次生成中同时生成画面与声音，追求更紧密的同步体验。"
+        },
+        "2": {
+          "question": "会支持多语言对白吗？",
+          "answer": "Seedance 1.5 Pro 的定位包含多语言工作流，具体能力以接入 OpenCreator 后为准。"
+        },
+        "3": {
+          "question": "定价会怎么计算？",
+          "answer": "模型可用后会在本页展示点数消耗与订阅优惠信息。"
+        },
+        "4": {
+          "question": "如何第一时间得知上线？",
+          "answer": "你可以收藏本页并持续关注，我们会在模型可用时更新页面信息。"
+        }
+      }
+    }
+  }
+}

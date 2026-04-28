@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "Script to Film – AI Storyboard & Video Generator | OpenCreator",
+    "description": "Convert scripts into shot-by-shot storyboard videos with AI and speed up pre-production planning for creative teams.",
+    "keywords": [
+      "ai storyboard generator",
+      "script to video",
+      "script to film",
+      "screenplay to storyboard",
+      "shot list generator ai",
+      "previsualization tool",
+      "text to cinematic video",
+      "filmmaking preproduction ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#movie", "#visual_arts"],
+    "title": "Script to Film",
+    "description": "Simply input your script—or let the AI generate one for you—and watch as it transforms into a shot-by-shot storyboard videos in minutes. This all-in-one solution handles everything from scene visualization to video rendering, making it perfect for filmmakers",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Put your script here...",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Paste your script or story beats",
+        "description": "Input your screenplay pages or a structured outline of scenes so the workflow understands your narrative from start to finish."
+      },
+      {
+        "title": "Highlight key scenes and tone",
+        "description": "Add notes about the most important moments, characters, and emotional beats, plus any visual style or genre guidance."
+      },
+      {
+        "title": "Generate storyboard-style video sequences",
+        "description": "Run the Script to Film template to turn script sections into shot-by-shot storyboard videos you can review and share."
+      },
+      {
+        "title": "Review, refine, and reuse the workflow",
+        "description": "Iterate on prompts, swap scenes, and rerun the workflow as your script evolves, keeping previsualization in sync with your latest draft."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for filmmakers and visual storytellers",
+    "subtitle": "From short films to YouTube series, see who turns scripts into shot-by-shot storyboard videos with this workflow.",
+    "audiences": [
+      {
+        "label": "Directors & screenwriters",
+        "description": "Quickly turn scripts into visual storyboards you can share with cast, crew, and collaborators before production starts."
+      },
+      {
+        "label": "Indie filmmakers & creators",
+        "description": "Preview how scenes will look and flow as video before you spend time and budget on full shoots."
+      },
+      {
+        "label": "Producers & pre-production teams",
+        "description": "Use AI storyboard videos to align stakeholders on tone, pacing, and key moments during planning and pitching."
+      },
+      {
+        "label": "Educators & writing programs",
+        "description": "Help students see their written scripts come to life as storyboard sequences for workshops and critiques."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Script to Film AI workflow?",
+        "answer": "Script to Film is an AI storyboard generator that turns your written script into shot-by-shot storyboard videos. It helps you quickly preview how a scene might look before full production."
+      },
+      {
+        "question": "What do I need to provide as input?",
+        "answer": "You paste in your script or selected scenes, and optionally add notes about pacing, visual style, and key moments. The workflow then breaks it into beats and generates visual sequences for each part."
+      },
+      {
+        "question": "What kind of output does Script to Film create?",
+        "answer": "The template produces storyboard-style videos or sequences composed of AI-generated frames. These are meant for previsualization and planning, not as final production renders."
+      },
+      {
+        "question": "Is this template suitable for full feature-length scripts?",
+        "answer": "You can run it on long scripts, but for best performance it's recommended to process them scene by scene or by key sequences. This keeps generation time manageable and gives you more control over revisions."
+      },
+      {
+        "question": "Can I control camera angles and framing?",
+        "answer": "You can guide framing through your prompts and scene descriptions (e.g., \"wide establishing shot,\" \"close-up on character\"). While the AI may not obey every direction perfectly, these hints help it aim for the framing you want."
+      },
+      {
+        "question": "Do I need editing or VFX skills to use Script to Film?",
+        "answer": "No professional editing skills are required. The template is built so writers, directors, and producers can use it directly, then share the previews with their team."
+      },
+      {
+        "question": "How long does it take to generate a storyboard video?",
+        "answer": "Most short scenes can be generated in a few minutes, depending on script length and resolution. Longer sequences or higher-quality settings may take more time and consume more credits."
+      },
+      {
+        "question": "Can I export the storyboard videos for pitches and client reviews?",
+        "answer": "Yes. You can export the generated media from OpenCreator and share it in your preferred format for pitches, internal reviews, or client feedback."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Script to Film AI Video Generator",
+      "description": "Convert scripts into shot-by-shot storyboard videos with AI. Perfect for filmmakers, content creators, and storytellers."
+    },
+    "softwareApplication": {
+      "name": "Script to Film AI Tool",
+      "description": "AI-powered workflow template that transforms scripts into professional storyboard videos automatically."
+    },
+    "faqPage": {
+      "name": "Script to Film – FAQ"
+    }
+  }
+}

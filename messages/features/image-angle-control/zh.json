@@ -1,0 +1,182 @@
+{
+  "seo": {
+    "title": "AI 多角度图片生成器 | 镜头角度控制 | OpenCreator",
+    "description": "用 AI 从多个相机角度生成任意产品或人像图片。控制水平旋转、垂直俯仰和缩放。一张照片输入，无限角度输出。",
+    "keywords": [
+      "多角度图片生成",
+      "多视角图片生成",
+      "AI 视角变换",
+      "图片视角变换",
+      "镜头角度控制",
+      "新视角合成",
+      "电商产品多角度图",
+      "360 度产品展示",
+      "Qwen 多视角",
+      "产品摄影角度",
+      "OpenCreator 角度控制"
+    ]
+  },
+  "hero": {
+    "badge": "多角度 AI",
+    "title": "一张照片，任意角度。",
+    "description": "上传一张图片，从任意摄像机视角生成新视图。通过精确滑块或直觉化 3D 拖拽控制水平旋转、垂直俯仰和缩放——基于 Qwen 多视角合成技术。",
+    "cta": "免费试用",
+    "secondaryCta": "查看模板",
+    "stats": {
+      "rotation": {
+        "value": "360°",
+        "label": "全方位旋转"
+      },
+      "axes": {
+        "value": "三轴",
+        "label": "镜头控制"
+      }
+    }
+  },
+  "showcase": {
+    "title": "同一主体，每个视角",
+    "subtitle": "以下每张图片均由同一张输入照片、使用不同角度设置在 Angle Control 原子中生成。",
+    "items": {
+      "topDown": {
+        "label": "俯视图",
+        "angle": "垂直角度 90°"
+      },
+      "leftToRight": {
+        "label": "从左到右",
+        "angle": "水平 270° → 90°"
+      },
+      "rightToLeft": {
+        "label": "从右到左",
+        "angle": "水平 90° → 270°"
+      },
+      "lowAngle": {
+        "label": "低角度特写",
+        "angle": "略微仰视，拉近镜头"
+      }
+    }
+  },
+  "demo": {
+    "badge": "交互预览",
+    "title": "试试 3D 镜头控制",
+    "description": "这与 OpenCreator 画布中 Angle Control 原子内置的交互预览完全一致。拖动可围绕主体旋转虚拟相机，滚动可缩放，也可使用下方的精确滑块控制。",
+    "dragHint": "拖动旋转 · 滚轮缩放",
+    "hints": {
+      "drag": "在预览区域内任意拖动，即可水平和垂直旋转相机",
+      "scroll": "上下滚动鼠标滚轮可缩放镜头，调整焦距",
+      "sliders": "使用滑块对每个轴进行精确数值控制"
+    },
+    "sliders": {
+      "horizontal": "水平角度",
+      "vertical": "垂直角度",
+      "zoom": "缩放",
+      "reset": "重置"
+    }
+  },
+  "howItWorks": {
+    "title": "使用流程",
+    "subtitle": "三步从单张照片到完整多角度图片集",
+    "steps": {
+      "upload": {
+        "step": "01",
+        "title": "上传图片",
+        "description": "将任意产品照片、人像或物体拖入 OpenCreator 画布上的 Angle Control 节点。"
+      },
+      "adjust": {
+        "step": "02",
+        "title": "设置镜头角度",
+        "description": "拖动 3D 相机预览围绕主体旋转，或通过水平旋转、垂直俯仰和缩放滑块精确微调。"
+      },
+      "generate": {
+        "step": "03",
+        "title": "生成并迭代",
+        "description": "点击生成以产出新视角图片。串联多个 Angle Control 节点，在一个工作流中创建完整的多角度图片集。"
+      }
+    }
+  },
+  "features": {
+    "title": "精准镜头控制",
+    "subtitle": "打造完美角度所需的每一个参数",
+    "items": {
+      "horizontal": {
+        "title": "360° 水平旋转",
+        "description": "围绕主体自由旋转虚拟相机，0° 到 360°。正面、侧面、背面、四分之三角度——任意方位角。"
+      },
+      "vertical": {
+        "title": "垂直俯仰（−30° 至 90°）",
+        "description": "从略低于平视到正上方俯视的仰角控制。适合俯拍平铺或戏剧性低角度拍摄。"
+      },
+      "zoom": {
+        "title": "连续缩放",
+        "description": "从广角全景到紧凑特写，无裁切、无画质损失地调整焦距。10 级缩放控制。"
+      },
+      "preview3d": {
+        "title": "交互式 3D 预览",
+        "description": "拖动旋转、滚轮缩放——实时线框球体展示相机相对主体的位置，生成前即可预览。"
+      },
+      "workflow": {
+        "title": "工作流集成",
+        "description": "将 Angle Control 原子与换背景、图片放大、图生视频等任意原子串联，构建端到端创作流水线。"
+      },
+      "batch": {
+        "title": "批量多角度套图",
+        "description": "将多个 Angle Control 节点连接到同一源图，一次运行即可生成完整的产品图集——正面、侧面、背面、细节。"
+      }
+    }
+  },
+  "useCases": {
+    "title": "应用场景",
+    "subtitle": "从电商产品目录到创意内容生产",
+    "items": {
+      "ecommerce": {
+        "icon": "shopping-cart",
+        "title": "电商产品摄影",
+        "description": "无需多角度棚拍，即可生成产品的正面、侧面、背面和细节视图。"
+      },
+      "fashion": {
+        "icon": "shirt",
+        "title": "时尚与型录",
+        "description": "从每个角度展示服装——正面、四分之三、背面——无需额外安排模特拍摄。"
+      },
+      "marketplace": {
+        "icon": "store",
+        "title": "平台合规图",
+        "description": "生成亚马逊、Shopify、Etsy 等平台产品图库所要求的精确角度变体。"
+      },
+      "creative": {
+        "icon": "sparkles",
+        "title": "创意与概念设计",
+        "description": "无需 3D 建模流程，即可为概念艺术、游戏资产或 3D 建模参考生成近似多视角渲染。"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": {
+      "q1": {
+        "question": "什么类型的图片最适合 Angle Control？",
+        "answer": "清晰、光线良好的单一主体图片效果最佳——白色或简洁背景的产品图、光线干净的人像、或轮廓分明的物体。避免使用背景过于杂乱或主体严重遮挡的图片。"
+      },
+      "q2": {
+        "question": "角度生成的精确度如何？",
+        "answer": "底层模型使用专为多角度合成训练的 Qwen 微调架构和 LoRA。对于大多数主体，角度精度在目标的几度范围内。复杂主体中被遮挡的细节（如仅展示正面的人物背面）会由模型进行一定程度的创意推理。"
+      },
+      "q3": {
+        "question": "可以生成完整的 360° 产品视图吗？",
+        "answer": "可以。串联多个 Angle Control 节点，设置不同的水平角度（如 0°、45°、90°、135°、180°、225°、270°、315°），即可从单张输入照片生成完整的旋转图集。还可以将这些图片输入视频节点，制作 360° 产品旋转视频。"
+      },
+      "q4": {
+        "question": "每次生成需要多少积分？",
+        "answer": "OpenCreator 的 Angle Control 当前由 Qwen 多角度模型驱动，每次生成目前消耗 36 积分。未来可能会因模型版本或设置而调整。批量多角度工作流可以并行运行以节省时间，单张图片的成本不变。"
+      },
+      "q5": {
+        "question": "可以与其他 OpenCreator 原子组合使用吗？",
+        "answer": "当然可以。Angle Control 原子旨在 OpenCreator 节点画布中使用。可与换背景、图片放大、图生视频、虚拟试穿等任意原子连接，构建完整的创意工作流。"
+      }
+    }
+  },
+  "relatedSolutions": {
+    "title": "相关解决方案",
+    "subtitle": "探索更多 AI 驱动的视觉内容工作流",
+    "ctaLabel": "查看方案"
+  }
+}

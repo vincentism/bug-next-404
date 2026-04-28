@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "AI Ad Video Generator for Product & Brand Campaigns | OpenCreator",
+    "description": "Create product ads, brand commercials, and social media creatives with AI. Generate polished ad videos quickly for ecommerce and marketing teams.",
+    "keywords": [
+      "ai ad video generator",
+      "ai video ad creator",
+      "product ad video",
+      "brand campaign video",
+      "ecommerce video ads",
+      "marketing video automation",
+      "social media ad creatives",
+      "commercial video ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#veo_3.1", "#video_ads", "#marketing"],
+    "title": "VEO 3.1 Ads",
+    "description": "Create polished ad videos for products and brand campaigns in a repeatable AI workflow. Produce multiple concepts and delivery cuts without heavy production overhead.",
+    "inputPlaceholder": "Describe your video ad concept",
+    "ctaText": "Create Ad Now"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your ad concept",
+        "description": "Input your product, brand message, target audience, and desired ad style for AI-powered video generation."
+      },
+      {
+        "title": "Select ad format and style",
+        "description": "Choose from various ad formats including social media ads, commercial spots, and promotional videos."
+      },
+      {
+        "title": "Generate professional video ad",
+        "description": "VEO 3.1 creates high-quality video advertisements with professional visuals and engaging content."
+      },
+      {
+        "title": "Export and deploy",
+        "description": "Download your video ad in multiple formats optimized for different platforms and marketing channels."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for modern marketing and advertising",
+    "subtitle": "From startups to enterprises, see who creates video ads with VEO 3.1.",
+    "audiences": [
+      {
+        "label": "Marketing teams",
+        "description": "Create compelling video ads quickly without expensive production costs or lengthy timelines."
+      },
+      {
+        "label": "Brand managers",
+        "description": "Maintain consistent brand messaging across multiple video ad campaigns and platforms."
+      },
+      {
+        "label": "Advertising agencies",
+        "description": "Scale video ad production for multiple clients while maintaining high quality standards."
+      },
+      {
+        "label": "E-commerce businesses",
+        "description": "Generate product video ads that drive conversions and showcase products effectively."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the VEO 3.1 Ads workflow?",
+        "answer": "VEO 3.1 Ads is an AI-powered video ad generator that creates professional video advertisements using VEO 3.1 technology. Generate high-quality ad content for marketing campaigns and brand promotion."
+      },
+      {
+        "question": "Who is VEO 3.1 Ads designed for?",
+        "answer": "VEO 3.1 Ads is essential for modern marketing and advertising: marketing teams, brand managers, advertising agencies, and e-commerce businesses who need compelling video ads."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your product information, brand message, target audience, and desired ad style for AI-powered video generation."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates high-quality video advertisements with professional visuals, engaging content, and optimized formats for various platforms."
+      },
+      {
+        "question": "Can I create ads for different platforms?",
+        "answer": "Yes. You can generate video ads optimized for social media, websites, streaming platforms, and traditional advertising channels."
+      },
+      {
+        "question": "How do credits and pricing work for VEO 3.1 Ads?",
+        "answer": "Each video ad generation consumes credits based on the video length and complexity. The cost is optimized for professional advertising production."
+      },
+      {
+        "question": "Can I use this for commercial advertising?",
+        "answer": "Absolutely. The generated video ads are designed for commercial use in marketing campaigns, brand promotion, and advertising."
+      },
+      {
+        "question": "Is this suitable for A/B testing ad variations?",
+        "answer": "Yes. Perfect for creating multiple ad variations quickly to test different messages, styles, and approaches."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "VEO 3.1 Ads – AI Video Ad Generator",
+      "description": "Create professional video advertisements with VEO 3.1 AI technology. Generate high-quality ad content for marketing campaigns."
+    },
+    "softwareApplication": {
+      "name": "VEO 3.1 Ads AI Generator",
+      "description": "AI-powered video ad generator using VEO 3.1 technology for professional advertising and marketing content creation."
+    },
+    "faqPage": {
+      "name": "VEO 3.1 Ads – FAQ"
+    }
+  }
+}

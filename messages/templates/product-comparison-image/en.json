@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Product Comparison Image – Side-by-Side Product Visuals | OpenCreator",
+    "description": "Create clear product comparison images with AI. Infographic maker for Amazon and A+ content Amazon—generate side-by-side visuals that highlight differences between products.",
+    "keywords": [
+      "infographic maker for amazon",
+      "a+ content amazon",
+      "amazon listing images",
+      "product image generator",
+      "ai product image generation",
+      "product comparison image",
+      "product vs product graphic",
+      "comparison chart image",
+      "ecommerce comparison visual",
+      "ai comparison image"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#comparison", "#banana_pro"],
+    "title": "Product Comparison Image",
+    "description": "Turn product data and photos into clear comparison visuals with AI. Quickly generate side-by-side images that explain differences between models, bundles, or plans so customers can decide faster.",
+    "inputPlaceholder": "Describe the products or variants you want to compare",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe what you want to compare",
+        "description": "Start with a short brief about the products, variants, or bundles you want to compare, and what differences matter most—such as price, features, or use cases."
+      },
+      {
+        "title": "Provide product visuals or references",
+        "description": "Optionally upload product photos or reference assets so the workflow can keep visual consistency between compared items."
+      },
+      {
+        "title": "Generate AI-powered comparison images",
+        "description": "The workflow arranges your products into side-by-side or grid-based comparison images, with clear structure that highlights key differences."
+      },
+      {
+        "title": "Select layouts and export for your channels",
+        "description": "Choose the comparison layouts you like best, iterate if needed, then export high-resolution assets for product pages, landing pages, and ads."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams who need visual product comparisons",
+    "subtitle": "Ideal for e-commerce, SaaS, and marketing teams that explain choices to customers.",
+    "audiences": [
+      {
+        "label": "E-commerce and marketplace teams",
+        "description": "Create comparison images that help shoppers quickly see differences between models, bundles, or competing options."
+      },
+      {
+        "label": "Product marketing and growth teams",
+        "description": "Turn feature matrices and spec sheets into simple visuals for landing pages, pitch decks, and ad creatives."
+      },
+      {
+        "label": "SaaS and subscription products",
+        "description": "Visualize plan or tier differences in an image format that is easy to reuse across channels."
+      },
+      {
+        "label": "Agencies and designers",
+        "description": "Use the workflow to draft comparison visual concepts faster, then refine or adapt in your design tools as needed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product Comparison Image workflow?",
+        "answer": "Product Comparison Image is an AI workflow that helps you create side-by-side comparison visuals for products, variants, bundles, or plans. It turns structured information and references into clear comparison images."
+      },
+      {
+        "question": "What inputs work best for this workflow?",
+        "answer": "A concise description of each product or variant, plus any available product photos, works best. The more clearly you describe what you want to highlight, the better the comparison visuals will match your intent."
+      },
+      {
+        "question": "Can I use this for non-physical products?",
+        "answer": "Yes. You can use Product Comparison Image for SaaS plans, service packages, digital products, and more—anywhere you need to visually explain differences between options."
+      },
+      {
+        "question": "Where can I use the generated comparison images?",
+        "answer": "You can use them on product detail pages, pricing or comparison pages, in email campaigns, paid ads, and social media posts where a quick visual comparison is helpful."
+      },
+      {
+        "question": "Can I match my brand style in the comparison images?",
+        "answer": "You can guide the workflow toward your brand look by describing colors, styling, and tone in your prompt. For stricter brand control, you can also treat the outputs as drafts and refine them in your own design tools."
+      },
+      {
+        "question": "How is pricing handled for this workflow?",
+        "answer": "Each run consumes credits based on the underlying image generation steps. It is priced to make it practical to experiment with multiple layouts before choosing final comparison visuals."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Comparison Image – Side-by-Side Product Visuals",
+      "description": "Create product comparison images with OpenCreator's AI workflows to highlight differences between options."
+    },
+    "softwareApplication": {
+      "name": "Product Comparison Image AI Workflow",
+      "description": "AI-powered workflow for generating comparison visuals for products, bundles, and plans."
+    },
+    "faqPage": {
+      "name": "Product Comparison Image – FAQ"
+    }
+  }
+}

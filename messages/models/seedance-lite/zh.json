@@ -1,0 +1,181 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance Lite AI 视频生成器 | 快速实惠 | OpenCreator",
+      "description": "使用字节跳动 Seedance Lite 创建高品质视频。快速、实惠的视频生成，支持最多4张参考图、首尾帧控制和流畅运动。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Seedance Lite",
+      "tagline": "快速实惠的视频生成",
+      "description": "字节跳动高效视频生成模型。Seedance Lite 以亲民价格提供高品质视频，支持最多4张参考图、首尾帧控制和流畅运动。",
+      "badge": "新模型",
+      "ctaText": "免费试用 Seedance Lite",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "multiReference": "4张参考图",
+        "firstLastFrame": "首尾帧控制",
+        "smoothMotion": "流畅运动",
+        "affordable": "经济实惠"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Seedance Lite 为何是高效视频创作的理想选择",
+      "items": {
+        "multiReference": {
+          "title": "多参考图支持",
+          "description": "使用最多4张参考图来引导视频生成。通过多个视觉输入保持主体一致性并控制场景构图。"
+        },
+        "firstLastFrame": {
+          "title": "首尾帧控制",
+          "description": "提供起始和结束帧，生成流畅、连贯的过渡。非常适合控制运动和精确动画。"
+        },
+        "smoothMotion": {
+          "title": "流畅稳定的运动",
+          "description": "宽动态范围实现大幅度运动的流畅生成，同时保持稳定性和物理真实感。"
+        },
+        "speed": {
+          "title": "快速生成",
+          "description": "针对速度和效率优化。快速生成高品质视频，适合快速迭代和时间敏感的项目。"
+        },
+        "affordable": {
+          "title": "经济实惠",
+          "description": "更低的单次生成成本，让内容创作者更容易使用。以合理价格获得专业效果。"
+        },
+        "styles": {
+          "title": "多样风格",
+          "description": "从写实到插画，Seedance Lite 准确理解多样化的风格提示，支持您的创意愿景。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Seedance 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "consistency": {
+          "title": "主体一致性",
+          "description": "多参考图模式",
+          "useCase": "使用多张参考图在视频中保持角色和物体的一致性。"
+        },
+        "transition": {
+          "title": "流畅过渡",
+          "description": "运动控制",
+          "useCase": "使用首尾帧模式在两帧之间创建精确的运动，实现可控的动画效果。"
+        },
+        "product": {
+          "title": "产品视频",
+          "description": "电商内容",
+          "useCase": "生成具有流畅运动和专业品质的动态产品展示视频。"
+        },
+        "social": {
+          "title": "社交内容",
+          "description": "快速交付",
+          "useCase": "快速创建吸引眼球的 TikTok、Instagram 和 YouTube Shorts 内容。"
+        },
+        "animation": {
+          "title": "风格化动画",
+          "description": "创意项目",
+          "useCase": "生成从写实到插画等各种艺术风格的视频。"
+        },
+        "commercial": {
+          "title": "商业广告",
+          "description": "品牌内容",
+          "useCase": "制作具有一致品牌形象和流畅运动的专业广告。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Seedance Lite 功能的完整信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最高分辨率",
+          "durationOptions": "时长选项"
+        },
+        "modes": {
+          "title": "生成模式",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "multiReference": "多参考图（最多4张）",
+          "firstLastFrame": "首尾帧控制"
+        },
+        "motion": {
+          "title": "运动功能",
+          "smoothMotion": "流畅运动",
+          "largeScale": "大幅度运动",
+          "physicalRealism": "物理真实感"
+        },
+        "performance": {
+          "title": "性能",
+          "generationSpeed": "生成速度",
+          "costEfficiency": "成本效益"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Seedance Lite 与其他模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "multiReference": "多参考图模式",
+        "firstLastFrame": "首尾帧控制",
+        "smoothMotion": "流畅运动",
+        "maxDuration": "最长时长",
+        "resolution": "分辨率",
+        "costEfficiency": "成本效益"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "比 Pro 版本更加实惠。订阅更省钱。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Seedance Lite，由谁开发？",
+          "answer": "Seedance Lite 是字节跳动的高效视频生成模型，由 TikTok 和剪映背后的团队开发。它专为快速、实惠的视频生成而设计，同时保持高品质。"
+        },
+        "1": {
+          "question": "Seedance Lite 和 Seedance Pro 有什么区别？",
+          "answer": "Seedance Lite 针对速度和成本效益优化，适合快速迭代和预算有限的项目。Seedance Pro 提供最高品质，更适合复杂的专业级内容。"
+        },
+        "2": {
+          "question": "可以使用多少张参考图？",
+          "answer": "Seedance Lite 在多参考图模式下支持最多4张参考图。这让您可以通过多个视觉输入保持主体一致性并控制场景构图。"
+        },
+        "3": {
+          "question": "支持哪些视频时长和分辨率？",
+          "answer": "Seedance Lite 生成 480p 或 720p 分辨率的视频，时长可选5秒或10秒。支持横版和竖版宽高比。"
+        },
+        "4": {
+          "question": "Seedance Lite 支持首尾帧控制吗？",
+          "answer": "是的！您可以提供起始和结束图像，Seedance Lite 会生成两者之间的流畅过渡。这非常适合控制运动和精确动画。"
+        },
+        "5": {
+          "question": "Seedance Lite 可以生成哪些风格？",
+          "answer": "Seedance Lite 支持从写实、赛博朋克到插画和毛毡质感等多样风格。它准确理解风格提示，支持广泛的创意需求。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "时尚 Lookbook 样机 – Lookbook 视觉生成器 | OpenCreator",
+    "description": "用 AI 生成时尚 Lookbook 样机，将穿搭与系列快速变成具有编辑感的 Lookbook 视觉，用于活动、社交与电商展示。",
+    "keywords": [
+      "时尚Lookbook样机",
+      "Lookbook页面设计",
+      "时尚编辑风图",
+      "服装产品摄影",
+      "AI时尚模特生成",
+      "服装品牌摄影",
+      "AI产品图片生成",
+      "服装电商摄影"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#时尚", "#Lookbook", "#品牌"],
+    "title": "时尚 Lookbook 样机",
+    "description": "用 AI 将穿搭与系列转化为 Lookbook 风格视觉。无需从零搭建排版，就能快速生成具有编辑感的 Lookbook 页面，用于活动页面、品牌官网、社交媒体与投放素材。",
+    "inputPlaceholder": "描述你的系列或上传穿搭图片",
+    "ctaText": "免费试用"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "确定系列或主题",
+        "description": "描述你希望展示的系列、主题或 Look 组合，包括关键单品、季节与整体氛围。"
+      },
+      {
+        "title": "设定 Lookbook 风格与结构",
+        "description": "说明你偏好的 Lookbook 方向，例如“极简编辑排版”、“街头拼贴风 Lookbook”或“偏电商感的整齐网格”。"
+      },
+      {
+        "title": "生成 AI 驱动的 Lookbook 样机",
+        "description": "工作流会根据你的 Brief 生成 Lookbook 风格的图片，将多套 Look 排布为连贯的视觉叙事，适合对外展示。"
+      },
+      {
+        "title": "筛选页面并导出使用",
+        "description": "从多个布局中挑选你最满意的版本，如有需要可再次迭代，然后导出用于落地页、数字 Lookbook、PDF 物料和社交内容的素材。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "服务时尚品牌与视觉讲述者",
+    "subtitle": "适合希望以系列/主题形式呈现穿搭故事的团队。",
+    "audiences": [
+      {
+        "label": "时尚与服装品牌",
+        "description": "将季度系列快速转化为 Lookbook 视觉，用于官网展示、品牌手册和 B 端买手沟通。"
+      },
+      {
+        "label": "电商与陈列团队",
+        "description": "在商品网格与大片 Campaign 之间，增加“系列合集”和“精选搭配”这类 Lookbook 视觉模块。"
+      },
+      {
+        "label": "造型师、编辑与创作者",
+        "description": "用 Lookbook 样机的方式呈现穿搭故事，让内容更接近电子杂志或编辑页体验。"
+      },
+      {
+        "label": "代理商与创意工作室",
+        "description": "将工作流作为 Lookbook 叙事结构的起稿工具，在大规模设计制作前快速测试多种视觉方案。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是“时尚 Lookbook 样机”工作流？",
+        "answer": "“时尚 Lookbook 样机”是一个 AI 工作流，可以为时尚系列、Campaign 和穿搭内容生成 Lookbook 风格的视觉画面，帮助你快速获得具有编辑感的展示页。"
+      },
+      {
+        "question": "需要准备什么输入？",
+        "answer": "你可以从系列/Look 的文字描述出发，也可以配合上传参考图片或商品图。主题、氛围和重点越清晰，生成效果越贴近你的预期。"
+      },
+      {
+        "question": "可以控制 Lookbook 的审美风格吗？",
+        "answer": "可以。你可以在提示词中说明偏好的审美，例如极简奢华、街头潮流、复古感或先锋感，并指明希望偏重“网格排版”、“大图+小图”还是“拼贴感组合”。"
+      },
+      {
+        "question": "生成的 Lookbook 视觉可以用在什么地方？",
+        "answer": "你可以将其用于 Campaign 落地页、品牌站、数字 Lookbook、买手沟通 PDF，以及社交媒体内容，用统一视觉讲述系列故事。"
+      },
+      {
+        "question": "它会完全替代手工排版设计吗？",
+        "answer": "更推荐将其视为一个高效的起稿和样机生成工具，你可以直接使用优秀结果，也可以在设计软件中做进一步精修和品牌化处理。"
+      },
+      {
+        "question": "使用这个工作流的费用如何计算？",
+        "answer": "每次生成会根据底层图像步骤消耗一定积分，整体设计为方便你在合理成本下尝试多种 Lookbook 方向，再选择最终采用的版本。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "时尚 Lookbook 样机 – Lookbook 视觉生成器",
+      "description": "使用 OpenCreator 的 AI 工作流，为时尚系列与穿搭内容生成 Lookbook 风格视觉样机。"
+    },
+    "softwareApplication": {
+      "name": "时尚 Lookbook 样机 AI 工作流",
+      "description": "一个基于 AI 的工作流，用于为时尚品牌和创作者生成 Lookbook 风格的视觉内容。"
+    },
+    "faqPage": {
+      "name": "时尚 Lookbook 样机 – 常见问题"
+    }
+  }
+}

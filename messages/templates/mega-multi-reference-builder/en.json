@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Multi-Reference Image Generator – Turn Many References into One Final Shot | OpenCreator",
+    "description": "Turn large sets of reference images into one coherent hero shot. Use OpenCreator's Multi-Reference Image Generator to merge poses, props, styling and lighting from many examples into a single, production-ready visual.",
+    "keywords": [
+      "reference board generator",
+      "visual moodboard builder",
+      "creative reference organizer",
+      "concept art reference board",
+      "campaign moodboard creator",
+      "how to build large reference boards with ai",
+      "ai tool for organizing creative visual references"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#references", "#moodboard", "#concepting"],
+    "title": "Multi-Reference Image Generator",
+    "description": "Feed AI with many reference photos – poses, styling, props, lighting – and synthesize them into a single coherent final image. Perfect for campaign key visuals, lookbooks and concept art.",
+    "inputPlaceholder": "Upload or describe multiple references and the visual direction you want them to converge toward",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Gather and upload your reference set",
+        "description": "Combine screenshots, photos, sketches, and links that represent the direction or territory you are exploring."
+      },
+      {
+        "title": "Describe the unifying themes and goals",
+        "description": "Explain what the board is for—such as a campaign, worldbuilding project, character design, or brand territory—so AI can organize references accordingly."
+      },
+      {
+        "title": "Generate AI-curated mega reference layouts",
+        "description": "Run the Mega Multi Reference Builder workflow to group, arrange, and harmonize references into clear sections and visual flows."
+      },
+      {
+        "title": "Export for collaboration and production",
+        "description": "Share the resulting boards with teams, clients, or vendors as PDFs or images to align execution before production starts."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams who live in references and decks",
+    "subtitle": "From creative directors to worldbuilders, see who organizes vision with AI.",
+    "audiences": [
+      {
+        "label": "Creative, brand, and art directors",
+        "description": "Turn chaotic inspiration folders into structured reference systems that are easy to share and discuss."
+      },
+      {
+        "label": "Film, game, and animation teams",
+        "description": "Build consistent worlds, characters, and environments from large pools of visual references."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Present clear visual territories and routes to clients across multiple campaigns or concepts."
+      },
+      {
+        "label": "Educators and workshop leaders",
+        "description": "Create teaching and inspiration boards quickly for classes, lectures, or creative sessions."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Mega Multi Reference Builder AI workflow do?",
+        "answer": "This workflow helps you build large, organized visual reference boards with AI. It's a reference board and visual moodboard generator that combines many image and text references into coherent systems."
+      },
+      {
+        "question": "What kind of references should I gather before using this workflow?",
+        "answer": "Collect screenshots, photos, sketches, and links that represent the direction you want—such as campaign routes, worldbuilding inspiration, character references, or brand territories. The more representative and well-chosen the inputs, the more useful the resulting boards."
+      },
+      {
+        "question": "How does AI help organize my references?",
+        "answer": "The workflow groups, arranges, and harmonizes references into clear sections and visual flows based on your descriptions and the content of the inputs, so you spend less time manually arranging collages."
+      },
+      {
+        "question": "Who typically uses large-scale reference boards?",
+        "answer": "Creative, brand, and art directors; film, game, and animation teams; agencies and studios; and educators or workshop leaders who need to organize large pools of visual inspiration into something shareable and easy to understand."
+      },
+      {
+        "question": "Can I export boards for collaboration and production use?",
+        "answer": "Yes. The workflow supports exporting boards as images or PDFs so they can be shared with teams, clients, or vendors as alignment tools before production work begins."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Each generated board consumes credits depending on how many references you include and how complex the layout needs are. Many teams start with smaller sets to validate structure, then scale up to larger boards once they're confident in the setup."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Multi-Reference Image Generator",
+      "description": "Turn many reference images into one coherent key visual using AI."
+    },
+    "softwareApplication": {
+      "name": "AI Multi-Reference Image Generator",
+      "description": "AI workflow that fuses multiple visual references into a single, production-ready image."
+    },
+    "faqPage": {
+      "name": "Mega Multi Reference Builder – FAQ"
+    }
+  }
+}

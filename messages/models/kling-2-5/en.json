@@ -1,0 +1,212 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.5 Turbo AI Video Generator | Industry-Leading Performance | OpenCreator",
+      "description": "Create stunning AI videos with Kuaishou's Kling 2.5 Turbo. Industry-leading performance with enhanced motion quality, style consistency, and 30% lower cost. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Kling 2.5 Turbo",
+      "tagline": "Industry-Leading Performance, More Affordable",
+      "description": "Kuaishou's Kling AI 2.5 Turbo delivers industry-leading performance in blind tests, outperforming competitors in both text-to-video and image-to-video. Enhanced prompt adherence, superior motion quality for action scenes, and 30% lower cost than 2.1.",
+      "badge": "Latest",
+      "ctaText": "Try Kling 2.5 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "duration": "5-10s Duration",
+        "resolution": "1080p Output",
+        "performance": "Industry-Leading"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Kling 2.5 Turbo the industry-leading AI video generation model",
+      "items": {
+        "prompt": {
+          "title": "Enhanced Prompt Adherence",
+          "description": "Elevated prompt comprehension handles complex multi-step instructions and causal relationships with greater precision."
+        },
+        "motion": {
+          "title": "Superior Motion Quality",
+          "description": "Generate dynamic motion and camera movement with greater amplitude. Delivers superior high-motion scenes like combat and running with camera tracking, plus complex action scenes including figure skating, synchronized swimming, and group dance."
+        },
+        "style": {
+          "title": "Style Consistency",
+          "description": "Accurately captures artistic style of reference images, maintaining color, lighting, texture, and atmosphere."
+        },
+        "aesthetic": {
+          "title": "Enhanced Aesthetics",
+          "description": "Greater aesthetic appeal with improved lighting and composition for outputs with visual coherence and impact."
+        },
+        "expressions": {
+          "title": "Complex Micro-Expressions",
+          "description": "Render subtle facial expressions with richer dramatic tension, aligning video output with creative vision."
+        },
+        "cost": {
+          "title": "30% Lower Cost",
+          "description": "Significantly reduced pricing makes advanced AI video generation more accessible for creators worldwide."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Kling 2.5 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "outfit": {
+          "title": "360° Outfit Display",
+          "description": "E-commerce Product Videos",
+          "useCase": "Transform static product photos into engaging video content with enhanced motion quality."
+        },
+        "streetwear": {
+          "title": "Streetwear UGC Promo",
+          "description": "Social Media Content",
+          "useCase": "Create scroll-stopping UGC-style videos with superior style consistency."
+        },
+        "character": {
+          "title": "Consistent Character Ads",
+          "description": "Brand Advertising",
+          "useCase": "Produce consistent character ads with complex micro-expressions and dramatic tension."
+        },
+        "sportswear": {
+          "title": "Sportswear On-Model Ad",
+          "description": "Athletic Wear Showcase",
+          "useCase": "Dynamic poses with enhanced motion quality for sportswear and activewear products."
+        },
+        "combat": {
+          "title": "High-Motion Scenes",
+          "description": "Action Content",
+          "useCase": "Superior high-motion scenes like combat and running with camera tracking."
+        },
+        "dance": {
+          "title": "Complex Dance Scenes",
+          "description": "Entertainment Content",
+          "useCase": "Complex action scenes including figure skating, synchronized swimming, and group dance."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Kling 2.5 Turbo capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "multiReference": "Multi-Reference (up to 4)",
+          "motionBrush": "Motion Brush"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "promptAdherence": "Prompt Adherence",
+          "motionQuality": "Motion Quality",
+          "styleConsistency": "Style Consistency",
+          "microExpressions": "Micro-Expressions"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "costReduction": "Cost Reduction"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Kling 2.5 Turbo compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "multiReference": "Multi-Reference Support",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "motionQuality": "Motion Quality",
+        "styleConsistency": "Style Consistency",
+        "costEfficiency": "Cost Efficiency"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. 30% lower than Kling 2.1 pricing.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Kling 2.5 Turbo and who developed it?",
+          "answer": "Kling 2.5 Turbo is Kuaishou's latest AI video generation model, launched in September 2025. It features major upgrades to text-to-video and image-to-video capabilities with industry-leading performance at 30% lower cost than its predecessor."
+        },
+        "1": {
+          "question": "What improvements does Kling 2.5 have over Kling 2.1?",
+          "answer": "Kling 2.5 Turbo offers enhanced prompt adherence, superior motion quality, better style consistency, improved aesthetic quality, and complex micro-expression rendering. It also costs 30% less than Kling 2.1."
+        },
+        "2": {
+          "question": "What types of content can I create with Kling 2.5?",
+          "answer": "Kling 2.5 excels at e-commerce product videos, social media content, brand advertising, high-motion action scenes, complex dance sequences, and any content requiring superior motion quality and style consistency."
+        },
+        "3": {
+          "question": "How long can Kling 2.5 videos be?",
+          "answer": "Kling 2.5 Turbo supports video durations of 5 or 10 seconds at 1080p HD resolution, same as Kling 2.1 but with significantly enhanced quality."
+        },
+        "4": {
+          "question": "Does Kling 2.5 support multi-reference images?",
+          "answer": "Yes! Like Kling 2.1, Kling 2.5 Turbo supports up to 4 input images for multi-reference generation, enabling consistent character and scene creation across your video content."
+        },
+        "5": {
+          "question": "How does Kling 2.5 pricing compare to other models?",
+          "answer": "Kling 2.5 Turbo is priced 30% lower than Kling 2.1, making it one of the most cost-effective high-quality video generation models available. Each 5-second 1080p video costs 25 credits, down from 35 credits."
+        },
+        "6": {
+          "question": "Can I try Kling 2.5 Turbo for free on OpenCreator?",
+          "answer": "Yes! New users receive free credits upon registration, which can be used to try Kling 2.5 Turbo. This lets you test the enhanced motion quality and style consistency before subscribing."
+        },
+        "7": {
+          "question": "What is the maximum video length for Kling 2.5?",
+          "answer": "Kling 2.5 Turbo supports 5-second and 10-second video durations at 1080p HD resolution. For longer content, you can generate multiple clips and stitch them together while maintaining style consistency."
+        },
+        "8": {
+          "question": "What resolutions and aspect ratios does Kling 2.5 support?",
+          "answer": "Kling 2.5 Turbo generates videos at 1080p HD resolution with common aspect ratios (16:9, 9:16, 1:1). Choose based on your target platform: 16:9 for YouTube, 9:16 for TikTok/Reels."
+        },
+        "9": {
+          "question": "How do I choose between Kling 2.5 and Kling O1?",
+          "answer": "Kling 2.5 Turbo is optimized for high-motion scenes, style consistency, and cost-effectiveness. Kling O1 is a newer model with different capabilities. Check the available models on OpenCreator to see which best fits your workflow."
+        },
+        "10": {
+          "question": "How does Kling 2.5 compare to Sora 2?",
+          "answer": "Kling 2.5 Turbo excels at motion quality, multi-reference support (up to 4 images), and cost-effectiveness. Sora 2 emphasizes physics realism and longer durations. Choose Kling for action scenes and consistent characters; choose Sora for cinematic realism."
+        },
+        "11": {
+          "question": "How does Kling 2.5 compare to Veo 3?",
+          "answer": "Kling 2.5 Turbo offers superior motion quality and multi-reference workflows at lower cost. Veo 3 excels at native audio generation and audio-video synchronization. Choose based on whether you need audio or multi-reference support."
+        },
+        "12": {
+          "question": "What makes Kling 2.5 good for action and dance scenes?",
+          "answer": "Kling 2.5 Turbo features enhanced motion physics, camera tracking, and complex action rendering. It handles combat, running, figure skating, synchronized swimming, and group dance with smoother, more stable visuals than previous versions."
+        }
+      }
+    }
+  }
+}

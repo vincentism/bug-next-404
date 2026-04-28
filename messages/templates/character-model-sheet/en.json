@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Character Model Sheet – AI Character Design Reference | OpenCreator",
+    "description": "Create professional character model sheets with AI. Generate multi-angle character references, turnarounds, and design specifications for animation and game development.",
+    "keywords": [
+      "character model sheet",
+      "character turnaround",
+      "character design reference",
+      "character sheet generator",
+      "anime character design",
+      "game character reference",
+      "character art ai",
+      "character design sheet"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#character", "#design", "#model_sheet"],
+    "title": "Character Model Sheet",
+    "description": "Create professional character model sheets with AI. Generate comprehensive character references including multi-angle views, expression sheets, and design specifications. Perfect for animators, game developers, and character designers who need consistent reference materials.",
+    "inputPlaceholder": "Describe your character or upload reference",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your character concept",
+        "description": "Describe your character's appearance, style, and key features, or upload an existing character image as reference. Include details about costume, proportions, and personality."
+      },
+      {
+        "title": "Select model sheet format",
+        "description": "Choose the reference views you need: front, back, side views, 3/4 angles, expression sheets, costume details, or full turnaround layouts."
+      },
+      {
+        "title": "Generate character reference sheet",
+        "description": "AI creates a professional model sheet with consistent character appearance across all views, maintaining proportions, details, and style throughout."
+      },
+      {
+        "title": "Download your character sheet",
+        "description": "Export high-resolution character model sheets ready for animation, game development, illustration projects, or production teams."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for character creation workflows",
+    "subtitle": "From indie developers to animation studios, see who creates character references with AI.",
+    "audiences": [
+      {
+        "label": "Game developers",
+        "description": "Create consistent character references for 2D and 3D game development, ensuring characters look right from every angle."
+      },
+      {
+        "label": "Animators",
+        "description": "Generate turnaround sheets and expression references that maintain character consistency throughout animation production."
+      },
+      {
+        "label": "Comic artists",
+        "description": "Develop comprehensive character references that keep your characters consistent across panels and issues."
+      },
+      {
+        "label": "Character designers",
+        "description": "Quickly explore character concepts and generate professional presentation sheets for clients and production teams."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is a Character Model Sheet?",
+        "answer": "A character model sheet is a reference document showing a character from multiple angles with consistent proportions and details—essential for animation, games, and comics where characters must look consistent across many drawings."
+      },
+      {
+        "question": "What views can I generate?",
+        "answer": "Generate front, back, left side, right side, 3/4 views, top-down, expression sheets, costume breakdowns, and any specific angle needed for your production."
+      },
+      {
+        "question": "Will the character be consistent across views?",
+        "answer": "Yes. The AI maintains consistent proportions, details, costume elements, and style across all generated views—the core purpose of a model sheet."
+      },
+      {
+        "question": "What art styles are supported?",
+        "answer": "Create model sheets in various styles: anime, western cartoon, realistic, stylized, chibi, game art, and custom styles based on your reference inputs."
+      },
+      {
+        "question": "Can I include expression sheets?",
+        "answer": "Yes. Generate expression reference sheets showing your character displaying different emotions while maintaining consistent facial features and style."
+      },
+      {
+        "question": "Is this suitable for professional production?",
+        "answer": "Absolutely. The output quality meets professional standards for animation, game development, and illustration production workflows."
+      },
+      {
+        "question": "Can I iterate on the design?",
+        "answer": "Yes. Use the generated model sheet as a starting point and request variations or refinements to specific aspects of the character design."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Model sheets are delivered in high resolution suitable for production work, detailed reference viewing, and print documentation."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Character Model Sheet – AI Character Design Reference",
+      "description": "Create professional character model sheets with AI. Generate multi-angle character references for animation and game development."
+    },
+    "softwareApplication": {
+      "name": "Character Model Sheet AI",
+      "description": "AI-powered character design tool for generating professional model sheets with multi-angle views and consistent character references."
+    },
+    "faqPage": {
+      "name": "Character Model Sheet – FAQ"
+    }
+  }
+}

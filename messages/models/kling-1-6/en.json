@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 1.6 AI Video Generator | Multi-Reference & Elements Mode | OpenCreator",
+      "description": "Create stunning videos with Kuaishou Kling 1.6. Features multi-image reference mode with up to 4 images, motion brush control, and special effects. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Kling 1.6",
+      "tagline": "Multi-Reference Power",
+      "description": "Kuaishou's advanced video generation model with multi-image reference support. Kling 1.6 delivers high-quality videos with up to 4 reference images, motion brush control, and special effects for creative storytelling.",
+      "badge": "Elements Mode",
+      "ctaText": "Try Kling 1.6 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "multiReference": "4 Reference Images",
+        "firstLastFrame": "First-Last Frame",
+        "motionBrush": "Motion Brush",
+        "specialFx": "Special Effects"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Kling 1.6 powerful for creative video generation",
+      "items": {
+        "multiReference": {
+          "title": "Multi-Image Reference",
+          "description": "Use up to 4 reference images in Elements mode. Combine multiple subjects, characters, or objects in a single video with consistent appearance."
+        },
+        "firstLastFrame": {
+          "title": "First & Last Frame Control",
+          "description": "Provide start and end frames to generate smooth, coherent transitions. Perfect for controlled motion and precise animations."
+        },
+        "motionBrush": {
+          "title": "Motion Brush Control",
+          "description": "Define static and dynamic areas with motion brushes. Control exactly which parts of your image should move and how."
+        },
+        "specialFx": {
+          "title": "Special Effects",
+          "description": "Apply built-in special effects like hug, kiss, heart gesture, squish, and expansion for creative and engaging content."
+        },
+        "quality": {
+          "title": "High-Quality Output",
+          "description": "Professional-grade motion synthesis with natural, smooth animations that preserve the original image's quality and artistic intent."
+        },
+        "flexible": {
+          "title": "Flexible Duration",
+          "description": "Generate videos in 5 or 10 second durations with multiple aspect ratio options including 16:9, 9:16, and 1:1."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Kling 1.6 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "elements": {
+          "title": "Elements Mode",
+          "description": "Multi-Reference",
+          "useCase": "Combine multiple characters or objects from different reference images into a single cohesive video."
+        },
+        "transition": {
+          "title": "Smooth Transitions",
+          "description": "Motion Control",
+          "useCase": "Create precise motion between two frames using first-last frame mode for controlled animations."
+        },
+        "product": {
+          "title": "Product Videos",
+          "description": "E-commerce Content",
+          "useCase": "Generate dynamic product showcase videos with motion brush control for specific movements."
+        },
+        "effects": {
+          "title": "Special Effects",
+          "description": "Creative Content",
+          "useCase": "Apply special effects like heart gestures and hugs for engaging social media content."
+        },
+        "fashion": {
+          "title": "Fashion Content",
+          "description": "Apparel Showcase",
+          "useCase": "Create dynamic fashion videos with consistent model appearance across multiple shots."
+        },
+        "commercial": {
+          "title": "Commercial Ads",
+          "description": "Brand Content",
+          "useCase": "Produce professional commercials with controlled motion and high-quality output."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Kling 1.6 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "modes": {
+          "title": "Generation Modes",
+          "imageToVideo": "Image to Video",
+          "elementsMode": "Elements Mode (up to 4)",
+          "firstLastFrame": "First-Last Frame"
+        },
+        "controls": {
+          "title": "Motion Controls",
+          "motionBrush": "Motion Brush",
+          "staticMask": "Static Mask",
+          "dynamicMask": "Dynamic Mask"
+        },
+        "effects": {
+          "title": "Special Effects",
+          "hug": "Hug Effect",
+          "kiss": "Kiss Effect",
+          "heartGesture": "Heart Gesture",
+          "squish": "Squish Effect"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Kling 1.6 compares to other Kling versions",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "multiReference": "Multi-Reference Mode",
+        "firstLastFrame": "First-Last Frame",
+        "motionBrush": "Motion Brush",
+        "specialFx": "Special Effects",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "description": "High quality, complex scenes",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Kling 1.6 and who developed it?",
+          "answer": "Kling 1.6 is Kuaishou's advanced video generation model. It's developed by the team behind Kuaishou, one of China's leading short video platforms, and features multi-image reference support and motion controls."
+        },
+        "1": {
+          "question": "What is Elements Mode?",
+          "answer": "Elements Mode allows you to use up to 4 reference images to create a video. You can combine multiple characters, objects, or scenes from different images into a single cohesive video with consistent appearance."
+        },
+        "2": {
+          "question": "How does Motion Brush work?",
+          "answer": "Motion Brush lets you define static and dynamic areas in your image. You can specify which parts should remain still and which should move, with trajectory control for precise motion paths."
+        },
+        "3": {
+          "question": "What special effects are available?",
+          "answer": "Kling 1.6 offers built-in special effects including hug, kiss, heart gesture, squish, and expansion. These are perfect for creating engaging social media content and creative videos."
+        },
+        "4": {
+          "question": "What video durations and resolutions are supported?",
+          "answer": "Kling 1.6 generates videos in 5 or 10 second durations with multiple aspect ratio options including 16:9 (landscape), 9:16 (portrait), and 1:1 (square)."
+        },
+        "5": {
+          "question": "How does Kling 1.6 compare to Kling 2.1?",
+          "answer": "Kling 1.6 excels in multi-image reference (Elements Mode) with up to 4 images, while Kling 2.1 offers improved motion quality and newer features. Choose 1.6 for multi-reference needs, 2.1 for latest quality."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "AI Video Playground for Prompt Testing & Creative Prototyping | OpenCreator",
+    "description": "Test video prompts, styles, and shot ideas in one AI playground. Rapidly prototype text-to-video and image-to-video concepts before production.",
+    "keywords": [
+      "ai video prompt testing",
+      "text to video experiments",
+      "image to video lab",
+      "creative video prototyping",
+      "ai video concept testing",
+      "cinematic ai video creation",
+      "social ad video ideation",
+      "ai video style exploration"
+    ]
+  },
+  "hero": {
+    "featureTag": "Creative Gen",
+    "tags": ["#veo_3.1", "#creative_studio", "#ai_experimentation"],
+    "title": "VEO 3.1 Playground",
+    "description": "Use this playground to test prompts, camera language, and visual styles fast. Go from rough concept to production-ready AI video direction with repeatable workflow steps.",
+    "inputPlaceholder": "Describe your creative experiment",
+    "ctaText": "Start Creating"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your creative vision",
+        "description": "Input your creative concept, experimental ideas, and desired outcomes for innovative AI content generation."
+      },
+      {
+        "title": "Choose VEO 3.1 experimental mode",
+        "description": "Select from various creative modes and experimental settings to explore different AI capabilities and styles."
+      },
+      {
+        "title": "Generate innovative content",
+        "description": "VEO 3.1 creates unique, experimental content that pushes creative boundaries and explores new possibilities."
+      },
+      {
+        "title": "Experiment and refine",
+        "description": "Export your experimental creations and continue iterating to discover new creative potentials."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for creative experimentation and innovation",
+    "subtitle": "From artists to innovators, see who explores creative possibilities with VEO 3.1 Playground.",
+    "audiences": [
+      {
+        "label": "Content creators",
+        "description": "Experiment with new creative styles and push the boundaries of AI-generated content innovation."
+      },
+      {
+        "label": "Design professionals",
+        "description": "Explore experimental design concepts and discover new creative approaches with AI assistance."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Test innovative ideas and develop unique content strategies using advanced AI technology."
+      },
+      {
+        "label": "Digital artists",
+        "description": "Push creative boundaries and experiment with AI-powered artistic expression and content creation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the VEO 3.1 Playground workflow?",
+        "answer": "VEO 3.1 Playground is an AI-powered creative studio that lets you explore creative possibilities with VEO 3.1 technology. Generate innovative content and experiment with advanced AI technology."
+      },
+      {
+        "question": "Who is VEO 3.1 Playground designed for?",
+        "answer": "VEO 3.1 Playground is essential for creative experimentation and innovation: content creators, design professionals, creative agencies, and digital artists who want to push creative boundaries."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your creative concept, experimental ideas, and desired outcomes for innovative AI content generation."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates unique, experimental content that pushes creative boundaries and explores new possibilities in AI-generated media."
+      },
+      {
+        "question": "Can I experiment with different creative styles?",
+        "answer": "Yes. You can explore various creative modes, experimental settings, and innovative approaches to content creation."
+      },
+      {
+        "question": "How do credits and pricing work for VEO 3.1 Playground?",
+        "answer": "Each experimental content generation consumes credits based on the complexity and innovation level. The cost is optimized for creative exploration and experimentation."
+      },
+      {
+        "question": "Can I use this for professional projects?",
+        "answer": "Absolutely. While designed for experimentation, the generated content can be refined and used in professional creative projects."
+      },
+      {
+        "question": "Is this suitable for learning AI capabilities?",
+        "answer": "Yes. Perfect for understanding AI creative potential and discovering new ways to integrate AI into creative workflows."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "VEO 3.1 Playground – AI Creative Studio",
+      "description": "Explore creative possibilities with VEO 3.1 AI playground. Generate innovative content and experiment with advanced AI technology."
+    },
+    "softwareApplication": {
+      "name": "VEO 3.1 Playground AI Generator",
+      "description": "AI-powered creative studio using VEO 3.1 technology for experimental content creation and creative innovation."
+    },
+    "faqPage": {
+      "name": "VEO 3.1 Playground – FAQ"
+    }
+  }
+}

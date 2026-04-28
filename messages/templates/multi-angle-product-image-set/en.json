@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Multi-angle Product Image Set – AI 360° Product Photography | OpenCreator",
+    "description": "Create professional multi-angle product images with AI. Generate comprehensive 360 product photography views, side angles, and detail shots—the best AI product photo generator for how to take product photos.",
+    "keywords": [
+      "360 product photography",
+      "product image generator",
+      "ai product image generation",
+      "how to take product photos",
+      "ai product photography",
+      "best ai product photo generator",
+      "professional product photography",
+      "ecommerce product photo editing",
+      "product photo editing",
+      "make product photos with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#product", "#multi_angle", "#360_view"],
+    "title": "Multi-angle Product Image Set",
+    "description": "Create comprehensive multi-angle product images with AI. Generate complete product views from every angle—front, back, sides, top, and detail shots—from a single photo. Perfect for e-commerce sellers who need thorough product presentations without multiple photoshoots.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product photo",
+        "description": "Provide a clear image of your product from any angle. Our AI analyzes the product's shape, materials, and features to generate additional perspectives."
+      },
+      {
+        "title": "Select angle set and style",
+        "description": "Choose which angles you need: front, back, left, right, top, bottom, 45° views, or detail closeups. Select consistent lighting and background styles."
+      },
+      {
+        "title": "Generate multi-angle imagery",
+        "description": "AI creates realistic product images from multiple perspectives, maintaining consistent styling, lighting, and product appearance across all angles."
+      },
+      {
+        "title": "Download your complete set",
+        "description": "Export high-resolution images from every angle, ready for comprehensive e-commerce listings that answer all customer questions visually."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for comprehensive product listings",
+    "subtitle": "From product managers to e-commerce sellers, see who creates multi-angle imagery with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce sellers",
+        "description": "Create comprehensive product listings with views from every angle, reducing customer questions and return rates."
+      },
+      {
+        "label": "Product manufacturers",
+        "description": "Generate complete product documentation imagery showing all sides and features without multiple photography sessions."
+      },
+      {
+        "label": "Catalog creators",
+        "description": "Build thorough product catalogs with consistent multi-angle imagery across entire product lines efficiently."
+      },
+      {
+        "label": "Dropshippers",
+        "description": "Transform limited supplier images into comprehensive listings that provide customers with complete product visibility."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Multi-angle Product Image Set?",
+        "answer": "This AI workflow generates comprehensive product images from multiple perspectives—front, back, sides, angles, and details—from a single source image, creating thorough product presentations."
+      },
+      {
+        "question": "How many angles can I generate?",
+        "answer": "Generate as many angles as needed: front, back, left, right, top, bottom, 45-degree angles, 3/4 views, and macro detail shots for complete product coverage."
+      },
+      {
+        "question": "How accurate are the generated angles?",
+        "answer": "The AI maintains accurate proportions, materials, and product details across all generated angles, creating realistic and consistent multi-view imagery."
+      },
+      {
+        "question": "Does it work with complex products?",
+        "answer": "Yes. The workflow handles products with multiple materials, textures, and complex geometries, maintaining accuracy across all generated perspectives."
+      },
+      {
+        "question": "Can I maintain consistent lighting?",
+        "answer": "Absolutely. All generated angles use consistent lighting, shadows, and styling to create a cohesive product image set."
+      },
+      {
+        "question": "Is this suitable for Amazon listings?",
+        "answer": "Yes. Multi-angle imagery is highly recommended for Amazon listings to reduce customer uncertainty and return rates. All images meet marketplace requirements."
+      },
+      {
+        "question": "Can I generate detail closeups?",
+        "answer": "Yes. Request specific detail shots highlighting textures, mechanisms, ports, buttons, or any features customers want to examine closely."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "All images are delivered in high resolution suitable for e-commerce zoom functionality, product detail pages, and print materials."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Multi-angle Product Image Set – AI 360° Product Photography",
+      "description": "Create comprehensive multi-angle product images with AI. Generate complete product views from every perspective automatically."
+    },
+    "softwareApplication": {
+      "name": "Multi-angle Product Image Set AI",
+      "description": "AI-powered product photography tool for generating comprehensive multi-angle product images from a single source photo."
+    },
+    "faqPage": {
+      "name": "Multi-angle Product Image Set – FAQ"
+    }
+  }
+}

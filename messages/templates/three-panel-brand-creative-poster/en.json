@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Three-panel Brand Creative Poster – AI Split-Screen Ad Generator | OpenCreator",
+    "description": "Create stunning three-panel brand creative posters with AI. Generate split-screen advertising visuals that tell your brand story across multiple scenes.",
+    "keywords": [
+      "three panel poster",
+      "split screen ad",
+      "brand creative poster",
+      "ai poster generator",
+      "multi-scene advertising",
+      "brand storytelling",
+      "creative ad design",
+      "social media poster"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#brand_ads", "#creative_poster", "#storytelling"],
+    "title": "Three-panel Brand Creative Poster",
+    "description": "Create stunning three-panel brand creative posters with AI. This workflow generates split-screen advertising visuals that tell your brand story across multiple scenes—from product origin to customer experience. Perfect for social media ads, brand campaigns, and creative marketing.",
+    "inputPlaceholder": "Describe your brand story",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your brand story",
+        "description": "Describe your brand narrative across three scenes: origin story (top), brand interface (middle), and customer experience (bottom). Nano Banana Pro understands your creative vision."
+      },
+      {
+        "title": "Generate brand logo",
+        "description": "AI creates a clean brand logo on white background that will be integrated into the social media interface section of your poster."
+      },
+      {
+        "title": "Compose three-panel layout",
+        "description": "The workflow generates a cohesive three-panel poster: top scene shows product origin, middle displays social media UI with brand messaging, bottom features customer interaction."
+      },
+      {
+        "title": "Export creative poster",
+        "description": "Download your complete three-panel brand poster ready for social media advertising, print campaigns, and digital marketing."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for brand marketers",
+    "subtitle": "From startups to established brands, see who creates storytelling posters with AI.",
+    "audiences": [
+      {
+        "label": "Brand managers",
+        "description": "Create compelling brand story visuals that connect product origins to customer experiences. Generate posters that communicate your brand values effectively."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Generate scroll-stopping split-screen content for Instagram, Facebook, and LinkedIn. Create visually rich posts that tell complete brand stories."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Rapidly prototype brand campaign concepts for client presentations. Use AI to explore creative directions before full production."
+      },
+      {
+        "label": "Food & beverage brands",
+        "description": "Showcase farm-to-table stories, ingredient sourcing, and customer enjoyment in a single compelling visual. Perfect for restaurant and food brand marketing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Three-panel Brand Creative Poster workflow?",
+        "answer": "This AI workflow creates split-screen brand posters that tell your brand story across three connected scenes. It generates cohesive visuals showing product origin, brand messaging, and customer experience in a single poster."
+      },
+      {
+        "question": "How does the three-panel layout work?",
+        "answer": "The poster is divided into three sections: top (50%) shows the origin story or source scene, middle (20%) displays a social media interface with your brand, and bottom (30%) features the customer experience or product enjoyment."
+      },
+      {
+        "question": "What AI model powers this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for generating the three-panel creative poster with consistent styling and seamless scene transitions."
+      },
+      {
+        "question": "Can I customize the brand elements?",
+        "answer": "Yes, you can specify your brand name, messaging, product details, and scene descriptions. The AI generates custom logos and integrates your brand identity throughout the poster."
+      },
+      {
+        "question": "What industries is this best for?",
+        "answer": "The workflow excels for food & beverage, fashion, lifestyle, and consumer goods brands. Any brand with a compelling origin-to-customer story can benefit from this format."
+      },
+      {
+        "question": "Does it include social media UI elements?",
+        "answer": "Yes, the middle panel includes realistic social media interface elements: profile picture, username, post text, and engagement metrics—creating an authentic social media aesthetic."
+      },
+      {
+        "question": "What output formats are available?",
+        "answer": "The workflow generates high-resolution images in 3:4 aspect ratio, optimized for social media posts, stories, and digital advertising platforms."
+      },
+      {
+        "question": "Can characters span across panels?",
+        "answer": "Yes, the workflow can create characters that cross panel boundaries—like a farmer reaching from the origin scene into the customer scene—creating visual continuity and storytelling impact."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Three-panel Brand Creative Poster – AI Split-Screen Ad Generator",
+      "description": "Create stunning three-panel brand creative posters with AI-powered split-screen storytelling."
+    },
+    "softwareApplication": {
+      "name": "Three-panel Brand Poster Generator",
+      "description": "AI-powered tool for generating split-screen brand creative posters that tell compelling brand stories."
+    },
+    "faqPage": {
+      "name": "Three-panel Brand Creative Poster – FAQ"
+    }
+  }
+}

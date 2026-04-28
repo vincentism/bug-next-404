@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Christmas Fashion Editorial – AI Holiday Fashion Campaign | OpenCreator",
+    "description": "Create professional Christmas fashion editorial content with AI. Generate high-end holiday fashion campaigns with Hugo Comte-style lighting and cinematic video output.",
+    "keywords": [
+      "christmas fashion editorial",
+      "holiday fashion campaign",
+      "ai fashion photography",
+      "christmas fashion video",
+      "holiday editorial shoot",
+      "festive fashion content",
+      "christmas brand campaign",
+      "ai fashion video generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#christmas", "#fashion_editorial", "#brand_campaign"],
+    "title": "Christmas Fashion Editorial",
+    "description": "Create stunning Christmas fashion editorial content with AI. This workflow transforms your model photos into high-end holiday campaigns with Hugo Comte-style lighting, festive Christmas scenes, and cinematic video output. Perfect for fashion brands, e-commerce, and holiday marketing campaigns.",
+    "inputPlaceholder": "Upload your model photo",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload model and reference images",
+        "description": "Provide your model photos along with pose and outfit references. Nano Banana Pro analyzes the inputs to create cohesive Christmas editorial looks."
+      },
+      {
+        "title": "Apply Hugo Comte-style lighting",
+        "description": "AI applies professional editorial lighting: high-contrast directional light, deep shadows, and sharp focus. Creates that signature high-fashion photography aesthetic."
+      },
+      {
+        "title": "Generate Christmas scene variations",
+        "description": "The workflow creates multiple Christmas-themed scenes: decorated trees, theater-inspired sets, and festive props—all with consistent model styling and professional lighting."
+      },
+      {
+        "title": "Create cinematic video output",
+        "description": "Sora 2 transforms your editorial images into dynamic fashion videos with subtle model movements, twinkling lights, and atmospheric effects."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for fashion creatives",
+    "subtitle": "From luxury brands to independent designers, see who creates editorial content with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create high-end Christmas campaign visuals without expensive editorial shoots. Generate luxury-level content that elevates your holiday marketing."
+      },
+      {
+        "label": "Creative directors",
+        "description": "Explore editorial concepts and lighting styles before production. Use AI-generated visuals to pitch Christmas campaigns to clients and stakeholders."
+      },
+      {
+        "label": "E-commerce teams",
+        "description": "Transform standard product photos into editorial-quality Christmas content. Create premium holiday visuals that drive seasonal conversions."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Generate scroll-stopping Christmas fashion videos for Instagram Reels and TikTok. Create cinematic content that captures the holiday spirit."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Christmas Fashion Editorial workflow?",
+        "answer": "This AI workflow creates professional Christmas fashion editorial content from your model photos. It generates high-end holiday visuals with Hugo Comte-style lighting, festive scenes, and cinematic video output—perfect for luxury fashion campaigns."
+      },
+      {
+        "question": "What makes the lighting style special?",
+        "answer": "The workflow applies Hugo Comte-inspired editorial lighting: high-position hard directional key light, deep shadows with sharp edges, high contrast, and crisp focus. This creates that signature high-fashion photography aesthetic."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for image generation and editing, combined with Sora 2 for creating cinematic video output from the editorial images."
+      },
+      {
+        "question": "What Christmas scenes can it generate?",
+        "answer": "The workflow creates various festive scenes: decorated Christmas trees with ornaments, theater-inspired sets with velvet seating, starlit backgrounds, and holiday props like tinsel and ornaments—all styled for high-fashion editorial."
+      },
+      {
+        "question": "Does it preserve model identity?",
+        "answer": "Yes, the workflow maintains model identity and makeup throughout all scene variations. It changes outfits, poses, and backgrounds while keeping the model's appearance consistent."
+      },
+      {
+        "question": "What video output can I expect?",
+        "answer": "Sora 2 generates cinematic fashion videos with subtle model movements, twinkling Christmas lights, and atmospheric effects. Perfect for social media and digital advertising."
+      },
+      {
+        "question": "Can I customize the outfits?",
+        "answer": "The workflow allows outfit customization through reference images. You can specify coats, accessories, and festive elements like tinsel scarves or star-shaped ear muffs."
+      },
+      {
+        "question": "Is this suitable for commercial use?",
+        "answer": "Yes, the generated content is suitable for commercial fashion campaigns, e-commerce listings, social media marketing, and holiday advertising."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Christmas Fashion Editorial – AI Holiday Fashion Campaign",
+      "description": "Create professional Christmas fashion editorial content with AI-powered Hugo Comte-style lighting and cinematic video output."
+    },
+    "softwareApplication": {
+      "name": "Christmas Fashion Editorial Generator",
+      "description": "AI-powered tool for generating high-end Christmas fashion editorial content with professional lighting and video output."
+    },
+    "faqPage": {
+      "name": "Christmas Fashion Editorial – FAQ"
+    }
+  }
+}

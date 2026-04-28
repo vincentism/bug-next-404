@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "E-commerce Photo Set (3C Device) – AI Electronics Photography | OpenCreator",
+    "description": "Create professional 3C electronics product photo sets with AI. Best AI product photo generator for tech device imagery with studio lighting, lifestyle scenes, and feature highlights.",
+    "keywords": [
+      "ai product photography",
+      "best ai product photo generator",
+      "product image generator",
+      "ai product image generation",
+      "product photography services",
+      "professional product photography",
+      "ecommerce product photo editing",
+      "3c product photography",
+      "electronics photo set",
+      "ai product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#3c", "#electronics", "#tech_photography"],
+    "title": "E-commerce Photo Set (3C Device)",
+    "description": "Create professional photo sets for 3C electronics and tech devices with AI. Generate complete product imagery including studio shots, lifestyle scenes, feature closeups, and size comparisons. Perfect for electronics sellers who need high-quality tech product photography.",
+    "inputPlaceholder": "Upload your electronics product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your device photo",
+        "description": "Provide an image of your 3C product—smartphone, tablet, laptop, headphones, or any consumer electronics. Our AI handles reflective surfaces and complex device geometries."
+      },
+      {
+        "title": "Select your photo set style",
+        "description": "Choose from studio product shots, lifestyle usage scenes, feature highlight images, or comparison layouts optimized for tech product presentation."
+      },
+      {
+        "title": "Generate complete electronics imagery",
+        "description": "AI creates professional tech photography with proper lighting for screens and reflective surfaces, natural device positioning, and modern aesthetic styling."
+      },
+      {
+        "title": "Download your product set",
+        "description": "Export high-resolution images optimized for e-commerce platforms, Amazon listings, and tech retail sites with consistent professional quality."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for electronics and tech sellers",
+    "subtitle": "From gadget brands to tech retailers, see who creates 3C product imagery with AI.",
+    "audiences": [
+      {
+        "label": "Electronics brands",
+        "description": "Create consistent, premium product photography for entire device lineups without expensive studio equipment or specialized tech photographers."
+      },
+      {
+        "label": "Tech accessories sellers",
+        "description": "Showcase phone cases, chargers, and accessories with professional imagery that highlights compatibility and features effectively."
+      },
+      {
+        "label": "Gadget resellers",
+        "description": "Transform manufacturer photos into compelling listings that stand out in competitive electronics marketplaces."
+      },
+      {
+        "label": "Consumer electronics retailers",
+        "description": "Scale product photography for large catalogs of devices, maintaining consistent quality and style across all listings."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the E-commerce Photo Set for 3C Devices?",
+        "answer": "This AI workflow creates complete product photo sets for consumer electronics and 3C devices, including studio shots, lifestyle images, feature highlights, and comparison layouts—all optimized for tech product presentation."
+      },
+      {
+        "question": "What types of electronics can I photograph?",
+        "answer": "The workflow handles all 3C devices: smartphones, tablets, laptops, headphones, smartwatches, chargers, cables, computer peripherals, and consumer electronics accessories."
+      },
+      {
+        "question": "How does it handle reflective surfaces?",
+        "answer": "Our AI is specifically trained for electronics photography, properly handling screen reflections, metallic finishes, and glass surfaces that typically challenge product photographers."
+      },
+      {
+        "question": "Can I show device screens in use?",
+        "answer": "Yes. The workflow can generate lifestyle scenes showing devices with realistic screen content, helping customers visualize products in actual use scenarios."
+      },
+      {
+        "question": "What about feature highlight images?",
+        "answer": "You can generate closeup shots highlighting specific features like ports, buttons, cameras, or materials—essential for comprehensive tech product listings."
+      },
+      {
+        "question": "Is this suitable for Amazon electronics listings?",
+        "answer": "Absolutely. The output meets Amazon's image requirements for electronics and is optimized for the tech product presentation style that performs well on major marketplaces."
+      },
+      {
+        "question": "Can I maintain brand consistency?",
+        "answer": "Yes. Apply consistent styling across your entire electronics catalog, ensuring cohesive brand presentation whether you sell one device or hundreds."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Images are delivered in high resolution suitable for zoom functionality on e-commerce platforms, detail pages, and print marketing materials."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "E-commerce Photo Set (3C Device) – AI Electronics Photography",
+      "description": "Create professional 3C electronics product photo sets with AI. Generate complete tech device imagery automatically."
+    },
+    "softwareApplication": {
+      "name": "E-commerce Photo Set (3C Device) AI",
+      "description": "AI-powered electronics product photography tool for generating professional 3C device images with studio quality."
+    },
+    "faqPage": {
+      "name": "E-commerce Photo Set (3C Device) – FAQ"
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Jewelry Ear Model – Earring Try-On Images | OpenCreator",
+    "description": "Create realistic ear model photos to showcase earrings with diverse ear shapes and styling. Professional jewelry product photography with AI—no models or studio time needed.",
+    "keywords": [
+      "jewelry product photography",
+      "jewellery photography ideas",
+      "earring try on images",
+      "ai product photography",
+      "ecommerce earring photos",
+      "professional product photography",
+      "product photo editing",
+      "ai product photos",
+      "jewelry model photos",
+      "ear model generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#jewelry", "#earrings", "#ecommerce"],
+    "title": "Jewelry Ear Model",
+    "description": "Create realistic ear model photos that showcase earrings in beautiful detail. Generate diverse ear shapes, skin tones, and styling contexts with AI.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload your earring product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your earring product photo",
+        "description": "Provide a clear image of the earring design on a simple background."
+      },
+      {
+        "title": "Choose ear model style and diversity",
+        "description": "Select skin tones, age range, and styling (minimalist, glam, everyday)."
+      },
+      {
+        "title": "Generate realistic ear model visuals",
+        "description": "AI places your earrings on photorealistic ear models with accurate scale and lighting."
+      },
+      {
+        "title": "Download for product pages and campaigns",
+        "description": "Use images on PDPs, lookbooks, ads, and social media."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Designed for modern jewelry brands",
+    "subtitle": "From small studios to global retailers, see who uses AI ear models.",
+    "audiences": [
+      {
+        "label": "Direct-to-consumer jewelry brands",
+        "description": "Offer try-on visuals that increase add-to-cart and reduce hesitation."
+      },
+      {
+        "label": "Marketplace jewelry sellers",
+        "description": "Stand out with lifestyle-ready visuals instead of plain product shots."
+      },
+      {
+        "label": "Handmade and boutique designers",
+        "description": "Present artisanal pieces in a polished, consistent way."
+      },
+      {
+        "label": "Jewelry marketing teams",
+        "description": "Build cohesive campaigns with matching ear model imagery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Jewelry Ear Model workflow?",
+        "answer": "An AI workflow that places earrings on realistic ear models for e-commerce visuals."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "DTC brands, marketplace sellers, and designers who need realistic ear try-on imagery."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Upload an earring product photo and choose ear model preferences (skin tone, style)."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "Polished images for product pages, lookbooks, and campaign assets."
+      },
+      {
+        "question": "Can I control diversity and styling?",
+        "answer": "Yes. Choose skin tones, age ranges, and styling directions to match your brand."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits by resolution and complexity. Iterate and export within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Jewelry Ear Model – Earring Try-On Images",
+      "description": "AI-generated ear model visuals for showcasing earrings online."
+    },
+    "softwareApplication": {
+      "name": "Jewelry Ear Model Template",
+      "description": "AI workflow that creates realistic ear try-on images for earrings."
+    },
+    "faqPage": { "name": "Jewelry Ear Model – FAQ" }
+  }
+}

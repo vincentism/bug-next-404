@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Fabric to Model Catwalk – AI Fashion Video Generator | OpenCreator",
+    "description": "Transform fabric swatches into stunning runway videos. AI generates skirt designs from fabric, puts them on virtual models, and creates professional catwalk videos with VEO 3.1.",
+    "keywords": [
+      "fabric to fashion video",
+      "ai catwalk generator",
+      "virtual fashion show",
+      "fabric to garment ai",
+      "ai model runway video",
+      "fashion video generator",
+      "textile to clothing ai",
+      "virtual model catwalk"
+    ]
+  },
+  "hero": {
+    "featureTag": "Fashion Video",
+    "tags": ["#Nano_Banana_Pro", "#VEO_3.1", "#E-commerce"],
+    "title": "Fabric → Skirt → Model Catwalk",
+    "description": "Upload a fabric swatch and watch AI transform it into a designer skirt, dress it on a virtual model, and generate a professional runway video. Perfect for textile suppliers, fashion designers, and e-commerce brands who want to showcase fabric potential without expensive photoshoots.",
+    "inputPlaceholder": "Upload your fabric image",
+    "ctaText": "Create Catwalk Video"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload fabric swatch",
+        "description": "Provide an image of your fabric or textile material. The AI analyzes the pattern, texture, and color."
+      },
+      {
+        "title": "AI designs the garment",
+        "description": "Nano Banana Pro transforms your fabric into a stylish skirt design with professional tailoring and fashion-forward aesthetics."
+      },
+      {
+        "title": "Virtual model fitting",
+        "description": "The AI places the designed skirt on a realistic virtual model with proper fit, draping, and full-body presentation."
+      },
+      {
+        "title": "Generate runway video",
+        "description": "VEO 3.1 creates a professional catwalk video with the model walking, turning, and showcasing the garment from multiple angles."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "From fabric to fashion show in minutes",
+    "subtitle": "See who's using AI to revolutionize fashion visualization.",
+    "audiences": [
+      {
+        "label": "Textile suppliers",
+        "description": "Show clients how their fabrics look as finished garments without manufacturing samples."
+      },
+      {
+        "label": "Fashion designers",
+        "description": "Rapidly prototype and visualize designs before committing to production."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Create professional runway content for product launches without hiring models or studios."
+      },
+      {
+        "label": "Fashion schools",
+        "description": "Help students visualize their fabric choices and design concepts in motion."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Fabric to Model Catwalk workflow?",
+        "answer": "This AI workflow transforms fabric images into complete fashion videos. It uses Nano Banana Pro to design garments from fabric swatches, fits them on virtual models, and generates professional runway videos using VEO 3.1."
+      },
+      {
+        "question": "What kind of fabric images work best?",
+        "answer": "Clear, well-lit images of fabric swatches work best. The AI can handle various patterns, textures, and colors including prints, solids, and textured materials."
+      },
+      {
+        "question": "Can I customize the model appearance?",
+        "answer": "Yes. The workflow allows you to specify model characteristics like ethnicity, age range, and styling preferences to match your target market."
+      },
+      {
+        "question": "What video output formats are available?",
+        "answer": "Videos are generated in 9:16 vertical format at 1080p resolution, perfect for social media, e-commerce listings, and fashion presentations."
+      },
+      {
+        "question": "How long are the generated runway videos?",
+        "answer": "Each video clip is approximately 8 seconds, showing the model walking, posing, and showcasing the garment with professional catwalk movements."
+      },
+      {
+        "question": "Can I use this for different garment types?",
+        "answer": "The current workflow is optimized for skirts and dresses. The AI adapts the design based on the fabric characteristics to create appropriate styles."
+      },
+      {
+        "question": "Is this suitable for commercial use?",
+        "answer": "Absolutely. The generated content is designed for commercial applications including e-commerce, marketing, and fashion presentations."
+      },
+      {
+        "question": "How does this compare to traditional photoshoots?",
+        "answer": "This workflow can save 90%+ on costs and time compared to traditional fashion photoshoots, while allowing unlimited iterations and variations."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Fabric to Model Catwalk – AI Fashion Video Generator",
+      "description": "Transform fabric swatches into stunning runway videos with AI-generated garments and virtual models."
+    },
+    "softwareApplication": {
+      "name": "Fabric to Model Catwalk AI Generator",
+      "description": "AI-powered workflow that transforms fabric images into designer garments on virtual models with professional runway videos."
+    },
+    "faqPage": {
+      "name": "Fabric to Model Catwalk – FAQ"
+    }
+  }
+}

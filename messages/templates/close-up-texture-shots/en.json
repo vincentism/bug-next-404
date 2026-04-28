@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Close-up Texture Shots – Product Texture Image Generator | OpenCreator",
+    "description": "Create close-up texture shots of products with AI. Highlight fabric, material, and surface details for clothing photography, apparel photography for ecommerce, and branding visuals.",
+    "keywords": [
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "garment photography",
+      "product photo editing",
+      "ai product photography",
+      "close up texture shot",
+      "product texture photo",
+      "fabric texture image",
+      "how to take product photos",
+      "professional product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#texture", "#ecommerce", "#banana_pro"],
+    "title": "Close-up Texture Shots",
+    "description": "Generate close-up texture shots that show the feel of your products—fabric weaves, surface finishes, and material details—using AI. Perfect for adding detail shots to product pages and brand visuals.",
+    "inputPlaceholder": "Describe the material or upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide material or product context",
+        "description": "Describe the product and material (e.g., knit cotton, leather, metal, technical fabric) and what kind of details you want to highlight."
+      },
+      {
+        "title": "Specify style and framing",
+        "description": "Indicate how you want the close-up to feel—clean studio, dramatic lighting, macro feel, or minimal detail tile—for consistency with your brand."
+      },
+      {
+        "title": "Generate AI close-up texture shots",
+        "description": "The workflow creates detail-focused images that emphasize texture, pattern, and finish while staying aligned with your overall product look."
+      },
+      {
+        "title": "Curate and export for your product pages",
+        "description": "Select the most accurate and attractive shots, iterate if needed, then export them as supporting images for PDPs, lookbooks, and campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands that sell on material quality",
+    "subtitle": "Ideal for fashion, home goods, and premium product brands.",
+    "audiences": [
+      {
+        "label": "Fashion and apparel brands",
+        "description": "Showcase fabric quality, knit patterns, and finishing details that are hard to see in standard product shots."
+      },
+      {
+        "label": "Home and lifestyle brands",
+        "description": "Highlight textures in bedding, upholstery, decor, and other products where material feel matters to customers."
+      },
+      {
+        "label": "Premium and craft brands",
+        "description": "Emphasize craftsmanship and material choices with detail images that reinforce your positioning."
+      },
+      {
+        "label": "Agencies and creative teams",
+        "description": "Quickly generate texture-focused visuals to enrich campaigns, brand worlds, and product storytelling."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Close-up Texture Shots workflow?",
+        "answer": "Close-up Texture Shots is an AI workflow that generates detail shots focusing on product textures and materials. It helps you add rich supporting images to your product storytelling."
+      },
+      {
+        "question": "Do I need to upload existing product images?",
+        "answer": "You can start from text-only prompts or pair them with product reference photos for better alignment. Reference images generally help the workflow match your real materials more closely."
+      },
+      {
+        "question": "What types of products benefit most?",
+        "answer": "Apparel, textiles, furniture, bedding, leather goods, and any product where texture and material quality are important to purchase decisions."
+      },
+      {
+        "question": "Where can I use the generated texture shots?",
+        "answer": "Use them as supporting images on PDPs, in lookbooks, brand decks, social posts, or campaign visuals to add depth beyond the main product hero shots."
+      },
+      {
+        "question": "Can I match my brand lighting and color style?",
+        "answer": "Yes. You can describe lighting, background, and color atmosphere so the texture shots feel consistent with your existing imagery."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Each generation consumes credits based on underlying image steps. It’s priced to make experimenting with multiple material angles and styles practical."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Close-up Texture Shots – Product Texture Image Generator",
+      "description": "Create close-up product texture shots using OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Close-up Texture Shots AI Workflow",
+      "description": "AI-powered workflow for generating close-up texture images for product and brand visuals."
+    },
+    "faqPage": {
+      "name": "Close-up Texture Shots – FAQ"
+    }
+  }
+}

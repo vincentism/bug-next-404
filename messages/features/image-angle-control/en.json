@@ -1,0 +1,181 @@
+{
+  "seo": {
+    "title": "AI Multi-Angle Image Generator | Camera Angle Control | OpenCreator",
+    "description": "Generate any product or portrait from multiple camera angles with AI. Control horizontal rotation, vertical tilt, and zoom. One photo in, unlimited angles out.",
+    "keywords": [
+      "multi-angle image generator",
+      "multi-view image generator",
+      "AI camera angle control",
+      "image viewpoint generation",
+      "novel view synthesis",
+      "360 product view",
+      "multi-angle product images",
+      "Qwen multi-view",
+      "product photography angles",
+      "OpenCreator angle control"
+    ]
+  },
+  "hero": {
+    "badge": "Multi-Angle AI",
+    "title": "One photo. Every angle.",
+    "description": "Upload a single image and generate it from any camera perspective. Control horizontal rotation, vertical tilt, and zoom with precision sliders or intuitive 3D drag — powered by Qwen multi-view synthesis.",
+    "cta": "Try It Free",
+    "secondaryCta": "See Templates",
+    "stats": {
+      "rotation": {
+        "value": "360°",
+        "label": "Full Rotation"
+      },
+      "axes": {
+        "value": "3-Axis",
+        "label": "Camera Control"
+      }
+    }
+  },
+  "showcase": {
+    "title": "Same subject. Every perspective.",
+    "subtitle": "Each image below was generated from a single input photo using different angle settings in the Angle Control atom.",
+    "items": {
+      "topDown": {
+        "label": "Top-Down View",
+        "angle": "Vertical 90°"
+      },
+      "leftToRight": {
+        "label": "Left → Right Sweep",
+        "angle": "Horizontal 270° → 90°"
+      },
+      "rightToLeft": {
+        "label": "Right → Left Sweep",
+        "angle": "Horizontal 90° → 270°"
+      },
+      "lowAngle": {
+        "label": "Low-Angle Close-Up",
+        "angle": "Slight upward tilt, zoom in"
+      }
+    }
+  },
+  "demo": {
+    "badge": "Interactive Preview",
+    "title": "Try the 3D camera control",
+    "description": "This is the same interactive preview built into the Angle Control atom on the OpenCreator canvas. Drag to orbit the virtual camera around the subject, scroll to zoom, or use the precision sliders below.",
+    "dragHint": "Drag to orbit \u00b7 Scroll to zoom",
+    "hints": {
+      "drag": "Drag anywhere on the preview to orbit the camera horizontally and vertically",
+      "scroll": "Scroll up/down to zoom in and out, adjusting the focal distance",
+      "sliders": "Use the sliders for precise numeric control over each axis"
+    },
+    "sliders": {
+      "horizontal": "Horizontal",
+      "vertical": "Vertical",
+      "zoom": "Zoom",
+      "reset": "Reset"
+    }
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Three steps from a single photo to a complete multi-angle image set",
+    "steps": {
+      "upload": {
+        "step": "01",
+        "title": "Upload your image",
+        "description": "Drop any product photo, portrait, or object into the Angle Control node on the OpenCreator canvas."
+      },
+      "adjust": {
+        "step": "02",
+        "title": "Set your camera angle",
+        "description": "Drag the 3D camera preview to orbit around your subject, or fine-tune with horizontal rotation, vertical tilt, and zoom sliders."
+      },
+      "generate": {
+        "step": "03",
+        "title": "Generate & iterate",
+        "description": "Hit generate to produce the new viewpoint. Chain multiple Angle Control nodes to create a complete multi-angle set in one workflow."
+      }
+    }
+  },
+  "features": {
+    "title": "Precise camera control",
+    "subtitle": "Every parameter you need to nail the perfect angle",
+    "items": {
+      "horizontal": {
+        "title": "360° Horizontal Rotation",
+        "description": "Rotate the virtual camera freely around your subject from 0° to 360°. Front, side, back, three-quarter — any azimuth you need."
+      },
+      "vertical": {
+        "title": "Vertical Tilt (−30° to 90°)",
+        "description": "Control elevation from slightly below eye-level up to directly overhead. Perfect for top-down flat-lays or dramatic low angles."
+      },
+      "zoom": {
+        "title": "Continuous Zoom",
+        "description": "Adjust focal distance from wide establishing shots to tight close-ups without cropping or quality loss. 10 zoom levels."
+      },
+      "preview3d": {
+        "title": "Interactive 3D Preview",
+        "description": "Drag to orbit, scroll to zoom — a real-time wireframe globe shows your camera position relative to the subject before generation."
+      },
+      "workflow": {
+        "title": "Workflow Integration",
+        "description": "Chain the Angle Control atom with Background Swap, Image Upscale, Image-to-Video, or any other atom to build end-to-end creative pipelines."
+      },
+      "batch": {
+        "title": "Batch Multi-Angle Sets",
+        "description": "Connect multiple Angle Control nodes to a single source image to produce a complete product image set — front, side, back, detail — in one run."
+      }
+    }
+  },
+  "useCases": {
+    "title": "Use cases",
+    "subtitle": "From e-commerce catalogs to creative production",
+    "items": {
+      "ecommerce": {
+        "icon": "shopping-cart",
+        "title": "E-Commerce Product Photography",
+        "description": "Generate front, side, back, and detail views for product listings without multi-angle studio shoots."
+      },
+      "fashion": {
+        "icon": "shirt",
+        "title": "Fashion & Lookbooks",
+        "description": "Show garments from every perspective — front, three-quarter, back view — without coordinating additional model shoots."
+      },
+      "marketplace": {
+        "icon": "store",
+        "title": "Marketplace Compliance",
+        "description": "Produce the exact angle variants that Amazon, Shopify, and Etsy require for product galleries."
+      },
+      "creative": {
+        "icon": "sparkles",
+        "title": "Creative & Concept Art",
+        "description": "Approximate multi-view renders for concept art, game assets, or 3D modeling reference without a 3D pipeline."
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": {
+      "q1": {
+        "question": "What types of images work best with Angle Control?",
+        "answer": "Clear, well-lit photos of single subjects work best — products on white or simple backgrounds, portraits with clean lighting, or objects with distinct shapes. Avoid extremely cluttered backgrounds or images where the subject is heavily occluded."
+      },
+      "q2": {
+        "question": "How accurate is the angle generation?",
+        "answer": "The underlying model uses a fine-tuned Qwen architecture with LoRA specifically trained for multi-angle synthesis. For most subjects, the angle accuracy is within a few degrees of the target. Complex subjects with many occluded details (like the back of a person only shown from the front) will involve some creative interpretation by the model."
+      },
+      "q3": {
+        "question": "Can I generate a full 360° product view?",
+        "answer": "Yes. Chain multiple Angle Control nodes with different horizontal angles (e.g. 0°, 45°, 90°, 135°, 180°, 225°, 270°, 315°) to produce a complete rotation set from a single input photo. You can also feed these into a video node to create a 360° product spin."
+      },
+      "q4": {
+        "question": "How many credits does each generation cost?",
+        "answer": "Angle Control is powered by Qwen Multi-Angle on OpenCreator. Each generation currently costs 36 credits. Pricing may vary with future model variants or settings. Batch workflows with multiple angles can be run in parallel to save time without extra cost per image."
+      },
+      "q5": {
+        "question": "Can I combine this with other OpenCreator atoms?",
+        "answer": "Absolutely. The Angle Control atom is designed to work within OpenCreator's node-based canvas. Connect it with Background Swap, Image Upscale, Image-to-Video, Virtual Try-On, or any other atom to build comprehensive creative workflows."
+      }
+    }
+  },
+  "relatedSolutions": {
+    "title": "Related Solutions",
+    "subtitle": "Explore more AI-powered visual workflows",
+    "ctaLabel": "View solution"
+  }
+}

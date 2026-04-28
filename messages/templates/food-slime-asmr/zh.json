@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Food Slime ASMR – 黏糊质感 ASMR 生成 | OpenCreator",
+    "description": "用 AI 生成“黏糊感”食物 Slime ASMR：高饱和配色、食物质地与近景运动，形成上瘾级满足短片。",
+    "keywords": [
+      "slime asmr 生成",
+      "解压 黏液视频",
+      "食物 slime 内容",
+      "黏糊 asmr 短片",
+      "slime 视频制作",
+      "AI slime asmr"
+    ]
+  },
+  "hero": {
+    "featureTag": "视频生成",
+    "tags": ["#ASMR", "#史莱姆", "#美食内容"],
+    "title": "食物史莱姆 ASMR",
+    "description": "用 AI 生成 food slime ASMR：把高饱和 Slime 与食物质地结合，通过近景拉伸、按压、折叠与流动形成强烈满足感。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "描述 Slime 颜色/稠度与食物美学风格",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "确定 Slime × 食物组合",
+        "description": "描述颜色与稠度，选择甜品、糖果或饮品等审美方向。"
+      },
+      {
+        "title": "选择运动与节奏",
+        "description": "拉伸、按压、折叠、挤压或倒流，支持慢/快节奏。"
+      },
+      {
+        "title": "生成 food slime ASMR",
+        "description": "AI 输出极近景画面，突出质地、混色与节奏化运动。"
+      },
+      {
+        "title": "导出用于 TikTok/Reels/Shorts",
+        "description": "循环短片提高复看率与互动。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合 ASMR 与“视觉满足”向创作者",
+    "subtitle": "从 Slime 账号到玩趣品牌，都可用 Food Slime ASMR 丰富内容。",
+    "audiences": [
+      {
+        "label": "ASMR 频道与创作者",
+        "description": "以“Slime × 食物”无限组合扩充素材库。"
+      },
+      {
+        "label": "零食与甜品品牌",
+        "description": "打造贴合品牌调性的高满足视觉。"
+      },
+      {
+        "label": "手作与创意类账号",
+        "description": "用 Slime ASMR 作为引子把观众带入主内容。"
+      },
+      {
+        "label": "社媒团队",
+        "description": "用循环短片提升平均观看时长。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Food Slime ASMR 工作流？",
+        "answer": "用于生成以黏糊质地与节奏运动为核心的 Slime × 食物 ASMR 短片。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "ASMR 创作者、零食/甜品品牌、手作账号与社媒团队，追求“上瘾级”视觉。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "描述 Slime 的颜色、稠度与食物美学取向，并指明动作与节奏。"
+      },
+      {
+        "question": "输出包含什么？",
+        "answer": "适配 TikTok、Reels 与 Shorts 的循环短片。"
+      },
+      {
+        "question": "能否更换动作风格？",
+        "answer": "可以。可尝试拉伸、按压、折叠、挤压与倒流等不同手感。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "按片段长度与复杂度消耗积分，你可在套餐内迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Food Slime ASMR – 黏糊质感 ASMR 生成",
+      "description": "用于社媒的 Slime × 食物 ASMR 循环短片。"
+    },
+    "softwareApplication": {
+      "name": "Food Slime ASMR 模板",
+      "description": "生成“黏糊满足感”序列的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Food Slime ASMR – 常见问题"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "AI POV Leaked Footage Generator | Viral-Style Teaser Videos | OpenCreator",
+    "description": "Create point-of-view \"leaked\" style videos that feel raw, behind-the-scenes, and shareable. Use AI to simulate handheld, candid footage that teases products, events, or stories for viral campaigns.",
+    "keywords": [
+      "pov video generator",
+      "leaked footage style videos",
+      "viral teaser video",
+      "handheld style ai video",
+      "behind the scenes promo",
+      "pov leaked footage videos with ai",
+      "ai generator for leaked style promos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#pov", "#viral_marketing", "#social_promo"],
+    "title": "POV Leaked Footage",
+    "description": "Create point-of-view \"leaked\" style videos that feel raw, behind-the-scenes, and shareable. Use AI to simulate handheld, candid footage that teases products, events, or stories. Perfect for viral campaigns and social-first launches.",
+    "inputPlaceholder": "Describe what is being \"leaked\" and from whose point of view",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define the POV and scenario",
+        "description": "Describe who is holding the camera—such as an employee, fan, or insider—and what they are capturing in the leaked-style clip."
+      },
+      {
+        "title": "Set tone, setting, and level of chaos",
+        "description": "Choose whether the footage feels like a subtle leak, high-energy backstage moment, or chaotic launch-day scene."
+      },
+      {
+        "title": "Generate AI POV leaked footage",
+        "description": "Use AI to create handheld-feeling sequences with slight camera shake, imperfect framing, and natural motion appropriate for leaks."
+      },
+      {
+        "title": "Export for teasers, countdowns, and viral posts",
+        "description": "Use the generated clips across TikTok, Reels, Shorts, and other social channels to build hype and anticipation."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands that lean into culture and virality",
+    "subtitle": "From drops to events, see who uses POV leaked-style videos.",
+    "audiences": [
+      {
+        "label": "Streetwear and fashion brands",
+        "description": "Tease drops and collaborations with footage that feels like it came from the community instead of the brand."
+      },
+      {
+        "label": "Music and entertainment marketers",
+        "description": "Share \"caught on camera\" moments from rehearsals, backstage, or shoots to engage fans."
+      },
+      {
+        "label": "Tech and product launch teams",
+        "description": "Build mystique around new releases with insider-feeling POV videos that hint at what is coming."
+      },
+      {
+        "label": "Agencies running social-first campaigns",
+        "description": "Prototype and test different leak concepts quickly for clients before committing to full campaigns."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the POV Leaked Footage workflow?",
+        "answer": "POV Leaked Footage is an AI workflow for creating point-of-view \"leaked\" style videos that feel raw, behind-the-scenes, and shareable. It helps you simulate handheld, candid footage for teasers and viral campaigns."
+      },
+      {
+        "question": "Who is the POV Leaked Footage template designed for?",
+        "answer": "POV Leaked Footage is useful for streetwear and fashion brands, music and entertainment marketers, tech and product launch teams, and agencies running social-first campaigns."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You describe what is being \"leaked\", from whose point of view, and the scenario—such as an employee, fan, or insider capturing a specific moment."
+      },
+      {
+        "question": "What type of output does this workflow produce?",
+        "answer": "The workflow creates handheld-feeling POV video sequences with slight camera shake, imperfect framing, and natural motion that fit leaked-style teasers."
+      },
+      {
+        "question": "Where can I use POV leaked footage videos?",
+        "answer": "You can use the clips across TikTok, Reels, Shorts, and social campaigns as teasers, countdown assets, and viral-style posts."
+      },
+      {
+        "question": "Does this workflow guarantee virality?",
+        "answer": "No workflow can guarantee virality, but this template is designed to support formats commonly used in viral marketing and social-first launches."
+      },
+      {
+        "question": "How do credits and pricing work for POV Leaked Footage?",
+        "answer": "Running AI video workflows in OpenCreator consumes credits depending on the models and clip lengths. Start with shorter tests and scale based on your campaign results."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI POV Leaked Footage Generator | Viral-Style Teaser Videos",
+      "description": "Create AI-generated POV leaked footage videos for social campaigns, teasers, and countdowns."
+    },
+    "softwareApplication": {
+      "name": "POV Leaked Footage Workflow Template",
+      "description": "AI workflow for brands and agencies to generate POV leaked-style teaser videos for social campaigns."
+    },
+    "faqPage": {
+      "name": "POV Leaked Footage – FAQ"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "360° Outfit Display – AI 360° Outfit Display Generator | OpenCreator",
+    "description": "Turn outfits into 360° views with AI so shoppers can see garments from every angle. Generate smooth spin visuals and angle sets from limited source photos for e-commerce product pages and lookbooks.",
+    "keywords": [
+      "360 product view generator",
+      "outfit 360 spin",
+      "fashion 360 viewer",
+      "clothing rotation video",
+      "ecommerce 360 display",
+      "360 outfit views with ai",
+      "ai 360 degree product display for fashion"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#360_view", "#fashion", "#ecommerce"],
+    "title": "360° Outfit Display",
+    "description": "Turn outfits into 360° views with AI so shoppers can see garments from every angle. Generate smooth spin visuals and angle sets from limited source photos—perfect for e-commerce product pages and lookbooks.",
+    "inputPlaceholder": "Upload front or multi-angle outfit photos and describe how the 360° view should feel",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload outfit reference images",
+        "description": "Provide front, side, or limited-angle photos of your clothing on a model or mannequin so the workflow understands the garment and silhouette."
+      },
+      {
+        "title": "Define rotation style and pacing",
+        "description": "Choose whether you want continuous spins, stepped angle views, or sequences that feel similar to interactive 360° viewers."
+      },
+      {
+        "title": "Generate AI 360° outfit displays",
+        "description": "Use AI to infer missing angles and produce smooth rotations that show fit, drape, and overall look from multiple perspectives."
+      },
+      {
+        "title": "Export for PDPs and product galleries",
+        "description": "Download loops or frame sets ready for product detail pages, landing pages, digital showrooms, and other commerce experiences."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For fashion brands selling fit and detail, not just flat images",
+    "subtitle": "From DTC labels to marketplaces, see who uses 360° outfits.",
+    "audiences": [
+      {
+        "label": "Online fashion retailers",
+        "description": "Reduce returns by helping shoppers understand fit, silhouette, and drape from all sides instead of relying on a single flat image."
+      },
+      {
+        "label": "DTC apparel brands",
+        "description": "Differentiate product detail pages with premium, 360° outfit visuals that feel more interactive and informative."
+      },
+      {
+        "label": "Marketplaces and multi-brand platforms",
+        "description": "Standardize high-quality 360° outfit views across multiple vendors so product presentation feels consistent."
+      },
+      {
+        "label": "Showrooms and wholesale platforms",
+        "description": "Present collections to buyers with visuals that show garments from every angle, improving decision-making."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the 360° Outfit Display workflow?",
+        "answer": "The 360° Outfit Display workflow uses AI to turn outfit reference photos into 360-degree views so shoppers can see garments from multiple angles. It helps fashion brands create spin visuals and angle sets for product pages and lookbooks."
+      },
+      {
+        "question": "Who is 360° Outfit Display designed for?",
+        "answer": "360° Outfit Display is designed for online fashion retailers, DTC apparel brands, marketplaces, and showrooms that want to show fit, silhouette, and detail more clearly than flat product shots."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You upload outfit reference images—such as front, side, or limited-angle photos on a model or mannequin—and describe how you want the 360° view to feel, including pacing and style."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates AI-powered 360° outfit displays, including smooth rotation videos or angle sequences that help shoppers understand fit, drape, and silhouette."
+      },
+      {
+        "question": "Where can I use the 360° outfit assets?",
+        "answer": "You can use the generated spins or angle sets on product detail pages, landing pages, digital showrooms, and product galleries to improve how outfits are presented."
+      },
+      {
+        "question": "Does this replace traditional 360° photography?",
+        "answer": "It is not a full replacement for all photography workflows, but it helps you get 360-style visuals from limited source photos, reducing the need for complex turntable setups in many cases."
+      },
+      {
+        "question": "How do credits and pricing work for 360° Outfit Display?",
+        "answer": "Running AI workflows in OpenCreator consumes credits based on the underlying models and generation length. You can start with shorter tests and then scale once you are confident in the results, following the credit system in the product."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "360° Outfit Display – AI 360° Outfit Display Generator",
+      "description": "Turn outfits into 360° views with AI and generate smooth spin visuals from limited reference photos for fashion e-commerce."
+    },
+    "softwareApplication": {
+      "name": "360° Outfit Display Workflow Template",
+      "description": "AI workflow for fashion brands and retailers to create 360-degree outfit views and spin visuals from outfit reference photos."
+    },
+    "faqPage": {
+      "name": "360° Outfit Display – FAQ"
+    }
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "landing": {
+    "seo": {
+      "title": "OpenCreator | Unified Gen-AI Workstation for Creators",
+      "description": "We integrate all kinds of Gen-AI creative models into an intuitive interface, allowing creators to produce high-quality content without switching models or paying for multiple subscriptions.",
+      "keywords": [
+        "AI content creation",
+        "generative AI tools",
+        "AI workstation",
+        "content creator tools",
+        "AI models integration",
+        "AI video generation",
+        "AI image generation",
+        "creative AI platform",
+        "unified AI interface",
+        "AI for creators"
+      ]
+    },
+    "hero": {
+      "titleLine1": "Create Visuals",
+      "titleLine2": "That Actually Sell",
+      "tagline": "#1 Unified Gen-AI Workstation For Content Creators",
+      "description": "We integrate all kinds of Gen-AI creative models into an intuitive interface, allowing creators to produce high-quality content without switching models or paying for multiple subscriptions.",
+      "ctaPrimary": "Start for free",
+      "ctaSecondary": "Book a demo"
+    },
+    "seeHowItWorks": {
+      "title": "See How It Works",
+      "ctaPrimary": "Start for free",
+      "ctaSecondary": "Book a demo",
+      "scenes": {
+        "scene1": "Amazon Product Photo Set",
+        "scene2": "All-Things Wearable",
+        "scene3": "Sora 2 x UGC Promo",
+        "scene4": "AI Fashion Outdoor Shorts",
+        "scene5": "Haute Adornment Studio"
+      }
+    },
+    "whyOpenCreator": {
+      "title": "Why OpenCreator?",
+      "section1": {
+        "titleHighlight": "All-in-One",
+        "titleRest": " AI Models",
+        "description": "We integrate all the latest and best AI models in one place—no more jumping between platforms or paying for multiple subscriptions.",
+        "bullets": [
+          "20+ top AI models in 1 platform",
+          "1-click comparison for the best results",
+          "$0 wasted on multiple subscriptions"
+        ],
+        "ctaPrimary": "Start for free",
+        "ctaSecondary": "Book a demo"
+      },
+      "section2": {
+        "titleHighlight": "Seriously Great ",
+        "titleRest": "Content in Minutes",
+        "description": "Powerful doesn't mean complicated. Designed for creators who want top-tier AI results—a few clicks to create magic.",
+        "bullets": [
+          "2-minute setup, no learning curve",
+          "100% creator-friendly, easy for everyone",
+          "AI-powered results, 10x faster than manual work"
+        ],
+        "ctaPrimary": "Start for free",
+        "ctaSecondary": "Book a demo"
+      }
+    },
+    "modelShowcase": {
+      "title": "OpenCreator Features"
+    },
+    "templatesCarousel": {
+      "titlePrefix": "Start With These",
+      "titleHighlight": "Templates",
+      "description": "See how we use OpenCreator to make stunning content. Customize them your way and bring your ideas to life with all the latest AI models."
+    },
+    "cta": {
+      "titleLine1": "Unleash Your",
+      "titleLine2": "Creativity",
+      "ctaPrimary": "Start for free",
+      "ctaSecondary": "Book a demo"
+    },
+    "pricing": {
+      "title": "Pricing",
+      "cta": "Try Now",
+      "creditsPerMonth": "credits / month",
+      "perCredit": "per credit",
+      "perGeneration": "per generation",
+      "perSecond": "per second",
+      "sectionTitle": "Save more with a subscription",
+      "creditsLabel": "Credits",
+      "viewFullPricing": "View full pricing →",
+      "badgeCurrent": "{discount}% OFF",
+      "badgeUpTo": "Up to {discount}% OFF",
+      "discountCurrent": "{discount}% OFF for subscribers",
+      "discountUpgrade": "{discount}% OFF with Pro plan",
+      "perThousandTokens": "/1K tokens",
+      "usageBased": "Billed by usage"
+    },
+    "footer": {
+      "brand": "OpenCreator",
+      "productTitle": "PRODUCT",
+      "links": {
+        "productWiki": "Product Wiki",
+        "pricing": "Pricing",
+        "community": "Community",
+        "affiliateProgram": "Affiliate Program"
+      },
+      "solutionsTitle": "SOLUTIONS",
+      "solutionsLinks": {
+        "ecommerceProductImages": "Ecommerce Product Images",
+        "aiFashion": "AI Fashion & Try-On",
+        "aiPortrait": "AI Portrait & Headshot",
+        "aiVideo": "AI Video",
+        "aiDesign": "AI Design"
+      },
+      "companyTitle": "COMPANY",
+      "companyLinks": {
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "cookiePolicy": "Cookie Policy"
+      },
+      "contactTitle": "CONTACT US",
+      "contactLinks": {
+        "supportEmail": "support@opencreator.io",
+        "talkToFounder": "Talk To The Founder"
+      },
+      "copyright": "© 2025 SagaLabs Inc. All Rights Reserved."
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What can I do if I run out of credits?",
+          "answer": "If you exceed your credit limit, you have a few options: upgrade to a higher-tier plan with more credits, purchase additional credits to supplement your current plan, or use your monthly free credits, which refresh automatically every month."
+        },
+        "1": {
+          "question": "What happens when I upgrade my plan?",
+          "answer": "When you upgrade, all benefits and credits from your new plan are unlocked immediately. Any unused credits from your previous plan will be prorated and automatically applied toward your next payment."
+        },
+        "2": {
+          "question": "How can I get more credits?",
+          "answer": "Additional credits can be purchased through the Buy More Credits page (available to all users on Creator or higher plans). These credits act as a backup and activate only when your plan's monthly allocation is used up."
+        },
+        "3": {
+          "question": "Can I change my subscription plan?",
+          "answer": "Yes. Both Monthly and Yearly users can update their subscription plan anytime. Yearly plans are eligible for prorated refunds based on remaining credits."
+        },
+        "4": {
+          "question": "Can unused credits roll over to next month?",
+          "answer": "No, credits reset at the start of each billing cycle. Any unused credits from the previous month won't carry over, ensuring every user begins each month with a full allocation."
+        },
+        "5": {
+          "question": "What is the refund policy?",
+          "answer": "Yearly plan subscribers are eligible for a 100% no-questions-asked refund. Please email support@opencreator.io with your account email and order details."
+        },
+        "6": {
+          "question": "Where is user data stored?",
+          "answer": "User data is securely stored in US data centers that comply with the highest standards of security and privacy. We are committed to protecting your information and ensuring that it is handled with the utmost care."
+        },
+        "7": {
+          "question": "Who should I contact if I have a question?",
+          "answer": "If you have any questions or suggestions, feel free to reach out at support@opencreator.io. To learn more about OpenCreator, visit our Discord community for comprehensive guides, fun content, FAQs, and resources to enhance your experience."
+        }
+      }
+    },
+    "navbar": {
+      "home": "Home",
+      "solutions": "Solutions",
+      "pricing": "Pricing",
+      "affiliate": "Affiliate Program",
+      "joinDiscord": "Join Discord",
+      "openClaw": "OpenClaw",
+      "bookADemo": "Book a Demo",
+      "startForFree": "Start for free",
+      "language": "Language",
+      "ariaDiscord": "Discord",
+      "ariaWeChat": "WeChat",
+      "ariaSwitchLanguage": "Switch language",
+      "solutionItems": {
+        "ecommerceProductImages": "Ecommerce Product Images",
+        "aiFashion": "AI Fashion & Try-On",
+        "aiPortrait": "AI Portrait & Headshot",
+        "aiVideo": "AI Video",
+        "aiDesign": "AI Design",
+        "viewAll": "View All Templates"
+      },
+      "solutionDescriptions": {
+        "ecommerceProductImages": "Product photos for marketplaces and DTC stores",
+        "aiFashion": "AI models, virtual try-on, and fashion campaigns",
+        "aiPortrait": "Headshots, avatars, and portrait content",
+        "aiVideo": "Text to video, image to video, and effects",
+        "aiDesign": "Image editing, 3D, and creative tools"
+      }
+    },
+    "bookDemoModal": {
+      "title": "Enterprise & Team Inquiries",
+      "description": "For teams with Large-Scale content or high-volume needs, contact us for enterprise support.",
+      "offerLabel": "We offer:",
+      "bullets": [
+        "Volume-based discounts",
+        "End-to-end content production (UGC, ads, product visuals)",
+        "Dedicated 1:1 support",
+        "Scalable content workflows",
+        "Priority access to product & engineering teams"
+      ],
+      "cta": "Book A Demo",
+      "qrAlt": "OpenCreator enterprise inquiry QR code"
+    },
+    "whoIsOpenCreator": {
+      "title": "Who is OpenCreator?",
+      "subtitle": "#1 Unified Gen-AI Interface For Content Creators",
+      "getStarted": "Get Started!",
+      "learnMore": "Learn More",
+      "openCreatorCard": {
+        "title": "OpenCreator",
+        "handle": "@opencreator.io",
+        "description": "We integrate all kinds of Gen-AI creative models into an intuitive interface allowing creators to produce high-quality content without switching models or paying for multiple subscriptions."
+      },
+      "whoIsItForCard": {
+        "title": "Who is it for?",
+        "handle": "@opencreator.io",
+        "roles": ["Indie Filmmaker", "Film Director", "Animator", "Musician", "AI Enthusiast", "…"]
+      }
+    },
+    "affiliateHero": {
+      "title": "OpenCreator Affiliate Program",
+      "subtitle": "Earn Up to <highlight>40%<\/highlight> Commission",
+      "description": "Monetize your network while sharing cutting-edge AI creation paradigms and the emergence of a new creative flow.",
+      "ctaPrimary": "Apply now"
+    },
+    "affiliateHowItWorks": {
+      "title": "How It Works",
+      "steps": {
+        "0": {
+          "number": "Step 1",
+          "title": "Apply to join the affiliate program",
+          "description": "Apply to join the affiliate program  once approved, you'll get your own confirmation and become an OpenCreator affiliate."
+        },
+        "1": {
+          "number": "Step 2",
+          "title": "Share your unique link",
+          "description": "Share your unique link in any way you like  people click to follow content, and track every click and referral in your Rewardful dashboard."
+        },
+        "2": {
+          "number": "Step 3",
+          "title": "Earn recurring commission",
+          "description": "Earn up to 40% recurring commission for each qualifying purchase."
+        }
+      },
+      "ctaPrimary": "Apply now"
+    },
+    "affiliateBranding": {
+      "title": "Branding Materials",
+      "ctaPrimary": "Download"
+    },
+    "affiliateFaq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "How do I apply?",
+          "answer": "Simply fill out the affiliate application form."
+        },
+        "1": {
+          "question": "What payment methods are supported?",
+          "answer": "We currently support PayPal."
+        },
+        "2": {
+          "question": "How much can I earn?",
+          "answer": "Your earnings depend on how many creators you refer. You'll earn 20% commission for 1-3 referrals, 30% for 4-10 referrals, and 40% once you refer 11 or more creators."
+        },
+        "3": {
+          "question": "Is there a limit on earnings?",
+          "answer": "No, there's no cap  your earning potential is unlimited."
+        },
+        "4": {
+          "question": "What is the minimum payout threshold?",
+          "answer": "The minimum payout is $30."
+        },
+        "5": {
+          "question": "How are commissions tracked?",
+          "answer": "All referrals are tracked through your unique affiliate link. You can monitor clicks, conversions, and commissions in real time via your Rewardful dashboard."
+        },
+        "6": {
+          "question": "What types of content can I use for promotion?",
+          "answer": "You can use any type of content that fits your audience: videos, blog posts, social media updates, newsletters, placements, and more. Be creative and choose the formats that engage your community best."
+        },
+        "7": {
+          "question": "Can I promote my affiliate link with paid advertising?",
+          "answer": "No. Paid advertising is not allowed for affiliate links. This includes ads on search engines, social media platforms, or similar channels. This policy helps avoid conflicts with OpenCreator's own marketing efforts. Any misuse or attempt to game the system may result in termination of your account and forfeiture of commissions."
+        },
+        "8": {
+          "question": "What extra benefits do I get after subscribing?",
+          "answer": "You'll get early access to new model integrations, exclusive features, premium templates, and special discounts."
+        },
+        "9": {
+          "question": "Can my team share one account?",
+          "answer": "We recommend each member have their own login. Team and enterprise plans include shared workspaces and member management for better security and collaboration."
+        },
+        "10": {
+          "question": "Can I promote OpenCreator on multiple platforms?",
+          "answer": "Yes! You can share your affiliate link across any platform that aligns with our affiliate terms."
+        },
+        "11": {
+          "question": "Is there support for affiliates?",
+          "answer": "Absolutely. We provide resources and dedicated support to help you succeed. Feel free to reach out to our team anytime via support@opencreator.io"
+        }
+      }
+    },
+    "workflow": {
+      "howItWorks": {
+        "title": "How this workflow turns your idea into results",
+        "step": "Step"
+      },
+      "workflowPreview": {
+        "title": "See the Workflow in Action",
+        "subtitle": "Explore the actual AI workflow that powers this template"
+      },
+      "copyThisTemplate": "Copy this template"
+    }
+  }
+}

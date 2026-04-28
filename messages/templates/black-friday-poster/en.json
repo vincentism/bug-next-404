@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "title": "Black Friday Poster – AI Sale Graphics Generator | OpenCreator",
+    "description": "Create eye-catching Black Friday sale posters instantly with AI. Generate professional promotional graphics that drive conversions during the biggest shopping event of the year.",
+    "keywords": [
+      "black friday poster maker",
+      "sale poster generator",
+      "promotional graphics ai",
+      "ecommerce design tool",
+      "discount poster creator",
+      "create black friday graphics with ai",
+      "automated sale poster maker",
+      "black friday marketing design"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#sales", "#promotional_design"],
+    "title": "Black Friday Poster",
+    "description": "Create eye-catching Black Friday sale posters instantly with AI. Generate professional promotional graphics that drive conversions during the biggest shopping event of the year. Perfect for e-commerce stores, retailers, and online sellers who need to stand out in a crowded marketplace.",
+    "inputPlaceholder": "What products are you promoting for Black Friday?",
+    "outputImageAlts": [
+      "AI-generated Black Friday sale poster example with bold typography and promotional design"
+    ],
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your sale details and products",
+        "description": "Provide discount percentages, featured products, brand colors, and key promotional messages. Include any urgency elements like limited time offers or stock constraints to drive immediate action."
+      },
+      {
+        "title": "Choose poster style and format",
+        "description": "Select from bold, minimalist, luxury, or energetic design styles optimized for your brand and audience. Pick dimensions perfect for your target channels and platforms."
+      },
+      {
+        "title": "Generate AI Black Friday posters",
+        "description": "Create multiple poster variations with compelling layouts, typography, and visual hierarchy that grab attention and drive clicks during the peak shopping season."
+      },
+      {
+        "title": "Download and deploy across channels",
+        "description": "Export in various sizes for social media, email, website banners, and digital advertising. Launch your Black Friday campaign instantly with professional-ready graphics."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for e-commerce and retail marketers",
+    "subtitle": "From online stores to retail chains, see who creates Black Friday graphics with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce store owners",
+        "description": "Quickly create professional sale graphics without hiring designers for your busiest shopping season, saving time and money while maximizing conversion impact."
+      },
+      {
+        "label": "Retail marketing teams",
+        "description": "Generate consistent promotional materials across multiple product categories and store locations with brand consistency, ensuring unified messaging."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Produce engaging Black Friday content for Instagram, Facebook, Pinterest, and other social platforms that stops the scroll and drives traffic to your store."
+      },
+      {
+        "label": "Email marketers",
+        "description": "Create compelling visual assets for Black Friday email campaigns that drive click-through rates and conversions, making your promotional emails stand out in crowded inboxes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Black Friday Poster workflow?",
+        "answer": "Black Friday Poster is an AI-powered workflow that creates eye-catching Black Friday sale posters instantly. Generate professional promotional graphics that drive conversions during the biggest shopping event of the year."
+      },
+      {
+        "question": "Who is Black Friday Poster designed for?",
+        "answer": "Black Friday Poster is essential for e-commerce and retail marketers: e-commerce store owners, retail marketing teams, social media managers, and email marketers who need professional Black Friday graphics."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your sale details and products, including discount percentages, featured products, brand colors, key promotional messages, and any urgency elements like limited time offers or stock constraints."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates multiple poster variations with compelling layouts, typography, and visual hierarchy designed to grab attention and drive clicks during the Black Friday shopping season."
+      },
+      {
+        "question": "Can I create posters in different sizes and formats?",
+        "answer": "Yes. You can select from bold, minimalist, luxury, or energetic design styles optimized for your brand and audience, with dimensions tailored for social media, email, website banners, and digital advertising."
+      },
+      {
+        "question": "How do credits and pricing work for Black Friday Poster?",
+        "answer": "Each poster generation consumes credits based on the image model and complexity. Black Friday posters are optimized for high conversion impact while keeping costs reasonable for your busiest shopping season."
+      },
+      {
+        "question": "Can I maintain brand consistency across all Black Friday materials?",
+        "answer": "Absolutely. The workflow incorporates your brand colors, fonts, and visual identity to ensure all Black Friday promotional materials maintain consistent branding across all customer touchpoints."
+      },
+      {
+        "question": "Is this suitable for last-minute Black Friday campaigns?",
+        "answer": "Yes. The workflow is designed for speed, allowing you to create professional Black Friday graphics in minutes rather than days, perfect for both planned campaigns and last-minute promotional opportunities."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Black Friday Poster – AI Sale Graphics Generator",
+      "description": "Create eye-catching Black Friday sale posters instantly with AI. Generate professional promotional graphics for the biggest shopping event."
+    },
+    "softwareApplication": {
+      "name": "Black Friday Poster AI Generator",
+      "description": "AI-powered Black Friday poster creator for generating professional sale graphics and promotional materials."
+    },
+    "faqPage": {
+      "name": "Black Friday Poster – FAQ"
+    }
+  }
+}

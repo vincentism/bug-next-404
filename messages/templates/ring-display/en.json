@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Retouched Ring Display – AI Jewelry Photography | OpenCreator",
+    "description": "Create stunning retouched ring photos and videos on white backgrounds. AI-powered jewelry photography workflow for professional ring product displays.",
+    "keywords": [
+      "ring photography",
+      "jewelry product photography",
+      "white background ring",
+      "ai jewelry photography",
+      "ring retouching",
+      "jewelry ecommerce photos",
+      "ring product video",
+      "professional ring photos",
+      "jewelry display images",
+      "jewelry close up photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#jewelry", "#ring_display", "#product_photography"],
+    "title": "Retouched Ring Display on White Background",
+    "description": "Create pristine, professionally retouched ring photos and videos on clean white backgrounds. Perfect for jewelry e-commerce, catalogs, and premium brand presentations—AI handles the retouching, lighting, and video production automatically.",
+    "inputPlaceholder": "Upload your ring product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your ring image",
+        "description": "Provide a photo of your ring—any angle or lighting condition. The AI will analyze the piece for optimal retouching and presentation."
+      },
+      {
+        "title": "AI applies professional retouching",
+        "description": "The workflow automatically retouches your ring, enhancing details, correcting lighting, and placing it on a pristine white background."
+      },
+      {
+        "title": "Generate photos and video",
+        "description": "Using Nano Banana Pro and Kling 1.6, create stunning still images and elegant video content that showcases your ring from its best angles."
+      },
+      {
+        "title": "Export for your jewelry store",
+        "description": "Download high-resolution images and videos ready for e-commerce listings, catalogs, and marketing materials that meet professional standards."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for jewelry brands and retailers",
+    "subtitle": "From independent jewelers to major retailers, see who creates ring photos with AI.",
+    "audiences": [
+      {
+        "label": "Jewelry designers",
+        "description": "Showcase your ring designs with professional-quality photos that highlight craftsmanship and detail without expensive photography."
+      },
+      {
+        "label": "E-commerce jewelers",
+        "description": "Create consistent, high-quality product listings that build customer trust and reduce return rates with accurate representation."
+      },
+      {
+        "label": "Jewelry retailers",
+        "description": "Maintain visual consistency across your ring catalog with professional white background images that meet marketplace standards."
+      },
+      {
+        "label": "Wedding ring sellers",
+        "description": "Present engagement and wedding rings with the pristine, romantic quality that customers expect for such meaningful purchases."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Retouched Ring Display?",
+        "answer": "This AI workflow creates professionally retouched ring photos and videos on clean white backgrounds. It handles all retouching, lighting correction, and video production automatically."
+      },
+      {
+        "question": "What types of rings work best?",
+        "answer": "All ring types work well: engagement rings, wedding bands, fashion rings, gemstone rings, signet rings, and statement pieces. The AI adapts to each ring's unique features."
+      },
+      {
+        "question": "Can I create both photos and videos?",
+        "answer": "Yes. The workflow uses Nano Banana Pro for pristine still images and Kling 1.6 for elegant video content that showcases your ring with professional motion."
+      },
+      {
+        "question": "What retouching is applied?",
+        "answer": "The AI enhances metal shine, improves gemstone brilliance, corrects color accuracy, removes imperfections, and optimizes lighting for professional jewelry presentation."
+      },
+      {
+        "question": "Are the results suitable for e-commerce?",
+        "answer": "Absolutely. The white background images meet professional standards for all major jewelry marketplaces and e-commerce platforms."
+      },
+      {
+        "question": "How do credits work for this workflow?",
+        "answer": "Image and video generation consume credits based on complexity. The workflow is optimized for jewelry sellers needing consistent, high-quality results."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Retouched Ring Display – AI Jewelry Photography",
+      "description": "Create professionally retouched ring photos and videos on white backgrounds with AI."
+    },
+    "softwareApplication": {
+      "name": "Ring Display AI Generator",
+      "description": "AI-powered tool for creating professional retouched ring photos and videos for jewelry e-commerce."
+    },
+    "faqPage": {
+      "name": "Retouched Ring Display – FAQ"
+    }
+  }
+}

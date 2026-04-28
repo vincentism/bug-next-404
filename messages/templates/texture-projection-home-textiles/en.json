@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Texture Projection (Home Textiles) – Fabric Projection Image Generator | OpenCreator",
+    "description": "Project textile textures onto home scenes with AI. Product mockup generator and website mockup generator for visualizing fabrics on bedding, curtains, cushions, and more.",
+    "keywords": [
+      "product mockup generator",
+      "website mockup generator",
+      "product image mockup ai",
+      "diy product photography",
+      "lifestyle product photography",
+      "texture projection home textiles",
+      "fabric projection mockup",
+      "home textile visualization",
+      "bedding fabric mockup",
+      "ai home textile image"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#home_textiles", "#ecommerce", "#banana_pro"],
+    "title": "Texture Projection (Home Textiles)",
+    "description": "Project fabric textures onto realistic home scenes with AI. Instantly show how patterns and materials look on bedding, curtains, cushions, and other soft furnishings—without manually compositing every image.",
+    "inputPlaceholder": "Upload or describe your fabric and desired home scene",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide your textile or pattern",
+        "description": "Upload a fabric swatch, pattern image, or describe the textile (color, weave, motif) you want to visualize in a home setting."
+      },
+      {
+        "title": "Describe the target home environment",
+        "description": "Specify where the textile should appear—on bedding, curtains, cushions, sofas, etc.—and the style of the room (minimal, cozy, modern, etc.)."
+      },
+      {
+        "title": "Generate AI texture projection scenes",
+        "description": "The workflow projects your fabric onto the selected home surfaces, creating believable visuals that show how the textile works in context."
+      },
+      {
+        "title": "Review, adjust, and export",
+        "description": "Choose the scenes that best match your product and brand, iterate if needed, then export for use on PDPs, catalogs, and campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For home textile and decor brands",
+    "subtitle": "Ideal for showing fabrics in room contexts without constant reshoots.",
+    "audiences": [
+      {
+        "label": "Bedding and linen brands",
+        "description": "Show how patterns and textures look on made beds and styled scenes across different room moods."
+      },
+      {
+        "label": "Curtain and drapery brands",
+        "description": "Visualize fabrics hanging in real windows with lighting and context that match your audience."
+      },
+      {
+        "label": "Home decor and cushion brands",
+        "description": "Place cushions and textiles into sofas and living spaces that communicate comfort and style."
+      },
+      {
+        "label": "Agencies and visualization teams",
+        "description": "Use the workflow to prototype room and fabric combinations before committing to high-cost renders or photos."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Texture Projection (Home Textiles) workflow?",
+        "answer": "Texture Projection (Home Textiles) is an AI workflow that projects fabric textures onto home environments, helping you show how textiles look on products like bedding, curtains, and cushions."
+      },
+      {
+        "question": "What inputs work best?",
+        "answer": "High-quality fabric or pattern images plus clear descriptions of the target surfaces and room style produce the most accurate and on-brand results."
+      },
+      {
+        "question": "Can I match my brand’s interior style?",
+        "answer": "Yes. You can describe interior aesthetics—minimal, Scandinavian, luxury, boho, etc.—so the projected scenes reflect your brand world."
+      },
+      {
+        "question": "Where can I use the generated visuals?",
+        "answer": "Use them on PDPs, collection pages, lookbooks, sales decks, and social posts to help customers imagine textiles in real spaces."
+      },
+      {
+        "question": "Does this replace 3D or full room photography?",
+        "answer": "It’s a fast alternative or complement, especially for exploring many fabric-room combinations without building full 3D scenes or sets."
+      },
+      {
+        "question": "How is pricing handled?",
+        "answer": "Each projection run consumes credits based on underlying image generation. It’s structured to make exploring multiple fabric and room pairings feasible."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Texture Projection (Home Textiles) – Fabric Projection Image Generator",
+      "description": "Project home textile fabrics into room scenes using OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Texture Projection (Home Textiles) AI Workflow",
+      "description": "AI-powered workflow for visualizing fabrics on home textile products and interiors."
+    },
+    "faqPage": {
+      "name": "Texture Projection (Home Textiles) – FAQ"
+    }
+  }
+}

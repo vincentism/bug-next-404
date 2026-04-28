@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Headwear Styling – AI Hat Model Photography | OpenCreator",
+    "description": "Create professional headwear styling photos with AI. Generate model images wearing hats, caps, and headwear from multiple angles using Nano Banana Pro—perfect for hat brands and fashion e-commerce.",
+    "keywords": [
+      "headwear styling",
+      "ai hat photography",
+      "model wearing hat",
+      "cap product photos",
+      "headwear model photography",
+      "ai hat try on",
+      "hat ecommerce photos",
+      "fashion headwear display",
+      "virtual hat fitting",
+      "ai model hat generator",
+      "hat brand photography",
+      "cap styling photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#headwear", "#ecommerce", "#fashion"],
+    "title": "Headwear Styling",
+    "description": "Create professional headwear styling photos with AI. Upload your model photo, clothing, and hat—Nano Banana Pro combines them into multiple professional poses showcasing your headwear from different angles. Perfect for hat brands and fashion retailers who need high-quality model photography.",
+    "inputPlaceholder": "Upload model and headwear images",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload model, clothing, and hat images",
+        "description": "Provide a base model photo, the outfit you want them wearing, and the hat or headwear product. The AI will combine them naturally while maintaining consistency."
+      },
+      {
+        "title": "Generate dressed model with outfit",
+        "description": "Nano Banana Pro first creates the model wearing your specified clothing, ensuring a natural fit and proper proportions before adding the headwear."
+      },
+      {
+        "title": "AI creates pose variations",
+        "description": "Gemini 3 Pro generates 4 professional pose descriptions optimized for showcasing headwear—including front view, side profile, and close-up angles."
+      },
+      {
+        "title": "Generate multi-angle headwear photos",
+        "description": "The workflow produces 4 high-quality images with the model wearing your hat from different angles, perfectly styled and naturally positioned for maximum visual appeal."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for headwear brands and fashion retailers",
+    "subtitle": "From hat designers to fashion e-commerce stores, see who creates headwear photos with AI.",
+    "audiences": [
+      {
+        "label": "Hat and cap brands",
+        "description": "Create professional model photography showcasing your headwear designs without expensive photoshoots, with consistent styling across your entire collection."
+      },
+      {
+        "label": "Fashion e-commerce stores",
+        "description": "Generate high-quality product images showing how hats and caps look when worn, helping customers visualize the fit and style before purchasing."
+      },
+      {
+        "label": "Streetwear brands",
+        "description": "Produce trendy, on-brand imagery featuring your caps and beanies on diverse model representations for social media and online stores."
+      },
+      {
+        "label": "Sports merchandise retailers",
+        "description": "Create professional product photos for team caps, visors, and athletic headwear with models in appropriate styling and poses."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Headwear Styling workflow?",
+        "answer": "This AI-powered workflow creates professional model photography showcasing hats and headwear. It combines your model photo with clothing and hat images to generate 4 different poses from various angles, optimized for headwear display."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for image generation and realistic model-hat combinations, and Gemini 3 Pro to generate professional pose descriptions specifically designed for headwear showcase photography."
+      },
+      {
+        "question": "What images do I need to provide?",
+        "answer": "You need three images: a base model photo, an outfit/clothing image, and a hat or headwear product image. The AI combines them naturally while maintaining proper proportions."
+      },
+      {
+        "question": "How many photos does the workflow generate?",
+        "answer": "The workflow generates 4 different model poses showcasing your headwear from various angles—including front view, side profiles, and close-ups that highlight the hat's design details."
+      },
+      {
+        "question": "Will the hat look naturally positioned on the model?",
+        "answer": "Yes. Nano Banana Pro specializes in realistic product placement. The hat will be properly sized, angled naturally (like tilted styling), and positioned correctly on the model's head."
+      },
+      {
+        "question": "Can I showcase different hat styles?",
+        "answer": "Absolutely. The workflow works with any headwear type—baseball caps, beanies, fedoras, bucket hats, visors, and more. Just provide your product image and the AI adapts accordingly."
+      },
+      {
+        "question": "Can I use different models for brand diversity?",
+        "answer": "Yes. You can run the workflow with different base model images to create diverse representation for your brand or match your target customer demographics."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Credits are consumed based on the AI models used. The workflow leverages Nano Banana Pro (50% discount) for image generation, making it cost-effective for headwear brands."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Headwear Styling – AI Hat Model Photography",
+      "description": "Create professional headwear styling photos with AI-generated model photography showcasing hats and caps."
+    },
+    "softwareApplication": {
+      "name": "Headwear Styling AI Generator",
+      "description": "AI-powered hat photography tool for generating professional model photos showcasing headwear from multiple angles."
+    },
+    "faqPage": {
+      "name": "Headwear Styling – FAQ"
+    }
+  }
+}

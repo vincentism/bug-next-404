@@ -1,0 +1,212 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling O1 AI 视频生成器 | 统一多模态 | OpenCreator",
+      "description": "使用快手的 Kling O1 创建惊艳视频。全球首个统一多模态视频模型，支持 3-10 秒时长、多主体整合、视频编辑、风格重渲染，以及类导演记忆功能保持角色一致性。"
+    },
+    "hero": {
+      "modelName": "Kling O1",
+      "tagline": "全球首个统一多模态视频模型",
+      "description": "Kling O1 是快手推出的开创性统一多模态创作工具。基于多模态视觉语言（MVL）框架，它将文本、视频、图像和主体输入整合到单一引擎中。从参考图生成到视频编辑和风格重渲染——一切尽在无缝工作流中。",
+      "badge": "新品",
+      "ctaText": "立即体验 Kling O1",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "unified": "统一多模态",
+        "duration": "3-10 秒时长",
+        "multiSubject": "多主体整合",
+        "videoEditing": "视频编辑",
+        "styleRendering": "风格重渲染"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Kling O1 成为业界首个统一多模态视频模型的原因",
+      "items": {
+        "unified": {
+          "title": "统一多模态引擎",
+          "description": "将参考图生成、文生视频、首尾帧生成、视频修复、风格重渲染和镜头延展融合为一个多功能引擎。"
+        },
+        "directorMemory": {
+          "title": "类导演记忆",
+          "description": "在动态镜头运动中保持主角、道具和场景的身份稳定。解决了 AI 视频的一致性难题。"
+        },
+        "multiSubject": {
+          "title": "多主体整合",
+          "description": "混合搭配多个主体或与参考图融合。在复杂群组场景中独立追踪每个角色和道具。"
+        },
+        "skillCombos": {
+          "title": "技能组合",
+          "description": "单次生成即可执行复合创意变化——在修改背景的同时插入主体，或在改变艺术风格的同时从参考图生成。"
+        },
+        "semanticEditing": {
+          "title": "语义视频编辑",
+          "description": "只需输入'移除路人'或'将白天转换为黄昏'等提示词——Kling O1 自动执行像素级语义重建。"
+        },
+        "flexibleDuration": {
+          "title": "灵活时长控制",
+          "description": "支持 3 到 10 秒的生成时长。无论是打造简短的视觉冲击还是持续的叙事弧线，节奏完全由用户定义。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "效果展示",
+      "subtitle": "OpenCreator 的代表性案例与应用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "filmProduction": {
+          "title": "影视制作",
+          "description": "专业制作",
+          "useCase": "利用类导演记忆在多个镜头中创建一致的角色叙事，实现无缝讲故事。"
+        },
+        "socialMedia": {
+          "title": "社交媒体内容",
+          "description": "爆款内容创作",
+          "useCase": "通过多主体整合和风格变化生成吸引眼球的短视频，最大化影响力。"
+        },
+        "advertising": {
+          "title": "广告创意",
+          "description": "品牌营销",
+          "useCase": "制作在所有创意变体中保持角色和道具一致的连贯广告系列。"
+        },
+        "ecommerce": {
+          "title": "电商视频",
+          "description": "产品展示",
+          "useCase": "将产品图片转化为动态视频，支持背景修改和风格重渲染。"
+        },
+        "styleTransfer": {
+          "title": "风格重渲染",
+          "description": "创意特效",
+          "useCase": "在保持主体一致性的同时，对现有视频应用艺术风格转换。"
+        },
+        "videoEditing": {
+          "title": "AI 视频编辑",
+          "description": "语义编辑",
+          "useCase": "用自然语言编辑视频——移除物体、改变光线、更换服装，无需手动蒙版。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Kling O1 功能的全面介绍",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputTypes": "输入类型",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "生成能力",
+          "referenceVideo": "参考图视频生成",
+          "textToVideo": "文生视频",
+          "imageToVideo": "图生视频",
+          "startEndFrame": "首尾帧生成"
+        },
+        "editing": {
+          "title": "编辑功能",
+          "videoInpainting": "视频修复",
+          "styleRerendering": "风格重渲染",
+          "shotExtension": "镜头延展",
+          "semanticEditing": "语义编辑"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "multiSubject": "多主体整合",
+          "directorMemory": "类导演记忆",
+          "skillCombos": "技能组合",
+          "mvlFramework": "MVL 框架"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Kling O1 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "unifiedModel": "统一多模态",
+        "textToVideo": "文生视频",
+        "imageToVideo": "图生视频",
+        "videoEditing": "视频编辑",
+        "maxDuration": "最大时长",
+        "multiSubject": "多主体"
+      }
+    },
+    "pricing": {
+      "title": "定价",
+      "subtitle": "按次消耗积分，订阅更省",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户优惠",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "每次生成会消耗积分，具体消耗与参数有关，以实际结算为准。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "全球首个统一多模态视频模型",
+      "planSectionTitle": "订阅享更多优惠",
+      "planCreditsPerMonthLabel": "点数 / 月",
+      "planPerCreditLabel": "每点数",
+      "planPerGenerationLabel": "每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Kling O1 是什么？由谁开发？",
+          "answer": "Kling O1 是快手科技（Kling AI）开发的全球首个统一多模态视频模型。于 2025 年 12 月 1 日发布，它将文本、视频、图像和主体输入整合到基于多模态视觉语言（MVL）框架的单一综合引擎中。"
+        },
+        "1": {
+          "question": "Kling O1 与其他视频模型有何不同？",
+          "answer": "Kling O1 的独特之处在于将所有视频生成和编辑任务统一到一个模型中。它结合了参考图生成、文生视频、视频修复、风格重渲染和镜头延展——无需在不同工具之间切换。它还具备「类导演记忆」功能以保持角色一致。"
+        },
+        "2": {
+          "question": "Kling O1 视频可以多长？",
+          "answer": "Kling O1 支持 3 到 10 秒的视频生成。这种灵活的时长控制让你能够创建从简短的视觉冲击到持续的叙事弧线的各种内容，节奏完全由用户定义。"
+        },
+        "3": {
+          "question": "什么是「类导演记忆」功能？",
+          "answer": "类导演记忆意味着 Kling O1 在整个生成过程中保持主角、道具和场景的身份。即使有动态镜头运动，它也能确保特征稳定，解决了 AI 视频生成中常见的「一致性挑战」。"
+        },
+        "4": {
+          "question": "Kling O1 可以编辑现有视频吗？",
+          "answer": "可以！Kling O1 擅长语义视频编辑。你可以输入自然语言提示，如「移除路人」、「将白天转换为黄昏」或「更换主角服装」——模型会自动执行像素级重建，无需手动蒙版或关键帧。"
+        },
+        "5": {
+          "question": "Kling O1 已经在 OpenCreator 上线了吗？",
+          "answer": "是的，Kling O1 已在 OpenCreator 上线。你可以在模板页面或画布中选择 Kling O1 开始生成/编辑视频；定价与消耗规则可在本页查看。"
+        },
+        "6": {
+          "question": "我可以免费试用 Kling O1 吗？",
+          "answer": "可以。新用户注册即可获得免费积分，用于试用 Kling O1 的统一多模态功能。"
+        },
+        "7": {
+          "question": "Kling O1 的定价是多少？",
+          "answer": "Kling O1 按次消耗积分，具体消耗与参数有关。订阅用户可享受更多优惠，详情可在本页定价区域查看。"
+        },
+        "8": {
+          "question": "Kling O1 支持哪些视频分辨率？",
+          "answer": "Kling O1 以 1080p 高清分辨率、每秒 24 帧生成视频。支持常见比例，包括 16:9 横屏和 9:16 竖屏内容。"
+        },
+        "9": {
+          "question": "Kling O1 和 Kling 2.5 Turbo 怎么选？",
+          "answer": "Kling O1 是统一多模态模型，将生成和编辑结合在一个引擎中；Kling 2.5 Turbo 专注于高质量视频生成。O1 擅长语义编辑和多主体整合；2.5 Turbo 擅长运动质量和性价比。"
+        },
+        "10": {
+          "question": "什么是 MVL（多模态视觉语言）框架？",
+          "answer": "MVL 是快手的专有框架，为 Kling O1 提供支持。它使模型能够以统一的方式理解和处理文本、视频、图像和主体输入，实现生成和编辑任务的无缝切换。"
+        },
+        "11": {
+          "question": "Kling O1 可以处理多个角色吗？",
+          "answer": "可以！Kling O1 的多主体整合功能可以在复杂的群体场景中独立跟踪每个角色和道具。结合类导演记忆功能，可以在整个视频中保持所有主体的一致性。"
+        },
+        "12": {
+          "question": "Kling O1 的风格重渲染是什么？",
+          "answer": "风格重渲染允许你在保持主体一致性的同时对现有视频应用艺术风格变换。你可以改变视觉风格（如动漫、油画）而不会失去角色身份。"
+        }
+      }
+    }
+  }
+}

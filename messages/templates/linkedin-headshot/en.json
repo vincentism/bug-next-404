@@ -1,0 +1,113 @@
+{
+  "seo": {
+    "title": "LinkedIn Headshot – AI Professional Profile Photo Generator | OpenCreator",
+    "description": "Create polished, professional LinkedIn headshots with AI. Professional product photography AI for transforming casual photos into clean, well-lit portraits for profiles and personal branding.",
+    "keywords": [
+      "professional product photography ai",
+      "ai product photo editor",
+      "ecommerce photo editing services",
+      "product photo retouching services",
+      "linkedin headshot generator",
+      "professional headshot ai",
+      "linkedin photo maker",
+      "cv headshot creator",
+      "ai profile picture",
+      "create a linkedin headshot with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ai_headshot_generator", "#linkedin_photo", "#professional_headshot"],
+    "title": "LinkedIn Headshot",
+    "description": "Professional AI headshot generator for LinkedIn. Create perfect AI LinkedIn photos from any selfie. Transform casual photos into polished, business-ready headshots with AI. Perfect for LinkedIn profiles, resumes, corporate photos, and professional branding.",
+    "inputPlaceholder": "Upload your photo to generate professional AI headshots",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload a clear portrait or selfie",
+        "description": "Use a front-facing photo with your face clearly visible, even if the background or lighting isn't ideal."
+      },
+      {
+        "title": "Choose attire, background, and style",
+        "description": "Select business formal, smart casual, or startup-friendly looks, plus neutral or office-style backgrounds that fit your personal brand."
+      },
+      {
+        "title": "Generate AI-enhanced LinkedIn headshots",
+        "description": "Run the workflow to adjust lighting, framing, and background while keeping your identity and likeness accurate."
+      },
+      {
+        "title": "Export for LinkedIn, CVs, and personal branding",
+        "description": "Download multiple headshot versions optimized for social avatars, resumes, websites, and speaking profiles."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For professionals investing in first impressions",
+    "subtitle": "From job seekers to founders, see who upgrades their headshots with AI.",
+    "audiences": [
+      {
+        "label": "Job seekers and career switchers",
+        "description": "Present a polished, trustworthy presence to recruiters and hiring managers on LinkedIn and CVs."
+      },
+      {
+        "label": "Founders and executives",
+        "description": "Align your personal brand with your company's image across LinkedIn, websites, and press."
+      },
+      {
+        "label": "Freelancers and consultants",
+        "description": "Stand out on LinkedIn, personal sites, and proposal decks with consistent, professional portraits."
+      },
+      {
+        "label": "HR and employer branding teams",
+        "description": "Offer consistent, high-quality headshots for team pages, internal directories, and talent branding."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the LinkedIn Headshot AI workflow?",
+        "answer": "LinkedIn Headshot is an AI workflow that transforms casual or imperfect photos into polished, professional-looking portraits for LinkedIn, resumes, personal websites, and corporate profiles."
+      },
+      {
+        "question": "What kind of photo should I upload?",
+        "answer": "Upload a clear photo where your face is fully visible, ideally front-facing with neutral or simple background. Even if the lighting or backdrop isn't ideal, the workflow can improve it."
+      },
+      {
+        "question": "Can I choose different styles or outfits for my headshot?",
+        "answer": "Yes. Specify attire (business formal, smart casual, startup-friendly) and background style (neutral, office, studio) so the AI tailors the headshot to your professional context."
+      },
+      {
+        "question": "Is this suitable for official or corporate use?",
+        "answer": "Many users generate headshots for LinkedIn, company directories, speaker bios, and resumes. Always ensure the final result accurately represents you and complies with your organization's guidelines."
+      },
+      {
+        "question": "How accurate is the likeness in AI-generated headshots?",
+        "answer": "The workflow aims to keep your identity recognizable while enhancing lighting, background, and polish. Review each result and choose the one that feels most authentic and appropriate."
+      },
+      {
+        "question": "Can I generate multiple headshot options from one upload?",
+        "answer": "Yes. Run several variations with different attire, crops, and backgrounds, then pick the ones that best match different platforms or uses."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Each headshot batch consumes credits based on the underlying image models and settings. Testing a few lower-intensity variations first is a good way to explore looks while managing credit usage."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "LinkedIn Headshot – AI Professional Profile Photo Generator",
+      "description": "Generate professional LinkedIn profile photos from your existing pictures using AI."
+    },
+    "softwareApplication": {
+      "name": "LinkedIn Headshot AI Workflow Template",
+      "description": "AI-powered workflow that enhances and standardizes professional headshots for LinkedIn and beyond."
+    },
+    "faqPage": {
+      "name": "LinkedIn Headshot – FAQ"
+    }
+  }
+}

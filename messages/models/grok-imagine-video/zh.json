@@ -1,0 +1,188 @@
+{
+  "model": {
+    "meta": {
+      "title": "Grok Imagine Video | AI 视频生成器 原生音频 | OpenCreator",
+      "description": "在 OpenCreator 使用 xAI 的 Grok Imagine Video 生成带音频的视频。支持文生视频与图生视频，最长 15 秒，多种宽高比与分辨率，并支持按秒计费。"
+    },
+    "hero": {
+      "modelName": "Grok Imagine Video",
+      "tagline": "带音频的视频生成，文生/图生",
+      "description": "xAI 的视频生成模型，可生成带音频的 MP4 视频。支持文生视频与图生视频，可选 1-15 秒时长、宽高比与分辨率，并提供灵活的按秒计费。",
+      "badge": "新模型",
+      "ctaText": "免费试用 Grok Imagine Video",
+      "secondaryCtaText": "查看价格",
+      "capabilities": {
+        "nativeAudio": "带音频输出",
+        "lipSync": "文生/图生",
+        "upTo15s": "最长15秒",
+        "payPerSecond": "按秒付费"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Grok Imagine Video 强大的视频生成能力",
+      "items": {
+        "nativeAudio": {
+          "title": "带音频的视频输出",
+          "description": "生成可能包含音频轨道的 MP4 视频，适合电影感短片与社媒内容。"
+        },
+        "lipSync": {
+          "title": "文生视频 / 图生视频",
+          "description": "可直接用文本生成视频，也可输入图片并用提示词让画面动起来。"
+        },
+        "duration": {
+          "title": "最长 15 秒",
+          "description": "支持 1-15 秒时长选择，覆盖短片段叙事、广告与社媒视频需求。"
+        },
+        "flexiblePricing": {
+          "title": "按秒计费",
+          "description": "灵活定价，每秒 60 积分。按需付费，支持 1 到 15 秒任意时长。"
+        },
+        "fast": {
+          "title": "分辨率可选",
+          "description": "支持 480p / 720p 分辨率，便于在清晰度、速度与成本之间做权衡。"
+        },
+        "aspectRatios": {
+          "title": "多格式支持",
+          "description": "支持 8 种宽高比，包括 16:9、9:16、1:1 等。完美适配 YouTube、TikTok、Instagram。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "效果展示",
+      "subtitle": "在 OpenCreator 上使用 Grok Imagine Video 创作的真实案例",
+      "tryWorkflow": "尝试此工作流 →",
+      "items": {
+        "lipSync": {
+          "title": "人物说话",
+          "description": "唇形同步演示",
+          "useCase": "创建嘴型完美同步的真实人物说话视频，适合演示和内容创作。"
+        },
+        "product": {
+          "title": "产品展示",
+          "description": "电商视频",
+          "useCase": "生成动态镜头和氛围音效的吸引人产品视频，用于营销推广。"
+        },
+        "playful": {
+          "title": "趣味场景",
+          "description": "创意内容",
+          "useCase": "创作有趣且吸引人的短视频内容，适合社交媒体和娱乐平台。"
+        },
+        "lion": {
+          "title": "狮子咆哮",
+          "description": "音效同步演示",
+          "useCase": "体验原生音频合成，雄狮的咆哮与动作完美同步。"
+        },
+        "ocean": {
+          "title": "海浪拍岸",
+          "description": "环境音效",
+          "useCase": "创作带同步环境音效的宁静自然场景，适合放松类内容。"
+        },
+        "tokyo": {
+          "title": "东京夜景",
+          "description": "电影级场景",
+          "useCase": "生成带氛围音效的电影级都市场景，适合叙事和音乐视频。"
+        },
+        "barista": {
+          "title": "咖啡拉花",
+          "description": "生活方式内容",
+          "useCase": "创作带环境音效的温馨生活视频，适合社交媒体和品牌内容。"
+        },
+        "butterfly": {
+          "title": "自然微距",
+          "description": "野生动物视频",
+          "useCase": "生成带柔和环境音的精美自然微距镜头，适合平静类内容。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Grok Imagine Video 的全部能力",
+      "categories": {
+        "video": {
+          "title": "视频规格",
+          "duration": "时长",
+          "resolution": "分辨率",
+          "frameRate": "帧率",
+          "aspectRatios": "宽高比"
+        },
+        "audio": {
+          "title": "音频能力",
+          "nativeAudio": "原生音频",
+          "lipSync": "唇形同步",
+          "soundEffects": "音效生成"
+        },
+        "input": {
+          "title": "输入支持",
+          "textToVideo": "文生视频",
+          "imageToVideo": "图生视频"
+        },
+        "pricing": {
+          "title": "定价",
+          "costPerSecond": "每秒费用",
+          "minimumDuration": "最短时长",
+          "maximumDuration": "最长时长"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "查看 Grok Imagine Video 与其他视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "nativeAudio": "原生音频",
+        "lipSync": "唇形同步",
+        "maxDuration": "最长时长",
+        "resolution": "分辨率",
+        "cost": "成本效益",
+        "quality": "视觉质量"
+      }
+    },
+    "pricing": {
+      "title": "灵活定价",
+      "subtitle": "",
+      "description": "按秒付费，原生音频",
+      "perGeneration": "每6秒视频",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划",
+      "note": "积分按时长计算：每秒 60 积分。6 秒视频 360 积分，15 秒视频 900 积分。",
+      "viewFullPricing": "查看完整价格 →",
+      "planSectionTitle": "订阅享受更多优惠",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerGenerationLabel": "每6秒视频"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Grok Imagine Video？由谁开发？",
+          "answer": "Grok Imagine Video 是 xAI 的视频生成模型，支持从文本或图片生成带音频的视频。"
+        },
+        "1": {
+          "question": "Grok Imagine Video 与其他视频模型有什么不同？",
+          "answer": "它同时支持文生视频与图生视频，可控时长（最长 15 秒）、宽高比与分辨率，并提供按秒计费，适合快速试错与精细控制成本。"
+        },
+        "2": {
+          "question": "支持哪些视频时长？",
+          "answer": "Grok Imagine Video 支持 1 到 15 秒的视频时长。可选择此范围内的任意时长，按每秒 60 积分计费。"
+        },
+        "3": {
+          "question": "支持哪些分辨率和宽高比？",
+          "answer": "模型支持 480p 和 720p 分辨率，以及 8 种宽高比：auto、16:9、4:3、3:2、1:1、2:3、3:4 和 9:16。默认 720p，自动宽高比。"
+        },
+        "4": {
+          "question": "如何计费？",
+          "answer": "Grok Imagine Video 按秒计费，每秒 60 积分。1 秒视频 60 积分，6 秒视频 360 积分，15 秒视频 900 积分。"
+        },
+        "5": {
+          "question": "可以使用自己的图片作为输入吗？",
+          "answer": "可以，Grok Imagine Video 支持文生视频和图生视频两种模式。使用图生视频时，提供图片 URL 和描述即可将图片动画化为视频。"
+        }
+      }
+    }
+  }
+}

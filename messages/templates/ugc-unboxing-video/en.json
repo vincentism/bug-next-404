@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "UGC Unboxing Video Generator | AI Product Review Style Content",
+    "description": "Generate UGC-style unboxing videos with AI to showcase packaging, first impressions, and key product benefits for social commerce and ads.",
+    "keywords": [
+      "ugc unboxing video",
+      "ugc video ads",
+      "ai unboxing video generator",
+      "product review style video",
+      "ecommerce social proof video",
+      "creator style product demo",
+      "tiktok unboxing video ads",
+      "short form ugc content"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#sora_2", "#social_promo", "#ugc_unboxing"],
+    "title": "UGC Unboxing Video",
+    "description": "Turn product packaging and first-use moments into authentic unboxing content. This workflow creates creator-style UGC videos you can deploy across TikTok, Reels, and ecommerce campaigns.",
+    "inputPlaceholder": "Describe your product and unboxing scenario",
+    "ctaText": "Create Unboxing Video"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your product and target audience",
+        "description": "Input basic details about your product, packaging, main selling points, and who this unboxing video is for."
+      },
+      {
+        "title": "Define the unboxing scenario",
+        "description": "Describe the setting, mood, and style of the unboxing: desk setup, creator personality, camera perspective, and platform format."
+      },
+      {
+        "title": "Generate UGC-style unboxing video",
+        "description": "Sora 2 creates an authentic unboxing-style video that highlights packaging, first impressions, and product details in a natural storytelling flow."
+      },
+      {
+        "title": "Preview and reuse across campaigns",
+        "description": "Download and reuse the generated unboxing video across multiple campaigns, landing pages, and social media posts."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for product launches and review-style content",
+    "subtitle": "From DTC brands to marketplaces, use AI unboxing videos to show real product experience before purchase.",
+    "audiences": [
+      {
+        "label": "E-commerce brands",
+        "description": "Showcase packaging and first-use experience to increase trust and conversion on product pages and ads."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Quickly produce unboxing-style assets for launch campaigns, sales events, and A/B tests without coordinating real shoots."
+      },
+      {
+        "label": "Content creators",
+        "description": "Prototype unboxing concepts and storyboards before committing to full production or sponsorship deals."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Scale unboxing-style deliverables for multiple clients while keeping a consistent quality bar and style control."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the UGC Unboxing Video workflow?",
+        "answer": "UGC Unboxing Video is an AI workflow that helps you create authentic unboxing-style product videos. It focuses on packaging, first impressions, and key product details so you can quickly generate social-ready content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide a short description of your product, packaging, target audience, and the unboxing scenario you want to present. The workflow uses this information to guide the generated video."
+      },
+      {
+        "question": "Who should use this workflow?",
+        "answer": "This workflow is ideal for e-commerce brands, marketing teams, agencies, and creators who need realistic unboxing-style videos for product launches, ads, and social media."
+      },
+      {
+        "question": "What type of output can I expect?",
+        "answer": "You get an AI-generated unboxing-style video that feels like UGC content: natural camera moves, focus on packaging, and clear view of product features for viewers."
+      },
+      {
+        "question": "Can I use the generated videos in paid ads and campaigns?",
+        "answer": "Yes. Subject to OpenCreator’s terms of use and underlying model policies, you can use generated unboxing videos in marketing campaigns, landing pages, and social channels."
+      },
+      {
+        "question": "How is this different from other UGC promo workflows?",
+        "answer": "While other workflows focus on generic promotional shots, UGC Unboxing Video is optimized specifically for first-open experience: packaging reveal, product removal, and initial hands-on moments."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "UGC Unboxing Video – AI Product Unboxing Workflow",
+      "description": "Create authentic AI-powered UGC unboxing videos that showcase packaging, first impressions, and key product details for your brand."
+    },
+    "softwareApplication": {
+      "name": "UGC Unboxing Video AI Workflow",
+      "description": "An AI workflow inside OpenCreator for generating realistic UGC-style unboxing videos for e-commerce and product marketing."
+    },
+    "faqPage": {
+      "name": "UGC Unboxing Video – FAQ"
+    }
+  }
+}

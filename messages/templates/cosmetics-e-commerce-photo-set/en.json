@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Cosmetics E-commerce Photo Set – Beauty Image Generator | OpenCreator",
+    "description": "Generate professional cosmetics photo sets—packshots, color swatches, texture smears, and lifestyle scenes—for beauty brands and retailers. The best AI product photo generator for cosmetic product photography.",
+    "keywords": [
+      "cosmetic product photography",
+      "product photo editing",
+      "ai product image generation",
+      "product image generator",
+      "ecommerce product photo editing",
+      "product photo retouching services",
+      "best ai product photo generator",
+      "ai product photos",
+      "lifestyle product photography",
+      "professional product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#cosmetics", "#beauty", "#ecommerce"],
+    "title": "Cosmetics E-commerce Photo Set",
+    "description": "Generate professional cosmetics photo sets for lipsticks, palettes, foundations, and more. Create clean packshots, color swatches, texture smears, and lifestyle beauty scenes with AI.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload your cosmetic product photo or packaging image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your cosmetic product photo",
+        "description": "Start with a simple product image—from a single lipstick to full palettes and sets."
+      },
+      {
+        "title": "Define style, finishes, and color focus",
+        "description": "Specify finish (matte, glossy, shimmer), key shades, and choose glam, editorial, or everyday style."
+      },
+      {
+        "title": "Generate cosmetics-focused photo sets",
+        "description": "Produce hero shots, texture spreads, shade comparisons, and usage scenarios."
+      },
+      {
+        "title": "Export images for PDPs, campaigns, and social",
+        "description": "Download web-ready assets for product pages, email campaigns, and social media."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For beauty brands that launch fast and often",
+    "subtitle": "From indie makeup labels to global brands, see who uses AI cosmetic visuals.",
+    "audiences": [
+      {
+        "label": "Makeup brands & lines",
+        "description": "Generate complete visual sets to keep pace with frequent launches."
+      },
+      {
+        "label": "Beauty e-commerce retailers",
+        "description": "Standardize image quality across multi-brand catalogs without reshooting."
+      },
+      {
+        "label": "Social-first beauty brands",
+        "description": "Create scroll-stopping visuals for Instagram, TikTok, and YouTube."
+      },
+      {
+        "label": "Creative studios in beauty",
+        "description": "Prototype campaign looks before full-scale productions."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Cosmetics E-commerce Photo Set workflow?",
+        "answer": "An AI workflow for creating professional beauty product image sets—packshots, swatches, textures, and lifestyle scenes."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Beauty brands, e-commerce retailers, social-first brands, and creative studios that need consistent visuals fast."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Upload a cosmetic product image and describe the desired finish, key shades, and style direction."
+      },
+      {
+        "question": "What output will I get?",
+        "answer": "Web-ready images for product pages, campaigns, and social media that showcase shades and textures."
+      },
+      {
+        "question": "Can I specify finishes and styles?",
+        "answer": "Yes. Choose finishes like matte or glossy and styles like glam or editorial to guide generation."
+      },
+      {
+        "question": "How are credits used?",
+        "answer": "Each generation consumes credits relative to complexity and resolution. Iterate and export within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Cosmetics E-commerce Photo Set – Beauty Image Generator",
+      "description": "AI-generated cosmetic product visuals for online stores and campaigns."
+    },
+    "softwareApplication": {
+      "name": "Cosmetics Photo Set Template",
+      "description": "AI workflow that creates beauty product image sets and lifestyle scenes."
+    },
+    "faqPage": { "name": "Cosmetics E-commerce Photo Set – FAQ" }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "AI Music Video Generator for Dreamy Fantasy MV Styles | OpenCreator",
+    "description": "Create dreamy fantasy music videos with AI. Generate storyboard-ready scenes, lyrical visuals, and cinematic MV clips from text prompts and references.",
+    "keywords": [
+      "ai music video generator",
+      "music video maker ai",
+      "dreamy mv style",
+      "fantasy music video",
+      "ai storyboard for music video",
+      "lyric video to music video",
+      "cinematic mv creator",
+      "anime style music video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#mv", "#fantasy", "#oriental"],
+    "title": "Pure Sweet Girly Style MV",
+    "description": "Build dreamy, soft-aesthetic MVs without a full production team. Describe your concept and generate visual sequences, storyboard beats, and final clips ready for music release or social promotion.",
+    "inputPlaceholder": "Describe your MV concept and visual style",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your MV concept",
+        "description": "Enter your creative vision—oriental fantasy with surreal 3D CG style, 30-second MV with 15+ shots featuring character-environment interactions, varying scales (giant or tiny), eye reflections, and visually striking compositions."
+      },
+      {
+        "title": "Upload scene and character references",
+        "description": "Provide reference images of Chinese courtyards, gardens, and character styles. These guide the AI in maintaining visual consistency across all generated storyboard frames."
+      },
+      {
+        "title": "AI generates storyboard script",
+        "description": "Gemini 3 Pro analyzes your references and concept to create a detailed shot-by-shot storyboard script with camera movements, compositions, and visual effects for maximum emotional impact."
+      },
+      {
+        "title": "Generate surreal storyboard frames",
+        "description": "Nano Banana Pro renders 16+ storyboard frames in oriental fantasy + surreal 3D CG style—bizarre, beautiful colors, visual art, and striking compositions with varied perspectives."
+      },
+      {
+        "title": "Produce animated MV clips",
+        "description": "Sora 2 transforms your storyboards into 12-second animated video clips, bringing the ethereal scenes to life with smooth motion and cinematic quality."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for music artists and visual creators",
+    "subtitle": "From indie musicians to creative agencies, see who creates fantasy MVs with AI.",
+    "audiences": [
+      {
+        "label": "Musicians & artists",
+        "description": "Create professional music videos for your songs without expensive production teams—bring your artistic vision to life with AI-generated fantasy visuals."
+      },
+      {
+        "label": "Content creators",
+        "description": "Produce visually stunning fantasy content that captivates audiences on social media and video platforms with surreal oriental aesthetics."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Rapidly prototype and produce MVs for clients with unique visual styles, reducing production time while maintaining artistic quality."
+      },
+      {
+        "label": "Visual artists",
+        "description": "Experiment with animated visual poetry and dreamlike narratives, pushing creative boundaries with AI-assisted filmmaking."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Pure Sweet Girly Style MV workflow?",
+        "answer": "This workflow creates oriental fantasy music videos with surreal 3D CG aesthetics. It generates storyboard scripts, renders multiple frames with consistent style, and produces animated video clips using Gemini 3 Pro, Nano Banana Pro, and Sora 2."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Gemini 3 Pro for script and storyboard generation, Nano Banana Pro for rendering fantasy storyboard frames, and Sora 2 for creating animated video clips with smooth motion."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You need a text description of your MV concept (theme, shot count, visual style) and reference images for scenes and characters. The AI generates the script, storyboards, and video automatically."
+      },
+      {
+        "question": "What visual style can I achieve?",
+        "answer": "The workflow specializes in oriental fantasy + surreal 3D CG aesthetics—bizarre, beautiful, visually striking images with Chinese gardens, ethereal characters, eye reflections, scale variations, and dreamlike compositions."
+      },
+      {
+        "question": "How many shots can I generate?",
+        "answer": "The workflow is designed for 15+ shots to create a 30-second MV. You can request more shots for longer videos, with each frame maintaining visual consistency."
+      },
+      {
+        "question": "Can I customize the character style?",
+        "answer": "Yes. Provide character reference images and style descriptions to guide the AI. Characters will be rendered consistently across all storyboard frames and video clips."
+      },
+      {
+        "question": "What video duration is supported?",
+        "answer": "Sora 2 generates 12-second animated clips per scene. Multiple clips can be assembled to create your complete MV at your desired length."
+      },
+      {
+        "question": "How are credits calculated?",
+        "answer": "Credits are consumed based on script generation, storyboard frame rendering with Nano Banana Pro, and video production with Sora 2. More shots and higher resolution use more credits."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Pure Sweet Girly Style MV – AI Music Video Creator",
+      "description": "Create stunning oriental fantasy music videos with surreal 3D CG aesthetics using AI-powered storyboarding and animation."
+    },
+    "softwareApplication": {
+      "name": "Pure Sweet Girly MV AI Generator",
+      "description": "AI-powered music video creation tool for oriental fantasy MVs with surreal visuals, using Nano Banana Pro and Sora 2."
+    },
+    "faqPage": {
+      "name": "Pure Sweet Girly Style MV – FAQ"
+    }
+  }
+}

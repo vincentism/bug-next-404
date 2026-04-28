@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Wan 2.5 AI Video Generator | Alibaba | OpenCreator",
+      "description": "Create stunning videos with Wan 2.5 from Alibaba. Generate up to 30-second videos with 1080p resolution, lip-sync audio, and smooth motion. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Wan 2.5",
+      "tagline": "Extended Duration Video Generation",
+      "description": "Wan 2.5 is Alibaba's powerful video generation model featuring extended 30-second duration, 1080p resolution output, and lip-synced audio generation. Perfect for longer-form content and professional video production.",
+      "badge": "Popular",
+      "ctaText": "Try Wan 2.5 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "duration": "Up to 30s",
+        "resolution": "1080p Output",
+        "audioSync": "Audio Sync"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Wan 2.5 a powerful choice for AI video generation",
+      "items": {
+        "duration": {
+          "title": "Extended Duration",
+          "description": "Generate videos up to 30 seconds per clip - the longest duration among Wan models, perfect for complete narratives and detailed showcases."
+        },
+        "resolution": {
+          "title": "1080p HD Output",
+          "description": "Generate high-definition 1080p videos at 24fps, suitable for professional production and social media platforms."
+        },
+        "audioSync": {
+          "title": "Lip-Synced Audio",
+          "description": "Native audio-visual synchronization with accurate lip-sync for natural-looking character speech and dialogue."
+        },
+        "motion": {
+          "title": "Smooth Motion",
+          "description": "Advanced motion synthesis ensures fluid, natural movements that outperform previous Wan versions."
+        },
+        "multilingual": {
+          "title": "Multilingual Support",
+          "description": "Support for English, Chinese, and other major languages for both prompting and audio generation."
+        },
+        "imageToVideo": {
+          "title": "Image to Video",
+          "description": "Transform static images into dynamic videos with motion generation based on text prompts."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with Wan 2.5 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "product": {
+          "title": "Product Showcase",
+          "description": "E-commerce Videos",
+          "useCase": "Create detailed product demonstration videos from unboxing to usage with extended duration."
+        },
+        "social": {
+          "title": "Social Media Content",
+          "description": "TikTok & Reels",
+          "useCase": "Generate engaging short-form videos for social media platforms with smooth motion."
+        },
+        "marketing": {
+          "title": "Marketing Videos",
+          "description": "Brand Advertising",
+          "useCase": "Produce professional marketing videos with narration and product showcases."
+        },
+        "storytelling": {
+          "title": "Story Content",
+          "description": "Narrative Videos",
+          "useCase": "Tell complete stories with beginning, middle, and end in a single generation."
+        },
+        "fashion": {
+          "title": "Fashion Display",
+          "description": "Apparel Showcase",
+          "useCase": "Create dynamic fashion videos with model movements and outfit displays."
+        },
+        "dialogue": {
+          "title": "Character Speech",
+          "description": "Lip-Synced Content",
+          "useCase": "Generate videos with natural character speech and accurate lip synchronization."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Wan 2.5 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "audioGeneration": "Audio Generation",
+          "lipSync": "Lip Sync"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "motionSynthesis": "Motion Synthesis",
+          "multilingual": "Multilingual",
+          "promptFollowing": "Prompt Following",
+          "characterConsistency": "Character Consistency"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Wan 2.5 compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "audioSync": "Audio Sync",
+        "lipSync": "Lip Sync"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits vary by duration and resolution. Subscribe to save more.",
+      "viewFullPricing": "View full pricing →",
+      "description": "Extended duration video generation",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Wan 2.5 and who developed it?",
+          "answer": "Wan 2.5 is Alibaba's powerful AI video generation model. It features extended 30-second duration, 1080p resolution output, and lip-synced audio generation for professional video production."
+        },
+        "1": {
+          "question": "What types of content can I create with Wan 2.5?",
+          "answer": "Wan 2.5 excels at creating product showcases, social media content, marketing videos, story content, fashion displays, and character dialogue videos. It supports both text-to-video and image-to-video generation."
+        },
+        "2": {
+          "question": "How long can Wan 2.5 videos be?",
+          "answer": "Wan 2.5 can generate videos up to 30 seconds per clip - the longest duration among Wan models. This is perfect for complete narratives and detailed product showcases."
+        },
+        "3": {
+          "question": "What resolution does Wan 2.5 output?",
+          "answer": "Wan 2.5 generates videos in 480p and 1080p resolution at 24fps frame rate, suitable for social media and professional production."
+        },
+        "4": {
+          "question": "Does Wan 2.5 support audio generation?",
+          "answer": "Yes! Wan 2.5 features native audio-visual synchronization with accurate lip-sync for natural-looking character speech. It supports English, Chinese, and other major languages."
+        },
+        "5": {
+          "question": "How does Wan 2.5 compare to Wan 2.6?",
+          "answer": "Wan 2.5 offers longer duration (30s vs 15s) while Wan 2.6 focuses on multi-shot storytelling and enhanced audio features. Choose Wan 2.5 for longer single-shot videos, or Wan 2.6 for multi-shot narratives."
+        }
+      }
+    }
+  }
+}

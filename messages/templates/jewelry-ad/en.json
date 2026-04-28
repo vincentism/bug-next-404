@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Jewelry Ad – AI Luxury Marketing | OpenCreator",
+    "description": "Create stunning jewelry advertisements with AI. Generate elegant luxury marketing content that showcases fine jewelry product photography and drives premium sales.",
+    "keywords": [
+      "jewelry product photography",
+      "jewellery photography ideas",
+      "jewelry advertising ai",
+      "luxury marketing generator",
+      "fine jewelry promotion",
+      "ai product photography",
+      "product commercial photography",
+      "professional product photography",
+      "jewelry marketing content",
+      "ai product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#luxury", "#jewelry", "#premium_marketing"],
+    "title": "Jewelry Ad",
+    "description": "Create stunning jewelry advertisements with AI. Generate elegant luxury marketing content that showcases fine jewelry craftsmanship and drives premium sales. Perfect for jewelry brands, luxury retailers, and fine jewelry designers who need to communicate sophistication and quality.",
+    "inputPlaceholder": "Describe your jewelry piece or collection",
+    "ctaText": "Create Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your jewelry collection",
+        "description": "Provide details about your fine jewelry pieces, including materials, craftsmanship, target audience, and luxury positioning."
+      },
+      {
+        "title": "Choose elegant ad style",
+        "description": "Select from minimalist luxury, classic elegance, or contemporary sophistication styles that match your brand's aesthetic and luxury positioning."
+      },
+      {
+        "title": "Generate premium jewelry ads",
+        "description": "AI creates sophisticated advertisements with refined imagery, elegant messaging, and luxury-appropriate visual elements."
+      },
+      {
+        "title": "Deploy across luxury channels",
+        "description": "Export high-resolution advertisements ready for luxury publications, social media, e-commerce, and premium marketing campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for luxury jewelry marketing and premium brands",
+    "subtitle": "From independent designers to luxury houses, see who creates jewelry ads with AI.",
+    "audiences": [
+      {
+        "label": "Jewelry brands",
+        "description": "Create premium advertisements that communicate craftsmanship, quality, and luxury positioning to drive high-value sales."
+      },
+      {
+        "label": "Luxury retailers",
+        "description": "Develop elegant marketing materials that showcase fine jewelry collections and attract affluent customers."
+      },
+      {
+        "label": "Fine jewelry designers",
+        "description": "Present artistic creations with sophisticated visuals that highlight craftsmanship and unique design elements."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Scale luxury content production for multiple jewelry clients while maintaining premium quality and brand consistency."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Jewelry Ad workflow?",
+        "answer": "Jewelry Ad is an AI-powered workflow that creates stunning jewelry advertisements. Generate elegant luxury marketing content that showcases fine jewelry and drives premium sales."
+      },
+      {
+        "question": "Who is Jewelry Ad designed for?",
+        "answer": "Jewelry Ad is essential for luxury jewelry marketing and premium brands: jewelry brands, luxury retailers, fine jewelry designers, and marketing agencies who need premium jewelry content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide details about your fine jewelry pieces, including materials, craftsmanship, target audience, and luxury positioning."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates sophisticated advertisements with refined imagery, elegant messaging, and luxury-appropriate visual elements optimized for premium audiences."
+      },
+      {
+        "question": "Can I create ads for different jewelry types?",
+        "answer": "Yes. You can create advertisements for rings, necklaces, earrings, bracelets, watches, and any fine jewelry category with appropriate styling."
+      },
+      {
+        "question": "How do credits and pricing work for Jewelry Ad?",
+        "answer": "Each advertisement generation consumes credits based on the image complexity and luxury styling requirements. The cost is optimized for creating premium jewelry marketing content."
+      },
+      {
+        "question": "Can I maintain brand consistency across luxury materials?",
+        "answer": "Absolutely. The workflow incorporates your brand elements, luxury aesthetic, and visual identity while maintaining sophisticated jewelry marketing standards."
+      },
+      {
+        "question": "Is this suitable for both online and print luxury campaigns?",
+        "answer": "Yes. Perfect for creating consistent luxury advertising across digital platforms, print publications, and omnichannel marketing campaigns."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Jewelry Ad – AI Luxury Marketing",
+      "description": "Create stunning jewelry advertisements with AI. Generate elegant luxury marketing content that showcases fine jewelry and drives premium sales."
+    },
+    "softwareApplication": {
+      "name": "Jewelry Ad AI Generator",
+      "description": "AI-powered jewelry advertisement creator for generating elegant luxury marketing content and premium brand materials."
+    },
+    "faqPage": {
+      "name": "Jewelry Ad – FAQ"
+    }
+  }
+}

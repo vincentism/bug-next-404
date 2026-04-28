@@ -1,0 +1,215 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedream 4.5 AI 图像生成器 | 字节跳动 | OpenCreator",
+      "description": "使用字节跳动的 Seedream 4.5 创建惊艳图像。业界领先的多图融合支持多达 10 张参考图，2K-4K 分辨率，卓越文字渲染，以及电商和创意制作的照片级真实质量。"
+    },
+    "hero": {
+      "modelName": "Seedream 4.5",
+      "tagline": "字节跳动最先进的图像模型",
+      "description": "字节跳动最先进的 AI 图像模型，将生成和编辑统一在一个模型中。Seedream 4.5 支持多参考图（最多 10 张）、卓越的文字渲染、编辑一致性，以及最高 4K 分辨率，适合专业创意工作。",
+      "badge": "新品",
+      "ctaText": "免费试用 Seedream 4.5",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "textToImage": "文生图",
+        "multiReference": "支持 10 张参考图",
+        "resolution": "2K-4K 输出",
+        "textRendering": "文字渲染",
+        "editing": "图像编辑"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Seedream 4.5 成为字节跳动最先进图像模型的原因",
+      "items": {
+        "multiRef": {
+          "title": "多图融合",
+          "description": "单次编辑支持多达 10 张参考图。模型能精准识别所有输入中的目标元素，同时保持角色一致性。"
+        },
+        "textRendering": {
+          "title": "卓越文字渲染",
+          "description": "增强的文字渲染能力，包括密集文字排版、海报风格字体和更清晰的小字效果。完美适用于营销材料。"
+        },
+        "clarity": {
+          "title": "主体更清晰",
+          "description": "精细的细节呈现，更强的空间一致性和电影级光效。即使在复杂的多图场景中，主体也保持清晰。"
+        },
+        "resolution": {
+          "title": "高分辨率输出",
+          "description": "支持从 2K 到 4K 分辨率的图像生成，适用于专业和商业用途，包括印刷和大屏显示。"
+        },
+        "faceRendering": {
+          "title": "增强人脸渲染",
+          "description": "改进的人脸渲染准确度，确保生成图像中面部特征的真实和一致。"
+        },
+        "instructionFollowing": {
+          "title": "可靠的指令遵循",
+          "description": "更智能地遵循复杂提示词，获得可靠、可重复的结果。"
+        },
+        "unifiedEditing": {
+          "title": "统一生成与编辑",
+          "description": "将图像生成和编辑统一在一个模型中。在保持主体细节、光线和色调高度一致的同时进行精准编辑。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "效果展示",
+      "subtitle": "OpenCreator 的代表性案例与应用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "ecommerce": {
+          "title": "电商产品图",
+          "description": "产品摄影",
+          "useCase": "为网店创建风格一致、光线完美的专业产品图片。"
+        },
+        "brandVisual": {
+          "title": "品牌视觉创作",
+          "description": "营销素材",
+          "useCase": "通过多参考图一致性，在营销活动中生成连贯的品牌视觉。"
+        },
+        "poster": {
+          "title": "海报设计",
+          "description": "字体与排版",
+          "useCase": "创建精准文字渲染和专业字体排版的惊艳海报。"
+        },
+        "advertising": {
+          "title": "广告创意",
+          "description": "广告素材",
+          "useCase": "通过可靠的指令遵循制作高质量广告视觉。"
+        },
+        "gameArt": {
+          "title": "游戏美术与素材",
+          "description": "创意制作",
+          "useCase": "生成一致的游戏美术和创意素材，保持多帧角色一致性。"
+        },
+        "localization": {
+          "title": "文字本地化",
+          "description": "多语言",
+          "useCase": "创建多语言准确文字渲染的本地化营销材料。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Seedream 4.5 功能的全面介绍",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "refImages": "参考图数量"
+        },
+        "capabilities": {
+          "title": "功能特性",
+          "textToImage": "文生图",
+          "imageEditing": "图像编辑",
+          "multiReference": "多参考图",
+          "textRendering": "文字渲染"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "spatialCoherence": "空间一致性",
+          "faceRendering": "人脸渲染",
+          "cinematicLighting": "电影级光效",
+          "instructionFollowing": "指令遵循"
+        },
+        "performance": {
+          "title": "性能表现",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Seedream 4.5 与其他领先 AI 图像模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToImage": "文生图",
+        "imageEditing": "图像编辑",
+        "multiReference": "多参考图",
+        "maxResolution": "最大分辨率",
+        "textRendering": "文字渲染",
+        "referenceCount": "最大参考图数"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户优惠",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "订阅每次生成更省钱。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "字节跳动最先进的图像模型",
+      "planSectionTitle": "订阅享更多优惠",
+      "planCreditsPerMonthLabel": "点数 / 月",
+      "planPerCreditLabel": "每点数",
+      "planPerGenerationLabel": "每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Seedream 4.5 是什么？由谁开发？",
+          "answer": "Seedream 4.5 是字节跳动豆包团队开发的先进 AI 图像生成模型。它是 Seedream 4.0 的精细化升级版本，带来更锐利的视觉效果、更强的空间一致性，以及更可靠的指令遵循，用于专业图像创作。"
+        },
+        "1": {
+          "question": "Seedream 4.5 可以创建哪些类型的内容？",
+          "answer": "Seedream 4.5 擅长电商产品图、品牌视觉创作、海报设计、广告创意、游戏美术素材，以及多语言文字排版。它专为需要结构准确性和可靠执行的专业工作流程打造。"
+        },
+        "2": {
+          "question": "Seedream 4.5 可以使用多少张参考图？",
+          "answer": "Seedream 4.5 单次编辑支持多达 10 张参考图。模型能精准识别所有输入中的目标元素，同时在多图场景中保持角色一致性。"
+        },
+        "3": {
+          "question": "Seedream 4.5 输出什么分辨率？",
+          "answer": "Seedream 4.5 支持从 2K 到 4K 的输出分辨率，具体取决于你的设置。这使其适用于大多数专业和商业用途，包括印刷材料和大屏显示。"
+        },
+        "4": {
+          "question": "Seedream 4.5 的文字渲染效果如何？",
+          "answer": "Seedream 4.5 具有卓越的文字渲染能力，包括密集文字排版、海报风格字体和更清晰的小字效果。它特别适合需要将图像与文字结合的营销材料和设计。"
+        },
+        "5": {
+          "question": "Seedream 4.5 在 OpenCreator 上的价格是多少？",
+          "answer": "Seedream 4.5 在 OpenCreator 上每次生成需要 48 点数。订阅用户享有额外折扣。注册时可以用初始点数免费试用。"
+        },
+        "6": {
+          "question": "我可以在 OpenCreator 上免费试用 Seedream 4.5 吗？",
+          "answer": "可以！新用户注册即可获得免费积分，可用于试用 Seedream 4.5。你可以先体验多参考图编辑和文字渲染功能，再决定是否订阅。"
+        },
+        "7": {
+          "question": "Seedream 4.5 的图像编辑功能是什么？",
+          "answer": "Seedream 4.5 将生成和编辑统一在一个模型中。你可以上传参考图并进行精准编辑，同时保持主体细节、光线和色调的高度一致性。"
+        },
+        "8": {
+          "question": "Seedream 4.5 相比 Seedream 4.0 有哪些改进？",
+          "answer": "Seedream 4.5 在提示词遵循、对齐、美学和编辑一致性方面都有显著提升。与 4.0 相比，它能更好地保留主体细节、光线和色调。"
+        },
+        "9": {
+          "question": "Seedream 4.5 支持哪些比例？",
+          "answer": "Seedream 4.5 支持多种比例，包括 1:1、16:9、9:16、4:3 和 3:4。建议根据用途选择：1:1 适合社交媒体，16:9 适合横幅，9:16 适合移动端内容。"
+        },
+        "10": {
+          "question": "Seedream 4.5 和 Flux 怎么选？",
+          "answer": "两者都是顶级图像模型。Seedream 4.5 擅长多参考图编辑（最多 10 张）、文字渲染和编辑一致性。Flux 以真实感和提示词遵循著称。根据你的工作流需求选择。"
+        },
+        "11": {
+          "question": "Seedream 4.5 适合电商产品图吗？",
+          "answer": "非常适合！Seedream 4.5 凭借其多参考图支持、高分辨率（最高 4K）和可靠的主体一致性，非常适合电商场景。广泛用于产品摄影、场景图和目录图像。"
+        },
+        "12": {
+          "question": "Seedream 4.5 可以生成带文字和 Logo 的图像吗？",
+          "answer": "可以。Seedream 4.5 具有强大的文字渲染和 Logo 设计能力。它能处理密集文字排版、海报风格字体和品牌元素，清晰度和一致性都有显著提升。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Multi References – AI Multi-Reference Image Generator | OpenCreator",
+    "description": "Combine multiple visual inspirations into one controlled output with OpenCreator's Multi References workflow. Blend pose, style, environment, and brand elements using AI-guided image generation.",
+    "keywords": [
+      "multi reference image generator",
+      "combine image references ai",
+      "style mixing ai",
+      "multi image prompt",
+      "reference guided image generation",
+      "how to generate images from multiple references with ai",
+      "ai tool for combining style and pose references"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#multi_reference", "#style_mixing", "#visual_control"],
+    "title": "Multi References",
+    "description": "Generate new images that blend multiple references—styles, subjects, poses, or environments. Use AI to synthesize consistent outputs that respect all your chosen reference sources.",
+    "inputPlaceholder": "Upload several reference images and describe what aspects to combine",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload multiple visual references",
+        "description": "Provide separate images for subject, pose, style, environment, or color palette so each reference has a clear role."
+      },
+      {
+        "title": "Specify which elements should carry over",
+        "description": "Use a short text description to explain what you want from each image—for example outfit from one, pose from another, and lighting from a third."
+      },
+      {
+        "title": "Generate AI images that respect all inputs",
+        "description": "Run the Multi References workflow to fuse your inputs into coherent visuals that honor your constraints and keep key details aligned."
+      },
+      {
+        "title": "Refine and export for production or exploration",
+        "description": "Iterate on your setup, adjust references or instructions, and export the best results for concept art, campaigns, or as inputs to other workflows."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams needing precise visual control",
+    "subtitle": "From character pipelines to campaigns, see who uses multi-reference generation.",
+    "audiences": [
+      {
+        "label": "Character and costume designers",
+        "description": "Blend pose, outfit, and style references into aligned character visuals that stay true to your direction."
+      },
+      {
+        "label": "Brand and campaign teams",
+        "description": "Anchor AI-generated visuals in existing brand assets so new images remain recognizably on-brand across a campaign."
+      },
+      {
+        "label": "Product visualization teams",
+        "description": "Combine existing product shots with new environments or styling while keeping the product itself consistent."
+      },
+      {
+        "label": "Concept artists and illustrators",
+        "description": "Explore combinations of references more quickly, using AI to generate controlled starting points for further refinement."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Multi References AI workflow do?",
+        "answer": "This workflow lets you generate new images that blend multiple visual references—such as subject, pose, style, or environment—into a single, coherent output. It is designed as a multi reference image generator for teams that need precise visual control."
+      },
+      {
+        "question": "What kinds of reference images should I prepare?",
+        "answer": "Use clear images that each represent something specific you care about: one for pose, one for outfit, one for lighting, one for environment, or existing brand visuals. The more focused each reference is, the easier it is to tell the workflow which parts to keep."
+      },
+      {
+        "question": "How do I tell the workflow what to keep from each reference?",
+        "answer": "Alongside your uploads, use text instructions to specify what should carry over from each image—for example \"use the pose from reference A, the outfit and colors from reference B, and the lighting and background from reference C.\" This helps the AI respect your constraints when combining references."
+      },
+      {
+        "question": "What are typical use cases for multi-reference image generation?",
+        "answer": "Common use cases include building consistent character or costume designs from mixed references, keeping campaign creatives on-brand by grounding them in existing assets, and visualizing products in new environments while retaining the original product look."
+      },
+      {
+        "question": "Can I use Multi References to keep a character or product consistent across many images?",
+        "answer": "You can reuse the same identity or product references across multiple runs so core attributes stay aligned while you vary poses, environments, or styling. This is especially useful in character pipelines or multi-asset campaigns."
+      },
+      {
+        "question": "How do credits and costs work for Multi References generations?",
+        "answer": "Each generation consumes credits based on the model and settings you use. A good approach is to test with a few shorter or lower-cost generations first, then spend more credits on higher-quality runs once you are confident about your reference setup."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Multi References – AI Multi-Reference Image Generator",
+      "description": "Generate controlled images from multiple pose, style, and environment references using AI-guided image synthesis."
+    },
+    "softwareApplication": {
+      "name": "AI Multi References Image Generator",
+      "description": "AI workflow for combining multiple visual references into a single controlled image for character, product, and campaign work."
+    },
+    "faqPage": {
+      "name": "Multi References – FAQ"
+    }
+  }
+}

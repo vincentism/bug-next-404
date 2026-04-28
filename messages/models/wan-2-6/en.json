@@ -1,0 +1,215 @@
+{
+  "model": {
+    "meta": {
+      "title": "Wan 2.6 AI Video Generator | Alibaba | OpenCreator",
+      "description": "Create stunning videos with Wan 2.6 from Alibaba. Up to 15-second multi-shot videos with native audio sync, lip-sync, and character consistency. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Wan 2.6",
+      "tagline": "Multi-Shot Video with Audio Sync",
+      "description": "Wan 2.6 is Alibaba's latest video generation model featuring reference-to-video generation, multi-shot storytelling, and native audio-visual synchronization. Upload character references with appearance and voice to generate new scenes with clone-level consistency. Up to 15-second videos.",
+      "badge": "New",
+      "ctaText": "Try Wan 2.6 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "duration": "Up to 15s",
+        "audioSync": "Audio Sync",
+        "multiShot": "Multi-Shot"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Wan 2.6 Alibaba's most advanced video model",
+      "items": {
+        "multiShot": {
+          "title": "Multi-Shot Storytelling",
+          "description": "Generate complete narrative sequences with multiple camera angles. The model automatically plans shot transitions while maintaining consistency in characters, environment, and lighting."
+        },
+        "audioSync": {
+          "title": "Native Audio Sync",
+          "description": "Characters speak with accurate mouth shapes and timing. Generate visuals that match audio tracks frame by frame with precise lip-sync."
+        },
+        "consistency": {
+          "title": "Clone-Level Consistency",
+          "description": "Reference subjects maintain their exact appearance across shots - near-identical preservation of facial features, clothing, body proportions, and distinctive characteristics."
+        },
+        "duration": {
+          "title": "Extended Duration",
+          "description": "Generate up to 15-second videos in a single run - enough for complete narrative arcs, product showcases, and social media content."
+        },
+        "referenceToVideo": {
+          "title": "Reference-to-Video Generation",
+          "description": "Upload a character reference video with appearance and voice, then use text prompts to generate new scenes starring that same character with consistent visuals and audio."
+        },
+        "dualSubject": {
+          "title": "Dual-Subject Interaction",
+          "description": "Supports 1-3 reference videos for single-subject generation or complex dual-subject interactions within the same scene."
+        },
+        "resolution": {
+          "title": "High Resolution Output",
+          "description": "Generate videos in 480p to 1080p resolution with 24fps frame rate, suitable for social media and professional production."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples and use cases created with Wan 2.6 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "social": {
+          "title": "Social Media Content",
+          "description": "TikTok & Reels",
+          "useCase": "Create scroll-stopping short-form videos for TikTok, Instagram Reels, and YouTube Shorts."
+        },
+        "marketing": {
+          "title": "Marketing Videos",
+          "description": "Brand Advertising",
+          "useCase": "Produce professional marketing videos with narration, dialogue, and product showcases."
+        },
+        "ecommerce": {
+          "title": "E-commerce Showcase",
+          "description": "Product Videos",
+          "useCase": "Generate product videos from unboxing to usage with synchronized audio descriptions."
+        },
+        "storytelling": {
+          "title": "Multi-Shot Stories",
+          "description": "Narrative Content",
+          "useCase": "Tell complete stories with beginning, middle, and end using multiple camera angles."
+        },
+        "dialogue": {
+          "title": "Character Dialogue",
+          "description": "Scripted Performances",
+          "useCase": "Create interviews, scripted performances, and comedy skits with multi-character dialogue."
+        },
+        "music": {
+          "title": "Music Performance",
+          "description": "Singing & Rap",
+          "useCase": "Generate music videos with singing, rap, and instrumental performances with lip-sync."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Wan 2.6 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "multiReference": "Multi-Reference",
+          "audioGeneration": "Audio Generation"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "multiShot": "Multi-Shot Storytelling",
+          "lipSync": "Lip Sync",
+          "soundEffects": "Sound Effects",
+          "ambientSound": "Ambient Sound"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Wan 2.6 compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "multiShot": "Multi-Shot",
+        "maxDuration": "Max Duration",
+        "audioSync": "Audio Sync",
+        "lipSync": "Lip Sync"
+      }
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "subtitle": "Pay only for what you use",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits vary by duration and resolution. Subscribe to save more.",
+      "viewFullPricing": "View full pricing →",
+      "description": "Alibaba's latest multi-shot video model",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Wan 2.6 and who developed it?",
+          "answer": "Wan 2.6 is Alibaba's latest AI video generation model released in December 2025. It features multi-shot storytelling, native audio-visual synchronization, and clone-level character consistency for professional video production."
+        },
+        "1": {
+          "question": "What types of content can I create with Wan 2.6?",
+          "answer": "Wan 2.6 excels at creating social media content, marketing videos, e-commerce showcases, multi-shot stories, character dialogues, and music performances. It supports both text-to-video and image-to-video generation."
+        },
+        "2": {
+          "question": "How long can Wan 2.6 videos be?",
+          "answer": "Wan 2.6 can generate videos up to 15 seconds in a single run. This is enough for complete narrative arcs, product showcases, and most social media content requirements."
+        },
+        "3": {
+          "question": "Does Wan 2.6 support audio generation?",
+          "answer": "Yes! Wan 2.6 features native audio-visual synchronization including speech with accurate lip-sync, sound effects, and ambient sounds. It supports English, Chinese, and other major languages."
+        },
+        "4": {
+          "question": "How many reference videos can I use?",
+          "answer": "Wan 2.6 supports 1-3 reference videos. Single references work for consistent subject generation, while multiple references enable dual-subject interactions or complex scene guidance."
+        },
+        "5": {
+          "question": "How does Wan 2.6 compare to other AI video models?",
+          "answer": "Wan 2.6 stands out for its multi-shot storytelling capability, native audio sync, and extended 15-second duration. While Veo 3 offers similar audio features, Wan 2.6 excels in character consistency and multi-shot narratives."
+        },
+        "6": {
+          "question": "Can I try Wan 2.6 for free on OpenCreator?",
+          "answer": "Yes! New users receive free credits upon registration, which can be used to try Wan 2.6. This lets you test multi-shot storytelling and audio generation before committing to a subscription."
+        },
+        "7": {
+          "question": "What is Wan 2.6 multishot and how does it work?",
+          "answer": "Wan 2.6 multishot is an intelligent feature that automatically splits your prompt into multiple coherent shots within a single video. It maintains character, style, and narrative consistency across all shots without manual editing."
+        },
+        "8": {
+          "question": "How much does Wan 2.6 cost on OpenCreator?",
+          "answer": "Credits vary by duration and resolution. The pricing section on this page shows the most up-to-date credit cost. Subscribers enjoy additional discounts. New users can try Wan 2.6 with free registration credits."
+        },
+        "9": {
+          "question": "What resolutions and aspect ratios does Wan 2.6 support?",
+          "answer": "Wan 2.6 supports up to 1080p resolution with common aspect ratios (16:9, 9:16, 1:1). Choose based on your target platform: 16:9 for YouTube, 9:16 for TikTok/Reels, 1:1 for Instagram."
+        },
+        "10": {
+          "question": "How do I choose between Wan 2.6 and Veo 3?",
+          "answer": "Both excel at audio-visual generation. Choose Wan 2.6 for multi-shot storytelling, longer clips (up to 15s), and character consistency. Choose Veo 3 for single-shot cinematic realism and advanced camera controls."
+        },
+        "11": {
+          "question": "How do I choose between Wan 2.6 and Sora 2?",
+          "answer": "Wan 2.6 offers native audio sync and multi-shot narratives. Sora 2 emphasizes physics realism and visual fidelity. If you need dialogue and multi-character scenes, start with Wan 2.6. For cinematic single shots, try Sora 2."
+        },
+        "12": {
+          "question": "Does Wan 2.6 support text-to-video and image-to-video?",
+          "answer": "Yes. Wan 2.6 supports both workflows. Use image-to-video for stronger character/style anchoring; use text-to-video for maximum creative freedom. Both support multi-shot generation and native audio."
+        }
+      }
+    }
+  }
+}

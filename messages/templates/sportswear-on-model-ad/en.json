@@ -1,0 +1,113 @@
+{
+  "seo": {
+    "title": "Sportswear On-Model Ad – AI Sportswear On-Model Ad Generator | OpenCreator",
+    "description": "Create high-impact on-model ads for sportswear using AI. AI fashion models and AI clothing generator for showcasing apparel on athletic models in action.",
+    "keywords": [
+      "ai fashion models",
+      "ai clothing generator",
+      "ai generated female models",
+      "clothing photography",
+      "apparel photography for ecommerce",
+      "sportswear on model images",
+      "athletic apparel ads",
+      "on model product photography",
+      "ai product model generator",
+      "ai generator for athletic apparel product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#sportswear", "#on_model", "#ecommerce"],
+    "title": "Sportswear On-Model Ad",
+    "description": "Create high-impact on-model ads for sportswear using AI. Showcase apparel on athletic models in action, highlighting fit, performance, and style without full production shoots.",
+    "inputPlaceholder": "Upload product or flat-lay images and describe the athlete, sport, and scene",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload product imagery or references",
+        "description": "Provide flat-lays, packshots, or design renders of your sportswear pieces so the workflow understands your garments."
+      },
+      {
+        "title": "Specify athlete profile and activity",
+        "description": "Choose gender expression, body type range, sport (running, training, court sports, etc.), and desired intensity for the scene."
+      },
+      {
+        "title": "Generate AI on-model sportswear visuals",
+        "description": "AI places garments on realistic athletic models in motion or posed, with lighting and environments that match your brand."
+      },
+      {
+        "title": "Export for PDPs, campaigns, and social",
+        "description": "Use outputs as hero images, collection banners, and ad creatives across product pages, campaigns, and social platforms."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For performance-driven apparel brands",
+    "subtitle": "From niche fitness labels to global sports brands, see who uses on-model AI ads.",
+    "audiences": [
+      {
+        "label": "Sportswear and athleisure brands",
+        "description": "Show gear in real use contexts without organizing full athlete shoots every time you launch a new collection."
+      },
+      {
+        "label": "Marketplaces and retailers",
+        "description": "Standardize on-model imagery across multi-brand assortments so product presentation feels consistent."
+      },
+      {
+        "label": "Performance marketing teams",
+        "description": "Test multiple visual narratives around the same product drop using flexible, AI-generated on-model assets."
+      },
+      {
+        "label": "Creative studios in sports",
+        "description": "Prototype campaign looks and key visuals faster before committing to large-scale production."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Sportswear On-Model Ad workflow?",
+        "answer": "Sportswear On-Model Ad is an AI-powered workflow for creating on-model visuals of sportswear. It helps you showcase performance apparel on athletic models in action or posed scenes without organizing full production shoots."
+      },
+      {
+        "question": "Who is this template designed for?",
+        "answer": "Sportswear On-Model Ad is designed for sportswear and athleisure brands, marketplaces and retailers, performance marketing teams, and creative studios working on sports-related visuals."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You upload product imagery or references—such as flat-lays, packshots, or design renders of your sportswear pieces—and describe the athlete profile, sport, and scene you want to create."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates AI on-model sportswear visuals where garments appear on realistic athletic models with appropriate lighting, environments, and performance context."
+      },
+      {
+        "question": "Where can I use these on-model sportswear visuals?",
+        "answer": "You can use the outputs as hero images, collection banners, PDP imagery, and creative assets for campaigns and social content."
+      },
+      {
+        "question": "Does this replace traditional photoshoots?",
+        "answer": "It does not replace all use cases for real-world photoshoots, but it helps you prototype and scale on-model sportswear visuals faster, and reduce the need for frequent full shoots."
+      },
+      {
+        "question": "How do credits and pricing work for Sportswear On-Model Ad?",
+        "answer": "Running AI workflows in OpenCreator consumes credits based on the models and generation steps involved. You can run smaller tests first and then scale to more variations according to the credit system shown in the product."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Sportswear On-Model Ad – AI Sportswear On-Model Ad Generator",
+      "description": "Create AI-powered on-model sportswear visuals that highlight fit, performance, and style for apparel brands and retailers."
+    },
+    "softwareApplication": {
+      "name": "Sportswear On-Model Ad Workflow Template",
+      "description": "AI workflow for sportswear and athleisure brands to create on-model apparel visuals without full production shoots."
+    },
+    "faqPage": {
+      "name": "Sportswear On-Model Ad – FAQ"
+    }
+  }
+}

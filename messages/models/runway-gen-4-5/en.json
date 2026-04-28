@@ -1,0 +1,154 @@
+{
+  "model": {
+    "meta": {
+      "title": "Runway Gen-4.5 AI Video Generator | Next-Gen Motion Quality | OpenCreator",
+      "description": "Explore Runway Gen-4.5 for higher motion fidelity and better prompt adherence. Join the waitlist on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Runway Gen-4.5",
+      "tagline": "Next-gen video generation with stronger motion",
+      "description": "Gen-4.5 focuses on improved motion quality, prompt adherence, and creative control for cinematic video generation. OpenCreator will provide access as soon as it’s available.",
+      "badge": "Coming Soon",
+      "ctaText": "View pricing",
+      "secondaryCtaText": "Learn more",
+      "capabilities": {
+        "motion": "Stronger motion",
+        "adherence": "Better prompt adherence",
+        "camera": "Camera intent",
+        "fidelity": "Higher fidelity",
+        "iteration": "Faster iteration"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Designed for creators who need reliable motion and control",
+      "items": {
+        "motion": {
+          "title": "Improved motion quality",
+          "description": "More stable, coherent movement and fewer temporal artifacts."
+        },
+        "adherence": {
+          "title": "Better prompt adherence",
+          "description": "More reliable following of scene instructions and composition constraints."
+        },
+        "camera": {
+          "title": "Camera intent",
+          "description": "More predictable camera motion and shot structure across generations."
+        },
+        "realism": {
+          "title": "More believable scenes",
+          "description": "Better visual plausibility for common real-world situations."
+        },
+        "consistency": {
+          "title": "Higher temporal consistency",
+          "description": "Less flicker, fewer sudden changes, and more stable object presence."
+        },
+        "workflow": {
+          "title": "Iteration-friendly",
+          "description": "Fast experimentation for concepting, ads, and storyboarding."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Representative OpenCreator workflows similar to Gen-4.5 use cases",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "action": {
+          "title": "Action scenes",
+          "description": "High-motion content",
+          "useCase": "Generate stable high-motion shots with coherent camera movement."
+        },
+        "product": {
+          "title": "Product videos",
+          "description": "E-commerce marketing",
+          "useCase": "Turn product visuals into dynamic clips for ads and landing pages."
+        },
+        "story": {
+          "title": "Short narratives",
+          "description": "Storytelling",
+          "useCase": "Create consistent, cinematic clips for story beats and concept trailers."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specs",
+      "subtitle": "Inputs, outputs, and workflow fit",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input formats",
+          "outputFormat": "Output format",
+          "duration": "Duration"
+        },
+        "quality": {
+          "title": "Quality",
+          "motion": "Motion quality",
+          "adherence": "Prompt adherence",
+          "camera": "Camera intent"
+        },
+        "workflow": {
+          "title": "Workflow",
+          "iteration": "Iteration speed",
+          "production": "Production fit"
+        }
+      },
+      "values": {
+        "inputFormats": "Text, Image",
+        "outputFormat": "MP4",
+        "duration": "Varies"
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "Positioning vs other popular video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not supported",
+      "features": {
+        "textToVideo": "Text to Video",
+        "imageToVideo": "Image to Video",
+        "promptAdherence": "Prompt adherence",
+        "motionQuality": "Motion quality",
+        "cameraControl": "Camera control",
+        "cinematicQuality": "Cinematic quality"
+      }
+    },
+    "pricing": {
+      "title": "Coming Soon",
+      "subtitle": "Gen-4.5 will be available on OpenCreator soon",
+      "ctaText": "Join the waitlist",
+      "comingSoonBadge": "Coming Soon",
+      "description": "Next-gen video model",
+      "note": "Pricing and availability will be updated once Gen-4.5 is integrated into OpenCreator.",
+      "viewFullPricing": "View full pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "Is Gen-4.5 available on OpenCreator?",
+          "answer": "Not yet. This is a pre-launch landing page."
+        },
+        "1": {
+          "question": "What should I do while waiting?",
+          "answer": "Build and validate your workflows using existing video models, then swap when Gen-4.5 is available."
+        },
+        "2": {
+          "question": "Will it support text-to-video and image-to-video?",
+          "answer": "The exact feature set will be confirmed once the integration is live."
+        },
+        "3": {
+          "question": "How will pricing work?",
+          "answer": "Pricing will be shown on OpenCreator once the model is enabled."
+        },
+        "4": {
+          "question": "How do I get notified?",
+          "answer": "Bookmark this page and check back for updates."
+        }
+      }
+    }
+  }
+}

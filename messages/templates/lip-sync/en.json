@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Lip Sync – AI Lip Sync Generator | OpenCreator",
+    "description": "Sync any audio to any video with AI-powered lip sync. Perfect for dubbing, content localization, and creative video projects.",
+    "keywords": [
+      "ai lip sync",
+      "lip sync generator",
+      "video dubbing ai",
+      "audio to lip sync",
+      "mouth sync video",
+      "multilingual lip sync",
+      "talking video sync",
+      "ai dubbing video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#lip_sync", "#dubbing", "#video_localization"],
+    "title": "Lip Sync",
+    "description": "AI lip sync generator. Sync any audio to any video automatically. Perfect for dubbing, multilingual content, and creative revoicing.",
+    "inputPlaceholder": "Upload video and audio to sync",
+    "ctaText": "Sync Now"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your source video",
+        "description": "Start with a video where the speaker or character is clearly visible — such as talking-head clips, explainers, or performance shots."
+      },
+      {
+        "title": "Provide new audio or text for TTS",
+        "description": "Upload a target voice track or provide text for AI-generated speech in the language and style you need for dubbing or localization."
+      },
+      {
+        "title": "Generate AI lip-synced video",
+        "description": "Run the Lip Sync workflow so AI aligns mouth shapes and timing in the original footage to match the new audio naturally."
+      },
+      {
+        "title": "Export for localization, dubbing, or creative edits",
+        "description": "Review results, tweak inputs if needed, and export final videos for multilingual versions, remixes, or personalized content."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams repurposing and localizing video content",
+    "subtitle": "From media companies to solo creators, see who syncs with AI.",
+    "audiences": [
+      {
+        "label": "Content and media localization teams",
+        "description": "Create region-specific versions of videos without expensive reshoots by syncing mouth movements to new language tracks."
+      },
+      {
+        "label": "YouTubers and educators",
+        "description": "Dub channels or courses into new languages while keeping the visual performance consistent across audiences."
+      },
+      {
+        "label": "Marketing and social teams",
+        "description": "Remix existing footage with new voiceovers for campaigns, memes, or tailored social content."
+      },
+      {
+        "label": "Game and character IP teams",
+        "description": "Sync character dialogue to updated scripts or new voice-over performances for trailers and promotional content."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is AI Lip Sync?",
+        "answer": "An AI workflow that automatically syncs lip movements in a video to match new audio. Great for dubbing, language localization, and creative revoicing."
+      },
+      {
+        "question": "What do I need to provide?",
+        "answer": "Upload a video with visible faces and the audio you want to sync to it. The AI adjusts lip movements to match the new audio."
+      },
+      {
+        "question": "Does it work for multiple languages?",
+        "answer": "Yes. You can sync audio in any language to the video. It's commonly used for dubbing content into different languages."
+      },
+      {
+        "question": "What are typical use cases?",
+        "answer": "Dubbing videos for international audiences, creating multilingual content, revoicing characters, and syncing dialogue for creative projects."
+      },
+      {
+        "question": "How accurate is the lip sync?",
+        "answer": "Quality depends on video quality, face visibility, and audio clarity. Best results come from clear frontal faces and clean audio tracks."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Credits are consumed based on video length and processing complexity. Test with shorter clips first to find optimal settings."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Lip Sync",
+      "description": "Sync any audio to any video with AI-powered lip sync. Perfect for dubbing, content localization, and creative video projects."
+    },
+    "softwareApplication": {
+      "name": "Lip Sync Workflow",
+      "description": "AI lip sync generator. Sync any audio to any video automatically. Perfect for dubbing, multilingual content, and creative revoicing."
+    },
+    "faqPage": {
+      "name": "Lip Sync - FAQ"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Interior Design – AI Interior Design Generator | OpenCreator",
+    "description": "Visualize room concepts and makeover ideas with OpenCreator's Interior Design workflow. AI decorator and virtual staging AI for homes, offices, retail, and hospitality spaces.",
+    "keywords": [
+      "virtual staging ai",
+      "ai decorator",
+      "ai shop design",
+      "interior design generator",
+      "room design ai",
+      "furniture photography",
+      "home makeover visualizer",
+      "ai interior concept",
+      "how to visualize interior design ideas with ai",
+      "ai tool for room design and decor planning"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#interior_design", "#architecture", "#space_planning"],
+    "title": "Interior Design",
+    "description": "Visualize interior design ideas with AI for homes, offices, retail, and hospitality spaces. Generate layout, furniture, and styling options from simple prompts or reference photos, perfect for moodboards, client pitches, and personal projects.",
+    "inputPlaceholder": "Upload a room photo or describe the space and desired style",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload a room image or describe the space",
+        "description": "Provide photos or a clear description with dimensions and constraints like windows, doors, and fixed elements."
+      },
+      {
+        "title": "Specify style, function, and budget level",
+        "description": "Choose aesthetic directions such as Scandi, minimal, industrial, cozy, or luxury, and clarify how the space should be used."
+      },
+      {
+        "title": "Generate AI interior design variations",
+        "description": "Run the Interior Design workflow so AI proposes multiple layouts, furniture combinations, and decor schemes that match your brief."
+      },
+      {
+        "title": "Export concepts for clients or renovation planning",
+        "description": "Use the generated visuals in proposals, renovation plans, or as inspiration when making real-world design decisions."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For anyone shaping how spaces feel and function",
+    "subtitle": "From interior designers to homeowners, see who designs rooms with AI.",
+    "audiences": [
+      {
+        "label": "Interior designers and decorators",
+        "description": "Explore multiple room concepts quickly and present varied options to clients before committing to one direction."
+      },
+      {
+        "label": "Property developers and agents",
+        "description": "Visualize potential for staging, renovations, or new developments to help stakeholders see what is possible."
+      },
+      {
+        "label": "Hospitality and retail teams",
+        "description": "Prototype guest and customer experiences with space concepts for hotels, cafes, shops, and more."
+      },
+      {
+        "label": "Homeowners and renters",
+        "description": "Plan room makeovers with clear visuals before purchasing furniture, finishes, or decor items."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Interior Design AI workflow do?",
+        "answer": "This workflow visualizes interior design ideas for homes, offices, retail, and hospitality spaces. It's an interior design generator that helps you explore room concepts, layouts, and styling options from prompts or reference photos."
+      },
+      {
+        "question": "What kind of input leads to the best interior design concepts?",
+        "answer": "Upload room photos or describe the space with dimensions, fixed elements (windows, doors, built-ins), and any constraints. Adding details about desired style, function, and rough budget levels helps AI propose more relevant room concepts."
+      },
+      {
+        "question": "Can this workflow replace a professional interior designer?",
+        "answer": "It doesn't replace professional designers, but it speeds up early-stage exploration, moodboards, and option generation. Many designers use AI concepts as a starting point, then refine layouts, finishes, and product selections themselves."
+      },
+      {
+        "question": "What types of projects are a good fit for AI interior design?",
+        "answer": "Typical use cases include moodboards and pitch visuals for client presentations, exploring directions for home makeovers, prototyping hospitality and retail spaces, and giving property developers or agents quick makeover ideas."
+      },
+      {
+        "question": "Can I generate multiple variations for the same room?",
+        "answer": "Yes. Keep the same base space and try different styles, functions, or layouts—like turning a spare room into an office, guest space, or hobby room—by adjusting your prompts and running multiple variations."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Each generation consumes credits based on the underlying models and configuration. A practical workflow is to explore a few directions at lower cost first, then create higher-fidelity concepts for the routes you or your clients like most."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Interior Design – AI Interior Design Generator",
+      "description": "Visualize interior design concepts and makeover ideas with AI for residential, commercial, and hospitality spaces."
+    },
+    "softwareApplication": {
+      "name": "AI Interior Design Generator",
+      "description": "AI workflow that generates interior design concepts and room layouts from prompts and reference photos."
+    },
+    "faqPage": {
+      "name": "Interior Design – FAQ"
+    }
+  }
+}

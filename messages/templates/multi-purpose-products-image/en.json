@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Multi-Purpose Products Image – AI Product Photo Generator | OpenCreator",
+    "description": "Generate complete product image sets with AI—detail shots, model lifestyle scenes, and still life photography from a single reference photo. Powered by Nano Banana Pro for e-commerce and brand marketing.",
+    "keywords": [
+      "multi-purpose product images",
+      "ai product photo generator",
+      "product detail shots",
+      "lifestyle product photography",
+      "still life product photos",
+      "ecommerce image set",
+      "ai product photography",
+      "product scene generator",
+      "model lifestyle photos",
+      "brand product images",
+      "commercial product photography",
+      "ai product image creator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#product_photography", "#brand"],
+    "title": "Multi-Purpose Products Image",
+    "description": "Generate a complete set of product images from a single reference photo—detail close-ups, model lifestyle scenes, and professional still life photography. GPT-5.2 analyzes your product and creates optimized prompts, while Nano Banana Pro generates high-quality images for e-commerce listings and brand marketing.",
+    "inputPlaceholder": "Upload your product reference image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload product reference image",
+        "description": "Provide a single product photo as reference. The AI will analyze its features, colors, and style to generate multiple types of product imagery while maintaining strict consistency."
+      },
+      {
+        "title": "AI generates detail shot prompts",
+        "description": "Nano Banana Pro creates 3 professional detail close-up images—shoulder strap views, surface textures, and side angles that showcase craftsmanship and material quality."
+      },
+      {
+        "title": "Generate model lifestyle scenes",
+        "description": "GPT-5.2 creates 3 lifestyle scene prompts featuring young Chinese models in artistic, real-world settings. Nano Banana Pro then generates these editorial-style photos."
+      },
+      {
+        "title": "Create still life product photos",
+        "description": "GPT-5.2 generates 3 high-end still life prompts with sophisticated backgrounds and lighting. The final output includes commercial-grade product photography ready for brand use."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for e-commerce brands and product marketers",
+    "subtitle": "From fashion brands to product photographers, see who creates product images with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce brands",
+        "description": "Generate complete product image sets for online listings—from detail shots to lifestyle photos—without multiple photoshoots or expensive production."
+      },
+      {
+        "label": "Fashion and accessories brands",
+        "description": "Create editorial-quality product photography featuring models in lifestyle settings, elevating your brand presentation across all channels."
+      },
+      {
+        "label": "Product marketers",
+        "description": "Produce diverse visual assets for campaigns, social media, and advertising from a single product reference, maximizing content variety efficiently."
+      },
+      {
+        "label": "Small business owners",
+        "description": "Access professional-grade product photography without hiring photographers, stylists, or renting studios—scale your visual content affordably."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Multi-Purpose Products Image workflow?",
+        "answer": "This AI-powered workflow generates a complete set of product images from a single reference photo: 3 detail close-ups, 3 model lifestyle scenes, and 3 still life photos—9 professional images total for e-commerce and brand marketing."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses GPT-5.2 for intelligent prompt generation based on product analysis, and Nano Banana Pro for high-quality image generation that maintains product consistency across all output types."
+      },
+      {
+        "question": "What kind of detail shots are generated?",
+        "answer": "The workflow creates close-up images showcasing different product angles and features—like shoulder straps, surface textures, and side profiles—with soft studio lighting and professional photography quality."
+      },
+      {
+        "question": "How do the model lifestyle scenes work?",
+        "answer": "GPT-5.2 generates scene descriptions featuring young models in artistic, real-world settings that match your product's style. The scenes have depth and atmosphere without being overly staged."
+      },
+      {
+        "question": "What makes the still life photos special?",
+        "answer": "The still life images are generated with high-end brand advertising aesthetics—sophisticated backgrounds, professional lighting, and compositions suitable for lookbooks and marketing campaigns."
+      },
+      {
+        "question": "Will my product look consistent across all images?",
+        "answer": "Yes. Nano Banana Pro strictly follows the reference image for product shape, proportions, colors, and design details. The workflow explicitly prevents any modification or stylization of the product itself."
+      },
+      {
+        "question": "What products work best with this workflow?",
+        "answer": "The workflow excels with fashion accessories, bags, apparel, and lifestyle products. It's optimized for items that benefit from detail shots, model presentation, and still life photography."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Credits are consumed based on the AI models used. With 9 images generated per run using Nano Banana Pro (50% discount), it's highly cost-effective compared to traditional product photography."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Multi-Purpose Products Image – AI Product Photo Generator",
+      "description": "Generate complete product image sets with AI including detail shots, model scenes, and still life photography."
+    },
+    "softwareApplication": {
+      "name": "Multi-Purpose Products Image AI Generator",
+      "description": "AI-powered product photography tool for generating detail shots, lifestyle scenes, and still life images from a single reference photo."
+    },
+    "faqPage": {
+      "name": "Multi-Purpose Products Image – FAQ"
+    }
+  }
+}

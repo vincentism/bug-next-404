@@ -1,0 +1,185 @@
+{
+  "model": {
+    "meta": {
+      "title": "Hailuo Video 02 AI 视频生成器 | 电影级质量 | OpenCreator",
+      "description": "使用 MiniMax 的 Hailuo Video 02 创建超逼真的电影级 AI 视频。专业级视频生成，具备流畅运动、丰富细节和可信的物理效果。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Hailuo Video 02",
+      "tagline": "超逼真电影级视频",
+      "description": "体验 MiniMax 的 Hailuo Video 02，这是一款为需要专业级效果的创作者设计的先进 AI 视频生成模型。将图片和文本转换为动态、流畅的视频内容，具有卓越的真实感。",
+      "badge": "最佳性价比",
+      "ctaText": "免费试用 Hailuo 02",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "duration": "6 秒时长",
+        "resolution": "768p 输出",
+        "cinematic": "电影级质量"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Hailuo Video 02 成为 AI 视频生成强大选择的原因",
+      "items": {
+        "realism": {
+          "title": "超逼真输出",
+          "description": "业界领先的真实感，每一帧都具有自然光照、精确阴影和逼真纹理。"
+        },
+        "motion": {
+          "title": "流畅运动",
+          "description": "流畅、自然的运动合成，保持一致性并避免常见的 AI 视频伪影。"
+        },
+        "physics": {
+          "title": "可信物理效果",
+          "description": "先进的物理模拟，实现逼真的物体交互、织物运动和环境效果。"
+        },
+        "prompt": {
+          "title": "强大的提示词理解",
+          "description": "出色的复杂提示词理解能力，准确将您的创意愿景转化为视频。"
+        },
+        "transitions": {
+          "title": "平滑过渡",
+          "description": "无缝的场景过渡和相机移动，感觉自然而专业。"
+        },
+        "cost": {
+          "title": "高性价比",
+          "description": "以有竞争力的价格获得高质量效果，让专业视频生成人人可及。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Hailuo Video 02 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "product": {
+          "title": "产品展示",
+          "description": "电商视频",
+          "useCase": "将产品图片转换为引人入胜的视频展示，用于在线商店。"
+        },
+        "fashion": {
+          "title": "时尚展示",
+          "description": "服装营销",
+          "useCase": "创建具有逼真织物运动和模特姿势的动态时尚视频。"
+        },
+        "food": {
+          "title": "食品产品广告",
+          "description": "食品饮料",
+          "useCase": "具有逼真纹理和蒸汽效果的诱人食品视频。"
+        },
+        "lifestyle": {
+          "title": "生活方式内容",
+          "description": "社交媒体",
+          "useCase": "用于社交媒体营销和品牌故事的真实生活方式视频。"
+        },
+        "character": {
+          "title": "角色动画",
+          "description": "创意内容",
+          "useCase": "通过富有表现力的动作和自然互动让角色栩栩如生。"
+        },
+        "commercial": {
+          "title": "商业广告",
+          "description": "品牌广告",
+          "useCase": "具有电影级质量和品牌一致性的专业商业内容。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Hailuo Video 02 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "aspectRatios": "宽高比",
+          "promptLength": "提示词长度"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "physicsSimulation": "物理模拟",
+          "motionQuality": "运动质量",
+          "lightingEffects": "光照效果",
+          "textureDetail": "纹理细节"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Hailuo Video 02 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "maxDuration": "最大时长",
+        "resolution": "分辨率",
+        "physicsSimulation": "物理模拟",
+        "motionQuality": "运动质量",
+        "costEfficiency": "性价比",
+        "promptAdherence": "提示词遵循"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "description": "超级逼真，电影级质感",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "每次生成消耗积分。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Hailuo Video 02？由谁开发？",
+          "answer": "Hailuo Video 02 是由 MiniMax 开发的先进 AI 视频生成模型。它旨在将文本描述和图片转换为具有卓越真实感和流畅运动的短电影级视频片段。"
+        },
+        "1": {
+          "question": "我可以用 Hailuo Video 02 创建什么类型的内容？",
+          "answer": "Hailuo Video 02 擅长创建电商产品视频、时尚内容、食品广告、生活方式视频、角色动画和商业广告。它在生成逼真的人物动作和产品展示方面特别出色。"
+        },
+        "2": {
+          "question": "Hailuo Video 02 视频可以有多长？",
+          "answer": "Hailuo Video 02 以 768p 分辨率生成最长 6 秒的视频。这个时长针对社交媒体内容和产品展示进行了优化。"
+        },
+        "3": {
+          "question": "Hailuo Video 02 与其他 AI 视频模型有什么不同？",
+          "answer": "Hailuo Video 02 以其超逼真的输出、流畅的运动质量和出色的性价比而脱颖而出。它专注于精确性，保持角色逼真和一致，同时准确遵循相机指令。"
+        },
+        "4": {
+          "question": "Hailuo Video 02 支持文本和图片输入吗？",
+          "answer": "是的！Hailuo Video 02 支持文生视频和图生视频两种生成方式。您可以提供详细的文本提示、参考图片，或结合两者以获得最佳效果。"
+        },
+        "5": {
+          "question": "Hailuo Video 02 的定价与其他模型相比如何？",
+          "answer": "Hailuo Video 02 以每次生成 351 积分的有竞争力价格提供出色的性价比。它以高端模型的一小部分成本提供专业级效果，非常适合大批量内容创作。"
+        }
+      }
+    }
+  }
+}

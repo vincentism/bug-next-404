@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Food Product Ad – Appetite-Boosting Video Generator | OpenCreator",
+    "description": "Create mouth-watering food product ads with AI—close-ups, slow-motion pours, steam, and texture-rich scenes. Professional food product photography and product video maker for restaurants and CPG brands.",
+    "keywords": [
+      "food product photography",
+      "product video maker",
+      "ai commercial generator",
+      "commercial photography",
+      "product commercial photography",
+      "food ad generator",
+      "restaurant commercial maker",
+      "food marketing visuals",
+      "create food product ads with ai",
+      "professional product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#food_ads", "#branding", "#taste_visuals"],
+    "title": "Food Product Ad",
+    "description": "Create mouth-watering food product ads with AI. Generate close-up shots, slow-motion pours, steam, and texture-rich scenes that trigger appetite—perfect for CPG and restaurants.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your food product, setting, and ideal serving moment",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your food and key appeal",
+        "description": "Share cuisine type, textures, temperatures, and hero attributes (cheesy, crispy, creamy, fresh)."
+      },
+      {
+        "title": "Pick scene, plating, and camera style",
+        "description": "Choose tabletop, kitchen, restaurant, or outdoor scenarios with macro or lifestyle framing."
+      },
+      {
+        "title": "Generate AI food ad sequences",
+        "description": "Produce dynamic shots like drizzles, close-up bites, steam reveals, and ingredient highlights."
+      },
+      {
+        "title": "Export for menus, ads, and delivery apps",
+        "description": "Use assets across delivery platforms, social, DOOH, and brand websites."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands where visuals must trigger appetite",
+    "subtitle": "From CPG to restaurants, see who uses AI food ads.",
+    "audiences": [
+      {
+        "label": "Packaged food and beverage brands",
+        "description": "Communicate taste, freshness, and indulgence in every frame."
+      },
+      {
+        "label": "Restaurants and QSR chains",
+        "description": "Promote menu items with consistent, appetizing visuals across touchpoints."
+      },
+      {
+        "label": "Food delivery and meal kit services",
+        "description": "Upgrade product listings and campaigns with craveable assets."
+      },
+      {
+        "label": "Agencies and production studios",
+        "description": "Prototype and scale food campaigns without full kitchen shoots."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Food Product Ad workflow?",
+        "answer": "An AI workflow for generating appetite-boosting food ad visuals with close-ups, steam, and dynamic motion."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "CPG brands, restaurants, delivery platforms, and agencies needing craveable content quickly."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Describe food type, textures, temperature, scene, plating, and camera style preferences."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "Short, platform-ready video sequences suitable for ads, menus, and listings."
+      },
+      {
+        "question": "Can I customize scenes and pacing?",
+        "answer": "Yes. Choose kitchen, restaurant, or outdoor scenes and control macro vs. lifestyle framing and pacing."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits based on complexity and duration. Iterate within your plan and export hero clips."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Food Product Ad – Appetite-Boosting Video Generator",
+      "description": "AI-generated food ad visuals for restaurants, CPG, and delivery platforms."
+    },
+    "softwareApplication": {
+      "name": "Food Product Ad Template",
+      "description": "AI workflow that creates craveable food video sequences for campaigns."
+    },
+    "faqPage": { "name": "Food Product Ad – FAQ" }
+  }
+}

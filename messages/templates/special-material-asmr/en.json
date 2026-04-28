@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "AI Special Material ASMR Generator | Textures and Visual Triggers | OpenCreator",
+    "description": "Generate ASMR-style videos focused on special materials and textures with AI. Highlight distinctive surfaces, patterns, and motions for creators and brands.",
+    "keywords": [
+      "special material asmr",
+      "texture asmr videos",
+      "material-focused asmr",
+      "visual trigger asmr content",
+      "unique texture video maker",
+      "asmr textures video",
+      "experimental asmr content",
+      "unique texture videos",
+      "satisfying material clips",
+      "how to create special material asmr content with ai",
+      "ai generator for texture-based asmr videos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#asmr", "#textures", "#experimental"],
+    "title": "Special Material ASMR",
+    "description": "Generate ASMR videos focused on unusual, rare, or experimental materials—metal shavings, kinetic sand, foam, beads, gels, and more. Highlight texture, motion, and transformation to create mesmerizing clips.",
+    "inputPlaceholder": "Describe the special material and motion you want to showcase",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your special material and properties",
+        "description": "Share what it looks like, how it behaves, and what makes it satisfying (stretchy, crunchy, bouncy, etc.)."
+      },
+      {
+        "title": "Choose motion type and interaction",
+        "description": "Select poking, slicing, compressing, crumbling, pouring, or morphing as the main action."
+      },
+      {
+        "title": "Generate special material ASMR sequences",
+        "description": "Let AI produce close-up visuals that emphasize texture changes, patterns, and reactions."
+      },
+      {
+        "title": "Export for ASMR channels and experimental feeds",
+        "description": "Use clips as standalone content or as visual inserts in longer videos and campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For ASMR creators exploring new textures",
+    "subtitle": "From niche ASMR channels to experimental brands, see who uses special material content.",
+    "audiences": [
+      {
+        "label": "ASMR and satisfying video creators",
+        "description": "Keep content fresh with new, experimental material-focused series built around unique textures."
+      },
+      {
+        "label": "Material science and education channels",
+        "description": "Visualize how different materials behave in an engaging, sensory way."
+      },
+      {
+        "label": "Creative studios and agencies",
+        "description": "Use unique material visuals as abstract backgrounds, branding assets, or conceptual motion studies."
+      },
+      {
+        "label": "Product and R&D teams",
+        "description": "Communicate material properties and innovations through close-up visual motion."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Special Material ASMR workflow?",
+        "answer": "Special Material ASMR is an AI workflow for generating ASMR-style videos focused on unusual or distinctive materials and textures. It highlights visually interesting surfaces and motions."
+      },
+      {
+        "question": "Who is Special Material ASMR designed for?",
+        "answer": "Special Material ASMR is designed for ASMR creators, material and design-focused accounts, brands that use distinctive packaging or product materials, and experimental content creators."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "You describe the special material you want to feature—such as metallic foil, sand, foam, fabric, or other textures—and the type of motion or interaction you want to see."
+      },
+      {
+        "question": "What kind of output does this workflow create?",
+        "answer": "The workflow generates close-up ASMR-style visuals that emphasize unique textures, patterns, and motion on special materials."
+      },
+      {
+        "question": "Where can I use Special Material ASMR clips?",
+        "answer": "You can use them in ASMR feeds, brand storytelling around product materials, design showcases, or as visually interesting B-roll in campaigns."
+      },
+      {
+        "question": "Does this workflow include audio?",
+        "answer": "The main focus is on visual texture and motion. You can layer in audio separately for full ASMR experiences where needed."
+      },
+      {
+        "question": "How do credits and pricing work for Special Material ASMR?",
+        "answer": "Special Material ASMR uses AI video models that consume credits each time you generate clips. You can explore multiple material ideas and scale those that fit your content strategy."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Special Material ASMR Generator | Textures and Visual Triggers",
+      "description": "Create AI-generated ASMR clips that focus on special materials and textures for visual triggers and design storytelling."
+    },
+    "softwareApplication": {
+      "name": "Special Material ASMR Workflow Template",
+      "description": "AI workflow for creators and brands to generate special material ASMR visuals highlighting unique textures."
+    },
+    "faqPage": {
+      "name": "Special Material ASMR – FAQ"
+    }
+  }
+}

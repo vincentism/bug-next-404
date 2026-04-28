@@ -1,0 +1,170 @@
+{
+  "model": {
+    "meta": {
+      "title": "Qwen Multi-Angle Image Generator | AI Camera Angle Control | OpenCreator",
+      "description": "Generate the same scene from new camera angles with Qwen Image Edit. Control horizontal rotation (0-360°), vertical tilt (-30° to 90°), and zoom for AI multi-view synthesis.",
+      "keywords": [
+        "Qwen Image Edit Multiple Angles",
+        "Qwen multi-view",
+        "multi-angle image generator",
+        "multi-view image generator",
+        "AI camera angle control",
+        "image viewpoint generation",
+        "novel view synthesis",
+        "360 product view",
+        "OpenCreator angle control"
+      ]
+    },
+    "hero": {
+      "modelName": "Qwen Multi-Angle",
+      "tagline": "AI Camera Angle Control",
+      "description": "Qwen Image Edit Multiple Angles uses a fine-tuned Qwen architecture with LoRA to generate new perspectives of any image. Control horizontal rotation, vertical tilt, and zoom to produce consistent multi-view outputs from a single input photo.",
+      "badge": "New",
+      "ctaText": "Try Multi-Angle Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "angleControl": "Angle Control",
+        "multiView": "Multi-View",
+        "fullRotation": "360° Rotation",
+        "zoomControl": "Zoom Control"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Precise camera angle manipulation powered by Qwen multi-view synthesis",
+      "items": {
+        "horizontal": {
+          "title": "360° Horizontal Rotation",
+          "description": "Rotate the virtual camera freely around the subject from 0° to 360°. Generate front, side, back, and any azimuth angle from a single input."
+        },
+        "vertical": {
+          "title": "Vertical Tilt Control",
+          "description": "Adjust elevation from -30° (slight low angle) to 90° (directly overhead). Perfect for top-down flat-lays or dramatic perspective shots."
+        },
+        "zoom": {
+          "title": "10-Level Zoom Control",
+          "description": "Fine-tune focal distance with 10 zoom levels, producing outputs from wide establishing shots to tight close-ups without cropping."
+        },
+        "consistency": {
+          "title": "Subject Consistency",
+          "description": "Maintains visual identity, lighting, and detail coherence across different generated viewpoints of the same subject."
+        },
+        "preview3d": {
+          "title": "Interactive 3D Preview",
+          "description": "Built-in 3D wireframe globe preview lets you drag to orbit and scroll to zoom, seeing your camera position in real-time before generating."
+        },
+        "workflow": {
+          "title": "Canvas Workflow Integration",
+          "description": "Works as a native atom in OpenCreator's node-based canvas. Chain with background swap, upscale, video generation, and more."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Multi-angle outputs generated from single input images",
+      "items": {
+        "multiGrid": {
+          "title": "Multi-Angle Grid",
+          "description": "9 perspectives from one photo",
+          "useCase": "Generate a complete multi-angle set showing your subject from every perspective in a single workflow run."
+        },
+        "topDown": {
+          "title": "Top-Down View",
+          "description": "Vertical 90° overhead",
+          "useCase": "Perfect for flat-lay product photography, architectural plans, and catalogue shots that require a bird's-eye perspective."
+        },
+        "leftRight": {
+          "title": "Horizontal Sweep",
+          "description": "Left-to-right rotation",
+          "useCase": "Show products from multiple side angles for e-commerce listings and 360° product galleries."
+        },
+        "lowAngle": {
+          "title": "Low-Angle Close-Up",
+          "description": "Upward tilt + zoom",
+          "useCase": "Create dramatic, editorial-style close-ups with slight upward tilt for fashion and luxury product photography."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Model capabilities and parameters",
+      "categories": {
+        "angleControl": {
+          "title": "Angle Control",
+          "horizontalRange": "Horizontal Range",
+          "verticalRange": "Vertical Range",
+          "zoomLevels": "Zoom Levels",
+          "loraScale": "LoRA Scale"
+        },
+        "inputOutput": {
+          "title": "Input / Output",
+          "inputFormats": "Input Format",
+          "outputFormat": "Output Format",
+          "resolution": "Output Resolution"
+        },
+        "model": {
+          "title": "Model Info",
+          "architecture": "Architecture",
+          "provider": "Provider",
+          "apiKey": "API Endpoint"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "How Qwen Multi-Angle compares to other image editing approaches",
+      "featureLabel": "Feature",
+      "recommended": "Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "angleControl": "Angle Control",
+        "fullRotation": "360° Rotation",
+        "verticalTilt": "Vertical Tilt",
+        "zoomControl": "Zoom Control",
+        "subjectConsistency": "Subject Consistency",
+        "batchWorkflow": "Batch Workflow"
+      }
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Simple, credit-based pricing",
+      "description": "Each multi-angle generation costs credits based on resolution. Subscribe to get more credits per month.",
+      "note": "36 credits per generation. Subscribe to save more.",
+      "viewFullPricing": "View Full Pricing",
+      "planSectionTitle": "Plans",
+      "planCreditsPerMonthLabel": "credits/month",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Qwen Multi-Angle and how does it work?",
+          "answer": "Qwen Multi-Angle uses a fine-tuned Qwen architecture with LoRA trained specifically for novel view synthesis. Given a single input image, it generates the same scene from a new camera angle defined by horizontal rotation (0-360°), vertical tilt (-30° to 90°), and zoom level (0-10)."
+        },
+        "1": {
+          "question": "What types of images work best?",
+          "answer": "Clear, well-lit photos of single subjects work best — products on white or simple backgrounds, portraits with clean lighting, or objects with distinct shapes. Avoid extremely cluttered backgrounds or images where the subject is heavily occluded."
+        },
+        "2": {
+          "question": "Can I generate a full 360° product view?",
+          "answer": "Yes. Chain multiple Angle Control nodes with different horizontal angles (e.g. 0°, 45°, 90°, 135°, 180°, 225°, 270°, 315°) in an OpenCreator workflow to produce a complete rotation set from a single input photo."
+        },
+        "3": {
+          "question": "How accurate is the generated viewpoint?",
+          "answer": "For most subjects, the angle accuracy is within a few degrees of the target. Complex subjects with many occluded details (like the back of a person only shown from the front) will involve some creative interpretation by the model."
+        },
+        "4": {
+          "question": "How does this compare to 3D rendering?",
+          "answer": "Unlike 3D rendering which requires 3D models, textures, and a rendering pipeline, Qwen Multi-Angle works directly from 2D photos. It's faster and requires no 3D expertise, though it may not match the precision of true 3D renders for complex mechanical objects."
+        },
+        "5": {
+          "question": "Can I combine it with other OpenCreator features?",
+          "answer": "Yes. The Angle Control atom works within OpenCreator's node-based canvas. Connect it with Background Swap, Image Upscale, Image-to-Video, Virtual Try-On, or any other atom to build comprehensive creative workflows."
+        }
+      }
+    }
+  }
+}

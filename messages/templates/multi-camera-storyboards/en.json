@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Same-Scene Multi-camera Storyboards – AI Shot Variation Generator | OpenCreator",
+    "description": "Generate multiple camera angle variations from a single scene. AI creates diverse shot compositions while maintaining scene consistency for film and video production.",
+    "keywords": [
+      "multi-camera storyboard",
+      "shot variation generator",
+      "camera angle ai",
+      "scene coverage tool",
+      "film shot planning",
+      "multi-angle storyboard",
+      "video production ai",
+      "cinematography tool"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#multi_camera", "#cinematography", "#shot_coverage"],
+    "title": "Same-Scene Multi-camera Storyboards",
+    "description": "Generate multiple camera angle variations from a single scene. Upload your reference image and AI creates diverse shot compositions—wide shots, medium shots, close-ups, and creative angles—all maintaining perfect scene consistency. Essential for filmmakers planning comprehensive shot coverage.",
+    "inputPlaceholder": "Upload your scene reference",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your scene reference",
+        "description": "Provide a single scene image. Nano Banana Pro analyzes the environment, subjects, lighting, and spatial relationships to understand the scene context."
+      },
+      {
+        "title": "AI generates camera variations",
+        "description": "The workflow creates multiple camera angle variations: establishing shots, coverage angles, detail shots, and creative perspectives—all from the same scene."
+      },
+      {
+        "title": "Maintain scene consistency",
+        "description": "All generated shots preserve the original scene's lighting, color grading, subject appearance, and environmental details for seamless integration."
+      },
+      {
+        "title": "Export shot coverage set",
+        "description": "Download a complete set of camera angle variations ready for shot planning, client presentations, or production reference."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for production professionals",
+    "subtitle": "From directors to cinematographers, see who plans shots with AI.",
+    "audiences": [
+      {
+        "label": "Directors & cinematographers",
+        "description": "Explore shot coverage options before production. Visualize how different camera positions will capture your scene and plan your shot list efficiently."
+      },
+      {
+        "label": "Video producers",
+        "description": "Create comprehensive shot coverage plans for your productions. Present multiple angle options to clients and stakeholders before filming."
+      },
+      {
+        "label": "Commercial directors",
+        "description": "Develop polished storyboards with complete coverage for advertising productions. Show clients exactly how their product will be captured."
+      },
+      {
+        "label": "Film students",
+        "description": "Learn cinematography principles by exploring how different camera angles affect storytelling. Practice shot planning with AI-generated variations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Multi-camera Storyboards workflow?",
+        "answer": "This AI workflow generates multiple camera angle variations from a single scene reference image. It creates diverse shot compositions while maintaining perfect consistency in lighting, subjects, and environment across all variations."
+      },
+      {
+        "question": "What types of camera angles does it generate?",
+        "answer": "The workflow creates a comprehensive range: establishing wide shots, medium coverage shots, close-ups on subjects, over-the-shoulder angles, low angles, high angles, and creative perspectives—all from your single reference scene."
+      },
+      {
+        "question": "How does it maintain scene consistency?",
+        "answer": "Nano Banana Pro analyzes your reference image to understand all scene elements—lighting direction, color palette, subject details, and spatial layout—then preserves these elements across all generated camera angle variations."
+      },
+      {
+        "question": "What AI model powers this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for generating camera angle variations while maintaining visual consistency across all shots in the scene coverage set."
+      },
+      {
+        "question": "How many angle variations can I generate?",
+        "answer": "You can generate multiple camera angle variations in a single workflow run. The number depends on your needs—typically 6-12 variations provide comprehensive scene coverage."
+      },
+      {
+        "question": "Is this useful for actual film production?",
+        "answer": "Yes, the generated storyboards serve as excellent pre-production references. They help plan shot lists, communicate vision to crew members, and ensure comprehensive coverage during actual filming."
+      },
+      {
+        "question": "Can I use this for commercial projects?",
+        "answer": "Absolutely. The generated shot variations can be used for commercial film productions, advertising storyboards, music video planning, and client presentations."
+      },
+      {
+        "question": "What makes this different from regular storyboard generation?",
+        "answer": "Unlike script-to-storyboard workflows, this focuses on exploring camera angle variations within a single scene. It's designed for shot coverage planning rather than narrative sequence visualization."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Same-Scene Multi-camera Storyboards – AI Shot Variation Generator",
+      "description": "Generate multiple camera angle variations from a single scene with AI-powered shot coverage planning."
+    },
+    "softwareApplication": {
+      "name": "Multi-camera Storyboard Generator",
+      "description": "AI-powered tool for generating diverse camera angle variations while maintaining scene consistency."
+    },
+    "faqPage": {
+      "name": "Same-Scene Multi-camera Storyboards – FAQ"
+    }
+  }
+}

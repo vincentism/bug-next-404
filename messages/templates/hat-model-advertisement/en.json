@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Hat Model Advertisement - AI Fashion Product Ad Workflow | OpenCreator",
+    "description": "Generate hat model ad visuals with AI. Combine product image input, text guidance, and creative generation to produce ecommerce-ready fashion assets.",
+    "keywords": [
+      "hat mockup",
+      "hat advertisement",
+      "hat model ad",
+      "ai product photography",
+      "fashion product photography",
+      "ecommerce fashion ads",
+      "headwear marketing",
+      "ai fashion ad generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Fashion Ad",
+    "tags": ["#ecommerce", "#banana_pro", "#veo_3_1"],
+    "title": "Hat Model Advertisement",
+    "description": "Build model-based hat ad creatives from one product image plus text direction. This workflow combines prompt generation, image generation, and optional motion-ready steps for fashion campaigns.",
+    "inputPlaceholder": "Upload a hat image and enter product direction",
+    "ctaText": "Create Hat Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload the hat product image",
+        "description": "Provide your product reference so the workflow can preserve shape, color, and signature design elements."
+      },
+      {
+        "title": "Add product and style instructions",
+        "description": "Enter product name and desired pose or styling goals. Text-generation nodes convert your brief into production-ready prompts."
+      },
+      {
+        "title": "Generate model ad visuals",
+        "description": "Image generation nodes create campaign frames with model styling, composition control, and fashion-forward presentation."
+      },
+      {
+        "title": "Export for ecommerce and social",
+        "description": "Use the outputs for listing creatives, seasonal campaign banners, and social marketing assets."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For fashion teams that need fast campaign visuals",
+    "subtitle": "From marketplace teams to brand studios, create headwear ads without a full shoot pipeline.",
+    "audiences": [
+      {
+        "label": "Hat and headwear brands",
+        "description": "Turn product samples into polished model campaigns with less dependency on studio logistics."
+      },
+      {
+        "label": "Marketplace sellers",
+        "description": "Create clearer product storytelling visuals that improve listing quality and CTR."
+      },
+      {
+        "label": "Fashion marketers",
+        "description": "Test multiple creative directions quickly by changing prompts and styling instructions."
+      },
+      {
+        "label": "Small creative teams",
+        "description": "Ship visual campaigns faster without hiring large production crews for every drop."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Hat Model Advertisement workflow?",
+        "answer": "It is a fashion ad template that combines product image input and text instructions to generate model-based hat campaign visuals."
+      },
+      {
+        "question": "What do I need to prepare before running it?",
+        "answer": "Prepare at least one clear hat product image and a short text brief describing style, model posture, or campaign mood."
+      },
+      {
+        "question": "Can I control the ad style with prompts?",
+        "answer": "Yes. The workflow includes text-generation steps so you can refine tone, composition, and styling direction before final image generation."
+      },
+      {
+        "question": "Is this only for hats?",
+        "answer": "The template is optimized for hats and headwear, but you can adapt it for other accessory categories by changing references and prompts."
+      },
+      {
+        "question": "Can I create multiple versions for A/B testing?",
+        "answer": "Absolutely. Swap text instructions or product references to quickly generate variant sets for campaign testing."
+      },
+      {
+        "question": "Can outputs be used commercially?",
+        "answer": "Yes, this workflow is built for ecommerce and brand marketing use. Make sure your input assets and final usage comply with platform and model policies."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Hat Model Advertisement",
+      "description": "Generate AI-powered hat model ad visuals for ecommerce and fashion campaigns."
+    },
+    "softwareApplication": {
+      "name": "Hat Model Advertisement Workflow",
+      "description": "AI workflow for creating model-based fashion ad creatives from hat product images."
+    },
+    "faqPage": {
+      "name": "Hat Model Advertisement - FAQ"
+    }
+  }
+}

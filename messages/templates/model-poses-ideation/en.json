@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "Model Poses Ideation – AI Pose Reference Generator | OpenCreator",
+    "description": "Generate creative model pose ideas with AI for fashion, beauty, fitness, and portrait shoots. Build pose libraries and shot lists before you enter the studio.",
+    "keywords": [
+      "model pose ideas",
+      "posing reference generator",
+      "fashion pose ai",
+      "photoshoot pose inspiration",
+      "model posing guide",
+      "generate model pose ideas with ai",
+      "ai tool for fashion and portrait posing references"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#poses", "#fashion", "#creative_direction"],
+    "title": "Model Poses Ideation",
+    "description": "Generate creative model posing ideas with AI for fashion, beauty, fitness, and portrait shoots. Explore compositions and body language that highlight garments, products, and stories before setting foot in the studio.",
+    "inputPlaceholder": "Describe your shoot, model type, and product focus—or upload a reference",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your shoot brief and constraints",
+        "description": "Share wardrobe, mood, framing (full body, half-body, close-up), and any movement limitations so the workflow understands your needs."
+      },
+      {
+        "title": "Choose environment and camera angle",
+        "description": "Specify studio, street, nature, or interiors, plus angles like eye-level, low-angle, or top-down to frame how poses should read."
+      },
+      {
+        "title": "Generate AI model pose references",
+        "description": "Run the workflow to create pose variations that emphasize clothing, accessories, body lines, or product features."
+      },
+      {
+        "title": "Select favorites and export for shot lists",
+        "description": "Build pose libraries and shot lists you can share with photographers, models, and clients before and during the shoot."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams that direct people in front of the camera",
+    "subtitle": "From photographers to stylists, see who ideates poses with AI.",
+    "audiences": [
+      {
+        "label": "Fashion and beauty photographers",
+        "description": "Prepare pose options that align with brand mood, lighting setups, and campaign storylines."
+      },
+      {
+        "label": "Stylists and art directors",
+        "description": "Visualize how outfits and styling read in different poses before committing to shoot days."
+      },
+      {
+        "label": "Fitness and sports brands",
+        "description": "Generate dynamic, performance-focused poses that feel authentic to athletes and activewear."
+      },
+      {
+        "label": "Modeling agencies and talent",
+        "description": "Use pose ideas for comp cards, training, and portfolio-building across multiple looks."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Model Poses Ideation AI workflow?",
+        "answer": "Model Poses Ideation is an AI workflow that generates pose ideas and visual references for fashion, beauty, fitness, and portrait shoots. It focuses on compositions and body language that highlight garments, products, or stories before you step into the studio."
+      },
+      {
+        "question": "What kind of input should I provide for pose generation?",
+        "answer": "Start with a clear shoot brief: wardrobe, mood, framing (full body, half-body, close-up), and any movement limitations. You can also describe model type, product focus, and share reference ideas to guide the AI."
+      },
+      {
+        "question": "Can I upload reference images to guide the poses?",
+        "answer": "Yes. The workflow is designed for text plus optional image references. Uploading sample poses, campaign visuals, or inspiration images helps the AI propose poses that stay closer to your desired direction."
+      },
+      {
+        "question": "Who is this template best suited for?",
+        "answer": "Model Poses Ideation is built for fashion and beauty photographers, stylists and art directors, fitness and sports brands, and modeling agencies who need structured pose ideas for campaigns and shoots."
+      },
+      {
+        "question": "Does the workflow output final shoot-ready images?",
+        "answer": "The goal is to create pose references and visual guides—not final campaign imagery. You use the outputs as a posing library and shot planning tool for real-world photo or video production."
+      },
+      {
+        "question": "How can I use the pose references on set?",
+        "answer": "You can export poses into shot lists, print them as reference boards, or view them on devices during the shoot to communicate ideas with photographers, models, and clients."
+      },
+      {
+        "question": "How are credits used when running Model Poses Ideation?",
+        "answer": "Each generation consumes credits depending on the underlying image models and workflow steps. You can start with smaller pose batches to explore directions before generating larger pose libraries."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Model Poses Ideation – AI Pose Reference Generator",
+      "description": "Generate pose references and shot ideas for fashion, beauty, fitness, and portrait work using AI."
+    },
+    "softwareApplication": {
+      "name": "Model Poses Ideation AI Workflow Template",
+      "description": "AI-powered workflow that creates pose ideas and references from shoot briefs and creative direction."
+    },
+    "faqPage": {
+      "name": "Model Poses Ideation – FAQ"
+    }
+  }
+}

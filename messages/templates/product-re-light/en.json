@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Product Re-light – Fix and Enhance E-commerce Photos | OpenCreator",
+    "description": "Instantly fix dark, flat, or poorly lit product photos with AI re-lighting. Professional product photography services and product photo retouching services for studio-quality images.",
+    "keywords": [
+      "product photography services",
+      "professional product photography",
+      "product photo retouching services",
+      "ecommerce photo editing services",
+      "product photo editing",
+      "product photography lighting kit",
+      "diy product photography setup",
+      "ai product photography",
+      "how to take product photos",
+      "improve lighting in product photos"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#product_photography", "#lighting", "#ecommerce"],
+    "title": "Product Re-light",
+    "description": "Instantly fix dark, flat, or poorly lit product photos with AI-powered re-lighting. Make your products look studio-shot—without reshooting.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload your product photo that needs better lighting",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your existing product image",
+        "description": "Start with any product photo, even those shot in poor lighting conditions or with uneven shadows."
+      },
+      {
+        "title": "Choose lighting style and intensity",
+        "description": "Pick soft studio, dramatic spotlight, daylight, or custom lighting presets."
+      },
+      {
+        "title": "AI re-lights your product photo",
+        "description": "Automatically adjusts highlights, shadows, and reflections with correct direction and mood."
+      },
+      {
+        "title": "Review and export for listings and ads",
+        "description": "Download high-resolution, re-lit images for Amazon, Shopify, and paid ads."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands that need consistent, well-lit product photos",
+    "subtitle": "From small shops to large catalogs, see who uses AI re-lighting.",
+    "audiences": [
+      {
+        "label": "E-commerce brands",
+        "description": "Upgrade existing photos to studio quality without new photoshoots."
+      },
+      {
+        "label": "Marketplace sellers",
+        "description": "Fix inconsistent lighting across listings and build trust."
+      },
+      {
+        "label": "Product photographers",
+        "description": "Save time by using AI as a first pass for lighting corrections."
+      },
+      {
+        "label": "Design and marketing teams",
+        "description": "Adapt product lighting for different campaigns and seasons quickly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Product Re-light?",
+        "answer": "An AI workflow that fixes and enhances product photo lighting for studio-quality results without reshooting."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "E-commerce brands, marketplace sellers, photographers, and design teams that need consistent lighting across catalogs."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Upload any product image and choose your preferred lighting style and intensity."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "High-resolution product images with improved lighting suitable for listings and ads."
+      },
+      {
+        "question": "Can I pick different lighting moods?",
+        "answer": "Yes. Choose soft studio, dramatic spotlight, natural daylight, or custom setups."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Each re-light pass consumes credits based on resolution and adjustments. Iterate and export within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Re-light – Fix and Enhance E-commerce Photos",
+      "description": "AI-powered re-lighting to improve product photo quality for e-commerce."
+    },
+    "softwareApplication": {
+      "name": "Product Re-light Template",
+      "description": "AI workflow that re-lights product photos to studio quality."
+    },
+    "faqPage": { "name": "Product Re-light – FAQ" }
+  }
+}

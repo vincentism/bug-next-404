@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "YouTube Thumbnail – AI YouTube Thumbnail Generator | OpenCreator",
+    "description": "Generate high-CTR YouTube thumbnails from video ideas with AI and optimize cover designs for clicks and retention.",
+    "keywords": [
+      "ai youtube thumbnail generator",
+      "youtube thumbnail maker",
+      "thumbnail design for youtube",
+      "high ctr thumbnail design",
+      "video cover image creator",
+      "youtube click through thumbnail",
+      "social video thumbnail generator",
+      "gaming thumbnail maker ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#design", "#visual_art"],
+    "title": "YouTube Thumbnail",
+    "description": "Simply input your YouTube video description, and our advanced AI will automatically generate a high-quality, eye-catching thumbnail tailored to your content.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "What's the YouTube episode about?",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your YouTube video",
+        "description": "Paste your video title, episode description, and key hook (e.g. \"before vs after\", \"10x your views\") as the workflow input."
+      },
+      {
+        "title": "Guide the thumbnail style",
+        "description": "Optionally specify colors, mood, and layout preferences such as \"bold text on the left\" or \"clean tutorial thumbnail\"."
+      },
+      {
+        "title": "Generate AI thumbnail concepts",
+        "description": "OpenCreator combines multiple AI image models to generate eye-catching thumbnail candidates tuned for YouTube feeds."
+      },
+      {
+        "title": "Pick, tweak, and export",
+        "description": "Choose your favorite design, refine prompts if needed, then export the final thumbnail for upload to YouTube or other platforms."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for creators like you",
+    "subtitle": "From tutorials to podcasts, see who gets the most value from AI-generated YouTube thumbnails.",
+    "audiences": [
+      {
+        "label": "YouTube creators & streamers",
+        "description": "Generate CTR-optimized thumbnails for tutorials, vlogs, gaming channels, and more without a designer."
+      },
+      {
+        "label": "Educators & online course creators",
+        "description": "Turn lesson descriptions into clear, professional thumbnails that make your educational content stand out."
+      },
+      {
+        "label": "Podcasters & interview shows",
+        "description": "Quickly create consistent cover images for episodes so listeners instantly recognize your brand in feeds."
+      },
+      {
+        "label": "Marketing teams & agencies",
+        "description": "Batch-generate thumbnail options for campaigns, A/B test hooks, and ship creative faster with AI."
+      },
+      {
+        "label": "Indie filmmakers & storytellers",
+        "description": "Promote short films, trailers, and behind-the-scenes content with cinematic thumbnails tailored to your genre."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the AI YouTube Thumbnail Generator template?",
+        "answer": "It's an AI workflow that creates eye-catching YouTube thumbnails from your video description or script. The goal is to help you improve click-through rates with optimized visuals."
+      },
+      {
+        "question": "What input should I prepare for thumbnails?",
+        "answer": "Provide your video title, short description, and key hook (e.g., \"10x your views,\" \"before vs after\"). You can also mention color preferences or emotions you want the thumbnail to convey."
+      },
+      {
+        "question": "Does this template follow YouTube thumbnail best practices?",
+        "answer": "The workflow is designed around common best practices such as clear subjects, bold contrast, and focused messaging. You can prompt for specific styles like \"minimalist,\" \"reaction face,\" or \"clean tutorial layout.\""
+      },
+      {
+        "question": "Can I use this for multiple platforms, not just YouTube?",
+        "answer": "Yes. Although optimized for YouTube, you can adapt the output for other platforms (e.g., course covers, video cover images) by adjusting size and cropping."
+      },
+      {
+        "question": "Will the AI add text to the thumbnail?",
+        "answer": "You can request text such as short titles or key phrases in your prompts. For precise typography and brand fonts, you can refine the exported thumbnail in your design tool."
+      },
+      {
+        "question": "How fast can I generate thumbnails for a batch of videos?",
+        "answer": "Single thumbnails typically render in seconds to a couple of minutes. For batches, you can run multiple prompts and then select the best thumbnails to reuse or modify."
+      },
+      {
+        "question": "How are credits used for the YouTube thumbnail workflow?",
+        "answer": "Each thumbnail generation consumes credits based on the image model and resolution. Because thumbnails are relatively small, this template is usually very credit-efficient."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "YouTube Thumbnail – AI YouTube Thumbnail Generator",
+      "description": "Generate high-converting YouTube thumbnails from your video description using AI."
+    },
+    "softwareApplication": {
+      "name": "AI YouTube Thumbnail Generator Workflow",
+      "description": "AI workflow that turns video descriptions into eye-catching YouTube thumbnails."
+    },
+    "faqPage": {
+      "name": "AI YouTube Thumbnail Generator – FAQ"
+    }
+  }
+}

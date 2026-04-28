@@ -1,0 +1,70 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@test/*": [
+        "./test/*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "src/app/**/*.ts",
+    "src/app/**/*.tsx",
+    "src/assets/**/*.svg",
+    "src/components/LazyTrackers.tsx",
+    "src/components/UTMTracker.tsx",
+    "src/components/blog/**/*.ts",
+    "src/components/blog/**/*.tsx",
+    "src/components/landing/**/*.ts",
+    "src/components/landing/**/*.tsx",
+    "src/components/openclaw/**/*.ts",
+    "src/components/openclaw/**/*.tsx",
+    "src/components/providers/minimal-providers.tsx",
+    "src/components/providers/providers-router.tsx",
+    "src/components/seo/**/*.ts",
+    "src/components/seo/**/*.tsx",
+    "src/components/translation-detector.tsx",
+    "src/components/ui/pageLoading.tsx",
+    "src/global.d.ts",
+    "src/i18n/**/*.ts",
+    "src/lib/app-url.ts",
+    "src/lib/blog.ts",
+    "src/lib/i18n-link.ts",
+    "src/lib/image-cdn.ts",
+    "src/lib/region.ts",
+    "src/lib/seo/**/*.ts",
+    "src/lib/utils.ts",
+    "src/types/**/*.d.ts",
+    "src/types/pricing.ts",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

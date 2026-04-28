@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Cute Animation – AI Kids Story Illustration Generator | OpenCreator",
+    "description": "Turn children's stories into cute illustrated scenes with AI and generate visual sequences for books, classes, and content projects.",
+    "keywords": [
+      "ai story illustration generator",
+      "children story illustration",
+      "kids book illustration ai",
+      "story to picture generator",
+      "cartoon illustration generator",
+      "cute animation scene",
+      "bedtime story visuals",
+      "educational illustration ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#fun", "#visual_arts"],
+    "title": "Cute Animation",
+    "description": "Bring your children's stories to life with our enchanting AI workflow template. Simply type in your story text, and watch as our advanced AI transforms your words into vibrant, captivating illustrations that will delight young readers.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "What's the story?",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Share your story and audience",
+        "description": "Paste your children's story text or key scenes and note the age range so the workflow understands who you're creating for."
+      },
+      {
+        "title": "Describe the visual style you want",
+        "description": "Add simple style notes like \"soft watercolor\", \"colorful cartoon\", or \"cozy storybook\" so the AI can match the mood."
+      },
+      {
+        "title": "Generate cute illustrated scenes",
+        "description": "Run the Cute Animation workflow to turn your words into kid-friendly illustrations or simple animated-style sequences."
+      },
+      {
+        "title": "Refine scenes and expand your world",
+        "description": "Tweak prompts, adjust details, and reuse the workflow to build out more pages, chapters, or classroom materials over time."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for children's storytellers",
+    "subtitle": "From picture books to classroom content, see who turns kids' stories into charming visual scenes with this workflow.",
+    "audiences": [
+      {
+        "label": "Children's book authors & illustrators",
+        "description": "Quickly visualize story moments and page ideas as cute illustrated scenes before committing to full production art."
+      },
+      {
+        "label": "Educators & schools",
+        "description": "Turn lesson stories, fables, and reading exercises into engaging visuals for slides, handouts, and classroom activities."
+      },
+      {
+        "label": "Parents & storytellers",
+        "description": "Bring bedtime stories and original tales to life with custom illustrations tailored to your child's age and interests."
+      },
+      {
+        "label": "Kids media teams & studios",
+        "description": "Prototype characters, scenes, and worlds for children's content, then hand the best concepts to your art or animation team."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Cute Animation Story Generator?",
+        "answer": "It's an AI workflow that turns children's stories into cute illustrated scenes. You can use it for kids' books, educational content, or animated concept art."
+      },
+      {
+        "question": "What kind of input should I provide?",
+        "answer": "Provide your children's story text or key scenes along with age range and style notes (e.g., \"soft watercolor,\" \"colorful cartoon\"). The workflow uses this to generate matching illustrations or sequences."
+      },
+      {
+        "question": "Is this suitable for children's book illustration?",
+        "answer": "Yes. Many users treat it as an AI children story illustration tool to prototype page layouts and character designs before final production."
+      },
+      {
+        "question": "Can I ensure the visuals are friendly and age-appropriate?",
+        "answer": "You can explicitly specify that the images should be gentle, non-violent, and suitable for children. Clear content guidelines in your prompts help steer the AI toward safe, kid-friendly outputs."
+      },
+      {
+        "question": "Does the template generate full animation?",
+        "answer": "It focuses mainly on illustrated scenes and simple animated-style sequences, not full frame-by-frame animation production. You can use the output as reference or as stylized content."
+      },
+      {
+        "question": "Who can benefit from this workflow?",
+        "answer": "Authors, educators, parents, and studios who want to quickly visualize stories for children without hiring a full illustration team right away."
+      },
+      {
+        "question": "How does pricing work for cute story illustrations?",
+        "answer": "Each generated scene or sequence uses credits depending on model and length. You can test a few key scenes first, then expand to full stories once you are happy with the style."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Cute Animation – AI Kids Story Illustration Generator",
+      "description": "Turn children's stories into cute illustrated scenes with an AI-powered workflow."
+    },
+    "softwareApplication": {
+      "name": "Cute Animation AI Workflow Template",
+      "description": "AI workflow that turns children's stories and style notes into charming, kid-friendly illustrations."
+    },
+    "faqPage": {
+      "name": "Cute Animation Story Generator – FAQ"
+    }
+  }
+}

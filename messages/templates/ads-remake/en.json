@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Remake Ad Creatives with AI Video Generator | OpenCreator",
+    "description": "Rebuild winning ad styles into original brand videos with AI. Quickly produce fresh creative variations for paid social, ecommerce, and campaign refreshes.",
+    "keywords": [
+      "ai ad remake",
+      "video ad remake",
+      "ad creative remake tool",
+      "viral ad style generator",
+      "commercial remake ai",
+      "ai video ad generator",
+      "marketing creative refresh",
+      "social ad variation generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#ads_remake", "#sora2", "#marketing"],
+    "title": "Ads Remake",
+    "description": "Use top-performing ad patterns as inspiration, then generate original versions for your brand. This workflow helps teams create fast creative variations for testing and scale.",
+    "inputPlaceholder": "Upload reference ad or describe your concept",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide your ad reference",
+        "description": "Upload a reference video or describe the popular ad style you want to remake. The AI analyzes the creative elements, pacing, and visual style."
+      },
+      {
+        "title": "Customize for your brand",
+        "description": "Add your product, brand elements, and messaging. The workflow adapts the proven ad format to feature your specific content and marketing goals."
+      },
+      {
+        "title": "AI generates your remake",
+        "description": "Using Sora 2, create a high-quality video ad that captures the essence of successful advertising while featuring your unique brand and products."
+      },
+      {
+        "title": "Export for your campaigns",
+        "description": "Download your remade ad video ready for social media, digital advertising platforms, and marketing campaigns that leverage proven creative concepts."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for marketers and brands seeking proven ad formats",
+    "subtitle": "From startups to agencies, see who remakes ads with AI.",
+    "audiences": [
+      {
+        "label": "Digital marketers",
+        "description": "Quickly produce ad content inspired by viral, high-performing campaigns without the time and cost of traditional video production."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Create product ads using proven formats that drive conversions, adapted specifically for your products and target audience."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Rapidly prototype ad concepts for clients using successful creative frameworks, then refine based on feedback."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Produce scroll-stopping video content that follows trending ad formats for maximum engagement and reach."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Ads Remake?",
+        "answer": "Ads Remake is an AI workflow that helps you recreate and remaster popular advertising formats and styles. It transforms proven ad concepts into custom content for your brand using Sora 2 video generation."
+      },
+      {
+        "question": "Can I remake any ad style?",
+        "answer": "Yes. The workflow can adapt various ad styles—product demos, lifestyle ads, UGC formats, testimonial styles, and trending social media ad formats to feature your brand."
+      },
+      {
+        "question": "What AI model powers this workflow?",
+        "answer": "This workflow uses Sora 2, OpenAI's advanced video generation model, to create high-quality video ads with professional motion, transitions, and visual effects."
+      },
+      {
+        "question": "Is this for creating original ads or copies?",
+        "answer": "The workflow helps you create original ads inspired by successful formats. It adapts proven creative frameworks to your unique brand, products, and messaging—not direct copies."
+      },
+      {
+        "question": "What video formats are supported?",
+        "answer": "Generate ads optimized for various platforms: vertical for TikTok/Reels, square for Instagram, horizontal for YouTube, and custom aspect ratios for specific needs."
+      },
+      {
+        "question": "How do credits work for video generation?",
+        "answer": "Video generation with Sora 2 consumes credits based on duration and complexity. The workflow is optimized to produce high-impact advertising content efficiently."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Ads Remake – Remaster Popular Ads with AI",
+      "description": "Remake and remaster popular advertising videos with AI-powered Sora 2 video generation."
+    },
+    "softwareApplication": {
+      "name": "Ads Remake AI Generator",
+      "description": "AI-powered tool for remaking popular advertising formats and creating custom brand video ads."
+    },
+    "faqPage": {
+      "name": "Ads Remake – FAQ"
+    }
+  }
+}

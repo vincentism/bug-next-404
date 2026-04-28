@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Concept Racing Car Video Production – AI Automotive Content | OpenCreator",
+    "description": "Create stunning concept racing car videos with AI. Generate futuristic vehicle visuals, dynamic motion sequences, and cinematic automotive content for creative projects.",
+    "keywords": [
+      "concept car video",
+      "racing car animation",
+      "AI automotive video",
+      "futuristic car content",
+      "vehicle motion graphics",
+      "car video production",
+      "concept vehicle visualization",
+      "automotive CGI"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#concept_car", "#racing", "#video_production"],
+    "title": "Concept Racing Car Video Production",
+    "description": "Create stunning concept racing car videos with AI. Generate futuristic vehicle visuals with dynamic motion sequences, dramatic lighting effects, and cinematic quality. Perfect for automotive designers, content creators, and creative agencies.",
+    "inputPlaceholder": "Upload your concept car design",
+    "ctaText": "Create Racing Video"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your concept car design",
+        "description": "Provide a concept car image, sketch, or render. The AI analyzes the design's futuristic elements and racing aesthetics."
+      },
+      {
+        "title": "Generate dynamic visual frames",
+        "description": "Nano Banana Pro creates stunning still frames showcasing your concept car with dramatic angles, lighting effects, and atmospheric environments."
+      },
+      {
+        "title": "Add motion and effects",
+        "description": "The workflow transforms static frames into dynamic video sequences with speed effects, particle systems, and cinematic camera movements."
+      },
+      {
+        "title": "Export cinematic video content",
+        "description": "Download your complete concept car video ready for presentations, social media, or creative portfolios."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for automotive visionaries",
+    "subtitle": "From designers to content creators, see who creates concept car content with AI.",
+    "audiences": [
+      {
+        "label": "Automotive designers",
+        "description": "Bring concept car designs to life with dynamic video presentations that showcase your vision in motion."
+      },
+      {
+        "label": "Content creators",
+        "description": "Create eye-catching automotive content for YouTube, Instagram, and TikTok without expensive CGI production."
+      },
+      {
+        "label": "Gaming & entertainment",
+        "description": "Generate promotional content for racing games, automotive entertainment, and virtual experiences."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Deliver impressive automotive concept videos for pitches and client presentations quickly and cost-effectively."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Concept Racing Car Video workflow?",
+        "answer": "It's an AI-powered workflow that creates dynamic video content featuring concept racing cars, generating futuristic visuals with motion effects and cinematic quality."
+      },
+      {
+        "question": "What kind of car designs work best?",
+        "answer": "The workflow excels with futuristic concept cars, racing vehicles, and innovative automotive designs. It can work with sketches, renders, or existing concept art."
+      },
+      {
+        "question": "How long are the generated videos?",
+        "answer": "The workflow generates short-form video content optimized for social media and presentations, typically 5-15 seconds of high-impact footage."
+      },
+      {
+        "question": "Can I control the visual style?",
+        "answer": "Yes. You can guide the aesthetic toward different styles—cyberpunk, clean futurism, dramatic motorsport, or artistic abstract—to match your creative vision."
+      },
+      {
+        "question": "What resolution is the output?",
+        "answer": "Videos are generated in high resolution suitable for professional presentations and social media platforms, with options for different aspect ratios."
+      },
+      {
+        "question": "Can this be used for commercial projects?",
+        "answer": "Yes. The generated content is suitable for commercial use including marketing materials, client presentations, and creative portfolios."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Concept Racing Car Video Production",
+      "description": "AI-powered video production for concept racing cars and futuristic automotive content."
+    },
+    "softwareApplication": {
+      "name": "Concept Car Video Generator",
+      "description": "Create stunning concept racing car videos with AI-generated visuals and motion effects."
+    },
+    "faqPage": {
+      "name": "Concept Racing Car Video – FAQ"
+    }
+  }
+}

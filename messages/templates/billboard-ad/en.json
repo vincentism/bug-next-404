@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "title": "Billboard Ad – Outdoor Advertising Creator | OpenCreator",
+    "description": "Create professional billboard advertisements for outdoor advertising with AI. AI banner maker and AI flyer generator for high-impact, large-format ads that capture attention.",
+    "keywords": [
+      "ai banner maker",
+      "ai flyer generator",
+      "ai commercial generator",
+      "commercial photography",
+      "billboard ad creator",
+      "outdoor advertising design",
+      "large format ad generator",
+      "billboard marketing ai",
+      "create billboard ads with ai",
+      "digital billboard content"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#billboard", "#outdoor_advertising", "#large_format"],
+    "title": "Billboard Ad",
+    "description": "Create professional billboard advertisements for outdoor advertising with AI. Generate high-impact, large-format ads that capture attention and drive brand awareness. Perfect for brands and agencies needing bold outdoor campaigns.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe your billboard message and brand...",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your billboard message",
+        "description": "Provide your brand message, product details, target audience, and billboard specifications for outdoor viewing."
+      },
+      {
+        "title": "Choose billboard format and style",
+        "description": "Select from digital billboards, traditional posters, highway billboards, or urban displays with appropriate sizing."
+      },
+      {
+        "title": "Generate high-impact billboard ads",
+        "description": "Create professional billboard advertisements with bold visuals, clear messaging, and designs optimized for outdoor viewing."
+      },
+      {
+        "title": "Export for outdoor campaigns",
+        "description": "Download billboard-ready files optimized for printing, digital displays, and various outdoor advertising formats."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands making big statements outdoors",
+    "subtitle": "From agencies to businesses, see who creates billboard ads with AI.",
+    "audiences": [
+      {
+        "label": "Advertising agencies",
+        "description": "Create multiple billboard concepts quickly for client presentations and outdoor campaign pitches."
+      },
+      {
+        "label": "Brand marketing teams",
+        "description": "Design high-impact outdoor ads that maintain brand consistency across multiple billboard locations."
+      },
+      {
+        "label": "Local businesses",
+        "description": "Generate professional billboard ads without expensive design agencies for local outdoor advertising."
+      },
+      {
+        "label": "Event promoters",
+        "description": "Create attention-grabbing billboard advertisements for concerts, festivals, and special events."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Billboard Ad workflow?",
+        "answer": "Billboard Ad is an AI-powered workflow that creates professional billboard advertisements optimized for outdoor advertising. Generate high-impact, large-format ads that capture attention and drive brand awareness."
+      },
+      {
+        "question": "Who is Billboard Ad designed for?",
+        "answer": "Billboard Ad is perfect for outdoor advertising: brands, advertising agencies, marketing departments, and businesses needing large-format outdoor campaigns."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your brand message, product details, target audience, and billboard specifications. The AI creates ads optimized for outdoor viewing."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates professional billboard advertisements with bold visuals, clear messaging, and high-impact designs optimized for outdoor viewing."
+      },
+      {
+        "question": "Can I create ads for different billboard sizes?",
+        "answer": "Yes. Generate billboard ads optimized for various sizes including digital billboards, traditional posters, highway billboards, and urban displays."
+      },
+      {
+        "question": "How do credits and pricing work for Billboard Ad?",
+        "answer": "Each billboard ad generation consumes credits based on the complexity and format requirements. The cost is optimized compared to traditional billboard design agencies."
+      },
+      {
+        "question": "Is this suitable for outdoor advertising campaigns?",
+        "answer": "Absolutely. Create professional billboard ads designed specifically for outdoor viewing conditions with optimal contrast, readability, and visual impact."
+      },
+      {
+        "question": "Can I maintain brand consistency across billboards?",
+        "answer": "Yes. The workflow incorporates your brand guidelines, colors, and messaging to ensure consistent brand representation across all billboard designs."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Billboard Ad – Outdoor Advertising Creator",
+      "description": "Create professional billboard advertisements for outdoor advertising with AI to capture attention and drive brand awareness."
+    },
+    "softwareApplication": {
+      "name": "Billboard Ad AI Creator",
+      "description": "AI-powered billboard advertisement generator for creating high-impact outdoor advertising campaigns."
+    },
+    "faqPage": {
+      "name": "Billboard Ad – FAQ"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedream 5.0 AI Image Generator | Next-Gen ByteDance Image Model | OpenCreator",
+      "description": "Preview Seedream 5.0 from ByteDance - the next evolution of AI image generation with expected improvements in consistency, resolution, and creative capabilities. Join the waitlist on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Seedream 5.0",
+      "tagline": "Next-Generation AI Image Creation",
+      "description": "Seedream 5.0 is expected to build on ByteDance's Seedream 4.5 foundation with enhanced multi-reference consistency, improved text rendering, and advanced creative capabilities. This is a pre-launch page for the upcoming model.",
+      "badge": "Coming Soon",
+      "ctaText": "Join Waitlist",
+      "secondaryCtaText": "Try Seedream 4.5",
+      "capabilities": {
+        "textToImage": "Text to Image",
+        "multiReference": "Multi-Reference",
+        "resolution": "Higher Resolution",
+        "textRendering": "Better Text Rendering",
+        "editing": "Advanced Editing"
+      }
+    },
+    "features": {
+      "title": "Expected Features",
+      "subtitle": "Anticipated improvements based on Seedream development trajectory",
+      "items": {
+        "multiRef": {
+          "title": "Enhanced Multi-Reference",
+          "description": "Expected improvements in maintaining consistency across multiple reference images with better subject identification."
+        },
+        "textRendering": {
+          "title": "Superior Text Rendering",
+          "description": "Building on Seedream 4.5's typography capabilities with even more reliable text generation and layout control."
+        },
+        "resolution": {
+          "title": "Higher Native Resolution",
+          "description": "Potential improvements beyond 4K with better detail preservation and upscaling capabilities."
+        },
+        "editing": {
+          "title": "Advanced Image Editing",
+          "description": "More precise editing capabilities with natural language instructions and better preservation of reference details."
+        },
+        "promptFollowing": {
+          "title": "Improved Prompt Understanding",
+          "description": "Enhanced semantic understanding for more accurate interpretation of complex creative briefs."
+        },
+        "speed": {
+          "title": "Faster Generation",
+          "description": "Expected optimizations for faster inference while maintaining or improving output quality."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Preview",
+      "subtitle": "Examples from current Seedream 4.5 - expect even better results with 5.0",
+      "tryWorkflow": "Try current Seedream 4.5 →",
+      "items": {
+        "ecommerce": {
+          "title": "E-commerce",
+          "description": "Product photography",
+          "useCase": "Generate professional product shots with consistent styling across multiple variations."
+        },
+        "brandVisual": {
+          "title": "Brand Visuals",
+          "description": "Marketing design",
+          "useCase": "Create cohesive brand imagery with reliable text rendering and layout consistency."
+        },
+        "poster": {
+          "title": "Poster Design",
+          "description": "Typography + layout",
+          "useCase": "Design posters with complex typography and professional composition."
+        },
+        "advertising": {
+          "title": "Advertising",
+          "description": "Campaign creatives",
+          "useCase": "Produce advertising visuals that maintain brand consistency across multiple assets."
+        },
+        "character": {
+          "title": "Character Design",
+          "description": "Consistent characters",
+          "useCase": "Create character designs that remain consistent across different poses and contexts."
+        },
+        "localization": {
+          "title": "Localization",
+          "description": "Multi-language",
+          "useCase": "Generate localized versions of marketing materials with accurate text in multiple languages."
+        }
+      }
+    },
+    "specs": {
+      "title": "Expected Specifications",
+      "subtitle": "Anticipated capabilities - final specs will be confirmed upon release",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input formats",
+          "outputFormat": "Output format",
+          "maxResolution": "Max resolution",
+          "refImages": "Reference images"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "textToImage": "Text to Image",
+          "imageEditing": "Image editing",
+          "multiReference": "Multi-reference",
+          "textRendering": "Text rendering"
+        },
+        "advanced": {
+          "title": "Advanced",
+          "layoutControl": "Layout control",
+          "styleTransfer": "Style transfer",
+          "objectEditing": "Object editing",
+          "languageSupport": "Language support"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation time",
+          "apiAccess": "API access",
+          "batchProcessing": "Batch processing"
+        }
+      },
+      "values": {
+        "inputFormats": "JPG, PNG, WEBP",
+        "outputFormat": "PNG, JPG",
+        "maxResolution": "TBA (expected >4K)",
+        "refImages": "TBA (expected >10)"
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "How Seedream 5.0 may compare to current models",
+      "featureLabel": "Feature",
+      "recommended": "★ Expected",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not supported",
+      "features": {
+        "textToImage": "Text to Image",
+        "imageEditing": "Image Editing",
+        "multiReference": "Multi-Reference",
+        "maxResolution": "Max Resolution",
+        "textRendering": "Text Rendering"
+      }
+    },
+    "pricing": {
+      "title": "Coming Soon",
+      "subtitle": "Pricing will be announced upon release",
+      "ctaText": "Join Waitlist",
+      "comingSoonBadge": "Coming Soon",
+      "description": "Next-generation image model from ByteDance",
+      "note": "Seedream 5.0 has not been officially announced. This page is based on anticipated development. Pricing and availability will be confirmed upon official release.",
+      "viewFullPricing": "View current pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "When will Seedream 5.0 be released?",
+          "answer": "ByteDance has not officially announced Seedream 5.0. Currently, Seedream 4.5 is the latest version. This pre-launch page is based on anticipated development trajectory. We'll update with official information when available."
+        },
+        "1": {
+          "question": "What improvements might Seedream 5.0 include?",
+          "answer": "Based on ByteDance's development pattern, Seedream 5.0 would likely include enhanced multi-reference consistency, improved text rendering, higher resolution support, and better editing capabilities. Final features will be confirmed upon release."
+        },
+        "2": {
+          "question": "Should I wait for Seedream 5.0 or use 4.5 now?",
+          "answer": "Seedream 4.5 is already excellent for professional image generation with 4K output, multi-reference support, and strong text rendering. We recommend using 4.5 now for your projects - you can upgrade when 5.0 launches."
+        },
+        "3": {
+          "question": "How will pricing compare to Seedream 4.5?",
+          "answer": "Pricing has not been announced. Typically, newer model versions may have similar or slightly adjusted pricing. We'll update this page when official pricing is released."
+        },
+        "4": {
+          "question": "Will my Seedream 4.5 workflows work with 5.0?",
+          "answer": "ByteDance typically maintains compatibility between versions. Your existing workflows should work with the option to leverage new 5.0 features. Final compatibility will be confirmed upon release."
+        },
+        "5": {
+          "question": "How can I get notified when Seedream 5.0 launches?",
+          "answer": "Bookmark this page and follow OpenCreator for updates. We'll announce availability as soon as ByteDance releases Seedream 5.0."
+        }
+      }
+    }
+  }
+}

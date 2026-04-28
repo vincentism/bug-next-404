@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Christmas x Fisheye Effect Poster – Holiday Ad Generator | OpenCreator",
+    "description": "Create playful Christmas poster ads with fisheye-style effects using AI. Turn simple product or scene prompts into scroll-stopping holiday creatives for social and campaigns.",
+    "keywords": [
+      "christmas poster maker",
+      "holiday poster generator",
+      "fisheye effect poster",
+      "christmas social media ad",
+      "christmas campaign creative",
+      "festive product poster",
+      "ai holiday ad design",
+      "christmas sale poster design"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#christmas", "#fisheye", "#social_promo"],
+    "title": "Christmas x Fisheye Effect Poster",
+    "description": "Turn your Christmas campaign ideas into bold fisheye-effect poster ads with AI. Generate playful, eye-catching holiday visuals that feel native to social feeds and promo pages—without starting from a blank canvas.",
+    "inputPlaceholder": "Describe your Christmas offer or product scene",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your Christmas promo and vibe",
+        "description": "Start with a short brief about your offer, product, and campaign mood—such as cozy, playful, or high-energy holiday sale."
+      },
+      {
+        "title": "Add details about the fisheye look",
+        "description": "Tell the workflow how strong you want the fisheye effect to feel and what elements should be emphasized (product, character, logo, or headline)."
+      },
+      {
+        "title": "Generate AI-powered Christmas poster concepts",
+        "description": "The workflow turns your brief into holiday-ready poster creatives that combine Christmas elements with an eye-catching fisheye distortion style."
+      },
+      {
+        "title": "Refine variations and export for campaigns",
+        "description": "Pick your favorite versions, iterate if needed, then download final creatives ready for social posts, paid ads, and landing pages."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For holiday campaigns that need to pop",
+    "subtitle": "Perfect for brands and creators planning Christmas promotions across social and paid media.",
+    "audiences": [
+      {
+        "label": "E-commerce and DTC brands",
+        "description": "Turn seasonal offers and product bundles into scroll-stopping poster ads that feel native to Christmas social campaigns."
+      },
+      {
+        "label": "Social media and content teams",
+        "description": "Generate multiple Christmas poster variations quickly so you can keep feeds fresh throughout the holiday period."
+      },
+      {
+        "label": "Agencies and freelancers",
+        "description": "Use the workflow as a concept generator for Christmas campaigns, exploring different compositions and fisheye intensities before final design work."
+      },
+      {
+        "label": "Creators and small shops",
+        "description": "Create fun, on-trend Christmas posters for your store or personal brand without needing complex design tools."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Christmas x Fisheye Effect Poster workflow?",
+        "answer": "Christmas x Fisheye Effect Poster is an AI workflow that generates Christmas-themed poster ads with a playful fisheye visual style. It helps you create bold holiday creatives for social and campaigns from simple text briefs."
+      },
+      {
+        "question": "Do I need to provide my own assets?",
+        "answer": "You can start from text-only prompts or optionally include product photos or brand elements. The workflow will incorporate your inputs into fisheye-style holiday posters."
+      },
+      {
+        "question": "Is this only for e-commerce brands?",
+        "answer": "No. Any brand, creator, or organization running Christmas campaigns on social or digital channels can use this workflow to produce holiday-themed posters."
+      },
+      {
+        "question": "Where can I use the generated posters?",
+        "answer": "You can use them as social media posts, paid ad creatives, website hero banners, in-app banners, or email campaign visuals during the holiday season."
+      },
+      {
+        "question": "Can I control how strong the fisheye effect is?",
+        "answer": "Yes. By adjusting your prompt and feedback, you can guide the workflow toward more subtle or more exaggerated fisheye distortion in your posters."
+      },
+      {
+        "question": "How is pricing handled for this workflow?",
+        "answer": "Each run consumes credits based on the underlying image generation steps. It is optimized so you can explore multiple creative directions for your Christmas campaigns at a reasonable cost."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Christmas x Fisheye Effect Poster – Holiday Ad Generator",
+      "description": "Generate fisheye-style Christmas poster ads with OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Christmas x Fisheye Effect Poster AI Workflow",
+      "description": "AI-powered workflow for creating Christmas poster ads with playful fisheye visual effects."
+    },
+    "faqPage": {
+      "name": "Christmas x Fisheye Effect Poster – FAQ"
+    }
+  }
+}

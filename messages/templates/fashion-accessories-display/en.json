@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Fashion Accessories Display – AI Jewelry Model Photography | OpenCreator",
+    "description": "Create complete fashion accessories display sets with AI. Generate professional model photos showcasing earrings, necklaces, and jewelry from multiple angles with Nano Banana Pro—perfect for e-commerce and brand marketing.",
+    "keywords": [
+      "fashion accessories display",
+      "ai jewelry photography",
+      "model wearing jewelry",
+      "earring display photos",
+      "necklace model photography",
+      "ai accessories showcase",
+      "jewelry product photography",
+      "fashion jewelry model",
+      "accessories ecommerce photos",
+      "ai model photo generator",
+      "jewelry marketing images",
+      "accessories brand photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#jewelry", "#ecommerce", "#fashion_accessories"],
+    "title": "Fashion Accessories Display",
+    "description": "Create a complete set of fashion accessories display images and videos with AI. Upload your model photo, earrings, and necklace—Nano Banana Pro combines them into professional jewelry showcase content from 6 different angles. Perfect for jewelry brands needing high-quality model photography without expensive photoshoots.",
+    "inputPlaceholder": "Upload model and accessories images",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload model and accessories images",
+        "description": "Provide a base model photo along with separate images of earrings and necklace. The AI will intelligently combine them while maintaining consistency across all generated outputs."
+      },
+      {
+        "title": "AI generates pose descriptions",
+        "description": "Gemini 3 Pro analyzes your inputs and creates 6 professional model poses designed to showcase earrings and necklaces from different angles—side profiles, close-ups, and elegant gestures."
+      },
+      {
+        "title": "Generate multi-angle showcase images",
+        "description": "Nano Banana Pro creates 6 high-quality images with the model wearing your accessories, each highlighting different viewing angles and styling positions for maximum visual impact."
+      },
+      {
+        "title": "Create promotional videos",
+        "description": "The workflow automatically generates short promotional videos from each pose, giving you both static images and dynamic video content for social media and e-commerce platforms."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for jewelry brands and fashion accessories sellers",
+    "subtitle": "From boutique jewelers to e-commerce accessory stores, see who creates accessories photos with AI.",
+    "audiences": [
+      {
+        "label": "Jewelry brands",
+        "description": "Create professional model photography showcasing your earrings, necklaces, and accessories without booking expensive photoshoots or hiring models repeatedly."
+      },
+      {
+        "label": "Fashion accessories e-commerce",
+        "description": "Generate consistent, high-quality product display images that show how accessories look when worn, boosting customer confidence and conversion rates."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Produce engaging video content and multi-angle images perfect for Instagram, TikTok, and Pinterest fashion accessory promotions."
+      },
+      {
+        "label": "Independent jewelry designers",
+        "description": "Showcase your handcrafted pieces on professional models with studio-quality photography, elevating your brand presentation on a budget."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Fashion Accessories Display workflow?",
+        "answer": "This AI-powered workflow creates a complete set of model photography showcasing fashion accessories. It combines your model photo with earrings and necklace images to generate 6 professional poses from different angles, plus promotional videos for each."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for image generation and editing to create realistic model-accessory combinations, and Gemini 3 Pro to generate professional pose descriptions optimized for jewelry showcase photography."
+      },
+      {
+        "question": "What images do I need to provide?",
+        "answer": "You need three images: a base model photo, an earring product image, and a necklace product image. The AI will intelligently combine them while maintaining natural proportions and realistic lighting."
+      },
+      {
+        "question": "How many outputs does the workflow generate?",
+        "answer": "The workflow generates 6 different model poses showcasing your accessories from various angles, plus short promotional videos for each pose—giving you 12 pieces of content from a single run."
+      },
+      {
+        "question": "Will the accessories look realistic on the model?",
+        "answer": "Yes. Nano Banana Pro specializes in maintaining product consistency and natural integration. The earrings and necklace will appear realistically sized and properly positioned on the model."
+      },
+      {
+        "question": "Can I use different model photos?",
+        "answer": "Absolutely. You can run the workflow with different base model images to create diverse representation for your brand or to match different target demographics."
+      },
+      {
+        "question": "What's included in the promotional videos?",
+        "answer": "Each generated pose is animated into a short video with subtle movements, perfect for social media content, product listings, or marketing campaigns that require dynamic visual assets."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Credits are consumed based on the AI models used. The workflow leverages Nano Banana Pro (50% discount) for image generation, making it cost-effective compared to traditional jewelry photography."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Fashion Accessories Display – AI Jewelry Model Photography",
+      "description": "Create complete fashion accessories display sets with AI-generated model photography showcasing earrings and necklaces."
+    },
+    "softwareApplication": {
+      "name": "Fashion Accessories Display AI Generator",
+      "description": "AI-powered jewelry photography tool for generating professional model photos showcasing earrings, necklaces, and fashion accessories."
+    },
+    "faqPage": {
+      "name": "Fashion Accessories Display – FAQ"
+    }
+  }
+}

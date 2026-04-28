@@ -1,0 +1,180 @@
+{
+  "model": {
+    "meta": {
+      "title": "Nano Banana Pro AI 图像生成器 | Gemini 3 Pro Image | OpenCreator",
+      "description": "使用 Nano Banana Pro (Gemini 3 Pro Image) 创建工作室级图像。基于 Gemini 3 构建，具备精准文字渲染、真实世界知识和多语言支持。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Nano Banana Pro",
+      "tagline": "工作室级控制",
+      "description": "基于 Gemini 3 构建。以工作室级的精度和控制创建和编辑图像。Nano Banana Pro 为海报、复杂图表和详细产品模型提供清晰、可读的文字。",
+      "badge": "Google AI",
+      "ctaText": "免费试用 Nano Banana Pro",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "textToImage": "文生图",
+        "imageToImage": "图生图",
+        "textRendering": "文字渲染",
+        "reasoning": "深度推理",
+        "multiLanguage": "多语言"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Nano Banana Pro 为何是最先进的图像生成模型",
+      "items": {
+        "compliance": {
+          "title": "精准遵循指令",
+          "description": "从多步骤指令到细微的风格要求，Nano Banana Pro 以工作室级的精确度理解并执行。"
+        },
+        "presentation": {
+          "title": "智能呈现",
+          "description": "将原始数据或复杂想法转化为清晰、有洞察力的文字、图表和信息图，实现准确的视觉表达。"
+        },
+        "reasoning": {
+          "title": "深度推理",
+          "description": "利用庞大而准确的知识库，实现科学、历史等复杂主题的深度推理。"
+        },
+        "fluency": {
+          "title": "真正的全球流利度",
+          "description": "以全新的准确性和文化语境，跨越数十种语言进行交流和创作。"
+        },
+        "textRendering": {
+          "title": "卓越的文字渲染",
+          "description": "生成带有可读、准确文字的图像 - 非常适合海报、标志和文字密集的视觉内容。"
+        },
+        "quality": {
+          "title": "高保真输出",
+          "description": "生成令人惊叹的细节图像，具有适合专业使用的卓越品质。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Nano Banana Pro 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "conceptArt": {
+          "title": "概念艺术",
+          "description": "创意设计",
+          "useCase": "为创意项目生成令人惊叹的概念艺术和视觉探索。"
+        },
+        "productVisuals": {
+          "title": "产品视觉",
+          "description": "电商",
+          "useCase": "为营销创建专业的产品图像和生活方式照片。"
+        },
+        "infographics": {
+          "title": "信息图表",
+          "description": "数据可视化",
+          "useCase": "将复杂数据转化为清晰、视觉吸引力强的信息图表。"
+        },
+        "posters": {
+          "title": "海报和标志",
+          "description": "文字密集视觉",
+          "useCase": "生成带有准确、可读文字渲染的海报和标志。"
+        },
+        "socialMedia": {
+          "title": "社交媒体",
+          "description": "内容创作",
+          "useCase": "为社交媒体活动创建吸引眼球的视觉内容。"
+        },
+        "moodBoards": {
+          "title": "情绪板",
+          "description": "视觉探索",
+          "useCase": "快速探索不同的视觉方向和风格。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Nano Banana Pro 功能的完整信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最高分辨率",
+          "aspectRatios": "宽高比"
+        },
+        "modes": {
+          "title": "生成模式",
+          "textToImage": "文生图",
+          "imageToImage": "图生图",
+          "inpainting": "局部重绘"
+        },
+        "capabilities": {
+          "title": "能力",
+          "textRendering": "文字渲染",
+          "multiLanguage": "多语言",
+          "reasoning": "深度推理"
+        },
+        "performance": {
+          "title": "性能",
+          "generationSpeed": "生成速度",
+          "batchGeneration": "批量生成"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Nano Banana Pro 与其他图像模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToImage": "文生图",
+        "imageToImage": "图生图",
+        "textRendering": "文字渲染",
+        "reasoning": "深度推理",
+        "multiLanguage": "多语言",
+        "quality": "输出品质"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "description": "Google 最先进的图像模型",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "积分按生成次数消耗。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Nano Banana Pro，由谁开发？",
+          "answer": "Nano Banana Pro 是 Google DeepMind 最先进的图像生成模型，基于 Gemini 3 Pro 构建。它以工作室级精度创建和编辑图像，具备清晰的文字渲染、真实世界知识和多语言支持。"
+        },
+        "1": {
+          "question": "Nano Banana Pro 与其他图像模型有什么不同？",
+          "answer": "Nano Banana Pro 擅长工作室级控制，可对图像的各个方面进行精细控制。它具有卓越的海报和图表文字渲染、用于准确信息图表的真实世界知识，并支持数十种语言的翻译。"
+        },
+        "2": {
+          "question": "Nano Banana Pro 可以在图像中渲染文字吗？",
+          "answer": "是的！Nano Banana Pro 具有出色的文字渲染能力。它为海报、复杂图表和详细产品模型生成清晰、可读的文字。您甚至可以指定字体类型或模拟不同的手写风格。"
+        },
+        "3": {
+          "question": "我可以创建什么类型的图像？",
+          "answer": "您可以创建概念艺术、产品视觉、信息图表、海报、社交媒体内容、情绪板等。该模型支持从写实到艺术的各种风格。"
+        },
+        "4": {
+          "question": "Nano Banana Pro 支持多种语言吗？",
+          "answer": "是的！Nano Banana Pro 支持数十种语言的翻译和本地化。您可以生成多种语言的文字并为不同地区翻译设计，但可能偶尔在语法或文化细微差别方面有所不足。"
+        },
+        "5": {
+          "question": "我可以将 Nano Banana Pro 图像用于商业用途吗？",
+          "answer": "商业使用取决于您的 OpenCreator 计划和 Google 的使用政策。所有图像都使用 SynthID 技术进行水印标记以便 AI 检测。在将输出用于商业项目之前，请务必查看相关条款。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance Lite AI Video Generator | Fast & Affordable | OpenCreator",
+      "description": "Create high-quality videos with ByteDance Seedance Lite. Fast, affordable video generation with up to 4 reference images, first-last frame control, and smooth motion. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Seedance Lite",
+      "tagline": "Fast & Affordable Video",
+      "description": "ByteDance's efficient video generation model. Seedance Lite delivers high-quality videos with support for up to 4 reference images, first-last frame control, and smooth motion - all at a budget-friendly price.",
+      "badge": "New Model",
+      "ctaText": "Try Seedance Lite Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "multiReference": "4 Reference Images",
+        "firstLastFrame": "First-Last Frame",
+        "smoothMotion": "Smooth Motion",
+        "affordable": "Budget-Friendly"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Seedance Lite ideal for efficient video creation",
+      "items": {
+        "multiReference": {
+          "title": "Multi-Reference Support",
+          "description": "Use up to 4 reference images to guide your video generation. Maintain subject consistency and control scene composition with multiple visual inputs."
+        },
+        "firstLastFrame": {
+          "title": "First & Last Frame Control",
+          "description": "Provide start and end frames to generate smooth, coherent transitions. Perfect for controlled motion and precise animations."
+        },
+        "smoothMotion": {
+          "title": "Smooth & Stable Motion",
+          "description": "Wide dynamic range enables smooth generation of large-scale movements while maintaining stability and physical realism."
+        },
+        "speed": {
+          "title": "Fast Generation",
+          "description": "Optimized for speed and efficiency. Generate high-quality videos quickly for rapid iteration and time-sensitive projects."
+        },
+        "affordable": {
+          "title": "Budget-Friendly",
+          "description": "Lower cost per generation makes it accessible for content creators. Get professional results without breaking the bank."
+        },
+        "styles": {
+          "title": "Diverse Styles",
+          "description": "From photorealism to illustration, Seedance Lite accurately interprets diverse stylistic prompts to support your creative vision."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Seedance on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "consistency": {
+          "title": "Subject Consistency",
+          "description": "Multi-Reference Mode",
+          "useCase": "Use multiple reference images to maintain character and object consistency across your video."
+        },
+        "transition": {
+          "title": "Smooth Transitions",
+          "description": "Motion Control",
+          "useCase": "Create precise motion between two frames using first-last frame mode for controlled animations."
+        },
+        "product": {
+          "title": "Product Videos",
+          "description": "E-commerce Content",
+          "useCase": "Generate dynamic product showcase videos with smooth motion and professional quality."
+        },
+        "social": {
+          "title": "Social Content",
+          "description": "Quick Turnaround",
+          "useCase": "Create scroll-stopping content rapidly for TikTok, Instagram, and YouTube Shorts."
+        },
+        "animation": {
+          "title": "Stylized Animation",
+          "description": "Creative Projects",
+          "useCase": "Generate videos in various artistic styles from photorealism to illustration."
+        },
+        "commercial": {
+          "title": "Commercial Ads",
+          "description": "Brand Content",
+          "useCase": "Produce professional commercials with consistent branding and smooth motion."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Seedance Lite capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "modes": {
+          "title": "Generation Modes",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "multiReference": "Multi-Reference (up to 4)",
+          "firstLastFrame": "First-Last Frame"
+        },
+        "motion": {
+          "title": "Motion Features",
+          "smoothMotion": "Smooth Motion",
+          "largeScale": "Large-Scale Movement",
+          "physicalRealism": "Physical Realism"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationSpeed": "Generation Speed",
+          "costEfficiency": "Cost Efficiency"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Seedance Lite compares to other models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "multiReference": "Multi-Reference Mode",
+        "firstLastFrame": "First-Last Frame",
+        "smoothMotion": "Smooth Motion",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "costEfficiency": "Cost Efficiency"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "More affordable than Pro version. Subscribe to save more.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Seedance Lite and who developed it?",
+          "answer": "Seedance Lite is ByteDance's efficient video generation model, developed by the team behind TikTok and CapCut. It's designed for fast, affordable video generation while maintaining high quality."
+        },
+        "1": {
+          "question": "What's the difference between Seedance Lite and Seedance Pro?",
+          "answer": "Seedance Lite is optimized for speed and cost-efficiency, ideal for rapid iteration and budget-conscious projects. Seedance Pro offers maximum quality and is better suited for complex, production-grade content."
+        },
+        "2": {
+          "question": "How many reference images can I use?",
+          "answer": "Seedance Lite supports up to 4 reference images in multi-reference mode. This allows you to maintain subject consistency and control scene composition with multiple visual inputs."
+        },
+        "3": {
+          "question": "What video durations and resolutions are supported?",
+          "answer": "Seedance Lite generates videos at 480p or 720p resolution with durations of 5 or 10 seconds. It supports both landscape and portrait aspect ratios."
+        },
+        "4": {
+          "question": "Does Seedance Lite support first-last frame control?",
+          "answer": "Yes! You can provide a starting and ending image, and Seedance Lite will generate a smooth transition between them. This is ideal for controlled motion and precise animations."
+        },
+        "5": {
+          "question": "What styles can Seedance Lite generate?",
+          "answer": "Seedance Lite supports diverse styles from photorealism and cyberpunk to illustration and felt texture. It accurately interprets stylistic prompts to support a wide range of creative needs."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.6 4K AI Video Generator | 4K/60fps Ultra HD | OpenCreator",
+      "description": "Experience Kling 2.6 4K with 4K/60fps output and custom voice library. The next evolution of Kuaishou's AI video generation. Join the waitlist on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Kling 2.6 4K",
+      "tagline": "4K/60fps Ultra HD Video Generation",
+      "description": "Kling 2.6 4K brings cinema-quality output with 4K resolution at 60fps, plus a custom voice library for personalized audio. Coming Q1 2026 based on Kuaishou's official roadmap.",
+      "badge": "Coming Q1 2026",
+      "ctaText": "Join Waitlist",
+      "secondaryCtaText": "View Current Models",
+      "capabilities": {
+        "resolution": "4K Ultra HD",
+        "framerate": "60fps",
+        "customVoice": "Custom Voice Library",
+        "audioVisual": "Audio-Visual Sync",
+        "duration": "Extended Duration"
+      }
+    },
+    "features": {
+      "title": "Expected Features",
+      "subtitle": "Based on Kuaishou's Q1 2026 roadmap announcement",
+      "items": {
+        "resolution": {
+          "title": "4K Ultra HD Output",
+          "description": "Generate videos at true 4K resolution (3840×2160) for cinema-quality production and large-screen display."
+        },
+        "framerate": {
+          "title": "60fps Smooth Motion",
+          "description": "Double the frame rate for buttery-smooth motion, ideal for fast action, sports, and high-end commercials."
+        },
+        "customVoice": {
+          "title": "Custom Voice Library",
+          "description": "Upload and clone voices to create personalized audio that matches your brand or character consistently."
+        },
+        "audioSync": {
+          "title": "Enhanced Audio-Visual Sync",
+          "description": "Building on Kling 2.6's simultaneous audio-visual generation with even tighter lip-sync and sound coordination."
+        },
+        "characterConsistency": {
+          "title": "Improved Character Consistency",
+          "description": "Better identity preservation across longer sequences and multi-shot productions."
+        },
+        "promptFollowing": {
+          "title": "Advanced Prompt Understanding",
+          "description": "More nuanced interpretation of complex prompts, storylines, and creative directions."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Preview",
+      "subtitle": "Representative examples from current Kling 2.6 Pro - expect even higher quality with 4K",
+      "tryWorkflow": "Try current Kling 2.6 →",
+      "items": {
+        "cinematic": {
+          "title": "Cinematic Production",
+          "description": "Film-quality output",
+          "useCase": "Create broadcast-ready content with 4K resolution perfect for TV, cinema, and large displays."
+        },
+        "commercial": {
+          "title": "Premium Commercials",
+          "description": "High-end advertising",
+          "useCase": "Produce luxury brand ads and product showcases that demand the highest visual fidelity."
+        },
+        "vr": {
+          "title": "VR/AR Content",
+          "description": "Immersive experiences",
+          "useCase": "Generate high-resolution content suitable for virtual reality and immersive displays."
+        },
+        "sports": {
+          "title": "Sports & Action",
+          "description": "60fps smooth motion",
+          "useCase": "Capture fast movement with crystal-clear 60fps for sports, dance, and action sequences."
+        },
+        "documentary": {
+          "title": "Documentary",
+          "description": "Professional storytelling",
+          "useCase": "Create documentary-style content with cinematic quality and custom narration voices."
+        },
+        "branding": {
+          "title": "Brand Content",
+          "description": "Custom voice identity",
+          "useCase": "Build consistent brand identity with cloned voice libraries for all your video content."
+        }
+      }
+    },
+    "specs": {
+      "title": "Expected Specifications",
+      "subtitle": "Based on official roadmap - final specs may vary",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input formats",
+          "outputFormat": "Output format",
+          "maxResolution": "Max resolution",
+          "framerate": "Frame rate"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "audioGeneration": "Audio generation",
+          "customVoice": "Custom voice library"
+        },
+        "audioFeatures": {
+          "title": "Audio Features",
+          "voiceCloning": "Voice cloning",
+          "multiVoice": "Multi-voice support",
+          "soundEffects": "Sound effects",
+          "ambientAudio": "Ambient audio"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation time",
+          "apiAccess": "API access",
+          "batchProcessing": "Batch processing"
+        }
+      },
+      "values": {
+        "inputFormats": "Image, Text",
+        "outputFormat": "MP4",
+        "maxResolution": "4K (3840×2160)",
+        "framerate": "Up to 60fps"
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "How Kling 2.6 4K will compare to current models",
+      "featureLabel": "Feature",
+      "recommended": "★ Expected",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not supported",
+      "features": {
+        "resolution": "Max Resolution",
+        "framerate": "Frame Rate",
+        "audioGeneration": "Audio Generation",
+        "customVoice": "Custom Voice",
+        "lipSync": "Lip Sync"
+      }
+    },
+    "pricing": {
+      "title": "Coming Q1 2026",
+      "subtitle": "Pricing will be announced closer to launch",
+      "ctaText": "Join Waitlist",
+      "comingSoonBadge": "Coming Soon",
+      "description": "4K/60fps video generation with custom voice library",
+      "note": "Based on Kuaishou's official roadmap. Final pricing and availability will be confirmed upon release.",
+      "viewFullPricing": "View current pricing →"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "When will Kling 2.6 4K be available?",
+          "answer": "According to Kuaishou's official roadmap announced in December 2025, Kling 2.6 4K with 4K/60fps output and custom voice library is planned for Q1 2026."
+        },
+        "1": {
+          "question": "What new features will Kling 2.6 4K include?",
+          "answer": "The main upgrades are 4K resolution (3840×2160), 60fps frame rate for smoother motion, and a custom voice library for voice cloning and personalized audio."
+        },
+        "2": {
+          "question": "Will it be compatible with current Kling 2.6 workflows?",
+          "answer": "While not confirmed, Kuaishou typically maintains backward compatibility. Existing workflows should work with the option to enable 4K/60fps output."
+        },
+        "3": {
+          "question": "How much will Kling 2.6 4K cost?",
+          "answer": "Pricing has not been announced. Given the higher output quality, expect pricing to be higher than current Kling 2.6 Pro rates. We'll update this page when official pricing is released."
+        },
+        "4": {
+          "question": "What is the custom voice library feature?",
+          "answer": "The custom voice library will allow you to upload voice samples to create cloned voices for use across your video generations, enabling consistent brand voices and character identities."
+        },
+        "5": {
+          "question": "How can I get notified when it launches?",
+          "answer": "Bookmark this page and follow OpenCreator for updates. We'll announce availability as soon as Kuaishou releases the 4K version."
+        }
+      }
+    }
+  }
+}

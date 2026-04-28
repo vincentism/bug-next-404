@@ -1,0 +1,185 @@
+{
+  "model": {
+    "meta": {
+      "title": "Hailuo Video 02 AI Video Generator | Cinematic Quality | OpenCreator",
+      "description": "Create super realistic, cinematic AI videos with MiniMax's Hailuo Video 02. Professional-grade video generation with smooth motion, rich details, and believable physics. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Hailuo Video 02",
+      "tagline": "Super Realistic Cinematic Videos",
+      "description": "Experience MiniMax's Hailuo Video 02, a state-of-the-art AI video generation model designed for creators who need professional-quality results. Transform images and text into dynamic, fluid video content with exceptional realism.",
+      "badge": "Best Value",
+      "ctaText": "Try Hailuo 02 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "duration": "6s Duration",
+        "resolution": "768p Output",
+        "cinematic": "Cinematic Quality"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Hailuo Video 02 a powerful choice for AI video generation",
+      "items": {
+        "realism": {
+          "title": "Super Realistic Output",
+          "description": "Industry-leading realism with natural lighting, accurate shadows, and lifelike textures in every frame."
+        },
+        "motion": {
+          "title": "Smooth Motion",
+          "description": "Fluid, natural motion synthesis that maintains consistency and avoids common AI video artifacts."
+        },
+        "physics": {
+          "title": "Believable Physics",
+          "description": "Advanced physics simulation for realistic object interactions, fabric movement, and environmental effects."
+        },
+        "prompt": {
+          "title": "Strong Prompt Adherence",
+          "description": "Excellent understanding of complex prompts, accurately translating your creative vision into video."
+        },
+        "transitions": {
+          "title": "Smooth Transitions",
+          "description": "Seamless scene transitions and camera movements that feel natural and professional."
+        },
+        "cost": {
+          "title": "Cost Effective",
+          "description": "High-quality results at competitive pricing, making professional video generation accessible to all."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Hailuo Video 02 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "product": {
+          "title": "Product Showcase",
+          "description": "E-commerce Videos",
+          "useCase": "Transform product images into engaging video presentations for online stores."
+        },
+        "fashion": {
+          "title": "Fashion Display",
+          "description": "Apparel Marketing",
+          "useCase": "Create dynamic fashion videos with realistic fabric movement and model poses."
+        },
+        "food": {
+          "title": "Food Product Ad",
+          "description": "Food & Beverage",
+          "useCase": "Appetizing food videos with realistic textures and steam effects."
+        },
+        "lifestyle": {
+          "title": "Lifestyle Content",
+          "description": "Social Media",
+          "useCase": "Authentic lifestyle videos for social media marketing and brand storytelling."
+        },
+        "character": {
+          "title": "Character Animation",
+          "description": "Creative Content",
+          "useCase": "Bring characters to life with expressive movements and natural interactions."
+        },
+        "commercial": {
+          "title": "Commercial Ads",
+          "description": "Brand Advertising",
+          "useCase": "Professional commercial content with cinematic quality and brand consistency."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Hailuo Video 02 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "durationOptions": "Duration Options"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "imageToVideo": "Image to Video",
+          "textToVideo": "Text to Video",
+          "aspectRatios": "Aspect Ratios",
+          "promptLength": "Prompt Length"
+        },
+        "advanced": {
+          "title": "Advanced Features",
+          "physicsSimulation": "Physics Simulation",
+          "motionQuality": "Motion Quality",
+          "lightingEffects": "Lighting Effects",
+          "textureDetail": "Texture Detail"
+        },
+        "performance": {
+          "title": "Performance",
+          "generationTime": "Generation Time",
+          "apiAccess": "API Access",
+          "batchProcessing": "Batch Processing"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Hailuo Video 02 compares to other leading AI video models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "imageToVideo": "Image to Video",
+        "textToVideo": "Text to Video",
+        "maxDuration": "Max Duration",
+        "resolution": "Resolution",
+        "physicsSimulation": "Physics Simulation",
+        "motionQuality": "Motion Quality",
+        "costEfficiency": "Cost Efficiency",
+        "promptAdherence": "Prompt Adherence"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "description": "Super realistic, cinematic",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Hailuo Video 02 and who developed it?",
+          "answer": "Hailuo Video 02 is an advanced AI video generation model developed by MiniMax. It's designed to transform text descriptions and images into short, cinematic video clips with remarkable realism and smooth motion."
+        },
+        "1": {
+          "question": "What types of content can I create with Hailuo Video 02?",
+          "answer": "Hailuo Video 02 excels at creating e-commerce product videos, fashion content, food advertisements, lifestyle videos, character animations, and commercial ads. It's particularly strong in generating realistic human movements and product showcases."
+        },
+        "2": {
+          "question": "How long can Hailuo Video 02 videos be?",
+          "answer": "Hailuo Video 02 generates videos up to 6 seconds in length at 768p resolution. This duration is optimized for social media content and product showcases."
+        },
+        "3": {
+          "question": "What makes Hailuo Video 02 different from other AI video models?",
+          "answer": "Hailuo Video 02 stands out for its super realistic output, smooth motion quality, and excellent cost-effectiveness. It focuses on precision, keeping characters realistic and consistent while following camera directions accurately."
+        },
+        "4": {
+          "question": "Does Hailuo Video 02 support both text and image inputs?",
+          "answer": "Yes! Hailuo Video 02 supports both text-to-video and image-to-video generation. You can provide detailed text prompts, reference images, or combine both for optimal results."
+        },
+        "5": {
+          "question": "How does Hailuo Video 02 pricing compare to other models?",
+          "answer": "Hailuo Video 02 offers excellent value with competitive pricing at 351 credits per generation. It provides professional-quality results at a fraction of the cost of premium models, making it ideal for high-volume content creation."
+        }
+      }
+    }
+  }
+}

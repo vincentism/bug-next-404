@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Product Floral Effect – Botanical Visual Enhancement | OpenCreator",
+    "description": "Add beautiful floral effects and botanical elements to products with AI. Create stunning floral arrangements and nature-inspired visual enhancements.",
+    "keywords": [
+      "floral effect generator",
+      "product floral design",
+      "botanical visual effects",
+      "flower product photography",
+      "floral photo effects",
+      "product floral vfx",
+      "add flowers to product photos",
+      "romantic product visuals",
+      "beauty campaign graphics",
+      "ai flower effect for products"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#floral_effect", "#product_visuals", "#branding"],
+    "title": "Product Floral Effect",
+    "description": "Surround your products with blooming floral effects and artistic petals using AI. Instantly create romantic, dreamy, or premium-looking visuals that elevate cosmetics, jewelry, fashion, and lifestyle products. Perfect for campaigns that need a soft, elevated aesthetic.",
+    "inputPlaceholder": "Upload your product image to add floral effects",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your base product photo",
+        "description": "Use a clear shot of the cosmetic, jewelry, perfume, or lifestyle product you want to highlight."
+      },
+      {
+        "title": "Choose floral style and mood",
+        "description": "Select soft romantic blooms, bold graphic florals, minimal petals, or high-fashion editorial looks."
+      },
+      {
+        "title": "Let AI add floral visual effects",
+        "description": "AI composes flowers, petals, and atmospheric details that frame and enhance your product with realistic depth."
+      },
+      {
+        "title": "Export for campaigns, banners, and social",
+        "description": "Download finished visuals for hero banners, seasonal campaigns, e-commerce, and social media posts."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For brands that want romantic, elevated product imagery",
+    "subtitle": "From beauty to lifestyle, see who uses AI floral effects.",
+    "audiences": [
+      {
+        "label": "Beauty and skincare brands",
+        "description": "Align campaign visuals with botanical ingredients, floral stories, and nature-inspired positioning."
+      },
+      {
+        "label": "Jewelry and accessories labels",
+        "description": "Place pieces in romantic, giftable contexts for occasions like Valentine’s Day, anniversaries, and holidays."
+      },
+      {
+        "label": "Lifestyle and home decor brands",
+        "description": "Add softness and warmth to product visuals for catalogues, websites, and social feeds."
+      },
+      {
+        "label": "Campaign and creative teams",
+        "description": "Prototype floral campaign directions and variations before committing to large-scale shoots."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product Floral Effect workflow?",
+        "answer": "Product Floral Effect is an AI-powered workflow that adds beautiful floral effects and botanical elements to product images and videos. Create stunning floral arrangements and nature-inspired visual enhancements for your products."
+      },
+      {
+        "question": "Who is Product Floral Effect designed for?",
+        "answer": "Product Floral Effect is perfect for beauty and lifestyle brands: cosmetics companies, skincare brands, wellness products, and lifestyle marketers who need botanical visual enhancements."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You upload your product image or describe your product, then specify the type of floral effects you want to add, including flower types, colors, and arrangement style."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates product images and videos with beautiful, realistic floral effects, botanical elements, and nature-inspired visual enhancements."
+      },
+      {
+        "question": "Can I create different floral styles?",
+        "answer": "Yes. Generate various floral effect styles including romantic bouquets, tropical arrangements, minimalist botanicals, and seasonal flower designs."
+      },
+      {
+        "question": "How do credits and pricing work for Product Floral Effect?",
+        "answer": "Each floral effect generation consumes credits based on the complexity and number of floral elements. Costs are optimized compared to professional floral photography and design."
+      },
+      {
+        "question": "Is this suitable for seasonal campaigns?",
+        "answer": "Absolutely. Create seasonal floral effects for spring, summer, holidays, and special occasions to keep your product marketing fresh and relevant."
+      },
+      {
+        "question": "Can I maintain brand consistency with floral effects?",
+        "answer": "Yes. The workflow can incorporate your brand colors and style guidelines to create floral effects that complement your brand identity."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Floral Effect – Botanical Visual Enhancement",
+      "description": "Add beautiful floral effects and botanical elements to products with AI for stunning visual enhancements."
+    },
+    "softwareApplication": {
+      "name": "Product Floral Effect AI Creator",
+      "description": "AI-powered floral effect generator for creating botanical visual enhancements and nature-inspired product designs."
+    },
+    "faqPage": {
+      "name": "Product Floral Effect – FAQ"
+    }
+  }
+}

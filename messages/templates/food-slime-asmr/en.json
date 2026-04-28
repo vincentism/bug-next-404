@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Food Slime ASMR – Satisfying Gooey Content Generator | OpenCreator",
+    "description": "Generate hypnotic food slime ASMR videos with AI—colorful slime, food textures, and close-up motions for deeply satisfying clips.",
+    "keywords": [
+      "slime asmr video generator",
+      "satisfying slime videos",
+      "food slime content",
+      "gooey asmr clips",
+      "slime video maker",
+      "create slime asmr with ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#asmr", "#slime", "#food_content"],
+    "title": "Food Slime ASMR",
+    "description": "Generate food slime ASMR videos with AI. Combine colorful slime, food textures, and close-up motions to create addictive, satisfying clips.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Describe the slime colors, thickness, and food aesthetics you want",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Define your slime and food combo",
+        "description": "Describe slime colors and thickness with dessert, candy, or drink-inspired aesthetics."
+      },
+      {
+        "title": "Choose motion and pacing style",
+        "description": "Stretching, poking, folding, squeezing, or pouring with slow or snappy pacing."
+      },
+      {
+        "title": "Generate food slime ASMR videos",
+        "description": "AI produces ultra-close shots highlighting texture, color mixing, and satisfying motion."
+      },
+      {
+        "title": "Export loops for TikTok, Reels, and Shorts",
+        "description": "Download loopable clips that maximize watch time and engagement."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For ASMR and visually satisfying content creators",
+    "subtitle": "From slime accounts to playful brands, see who uses Food Slime ASMR.",
+    "audiences": [
+      {
+        "label": "ASMR channels and creators",
+        "description": "Expand your content library with endless slime + food combinations."
+      },
+      {
+        "label": "Snack and dessert brands",
+        "description": "Create on-theme, satisfying visuals that connect with playful brand identities."
+      },
+      {
+        "label": "DIY and craft creators",
+        "description": "Use slime ASMR as a hook to bring viewers into your main content."
+      },
+      {
+        "label": "Social media teams",
+        "description": "Increase average view duration with visually addictive loops."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Food Slime ASMR workflow?",
+        "answer": "An AI workflow for generating food slime ASMR videos focused on gooey textures and satisfying motion."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "ASMR creators, snack and dessert brands, DIY channels, and social teams seeking addictive visuals."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Describe slime colors, thickness, and food aesthetics. Add motion and pacing preferences."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "Short, loopable clips optimized for TikTok, Reels, and Shorts."
+      },
+      {
+        "question": "Can I vary motion styles?",
+        "answer": "Yes. Try stretching, poking, folding, squeezing, and pouring for different textures."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits based on sequence length and complexity. Iterate and export within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Food Slime ASMR – Satisfying Gooey Content Generator",
+      "description": "AI-generated food slime ASMR loops for social content."
+    },
+    "softwareApplication": {
+      "name": "Food Slime ASMR Template",
+      "description": "AI workflow that creates gooey, satisfying slime + food sequences."
+    },
+    "faqPage": { "name": "Food Slime ASMR – FAQ" }
+  }
+}

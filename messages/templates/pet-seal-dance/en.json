@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "Pet Seal Dance – Video Meme Generator (Video-to-Video) | OpenCreator",
+    "description": "Create a video meme from a base clip in minutes. Swap the subject and restyle the scene while keeping motion and camera with video-to-video AI for Reels, TikTok, and Shorts.",
+    "keywords": [
+      "pet seal dance",
+      "video meme generator",
+      "how to create video memes",
+      "how to make a meme for instagram",
+      "video to video ai",
+      "add animation to a video clip",
+      "subject replacement video",
+      "video restyle ai",
+      "instagram reels meme",
+      "pet meme video editor"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#Kling_o1", "#Social_Promo"],
+    "title": "Pet Seal Dance",
+    "description": "Create a shareable pet dance meme by editing an existing clip. This workflow keeps the original motion and camera, while you swap the main character and transform the scene style using Kling o1.",
+    "inputPlaceholder": "Upload base video + subject & style images",
+    "ctaText": "Run for Free!",
+    "outputImageAlt": "Pet seal dance meme video cover frame"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload a base dance clip",
+        "description": "Start from a short reference video with the motion and camera you want to keep."
+      },
+      {
+        "title": "Provide subject & style references",
+        "description": "Upload an image of the pet/character you want to appear, and a style reference to set the scene aesthetics."
+      },
+      {
+        "title": "Video-to-video subject replacement",
+        "description": "Kling o1 edits the clip by replacing the subject while preserving the original motion, timing, and camera angle."
+      },
+      {
+        "title": "Export for social",
+        "description": "Download the final video and post it to TikTok/Reels/Shorts as a meme-style promo or fun content piece."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators who need fast, trendy video edits",
+    "subtitle": "Make meme-style pet videos without frame-by-frame editing.",
+    "audiences": [
+      {
+        "label": "Pet content creators",
+        "description": "Turn pet photos and clips into viral-ready meme edits with consistent motion."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Create lightweight, high-engagement short videos for campaigns and posts."
+      },
+      {
+        "label": "Meme editors",
+        "description": "Swap characters and styles quickly while keeping the original dance motion."
+      },
+      {
+        "label": "Agencies",
+        "description": "Deliver multiple variations for clients by changing only the subject/style inputs."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Pet Seal Dance?",
+        "answer": "It’s a Kling o1 video-to-video workflow for creating a cute pet dance meme: keep the original motion/camera, replace the subject, and restyle the scene."
+      },
+      {
+        "question": "Do I need to upload a video?",
+        "answer": "Yes. This is a video-to-video workflow. You provide a base clip, then the AI edits it instead of generating motion from scratch."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "A base video clip, a subject reference image (who/what to replace into the video), and a style reference image."
+      },
+      {
+        "question": "Will the motion stay the same?",
+        "answer": "Yes. The goal is to preserve the original motion and camera as much as possible while replacing the subject and style."
+      },
+      {
+        "question": "What video length works best?",
+        "answer": "Short clips (5–10 seconds) typically produce more stable results and are ideal for social platforms."
+      },
+      {
+        "question": "Can I use it commercially?",
+        "answer": "In general, yes—however, you must have the rights to the base clip and follow provider/platform policies."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Pet Seal Dance – Kling o1 Video-to-Video Meme Workflow",
+      "description": "Create meme-style pet dance videos by replacing the subject and restyling a base clip with Kling o1."
+    },
+    "softwareApplication": {
+      "name": "Pet Meme Video Editor",
+      "description": "AI workflow for video-to-video subject replacement and style transfer for short-form content."
+    },
+    "faqPage": {
+      "name": "Pet Seal Dance – FAQ"
+    }
+  }
+}

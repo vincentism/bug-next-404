@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Video Edit – AI Video Edit Assistant | OpenCreator",
+    "description": "Automate rough cuts, highlight reels, and smart sequences with OpenCreator's Video Edit workflow, then finish polishing in your editor of choice.",
+    "keywords": [
+      "ai video editor",
+      "automatic video editing",
+      "highlight reel generator",
+      "smart video cuts",
+      "ai video trimming",
+      "short video editor ai",
+      "social media video editor",
+      "auto video edit assistant"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#video_editing", "#ai_assistant", "#automation"],
+    "title": "Video Edit",
+    "description": "AI-powered video editing assistant. Automate rough cuts, highlight reels, and smart sequences. Get a strong starting point, then polish in your favorite editor.",
+    "inputPlaceholder": "Upload footage and describe the edit you want",
+    "ctaText": "Try It Free"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your source footage",
+        "description": "Provide long-form recordings, multi-cam material, or B-roll libraries that you want to turn into structured edits."
+      },
+      {
+        "title": "Define target output and rules",
+        "description": "Specify the format you need (highlight reel, tutorial, podcast cutdown), desired duration, and key beats or segments to prioritize."
+      },
+      {
+        "title": "Generate AI-edited sequences",
+        "description": "Run the Video Edit workflow so AI trims, orders, and stitches clips based on content, pacing, and your instructions."
+      },
+      {
+        "title": "Refine in your NLE of choice",
+        "description": "Take the AI-generated edit as a starting timeline and tweak, polish, and finalize it inside your usual editing software."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For editors who want to start from version 0.8, not 0.0",
+    "subtitle": "From social teams to production houses, see who edits faster with AI.",
+    "audiences": [
+      {
+        "label": "Video editors and post houses",
+        "description": "Speed up assembly edits and rough cuts across many projects while keeping creative control in human hands."
+      },
+      {
+        "label": "Social and content teams",
+        "description": "Generate multiple cutdowns of long-form content for different platforms without manually recreating every sequence."
+      },
+      {
+        "label": "Podcast and webinar producers",
+        "description": "Trim long recordings quickly without watching the entire file for takedowns, highlights, and promotional snippets."
+      },
+      {
+        "label": "Solo creators",
+        "description": "Reduce editing overhead so you can focus on story, performance, and finishing touches instead of pure assembly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Video Edit AI workflow do?",
+        "answer": "This workflow automates time-consuming editing tasks like rough cuts, highlight reels, and basic sequences based on pacing and key moments. It's an AI assistant, not a full editor replacement."
+      },
+      {
+        "question": "What input should I provide?",
+        "answer": "Upload raw footage and describe the edit you want—like '60-second highlight reel for TikTok' or 'remove long pauses.' Clear instructions help AI create better timelines."
+      },
+      {
+        "question": "Can this replace my video editing software?",
+        "answer": "No. It gives you a strong starting point (version 0.8). You still refine color, sound, titles, and final pacing in your editing tool."
+      },
+      {
+        "question": "What projects benefit most?",
+        "answer": "Long-form content needing cutdowns, podcasts requiring trimming, and social footage needing fast highlight reels all benefit from AI-assisted editing."
+      },
+      {
+        "question": "How do I use AI edits with my normal workflow?",
+        "answer": "Run this workflow to generate a first sequence, then export or recreate that structure in your editing software. Refine timing, transitions, graphics, and sound as usual."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Each edit consumes credits based on input length and settings. Start with smaller batches or shorter sequences, then scale once you find settings that work."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Video Edit",
+      "description": "Automate rough cuts, highlight reels, and smart sequences with OpenCreator's Video Edit workflow, then finish polishing in your editor of choice."
+    },
+    "softwareApplication": {
+      "name": "Video Edit Workflow",
+      "description": "AI-powered video editing assistant. Automate rough cuts, highlight reels, and smart sequences. Get a strong starting point, then polish in your favorite editor."
+    },
+    "faqPage": {
+      "name": "Video Edit - FAQ"
+    }
+  }
+}

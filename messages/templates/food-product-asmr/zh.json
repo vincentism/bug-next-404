@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Food Product ASMR – 食品 ASMR 视频生成 | OpenCreator",
+    "description": "用 AI 生成“看得见的 ASMR”美食视频：近景质感、烹饪运动与满足的进食瞬间，适合社媒与广告。",
+    "keywords": [
+      "食品 asmr 生成",
+      "满足感 美食视频",
+      "零食 asmr 短片",
+      "吃播 asmr 广告",
+      "美食 tiktok 内容",
+      "AI 食品 asmr"
+    ]
+  },
+  "hero": {
+    "featureTag": "视频生成",
+    "tags": ["#美食ASMR", "#解压", "#snack_ads"],
+    "title": "食品产品 ASMR",
+    "description": "用 AI 生成令人垂涎的食品 ASMR 视频，突出近景质地、烹饪运动与进食瞬间，营造强烈的感官满足。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "描述食品与希望突出的 ASMR 动作",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "描述食品与质感",
+        "description": "说明“脆/粘/汽泡/顺滑/滋滋作响”等感受与关键配料。"
+      },
+      {
+        "title": "选择 ASMR 重点与形式",
+        "description": "准备/摆盘/近景咬合或可循环片段，适配 Reels/Shorts。"
+      },
+      {
+        "title": "生成食品 ASMR 片段",
+        "description": "以运动与质地暗示声音，形成高满足感的视觉画面。"
+      },
+      {
+        "title": "导出用于社媒与广告",
+        "description": "用于外卖 App、品牌账号、户外屏与活动素材。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "把“味道”转译成 ASMR 的品牌",
+    "subtitle": "从零食到餐饮，用 Food Product ASMR 提升食欲吸引力。",
+    "audiences": [
+      {
+        "label": "零食与饮品品牌",
+        "description": "凸显酥脆、汽泡、拉丝等“上瘾点”。"
+      },
+      {
+        "label": "餐厅与快餐品牌",
+        "description": "以循环短片推广主打菜品，提高复看率。"
+      },
+      {
+        "label": "美食创作者与达人",
+        "description": "用 AI 扩展 ASMR 内容形态与节奏。"
+      },
+      {
+        "label": "外卖与到家平台",
+        "description": "在促销与分区 Banner 中使用 ASMR 片段，提升食欲感。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Food Product ASMR 工作流？",
+        "answer": "用于生成以质地、烹饪运动与咬合瞬间为主的食品 ASMR 短片。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "零食品牌、餐饮商家、创作者与到家平台，用于提升食欲驱动的视觉表达。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "描述食品、质感与希望凸显的 ASMR 行为（准备、摆盘或咬合）。"
+      },
+      {
+        "question": "输出包含什么？",
+        "answer": "适配社媒与广告投放的短循环片段。"
+      },
+      {
+        "question": "能否选择不同 ASMR 侧重？",
+        "answer": "可以。可针对“脆/汽泡/拉丝/顺滑”等方向迭代尝试。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "按片段长度与复杂度消耗积分，你可在套餐内迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Food Product ASMR – 食品 ASMR 视频生成",
+      "description": "为社媒与广告生成食品 ASMR 片段。"
+    },
+    "softwareApplication": {
+      "name": "Food Product ASMR 模板",
+      "description": "用于生成高满足感食品 ASMR 序列的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Food Product ASMR – 常见问题"
+    }
+  }
+}

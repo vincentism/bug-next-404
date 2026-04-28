@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "AI Kitten x Slime ASMR Generator | Cute + Satisfying Videos | OpenCreator",
+    "description": "Blend irresistibly cute kittens with colorful slime ASMR visuals using AI. Create playful, wholesome, and satisfying clips that combine pets and textures for viral social content and feel-good campaigns.",
+    "keywords": [
+      "cute asmr videos",
+      "kitten slime asmr",
+      "pet asmr content",
+      "slime video with cats",
+      "cute satisfying videos",
+      "kitten and slime asmr videos with ai",
+      "ai generator for cute slime content"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#asmr", "#slime", "#kittens"],
+    "title": "Kitten x Slime ASMR",
+    "description": "Blend irresistibly cute kittens with colorful slime ASMR visuals using AI. Create playful, wholesome, and deeply satisfying clips that combine pets and textures—perfect for viral social content and feel-good campaigns.",
+    "inputPlaceholder": "Describe the kitten and slime scenario you want to visualize",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your kitten personality and slime setup",
+        "description": "Share the kitten's vibe, such as curious, sleepy, or playful, and describe the slime colors and props involved."
+      },
+      {
+        "title": "Choose interaction and framing",
+        "description": "Decide whether the kitten is observing, gently interacting, or simply co-existing alongside the slime visuals."
+      },
+      {
+        "title": "Generate Kitten x Slime ASMR-style videos",
+        "description": "Use AI to build sequences that balance cute pet moments with satisfying slime motion."
+      },
+      {
+        "title": "Export for feel-good feeds and campaigns",
+        "description": "Use the clips to brighten social feeds, support positive brand campaigns, or enhance pet-related initiatives."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators and brands that lean into cute and satisfying content",
+    "subtitle": "From pet accounts to playful brands, see who uses Kitten x Slime ASMR.",
+    "audiences": [
+      {
+        "label": "Pet and animal content creators",
+        "description": "Add a novel twist to traditional cute pet clips by pairing them with satisfying slime visuals."
+      },
+      {
+        "label": "ASMR and slime creators",
+        "description": "Combine two highly engaging formats—cute pets and slime—into a single content series."
+      },
+      {
+        "label": "Pet product and lifestyle brands",
+        "description": "Create charming, soft-branding content that audiences enjoy sharing and revisiting."
+      },
+      {
+        "label": "Mental wellness and feel-good channels",
+        "description": "Use soothing, cute clips as mood-boosting content for your audience."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Kitten x Slime ASMR workflow?",
+        "answer": "Kitten x Slime ASMR is an AI workflow that blends cute kitten visuals with colorful slime ASMR-style motion. It creates playful, wholesome, and satisfying clips for feel-good content."
+      },
+      {
+        "question": "Who is Kitten x Slime ASMR designed for?",
+        "answer": "It's ideal for pet and animal content creators, ASMR and slime creators, pet product and lifestyle brands, and mental wellness or feel-good channels."
+      },
+      {
+        "question": "What input do I need to start?",
+        "answer": "Describe the kitten personality and slime setup you want to visualize, including the kitten's vibe and slime colors or props."
+      },
+      {
+        "question": "What kind of output does this workflow create?",
+        "answer": "The workflow generates short AI videos that balance cute pet moments with satisfying slime motion in ASMR-style visuals."
+      },
+      {
+        "question": "Where can I use Kitten x Slime ASMR clips?",
+        "answer": "Share them on social feeds, use them in positive brand campaigns, or incorporate them into pet-related initiatives and feel-good content series."
+      },
+      {
+        "question": "Is this suitable for family-friendly content?",
+        "answer": "Yes, describe wholesome, gentle scenarios so the generated visuals align well with family and kid-friendly audiences."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "This workflow uses AI video models that consume credits per run. You can experiment with different kitten and slime setups and then scale the best-performing ideas."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Kitten x Slime ASMR Generator | Cute + Satisfying Videos",
+      "description": "Create AI-generated kitten and slime ASMR clips that blend cute pets with satisfying textures for social media."
+    },
+    "softwareApplication": {
+      "name": "Kitten x Slime ASMR Workflow Template",
+      "description": "AI workflow for creators and brands to generate kitten and slime ASMR-style visuals for feel-good content."
+    },
+    "faqPage": {
+      "name": "Kitten x Slime ASMR – FAQ"
+    }
+  }
+}

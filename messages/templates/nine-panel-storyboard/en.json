@@ -1,0 +1,99 @@
+{
+  "seo": {
+    "title": "Nine Panel Storyboard – AI Storyboard Generator | OpenCreator",
+    "description": "Create professional 9-panel storyboards from a single image. AI generates cinematic shot sequences with consistent characters and visual style.",
+    "keywords": [
+      "nine panel storyboard",
+      "ai storyboard generator",
+      "cinematic storyboard",
+      "shot sequence generator",
+      "film storyboard ai",
+      "storyboard maker",
+      "9 panel storyboard",
+      "visual storytelling"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#storyboard", "#cinematography", "#visual_storytelling"],
+    "title": "Nine Panel Storyboard",
+    "description": "Transform any image into a professional 9-panel storyboard. AI analyzes your subject and generates a complete shot sequence with consistent characters, lighting, and visual style across all panels. Perfect for filmmakers, content creators, and brand advertisers.",
+    "inputPlaceholder": "Upload your reference image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your reference image",
+        "description": "Provide a single image with your subject. The AI analyzes the composition, characters, and visual elements."
+      },
+      {
+        "title": "AI generates storyboard panels",
+        "description": "The workflow creates 9 professional storyboard panels with varied camera angles and compositions."
+      },
+      {
+        "title": "Consistent visual style",
+        "description": "All 9 panels maintain unified lighting, character appearance, and color grading for professional results."
+      },
+      {
+        "title": "Export high-resolution storyboard",
+        "description": "Download the complete storyboard grid optimized for film production and advertising workflows."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for visual storytellers",
+    "subtitle": "From indie filmmakers to brand teams, see who creates storyboards with AI.",
+    "audiences": [
+      {
+        "label": "Filmmakers & directors",
+        "description": "Quickly visualize shot compositions before production. Generate professional storyboards that communicate your vision."
+      },
+      {
+        "label": "Content creators",
+        "description": "Plan your video content with cinematic precision. Create engaging shot variety for social media productions."
+      },
+      {
+        "label": "Brand advertisers",
+        "description": "Develop compelling visual narratives for campaigns. Present polished storyboards to clients."
+      },
+      {
+        "label": "Animation studios",
+        "description": "Speed up pre-production with AI-generated storyboards. Explore creative directions efficiently."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Nine Panel Storyboard workflow?",
+        "answer": "This AI workflow transforms a single reference image into a professional 9-panel storyboard. It generates varied camera angles and compositions while maintaining consistent visual style."
+      },
+      {
+        "question": "What types of shots are included?",
+        "answer": "The storyboard includes a variety of professional shots including wide shots, medium shots, close-ups, and detail shots arranged in a logical narrative sequence."
+      },
+      {
+        "question": "Does it maintain character consistency?",
+        "answer": "Yes, the workflow ensures all 9 panels maintain consistent character appearance, costume details, lighting, and color grading throughout the storyboard."
+      },
+      {
+        "question": "Can I use this for commercial projects?",
+        "answer": "Yes, the generated storyboards can be used for commercial film productions, brand campaigns, advertising pitches, and client presentations."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Nine Panel Storyboard – AI Storyboard Generator",
+      "description": "Create professional 9-panel storyboards from a single image with AI-powered generation."
+    },
+    "softwareApplication": {
+      "name": "Nine Panel Storyboard Generator",
+      "description": "AI-powered tool for generating professional 9-panel storyboards from a single reference image."
+    },
+    "faqPage": {
+      "name": "Nine Panel Storyboard – FAQ"
+    }
+  }
+}

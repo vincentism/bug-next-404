@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Brand Fashion Editorial – AI Fashion Photography | OpenCreator",
+    "description": "Create stunning brand fashion editorial photos and videos with AI. Professional fashion photography workflow for lookbooks, campaigns, and brand content.",
+    "keywords": [
+      "fashion editorial",
+      "brand fashion photography",
+      "ai fashion models",
+      "clothing brand photoshoot",
+      "editorial photography",
+      "fashion lookbook",
+      "brand campaign photos",
+      "ai fashion video",
+      "fashion marketing visuals",
+      "fashion content creation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#fashion_editorial", "#branding", "#luxury"],
+    "title": "Brand Fashion Editorial",
+    "description": "Create stunning brand fashion editorial photos and videos with AI. Produce magazine-quality fashion content, lookbooks, and campaign visuals that elevate your brand—powered by Nano Banana Pro and Kling 2.5 Pro for professional results.",
+    "inputPlaceholder": "Upload your fashion product or model image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your fashion content",
+        "description": "Provide images of your fashion products, model photos, or brand elements. The AI analyzes your content for optimal editorial styling and presentation."
+      },
+      {
+        "title": "Define editorial direction",
+        "description": "Specify your desired aesthetic—high fashion, street style, minimalist, or dramatic. The workflow adapts to your brand's visual identity and campaign goals."
+      },
+      {
+        "title": "Generate editorial content",
+        "description": "Using Nano Banana Pro and Kling 2.5 Pro, create magazine-quality photos and cinematic videos that capture the essence of professional fashion editorials."
+      },
+      {
+        "title": "Export for your campaigns",
+        "description": "Download high-resolution images and videos ready for lookbooks, social media campaigns, websites, and premium brand marketing materials."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for fashion brands and creative teams",
+    "subtitle": "From emerging designers to established houses, see who creates fashion editorials with AI.",
+    "audiences": [
+      {
+        "label": "Fashion brands",
+        "description": "Create professional editorial content for seasonal collections, lookbooks, and campaigns without the full cost of traditional fashion shoots."
+      },
+      {
+        "label": "Fashion designers",
+        "description": "Visualize and present your designs in stunning editorial contexts that showcase their full potential to buyers and customers."
+      },
+      {
+        "label": "Creative directors",
+        "description": "Rapidly prototype editorial concepts and campaign visuals before committing to full production shoots."
+      },
+      {
+        "label": "Fashion marketers",
+        "description": "Produce consistent, high-quality fashion content for social media, e-commerce, and digital marketing at scale."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Brand Fashion Editorial?",
+        "answer": "This AI workflow creates professional fashion editorial photos and videos. It produces magazine-quality content suitable for lookbooks, campaigns, and premium brand marketing."
+      },
+      {
+        "question": "What types of fashion content can I create?",
+        "answer": "Create editorial lookbooks, campaign imagery, product showcases, lifestyle fashion content, and cinematic fashion videos across various styles and aesthetics."
+      },
+      {
+        "question": "Can I create both photos and videos?",
+        "answer": "Yes. The workflow uses Nano Banana Pro for stunning fashion photography and Kling 2.5 Pro for cinematic fashion video content with professional motion and transitions."
+      },
+      {
+        "question": "What editorial styles are available?",
+        "answer": "The workflow adapts to various styles: high fashion editorial, street style, minimalist, romantic, dramatic, avant-garde, and more based on your direction."
+      },
+      {
+        "question": "Is this suitable for professional brand use?",
+        "answer": "Absolutely. The output quality meets professional standards for fashion marketing, e-commerce, social media, and brand campaigns."
+      },
+      {
+        "question": "How do credits work for this workflow?",
+        "answer": "Image and video generation consume credits based on complexity. Fashion video production with Kling 2.5 Pro typically uses more credits but delivers premium results."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Brand Fashion Editorial – AI Fashion Photography",
+      "description": "Create stunning brand fashion editorial photos and videos with AI for lookbooks and campaigns."
+    },
+    "softwareApplication": {
+      "name": "Brand Fashion Editorial AI Generator",
+      "description": "AI-powered tool for creating professional fashion editorial photos and cinematic fashion videos."
+    },
+    "faqPage": {
+      "name": "Brand Fashion Editorial – FAQ"
+    }
+  }
+}

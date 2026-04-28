@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Amazon Product Photo Set (Christmas) – AI Holiday Photography | OpenCreator",
+    "description": "Create professional Christmas-themed Amazon product photo sets with AI. Generate festive holiday listing images with seasonal backgrounds and holiday styling.",
+    "keywords": [
+      "christmas product photos",
+      "holiday amazon listing",
+      "festive product photography",
+      "christmas e-commerce images",
+      "holiday product set",
+      "amazon christmas photos",
+      "seasonal product images",
+      "holiday listing photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#amazon", "#christmas", "#holiday_photography"],
+    "title": "Amazon Product Photo Set (Christmas)",
+    "description": "Create professional Christmas-themed Amazon product photo sets with AI. Generate complete holiday listing images with festive backgrounds, seasonal styling, and gift-ready presentations. Perfect for Amazon sellers preparing for the peak holiday shopping season.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product photo",
+        "description": "Provide a clear image of your product—any category works. Our AI transforms standard product photos into Christmas-themed holiday imagery."
+      },
+      {
+        "title": "Select holiday theme and style",
+        "description": "Choose from various Christmas themes: gift-wrapped presentations, festive backgrounds, cozy holiday scenes, or winter wonderland settings."
+      },
+      {
+        "title": "Generate Christmas product imagery",
+        "description": "AI creates professional holiday product photos with seasonal styling, Christmas decorations, and festive atmospheres that capture holiday shopping spirit."
+      },
+      {
+        "title": "Download your holiday set",
+        "description": "Export high-resolution Christmas-themed images optimized for Amazon listings, ready to capture holiday shoppers' attention."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for holiday season selling",
+    "subtitle": "From seasonal sellers to year-round brands, see who creates Christmas product imagery with AI.",
+    "audiences": [
+      {
+        "label": "Amazon FBA sellers",
+        "description": "Transform standard listings into eye-catching Christmas presentations that stand out during the competitive holiday shopping period."
+      },
+      {
+        "label": "Gift product sellers",
+        "description": "Showcase products as perfect gifts with holiday styling that inspires purchase decisions during the gifting season."
+      },
+      {
+        "label": "Seasonal retailers",
+        "description": "Quickly create festive product imagery for Christmas catalogs and holiday marketing without expensive seasonal photoshoots."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Maintain consistent holiday branding across product catalogs with professionally styled Christmas imagery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Amazon Product Photo Set (Christmas)?",
+        "answer": "This AI workflow creates Christmas-themed product photo sets for Amazon listings—with festive backgrounds, holiday styling, and seasonal presentations designed to capture holiday shoppers' attention."
+      },
+      {
+        "question": "What products can I photograph for Christmas?",
+        "answer": "Any product category: electronics, toys, home goods, clothing, beauty products, kitchenware, decorations—anything you want to present in a holiday context."
+      },
+      {
+        "question": "What Christmas themes are available?",
+        "answer": "Choose from gift-wrapped presentations, Christmas tree backdrops, cozy fireplace scenes, snowy winter settings, red and green festive styling, and elegant holiday aesthetics."
+      },
+      {
+        "question": "Will images meet Amazon requirements?",
+        "answer": "Yes. All generated images comply with Amazon's listing image guidelines including resolution, background requirements, and content standards."
+      },
+      {
+        "question": "When should I prepare Christmas listings?",
+        "answer": "Prepare holiday product imagery by October or early November to maximize visibility during the peak holiday shopping period from November through December."
+      },
+      {
+        "question": "Can I show products as gifts?",
+        "answer": "Absolutely. Generate imagery showing products gift-wrapped, under Christmas trees, or in gift-giving scenarios that inspire purchase decisions."
+      },
+      {
+        "question": "Can I maintain brand consistency?",
+        "answer": "Yes. Apply consistent Christmas themes across your entire product catalog for cohesive holiday branding on Amazon."
+      },
+      {
+        "question": "What resolution are the output images?",
+        "answer": "Images are delivered in high resolution meeting Amazon's requirements, with quality suitable for zoom functionality and detail viewing."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Amazon Product Photo Set (Christmas) – AI Holiday Photography",
+      "description": "Create professional Christmas-themed Amazon product photo sets with AI-powered holiday photography."
+    },
+    "softwareApplication": {
+      "name": "Amazon Product Photo Set (Christmas) AI",
+      "description": "AI-powered product photography tool for creating Christmas-themed Amazon listing images with festive holiday styling."
+    },
+    "faqPage": {
+      "name": "Amazon Product Photo Set (Christmas) – FAQ"
+    }
+  }
+}

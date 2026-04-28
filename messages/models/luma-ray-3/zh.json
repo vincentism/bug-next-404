@@ -1,0 +1,154 @@
+{
+  "model": {
+    "meta": {
+      "title": "Luma Ray3 AI 视频生成器 | 推理视频模型 | OpenCreator",
+      "description": "了解 Luma Ray3：面向电影级创作的下一代视频模型。OpenCreator 预热页现已上线，可提前收集潜在用户。"
+    },
+    "hero": {
+      "modelName": "Luma Ray3",
+      "tagline": "下一代“推理”视频模型",
+      "description": "Ray3 面向电影级视频生成与更强的可控性，强调更好的指令遵循、时间一致性与生产级工作流。OpenCreator 将在可用时第一时间接入。",
+      "badge": "即将上线",
+      "ctaText": "查看定价",
+      "secondaryCtaText": "了解更多",
+      "capabilities": {
+        "reasoning": "视觉推理",
+        "cinematic": "电影级质感",
+        "control": "更强可控",
+        "consistency": "更好一致性",
+        "speed": "更快迭代"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "围绕真实创作流程整理的关键能力",
+      "items": {
+        "reasoning": {
+          "title": "更强的意图理解",
+          "description": "更贴近创作意图，减少随机性，提高输出可预期性。"
+        },
+        "hdr": {
+          "title": "面向制作的输出",
+          "description": "更适配对色彩、细节与制作流程有要求的项目。"
+        },
+        "temporal": {
+          "title": "更好的时间一致性",
+          "description": "长镜头中运动更稳定，减少跨帧漂移与闪烁。"
+        },
+        "control": {
+          "title": "更强可控性",
+          "description": "更好地遵循提示词与镜头意图，迭代更可控。"
+        },
+        "workflow": {
+          "title": "更快的探索速度",
+          "description": "快速试错与筛选方向，提高创作效率。"
+        },
+        "production": {
+          "title": "为真实项目设计",
+          "description": "强调可重复、可延展与可交付的输出质量。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "效果展示",
+      "subtitle": "与 Ray3 适用场景相近的 OpenCreator 工作流示例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "character": {
+          "title": "一致角色",
+          "description": "品牌广告 / 叙事",
+          "useCase": "多镜头保持角色身份与风格一致，适合连续叙事。"
+        },
+        "advertising": {
+          "title": "广告级运动质量",
+          "description": "社交媒体内容",
+          "useCase": "更好地遵循提示词，生成更“可用”的成片运动表现。"
+        },
+        "cinematic": {
+          "title": "电影感画面",
+          "description": "影视风格",
+          "useCase": "生成更连贯、更有质感的镜头画面，用于概念预演与创意验证。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "从输入输出与控制维度快速了解",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入形式",
+          "outputFormat": "输出格式",
+          "resolution": "分辨率"
+        },
+        "control": {
+          "title": "控制能力",
+          "prompt": "提示词控制",
+          "character": "角色参考",
+          "keyframes": "关键帧"
+        },
+        "production": {
+          "title": "制作能力",
+          "temporal": "时间一致性",
+          "pipeline": "制作流程适配"
+        }
+      },
+      "values": {
+        "inputFormats": "文本 / 图片 / 视频",
+        "outputFormat": "MP4",
+        "resolution": "以实际上线为准"
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "定位下一代创作流程",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToVideo": "文生视频",
+        "imageToVideo": "图生视频",
+        "videoToVideo": "视频编辑/重绘",
+        "characterReference": "角色参考",
+        "keyframes": "关键帧",
+        "cinematicQuality": "电影级质感"
+      }
+    },
+    "pricing": {
+      "title": "即将上线",
+      "subtitle": "Ray3 即将在 OpenCreator 提供",
+      "ctaText": "加入候补名单",
+      "comingSoonBadge": "即将上线",
+      "description": "下一代视频模型",
+      "note": "待模型集成上线后，将在此展示定价与可用性信息。",
+      "viewFullPricing": "查看完整定价 →"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Ray3 已经在 OpenCreator 上线了吗？",
+          "answer": "尚未上线。本页用于提前预热与收集潜在用户需求。"
+        },
+        "1": {
+          "question": "我现在可以用什么替代？",
+          "answer": "你可以先使用 OpenCreator 现有的视频模型搭建工作流，上线后再无缝替换。"
+        },
+        "2": {
+          "question": "Ray3 会支持视频编辑吗？",
+          "answer": "Ray3 的具体能力以正式接入 OpenCreator 后的实际功能为准。"
+        },
+        "3": {
+          "question": "定价会怎么计算？",
+          "answer": "模型可用后会在本页展示点数消耗与订阅优惠信息。"
+        },
+        "4": {
+          "question": "如何第一时间得知上线？",
+          "answer": "你可以收藏本页并持续关注，我们会在模型可用时更新页面信息。"
+        }
+      }
+    }
+  }
+}

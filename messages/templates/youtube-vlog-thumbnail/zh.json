@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "YouTube Vlog 缩略图 – AI YouTube 缩略图生成器 | OpenCreator",
+    "description": "用 AI 设计高点击率的 YouTube Vlog 缩略图，兼顾浏览量和观看时长。生成专业且符合品牌风格的缩略图，把故事、情绪和价值突出出来。",
+    "keywords": [
+      "YouTube 缩略图生成器",
+      "Vlog 缩略图制作",
+      "AI YouTube 缩略图",
+      "视频封面设计",
+      "高点击率缩略图",
+      "如何用 AI 做 Vlog 缩略图",
+      "最佳 AI YouTube 缩略图工具"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#youtube", "#thumbnails", "#content_creation"],
+    "title": "YouTube Vlog 缩略图",
+    "description": "为你的 YouTube Vlog 设计更容易被点击的缩略图，提升播放量和观看时长。用 AI 生成专业、统一且符合品牌调性的缩略图，把故事、情绪和关键信息一眼呈现，非常适合高频更新的 Vlogger 和内容创作者。",
+    "inputPlaceholder": "描述这一期 vlog 的内容，以及你希望观众感受到什么",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "描述视频主题和关键情节",
+        "description": "说明这期视频主要讲什么，以及其中最精彩、最惊喜或最有情绪张力的片段。"
+      },
+      {
+        "title": "选择缩略图风格和布局",
+        "description": "根据你的频道定位，选择更适合的风格：例如动感、电影感、极简、表情特写等。"
+      },
+      {
+        "title": "生成多套缩略图备选方案",
+        "description": "AI 会围绕画面焦点、文案层级和色彩对比，生成多种缩略图构图供你挑选。"
+      },
+      {
+        "title": "选出最佳方案并导出 YouTube 适配尺寸",
+        "description": "下载最终选中的缩略图（尺寸符合 YouTube 要求），直接上传到视频中使用。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "为 Vlogger 和 YouTube 创作者设计",
+    "subtitle": "从日更 vlog 频道到细分领域创作者，都可以用 AI 缩略图提升点击率。",
+    "audiences": [
+      {
+        "label": "日更 / 高频更新的 Vlogger",
+        "description": "在不被设计工作拖慢节奏的前提下，持续产出风格统一、吸睛的缩略图。"
+      },
+      {
+        "label": "生活方式与旅行博主",
+        "description": "突出目的地、体验场景和情绪瞬间，用一张图把故事讲清楚，吸引新观众点进来。"
+      },
+      {
+        "label": "教育与教程类频道",
+        "description": "把主题和最终收获讲清楚，提高真正对内容感兴趣的精准点击。"
+      },
+      {
+        "label": "多频道创作者与代理机构",
+        "description": "在多账号、多视频并行运营时，批量生产风格一致的缩略图，而不会压垮团队产能。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "YouTube Vlog 缩略图工作流是做什么的？",
+        "answer": "YouTube Vlog 缩略图是一个 AI 工作流，专门为 YouTube Vlog 和各类视频内容生成吸睛缩略图。它可以生成专业、高点击率的封面，提升视频的曝光和观看。"
+      },
+      {
+        "question": "YouTube Vlog 缩略图适合哪些人？",
+        "answer": "这个工作流非常适合内容创作者：YouTuber、Vlogger、内容创作者、视频营销人员以及负责频道运营的社媒经理，只要你需要专业的 YouTube 缩略图，都可以使用它。"
+      },
+      {
+        "question": "开始使用需要提供什么输入？",
+        "answer": "你只需要提供视频主题、标题或内容简介。AI 会在准确表达视频内容的前提下，生成视觉上更抢眼的缩略图。"
+      },
+      {
+        "question": "这个工作流会输出什么样的结果？",
+        "answer": "工作流会生成符合 YouTube 比例的专业缩略图，包含清晰的视觉焦点、合理的文字信息和适合平台推荐机制的构图。"
+      },
+      {
+        "question": "可以为不同类型的视频生成缩略图吗？",
+        "answer": "可以。无论是 vlog、教程、测评、游戏、知识分享还是综艺娱乐内容，你都可以用同一工作流生成相应风格的缩略图。"
+      },
+      {
+        "question": "YouTube Vlog 缩略图如何计费？",
+        "answer": "每次生成缩略图都会根据复杂度和所选风格消耗一定积分。相较于外包设计或全职设计师，这是更灵活、成本更可控的选择。"
+      },
+      {
+        "question": "生成的缩略图会自动符合 YouTube 要求吗？",
+        "answer": "会。生成结果会参考 YouTube 推荐的分辨率（如 1280x720）、文件大小和内容规范，方便你直接上传并获得良好展示效果。"
+      },
+      {
+        "question": "能否在多个视频之间保持品牌风格统一？",
+        "answer": "可以。你可以在工作流中持续使用同一套品牌色、字体和视觉元素，让整个频道的缩略图看起来更加统一、专业。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "YouTube Vlog 缩略图 – AI 缩略图生成器",
+      "description": "用 AI 生成吸睛的 YouTube Vlog 缩略图，提升点击率和观看时长。"
+    },
+    "softwareApplication": {
+      "name": "YouTube Vlog 缩略图 AI 生成器",
+      "description": "面向 YouTube 创作者的 AI 缩略图生成工作流，帮助你快速制作高转化的视频封面。"
+    },
+    "faqPage": {
+      "name": "YouTube Vlog 缩略图 – 常见问题"
+    }
+  }
+}

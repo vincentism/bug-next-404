@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Style Consistency – AI Style Consistency Generator | OpenCreator",
+    "description": "Apply a consistent visual style across many images and concepts with OpenCreator's Style Consistency workflow. Harmonize color, line, and texture for a unified visual identity.",
+    "keywords": [
+      "style consistency generator",
+      "match image style ai",
+      "consistent illustration style",
+      "visual language harmonizer",
+      "style transfer for branding",
+      "how to apply consistent visual style with ai",
+      "ai tool for style matched asset generation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#style_consistency", "#visual_identity", "#branding"],
+    "title": "Style Consistency",
+    "description": "Apply a consistent visual style across many images or concepts. Use AI to harmonize color, line, texture, and overall feel so your visuals look like part of the same family.",
+    "inputPlaceholder": "Upload style reference images and describe what assets should match this style",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide one or more style references",
+        "description": "Use existing brand visuals, illustrations, or photos that represent your desired style."
+      },
+      {
+        "title": "Upload or describe target content",
+        "description": "Share what you want styled: new scenes, products, characters, or diagrams."
+      },
+      {
+        "title": "Generate style-consistent assets",
+        "description": "AI applies reference style attributes across outputs while respecting subject matter."
+      },
+      {
+        "title": "Export for libraries, systems, and campaigns",
+        "description": "Use results in design systems, campaigns, or documentation for cohesive visual identity."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams enforcing one visual language",
+    "subtitle": "From design systems to campaigns, see who uses style consistency.",
+    "audiences": [
+      {
+        "label": "Brand and design system teams",
+        "description": "Keep visuals aligned with identity across many creators and touchpoints."
+      },
+      {
+        "label": "Agencies managing multiple routes",
+        "description": "Generate style-consistent assets for each route to test and present."
+      },
+      {
+        "label": "Product and UX teams",
+        "description": "Harmonize illustrations, icons, and empty states across product surfaces."
+      },
+      {
+        "label": "Technical documentation and education teams",
+        "description": "Maintain a single visual language across diagrams, infographics, and examples."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the Style Consistency AI workflow do?",
+        "answer": "This workflow helps you apply a consistent visual style across many assets. It is designed as a style consistency generator so color, line, texture, and overall feel stay unified across your images."
+      },
+      {
+        "question": "What kind of style reference images should I upload?",
+        "answer": "Use one or more images that clearly represent the style you want to match—such as existing brand illustrations, campaign visuals, or product photos with the right treatment. These references act as the visual language guide for new outputs."
+      },
+      {
+        "question": "Can I restyle new content to match an existing brand look?",
+        "answer": "Yes. You can upload style references and then describe the new scenes, products, or diagrams that should match that style. The workflow focuses on harmonizing the look while respecting the underlying subject matter."
+      },
+      {
+        "question": "How is style consistency different from subject consistency?",
+        "answer": "Style consistency focuses on the overall visual language—line work, color, texture, and rendering—while subject consistency focuses on keeping a specific character or product on-model. You can use both workflows in combination, but this template is dedicated to unifying style across assets."
+      },
+      {
+        "question": "What are common use cases for AI style consistency?",
+        "answer": "Teams use this workflow to keep illustrations, icons, marketing images, and documentation diagrams visually aligned, even when different people or tools are creating the inputs."
+      },
+      {
+        "question": "How do credits and costs work for Style Consistency generations?",
+        "answer": "Each generation consumes credits depending on the model and configuration. A good approach is to first test a small set of assets to confirm the style match, then scale up once you are confident in your reference setup."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Style Consistency – AI Style Consistency Generator",
+      "description": "Apply a consistent visual style across many assets using AI, keeping brand visuals harmonized across surfaces and campaigns."
+    },
+    "softwareApplication": {
+      "name": "AI Style Consistency Generator",
+      "description": "AI workflow that matches new assets to a reference visual style for branding, product, and documentation teams."
+    },
+    "faqPage": {
+      "name": "Style Consistency – FAQ"
+    }
+  }
+}

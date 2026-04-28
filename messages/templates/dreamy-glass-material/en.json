@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Generate Dreamy Glass Material from White Model – AI Texture Transfer | OpenCreator",
+    "description": "Transform plain white 3D models into stunning colorful dreamy glass materials with AI. Transfer organic, oceanic, and surreal textures to any product with Nano Banana Pro for stunning visual effects.",
+    "keywords": [
+      "ai texture transfer",
+      "glass material generator",
+      "dreamy glass effect",
+      "3d model texture",
+      "ai material generation",
+      "product visualization",
+      "organic texture",
+      "surreal material design",
+      "white model to texture",
+      "ai visual effects",
+      "product rendering",
+      "glass material ai"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#texture", "#material", "#visual_effects"],
+    "title": "Generate Dreamy Glass Material from White Model",
+    "description": "Transform plain white 3D models into stunning colorful dreamy glass materials with AI. Upload your white model reference and a style image, and watch Nano Banana Pro transfer organic, oceanic, and surreal textures to create mesmerizing glass effects with VEO 3 animation.",
+    "inputPlaceholder": "Upload your white model and style reference",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload style reference image",
+        "description": "Provide a reference image with the glass material style you want—organic, oceanic, bubble-like textures, or any surreal visual style you envision."
+      },
+      {
+        "title": "AI extracts texture keywords",
+        "description": "GPT-4o Mini analyzes your style reference and extracts key material characteristics: organic, oceanic, biomorphic, dreamy, bubble, diverse shapes, and visual impact keywords."
+      },
+      {
+        "title": "Upload your white 3D model",
+        "description": "Provide your plain white model image. Nano Banana Pro will apply the extracted texture style while preserving your model's shape and composition."
+      },
+      {
+        "title": "Generate animated glass effect video",
+        "description": "VEO 3 transforms your textured image into a mesmerizing video with gentle petal movements, breathing water droplets, and slow cinematic camera movements."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for 3D artists and product designers",
+    "subtitle": "From product visualization to concept art, see who creates dreamy glass materials with AI.",
+    "audiences": [
+      {
+        "label": "3D artists & designers",
+        "description": "Transform plain 3D models into stunning glass material renders without complex shader setup or rendering software."
+      },
+      {
+        "label": "Product designers",
+        "description": "Visualize products with unique glass and translucent material effects for concept presentations and client pitches."
+      },
+      {
+        "label": "Social media creators",
+        "description": "Create eye-catching surreal visual content with dreamy glass aesthetics that stands out in feeds and drives engagement."
+      },
+      {
+        "label": "Brand & marketing teams",
+        "description": "Generate premium product visuals with artistic glass effects for advertising campaigns and brand content."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Dreamy Glass Material workflow?",
+        "answer": "This workflow transforms plain white 3D models into colorful dreamy glass materials using AI. It extracts texture styles from reference images and applies them to your models, then generates animated videos with VEO 3."
+      },
+      {
+        "question": "What AI models does this workflow use?",
+        "answer": "The workflow uses GPT-4o Mini for texture keyword extraction, Nano Banana Pro for style transfer and material generation, and VEO 3 for creating animated glass effect videos."
+      },
+      {
+        "question": "What input do I need to provide?",
+        "answer": "You need two images: a style reference showing the glass material effect you want, and your white 3D model image. The AI handles the texture transfer and animation automatically."
+      },
+      {
+        "question": "What kind of output can I expect?",
+        "answer": "You get a transformed image with dreamy glass materials applied to your model, plus an animated video featuring gentle movements, breathing effects, and cinematic camera work."
+      },
+      {
+        "question": "Can I use any style reference?",
+        "answer": "Yes. The workflow can extract and transfer various material styles—organic, oceanic, crystalline, bubble-like, or any surreal glass aesthetic you provide as reference."
+      },
+      {
+        "question": "Does it work with any 3D model shape?",
+        "answer": "The workflow preserves your model's original shape and composition while applying the glass material texture. It works with various product forms and 3D designs."
+      },
+      {
+        "question": "How does the animation work?",
+        "answer": "VEO 3 generates a video with subtle material movements—petals floating, water droplets breathing, and slow camera movements that bring the glass material to life."
+      },
+      {
+        "question": "How are credits calculated?",
+        "answer": "Credits are consumed based on the AI models used: text analysis, image generation with Nano Banana Pro, and video generation with VEO 3."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Generate Dreamy Glass Material from White Model – AI Texture Transfer",
+      "description": "Transform plain white 3D models into stunning colorful dreamy glass materials with AI texture transfer and animation."
+    },
+    "softwareApplication": {
+      "name": "Dreamy Glass Material AI Generator",
+      "description": "AI-powered tool for transforming white 3D models into dreamy glass materials with organic, oceanic, and surreal textures."
+    },
+    "faqPage": {
+      "name": "Dreamy Glass Material Generator – FAQ"
+    }
+  }
+}

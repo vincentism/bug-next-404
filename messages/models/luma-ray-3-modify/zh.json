@@ -1,0 +1,154 @@
+{
+  "model": {
+    "meta": {
+      "title": "Luma Ray3 Modify | 视频编辑/重绘（Video-to-Video）| OpenCreator",
+      "description": "Ray3 Modify 面向保留表演细节的视频编辑工作流，强调关键帧与角色参考。OpenCreator 预热页现已上线。"
+    },
+    "hero": {
+      "modelName": "Luma Ray3 Modify",
+      "tagline": "保留表演的 Video-to-Video 视频编辑",
+      "description": "Ray3 Modify 重点解决“改场景但不丢表演”的难题：在保留节奏、动作与情绪表达的前提下，对画面环境、风格与镜头进行可控修改。OpenCreator 将在可用时第一时间接入。",
+      "badge": "即将上线",
+      "ctaText": "查看定价",
+      "secondaryCtaText": "了解更多",
+      "capabilities": {
+        "v2v": "视频编辑/重绘",
+        "keyframes": "首尾帧控制",
+        "character": "角色参考",
+        "performance": "表演保真",
+        "continuity": "连续性"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "为“实拍 + AI 编辑”的混合工作流设计",
+      "items": {
+        "keyframes": {
+          "title": "首尾帧控制",
+          "description": "用关键帧约束镜头演进与转场，减少不可控漂移。"
+        },
+        "character": {
+          "title": "角色参考",
+          "description": "锁定角色外观与服装连续性，避免身份漂移。"
+        },
+        "performance": {
+          "title": "表演保真",
+          "description": "保留动作节奏、眼神与情绪表达，同时改变场景与画面风格。"
+        },
+        "continuity": {
+          "title": "连续性与可重复",
+          "description": "更强调镜头连续性与可重复生成，适合制作流程。"
+        },
+        "editing": {
+          "title": "更可控的场景编辑",
+          "description": "在环境、镜头语言与视觉风格上做更“可预期”的修改。"
+        },
+        "pipeline": {
+          "title": "面向制作的工作流",
+          "description": "更适配广告、影视与后期流程中对稳定性和交付的要求。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "适用场景",
+      "subtitle": "与 Ray3 Modify 目标工作流相近的 OpenCreator 示例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "modify": {
+          "title": "镜头改造",
+          "description": "改环境与造型",
+          "useCase": "在保留演员表演的基础上修改场景、服装与风格。"
+        },
+        "vfx": {
+          "title": "VFX 风格迭代",
+          "description": "快速试错",
+          "useCase": "不重拍的情况下迭代视觉效果与镜头质感。"
+        },
+        "production": {
+          "title": "广告制作",
+          "description": "一拍多用",
+          "useCase": "一次拍摄，生成多个可控变体用于投放与个性化。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "输入输出与控制点概览",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入形式",
+          "outputFormat": "输出格式",
+          "duration": "时长"
+        },
+        "controls": {
+          "title": "控制能力",
+          "keyframes": "关键帧",
+          "characterReference": "角色参考",
+          "performance": "表演保真"
+        },
+        "production": {
+          "title": "制作能力",
+          "continuity": "连续性",
+          "repeatability": "可重复"
+        }
+      },
+      "values": {
+        "inputFormats": "视频 + 文本指令",
+        "outputFormat": "MP4",
+        "duration": "以实际上线为准"
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "与常规 V2V 的差异定位",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "videoToVideo": "视频编辑/重绘",
+        "performance": "表演保真",
+        "characterReference": "角色参考",
+        "keyframes": "关键帧",
+        "continuity": "连续性",
+        "control": "可控性"
+      }
+    },
+    "pricing": {
+      "title": "即将上线",
+      "subtitle": "Ray3 Modify 即将在 OpenCreator 提供",
+      "ctaText": "加入候补名单",
+      "comingSoonBadge": "即将上线",
+      "description": "Video-to-Video 编辑工作流",
+      "note": "待模型集成上线后，将在此展示定价与可用性信息。",
+      "viewFullPricing": "查看完整定价 →"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Ray3 Modify 已经在 OpenCreator 上线了吗？",
+          "answer": "尚未上线。本页用于提前预热与收集潜在用户需求。"
+        },
+        "1": {
+          "question": "Video-to-Video 通常用来做什么？",
+          "answer": "常用于在保留表演节奏的前提下进行场景、风格与镜头的可控修改。"
+        },
+        "2": {
+          "question": "会支持关键帧与角色参考吗？",
+          "answer": "以模型正式接入 OpenCreator 后的实际功能为准。"
+        },
+        "3": {
+          "question": "我可以先准备工作流吗？",
+          "answer": "可以。你可以先在 OpenCreator 用现有模型搭建流程，上线后再切换。"
+        },
+        "4": {
+          "question": "什么时候会上线？",
+          "answer": "我们会在可用性确认后更新本页信息。"
+        }
+      }
+    }
+  }
+}

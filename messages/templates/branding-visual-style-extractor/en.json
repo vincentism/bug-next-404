@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Branding Visual Style Extractor – AI Brand Design Tool | OpenCreator",
+    "description": "Extract and apply brand visual styles with AI. Analyze existing brand assets to generate consistent design derivatives, color palettes, and typography guidelines automatically.",
+    "keywords": [
+      "brand style extractor",
+      "visual identity ai",
+      "brand design generator",
+      "style guide creator",
+      "brand consistency tool",
+      "ai branding tool",
+      "design system generator",
+      "brand visual analysis"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#branding", "#design_system", "#visual_identity"],
+    "title": "Branding Visual Style Extractor",
+    "description": "Extract and replicate brand visual styles with AI precision. Upload existing brand assets and automatically generate consistent design derivatives, maintaining your brand's unique identity across all marketing materials. Perfect for brand managers and designers who need to scale brand consistency.",
+    "inputPlaceholder": "Upload your brand assets",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your brand reference assets",
+        "description": "Provide existing brand materials—logos, marketing images, or any visual assets that represent your brand identity. Our AI analyzes colors, typography, composition, and design patterns."
+      },
+      {
+        "title": "AI extracts visual style elements",
+        "description": "The system automatically identifies and extracts your brand's visual DNA: color palettes, design motifs, layout patterns, and aesthetic characteristics that define your brand."
+      },
+      {
+        "title": "Generate consistent brand derivatives",
+        "description": "Create new marketing materials, social posts, and visual content that perfectly match your established brand style, ensuring cohesive brand presence across all channels."
+      },
+      {
+        "title": "Export and apply to your campaigns",
+        "description": "Download ready-to-use brand assets that maintain your visual identity standards. Scale your brand presence without compromising consistency or quality."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for brand guardians and creative teams",
+    "subtitle": "From brand managers to design agencies, see who maintains brand consistency with AI.",
+    "audiences": [
+      {
+        "label": "Brand managers",
+        "description": "Ensure consistent brand application across all touchpoints without manual style guide enforcement, saving time while maintaining brand integrity."
+      },
+      {
+        "label": "Design agencies",
+        "description": "Quickly understand and replicate client brand styles for campaigns, reducing onboarding time and ensuring accurate brand representation."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Create on-brand marketing materials at scale without waiting for designer approval, accelerating campaign launches while staying true to brand guidelines."
+      },
+      {
+        "label": "Franchise businesses",
+        "description": "Maintain brand consistency across multiple locations and partners, ensuring every franchisee produces materials that meet corporate brand standards."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Branding Visual Style Extractor?",
+        "answer": "The Branding Visual Style Extractor is an AI-powered workflow that analyzes your brand assets to extract visual style elements—colors, typography, design patterns—and generates new, consistent brand derivatives automatically."
+      },
+      {
+        "question": "What types of brand assets can I upload?",
+        "answer": "You can upload any visual brand materials: logos, marketing images, social media graphics, packaging designs, advertisements, or website screenshots. The AI analyzes these to understand your brand's visual identity."
+      },
+      {
+        "question": "How accurate is the style extraction?",
+        "answer": "Our AI precisely identifies color palettes, design motifs, composition patterns, and aesthetic characteristics from your uploads. The generated derivatives maintain high fidelity to your original brand style."
+      },
+      {
+        "question": "Can I generate different types of marketing materials?",
+        "answer": "Yes. Once your brand style is extracted, you can generate various types of content—social posts, banners, product images, promotional materials—all matching your brand's visual identity."
+      },
+      {
+        "question": "Is this suitable for enterprise brand management?",
+        "answer": "Absolutely. The workflow is designed for scalable brand consistency, making it ideal for enterprises, franchises, and multi-location businesses that need to maintain brand standards across teams."
+      },
+      {
+        "question": "How does this compare to traditional brand guidelines?",
+        "answer": "While traditional brand guidelines require manual interpretation, this tool automatically applies your brand style to new creations. It complements existing guidelines by ensuring consistent execution."
+      },
+      {
+        "question": "Can I edit the extracted style elements?",
+        "answer": "Yes. You can review and adjust the extracted style parameters before generating derivatives, giving you control over how your brand style is applied to new materials."
+      },
+      {
+        "question": "What output formats are available?",
+        "answer": "Generated brand assets are delivered in high-resolution formats suitable for both digital and print applications, ready for immediate use in your marketing campaigns."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Branding Visual Style Extractor – AI Brand Design Tool",
+      "description": "Extract and replicate brand visual styles with AI. Generate consistent design derivatives that maintain your brand identity automatically."
+    },
+    "softwareApplication": {
+      "name": "Branding Visual Style Extractor AI",
+      "description": "AI-powered brand style extraction and derivative generation tool for maintaining visual brand consistency across all marketing materials."
+    },
+    "faqPage": {
+      "name": "Branding Visual Style Extractor – FAQ"
+    }
+  }
+}

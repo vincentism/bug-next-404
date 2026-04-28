@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "AI Influencer Video Generator for Idol-Style Campaigns | OpenCreator",
+    "description": "Create idol-style and virtual influencer videos with AI for social campaigns. Build celebrity-inspired promo content without complex production.",
+    "keywords": [
+      "ai influencer video",
+      "virtual influencer video generator",
+      "idol style video",
+      "celebrity style ad creative",
+      "social media promo video",
+      "fashion influencer ads",
+      "ai spokesperson video",
+      "creator brand campaign video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Content Gen",
+    "tags": ["#sora_2", "#celebrity", "#influencer_marketing"],
+    "title": "Sora 2 x Idols",
+    "description": "Generate influencer-led campaign videos with polished idol aesthetics. Perfect for brands that want star-like social content, launch teasers, and promo clips at high speed.",
+    "inputPlaceholder": "Describe your celebrity-inspired concept",
+    "ctaText": "Create Content"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your celebrity concept",
+        "description": "Input details about your desired celebrity style, target audience, brand positioning, and the type of idol-inspired content you want to create."
+      },
+      {
+        "title": "Choose Sora 2 idol style",
+        "description": "Select from various celebrity archetypes and styles that match your brand voice and campaign objectives."
+      },
+      {
+        "title": "Generate celebrity-style content",
+        "description": "Sora 2 AI creates authentic celebrity-inspired content with professional visuals, engaging poses, and star-quality appeal."
+      },
+      {
+        "title": "Deploy marketing campaigns",
+        "description": "Export high-resolution celebrity-inspired content ready for social media, advertising, and marketing campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for celebrity marketing and influencer content",
+    "subtitle": "From startups to established brands, see who creates celebrity-inspired content with Sora 2.",
+    "audiences": [
+      {
+        "label": "Marketing agencies",
+        "description": "Create celebrity-inspired content for clients without the high costs and logistics of actual celebrity partnerships."
+      },
+      {
+        "label": "E-commerce brands",
+        "description": "Generate star-quality product visuals and marketing content that captures attention and drives sales."
+      },
+      {
+        "label": "Content creators",
+        "description": "Produce celebrity-inspired content that stands out on social media and attracts follower engagement."
+      },
+      {
+        "label": "Digital marketers",
+        "description": "Create high-impact marketing materials with celebrity appeal that increases brand recognition and conversion rates."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Sora 2 x Idols workflow?",
+        "answer": "Sora 2 x Idols is an AI-powered workflow that creates celebrity-style content with Soraa 2 technology. Generate engaging idol and celebrity-inspired marketing content."
+      },
+      {
+        "question": "Who is Sora 2 x Idols designed for?",
+        "answer": "Sora 2 x Idols is essential for celebrity marketing and influencer content: marketing agencies, e-commerce brands, content creators, and digital marketers marketers who need celebrity-inspired content."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide details about your desired celebrity style, target audience, brand positioning, and the type of idol-inspired content you want to create."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates authentic celebrity-inspired content with professional visuals, engaging visuals, and star-quality appeal."
+      },
+      {
+        "question": "Can I create content for different celebrity styles?",
+        "answer": "Yes. You can create content inspired by various celebrity archetypes, from fashion icons to entertainment stars."
+      },
+      {
+        "question": "How do credits and pricing work for Sora 2 x Idols?",
+        "answer": "Each celebrity content generation consumes credits based on the image complexity and customization requirements. The cost is optimized for creating high-impact marketing content."
+      },
+      {
+        "question": "Can I maintain brand consistency across celebrity content?",
+        "answer": "Absolutely. The workflow incorporates your brand elements, voice, and visual identity while maintaining celebrity appeal."
+      },
+      {
+        "question": "Is this suitable for product launches and campaigns?",
+        "answer": "Yes. Perfect for creating consistent celebrity-inspired content for product launches, seasonal campaigns, and ongoing brand initiatives."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Sora 2 x Idols – AI Celebrity Content",
+      "description": "Create celebrity-style content with Sora 2 AI technology. Generate engaging idol and celebrity-inspired marketing."
+    },
+    "softwareApplication": {
+      "name": "Sora 2 x Idols AI Generator",
+      "description": "AI-powered celebrity content creator using Sora 2 technology for generating star-quality marketing materials."
+    },
+    "faqPage": {
+      "name": "Sora 2 x Idols – FAQ"
+    }
+  }
+}

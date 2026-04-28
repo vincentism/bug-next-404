@@ -1,0 +1,180 @@
+{
+  "model": {
+    "meta": {
+      "title": "Imagen 4 AI Image Generator | Google DeepMind | OpenCreator",
+      "description": "Create stunning images with Google's Imagen 4. Photorealistic quality, advanced text rendering, up to 2K resolution, and ultra-fast generation. Try free on OpenCreator."
+    },
+    "hero": {
+      "modelName": "Imagen 4",
+      "tagline": "Photorealistic Perfection",
+      "description": "Google DeepMind's best text-to-image model. Imagen 4 delivers photorealistic images with exceptional clarity, advanced text rendering, diverse art styles, and up to 2K resolution - all with ultra-fast generation.",
+      "badge": "Google DeepMind",
+      "ctaText": "Try Imagen 4 Free",
+      "secondaryCtaText": "View Pricing",
+      "capabilities": {
+        "textToImage": "Text to Image",
+        "photorealistic": "Photorealistic",
+        "textRendering": "Text Rendering",
+        "highResolution": "2K Resolution",
+        "ultraFast": "Ultra-Fast"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Discover what makes Imagen 4 the best text-to-image model from Google",
+      "items": {
+        "photorealistic": {
+          "title": "Photorealistic Quality",
+          "description": "Generate images that are virtually indistinguishable from real photographs. Perfect for product shots, portraits, and realistic scenes."
+        },
+        "textRendering": {
+          "title": "Advanced Text Rendering",
+          "description": "Improved spelling, longer text strings, and new layouts. Create comics, packaging, posters, and text-heavy visuals with accurate typography."
+        },
+        "ultraFast": {
+          "title": "Ultra-Fast Generation",
+          "description": "Test dozens of ideas instantly. Imagen 4 comes with a mode that's up to 10x faster than previous models."
+        },
+        "resolution": {
+          "title": "Exceptional Clarity",
+          "description": "Generate images with up to 2K resolution. Optimized for creativity with enhanced colors, styles, and fine details."
+        },
+        "styles": {
+          "title": "Diverse Art Styles",
+          "description": "From photorealistic to artistic, Imagen 4 supports a wide range of styles including digital art, illustrations, and classic aesthetics."
+        },
+        "details": {
+          "title": "Fine Details",
+          "description": "Capture intricate details with precision. Perfect for complex scenes, textures, and detailed compositions."
+        }
+      }
+    },
+    "gallery": {
+      "title": "See It In Action",
+      "subtitle": "Real examples created with Imagen 4 on OpenCreator",
+      "tryWorkflow": "Try this workflow →",
+      "items": {
+        "photorealistic": {
+          "title": "YouTube Thumbnail",
+          "description": "Vlog Content",
+          "useCase": "Create eye-catching YouTube vlog thumbnails with photorealistic quality."
+        },
+        "product": {
+          "title": "Product Photography",
+          "description": "E-commerce",
+          "useCase": "Create professional product images with accurate colors and details."
+        },
+        "typography": {
+          "title": "Movie Poster",
+          "description": "Film Marketing",
+          "useCase": "Generate stunning movie posters with dramatic compositions and text."
+        },
+        "artistic": {
+          "title": "Artistic Styles",
+          "description": "Creative Art",
+          "useCase": "Explore diverse art styles from digital art to classic illustrations."
+        },
+        "portrait": {
+          "title": "Portraits",
+          "description": "Human Subjects",
+          "useCase": "Create stunning portrait photography with natural lighting and expressions."
+        },
+        "scenes": {
+          "title": "Complex Scenes",
+          "description": "Detailed Compositions",
+          "useCase": "Generate intricate scenes with multiple elements and fine details."
+        }
+      }
+    },
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "Everything you need to know about Imagen 4 capabilities",
+      "categories": {
+        "inputOutput": {
+          "title": "Input & Output",
+          "inputFormats": "Input Formats",
+          "outputFormat": "Output Format",
+          "maxResolution": "Max Resolution",
+          "aspectRatios": "Aspect Ratios"
+        },
+        "modes": {
+          "title": "Generation Modes",
+          "textToImage": "Text to Image",
+          "ultraFast": "Ultra-Fast Mode",
+          "highQuality": "High Quality Mode"
+        },
+        "capabilities": {
+          "title": "Capabilities",
+          "textRendering": "Text Rendering",
+          "photorealism": "Photorealism",
+          "artStyles": "Diverse Art Styles"
+        },
+        "safety": {
+          "title": "Safety & Privacy",
+          "synthId": "SynthID Watermark",
+          "safetyFilters": "Safety Filters"
+        }
+      }
+    },
+    "comparison": {
+      "title": "Model Comparison",
+      "subtitle": "See how Imagen 4 compares to other image models",
+      "featureLabel": "Feature",
+      "recommended": "★ Recommended",
+      "supported": "Supported",
+      "partial": "Partial",
+      "notSupported": "Not Supported",
+      "features": {
+        "textToImage": "Text to Image",
+        "photorealism": "Photorealism",
+        "textRendering": "Text Rendering",
+        "resolution": "Max Resolution",
+        "speed": "Generation Speed",
+        "artStyles": "Art Style Diversity"
+      }
+    },
+    "pricing": {
+      "title": "Best value",
+      "subtitle": "",
+      "description": "Lifelike, composition & color accuracy",
+      "perGeneration": "per generation",
+      "discountForSubscribers": "for subscribers",
+      "discountWithPro": "with Pro plan",
+      "note": "Credits are consumed per generation. Actual cost depends on your subscription plan.",
+      "viewFullPricing": "View full pricing →",
+      "planSectionTitle": "Save more with a subscription",
+      "planCreditsPerMonthLabel": "credits / month",
+      "planPerCreditLabel": "per credit",
+      "planPerGenerationLabel": "per generation"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "0": {
+          "question": "What is Imagen 4 and who developed it?",
+          "answer": "Imagen 4 is Google DeepMind's best text-to-image model. It generates photorealistic images with exceptional clarity, advanced text rendering, and supports diverse art styles with up to 2K resolution."
+        },
+        "1": {
+          "question": "What makes Imagen 4 different from other image models?",
+          "answer": "Imagen 4 excels in photorealism, advanced text rendering (spelling, typography, layouts), and offers an ultra-fast mode that's up to 10x faster than previous models. It also includes SynthID watermarking for safety."
+        },
+        "2": {
+          "question": "Can Imagen 4 render text in images?",
+          "answer": "Yes! Imagen 4 has significantly improved text rendering with better spelling, support for longer text strings, and new layouts. It's perfect for comics, packaging, posters, and text-heavy visuals."
+        },
+        "3": {
+          "question": "What resolution does Imagen 4 support?",
+          "answer": "Imagen 4 generates images with up to 2K resolution, optimized for creativity with enhanced colors, styles, and exceptional clarity."
+        },
+        "4": {
+          "question": "How fast is Imagen 4?",
+          "answer": "Imagen 4 includes an ultra-fast mode that's up to 10x faster than previous models, allowing you to test dozens of ideas instantly."
+        },
+        "5": {
+          "question": "What art styles can Imagen 4 generate?",
+          "answer": "Imagen 4 supports diverse art styles including photorealistic, digital art, illustrations, vintage aesthetics, comic styles, and more. It can adapt to various creative directions."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Brand Logo x Material – 材质质感品牌视觉生成器 | OpenCreator",
+    "description": "用 AI 为你的 Logo 赋予金属、玻璃、织物、石头、液体等真实材质，让品牌视觉更有质感，可用于活动主视觉、包装与社媒。",
+    "keywords": [
+      "logo 材质生成",
+      "质感 logo 设计",
+      "3D logo 材质",
+      "logo 视觉探索",
+      "品牌材质视觉",
+      "AI 材质化 logo",
+      "logo 纹理与材质探索"
+    ]
+  },
+  "hero": {
+    "featureTag": "图像生成",
+    "tags": ["#品牌", "#logo", "#材质"],
+    "title": "品牌 Logo × 材质",
+    "description": "用 AI 为你的 Logo 赋予丰富的材质质感。可应用金属、玻璃、织物、石头、液体等多种材质，快速产出吸睛的品牌主视觉，适用于活动、包装和社媒场景。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "上传你的 Logo，并描述想要尝试的材质或纹理",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "上传 Logo 文件",
+        "description": "使用干净的矢量或高分辨率 Logo，背景尽量简洁。"
+      },
+      {
+        "title": "选择或描述目标材质",
+        "description": "金属、织物、液体、玻璃、石头、霓虹等，按品牌气质自由选择。"
+      },
+      {
+        "title": "生成 Logo × 材质变体",
+        "description": "AI 按所选材质进行真实光影与体积表现，生成多种视觉方案。"
+      },
+      {
+        "title": "导出用于品牌与活动",
+        "description": "可直接用于主视觉、社媒海报、包装提案与演示文档。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合探索全新视觉风格的品牌团队",
+    "subtitle": "从初创到成熟品牌，都能用材质化方案重塑 Logo 表达。",
+    "audiences": [
+      {
+        "label": "品牌与视觉设计师",
+        "description": "用于提案与重塑尝试，快速试错、多路并行。"
+      },
+      {
+        "label": "市场与活动团队",
+        "description": "打造更具质感的主视觉，用于产品发布与活动传播。"
+      },
+      {
+        "label": "创意代理商与工作室",
+        "description": "高效产出多种路线，便于与客户沟通与评审。"
+      },
+      {
+        "label": "包装与工业设计师",
+        "description": "模拟 Logo 在真实材质上的呈现效果，辅助决策。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Brand Logo x Material 工作流？",
+        "answer": "这是一个把平面 Logo 转化为多种真实材质表现的 AI 工作流，用于品牌资产与活动主视觉的快速探索与产出。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "品牌与视觉设计师、市场团队、代理商以及包装与工业设计师等需要快速产出或验证视觉方向的人。"
+      },
+      {
+        "question": "需要提供哪些输入？",
+        "answer": "上传干净的 Logo 文件，并描述希望尝试的材质或纹理，也可补充品牌氛围与参考示例。"
+      },
+      {
+        "question": "输出内容是什么？",
+        "answer": "以所选材质真实呈现的高质量 Logo 视觉，可用于演示、提案与活动物料。"
+      },
+      {
+        "question": "能否尝试多种风格？",
+        "answer": "可以。你可以并行探索多种材质方向，快速对比筛选最契合品牌气质的方案。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "每次生成会消耗一定积分，开销与复杂度和分辨率相关。你可以在套餐额度内多次迭代并导出满意结果。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Brand Logo x Material – 材质质感品牌视觉生成器",
+      "description": "用 AI 生成 Logo × 材质视觉，用于品牌与活动场景。"
+    },
+    "softwareApplication": {
+      "name": "Brand Logo x Material 模板",
+      "description": "将 Logo 渲染为多种真实材质与纹理的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Brand Logo x Material – 常见问题"
+    }
+  }
+}

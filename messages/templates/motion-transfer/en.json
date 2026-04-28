@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Motion Transfer - Image + Video Motion Control Workflow | OpenCreator",
+    "description": "Transfer movement from a reference clip to a new character image with AI motion control. Build reusable short-form videos for ads, demos, and tutorials.",
+    "keywords": [
+      "image to video ai",
+      "ai motion transfer",
+      "motion transfer ai",
+      "motion control video ai",
+      "reference video motion transfer",
+      "character animation ai",
+      "ai video generator",
+      "ai product video generator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Tutorial",
+    "tags": ["#motion_transfer", "#kling_2_6", "#tutorials"],
+    "title": "Motion Transfer",
+    "description": "Upload one character image and one reference video, then transfer the motion path onto your new subject. This workflow helps you recreate camera movement and body rhythm without re-shooting footage.",
+    "inputPlaceholder": "Upload a character image and a reference motion clip",
+    "ctaText": "Try Motion Transfer"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Add your target character image",
+        "description": "Upload a clear image of the subject you want to animate. The image becomes the visual identity of the final clip."
+      },
+      {
+        "title": "Add a reference motion video",
+        "description": "Provide a short clip that contains the movement style you want to borrow, such as dancing, walking, or camera tracking."
+      },
+      {
+        "title": "Run motion control mapping",
+        "description": "The motion-control node aligns timing and movement patterns from the reference clip and applies them to your new character."
+      },
+      {
+        "title": "Export and iterate",
+        "description": "Download the generated video, then quickly swap new image or motion inputs to create more variations for your campaign."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for creators who need controllable motion",
+    "subtitle": "From social teams to educators, anyone can turn movement references into reusable output.",
+    "audiences": [
+      {
+        "label": "Short-video marketers",
+        "description": "Reuse proven motion patterns across multiple products or characters while keeping production fast and consistent."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Prototype movement ideas with clients before full production, reducing revision cycles and shoot costs."
+      },
+      {
+        "label": "Tutorial creators",
+        "description": "Demonstrate pose, choreography, or workflow transitions with consistent pacing and style."
+      },
+      {
+        "label": "Indie storytellers",
+        "description": "Create dynamic scenes from static assets by borrowing motion from a single reference clip."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is Motion Transfer?",
+        "answer": "Motion Transfer is a workflow that combines a character image and a reference video, then applies the reference movement to the uploaded subject to generate a new clip."
+      },
+      {
+        "question": "What kind of reference video works best?",
+        "answer": "Use clear clips with visible subject motion and stable framing. 3-8 second clips usually work well for predictable transfer results."
+      },
+      {
+        "question": "Can I keep the same movement but change the character?",
+        "answer": "Yes. You can keep one reference clip and swap different character images to produce multiple variations with similar rhythm."
+      },
+      {
+        "question": "Do I need a text prompt?",
+        "answer": "In most cases, image + reference video is enough. You can still add prompt guidance if you want stronger style constraints in later iterations."
+      },
+      {
+        "question": "Is this workflow suitable for ad content?",
+        "answer": "Yes. It's useful for social ads, product intros, and short creative tests where you want motion consistency without filming each variation."
+      },
+      {
+        "question": "Can I run multiple variants quickly?",
+        "answer": "Absolutely. Reuse the same workflow and swap only the image or reference clip to generate batches of motion-consistent outputs."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Motion Transfer",
+      "description": "Transfer movement from a reference video onto a new character image with AI motion control."
+    },
+    "softwareApplication": {
+      "name": "Motion Transfer Workflow",
+      "description": "AI workflow for mapping reference video motion to custom character images."
+    },
+    "faqPage": {
+      "name": "Motion Transfer - FAQ"
+    }
+  }
+}

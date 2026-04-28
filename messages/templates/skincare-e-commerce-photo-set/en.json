@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Skincare E-commerce Photo Set – Premium Beauty Images | OpenCreator",
+    "description": "Create premium skincare photo sets optimized for e-commerce: clean packshots, ingredient visuals, lifestyle scenes, and before/after graphics. Professional skincare product photography with AI.",
+    "keywords": [
+      "skincare product photography",
+      "cosmetic product photography",
+      "ecommerce product photo editing",
+      "product photo retouching services",
+      "ai product image generation",
+      "product image generator",
+      "beauty product photo set",
+      "ai product photos",
+      "lifestyle product photography",
+      "professional product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#skincare", "#ecommerce", "#product_photography"],
+    "title": "Skincare E-commerce Photo Set",
+    "description": "Create premium skincare product photo sets: clean packshots, ingredient-focused visuals, lifestyle scenes, and before/after graphics with AI.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "Upload your skincare product photo or packaging render",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your core skincare product image",
+        "description": "Provide a simple bottle, jar, or tube photo as the base."
+      },
+      {
+        "title": "Select photo types and brand mood",
+        "description": "Choose clean studio, spa-inspired, clinical, or natural ingredient-focused styles."
+      },
+      {
+        "title": "Generate a full skincare photo set",
+        "description": "Create hero shots, detail close-ups, texture smears, routine layouts, and ingredient storytelling images."
+      },
+      {
+        "title": "Export for website, marketplaces, and ads",
+        "description": "Download platform-ready images for PDPs, banners, social, and campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for modern skincare and beauty brands",
+    "subtitle": "From indie brands to established labels, see who uses AI skincare visuals.",
+    "audiences": [
+      {
+        "label": "DTC skincare brands",
+        "description": "Launch products faster with on-brand visual sets per SKU."
+      },
+      {
+        "label": "Beauty marketplace sellers",
+        "description": "Stand out on crowded platforms with elevated, consistent imagery."
+      },
+      {
+        "label": "Creative and brand teams",
+        "description": "Test multiple directions for new lines without repeated photoshoots."
+      },
+      {
+        "label": "Agencies serving beauty clients",
+        "description": "Deliver full visual systems for launches on tight timelines and budgets."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Skincare E-commerce Photo Set workflow?",
+        "answer": "An AI workflow for generating complete skincare product visuals—packshots, ingredient scenes, and lifestyle images."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "Skincare brands, marketplace sellers, brand teams, and agencies needing premium visuals quickly."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Upload a skincare product photo or render and select styles and mood."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "Platform-ready images for websites, marketplaces, and ads."
+      },
+      {
+        "question": "Can I switch styles easily?",
+        "answer": "Yes. Choose spa, clinical, clean studio, or natural ingredient looks and iterate."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits by resolution and complexity. Iterate within your plan and export."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Skincare E-commerce Photo Set – Premium Beauty Images",
+      "description": "AI-generated skincare photo sets for online stores and campaigns."
+    },
+    "softwareApplication": {
+      "name": "Skincare Photo Set Template",
+      "description": "AI workflow that creates premium skincare visuals for e-commerce."
+    },
+    "faqPage": { "name": "Skincare E-commerce Photo Set – FAQ" }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Product Infographics – Explain Features Visually | OpenCreator",
+    "description": "Turn complex product features into clear, high-converting infographics with AI—comparison charts, feature callouts, icons, and diagrams. Perfect infographic maker for Amazon A+ content.",
+    "keywords": [
+      "infographic maker for amazon",
+      "a+ content amazon",
+      "product infographics generator",
+      "amazon listing images",
+      "product image generator",
+      "ai product image generation",
+      "ecommerce infographic maker",
+      "feature comparison graphics",
+      "ai product infographic tool",
+      "product feature infographic"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#infographics", "#product_marketing", "#ecommerce"],
+    "title": "Product Infographics",
+    "description": "Turn complex product features and benefits into clear infographics without a designer. Create comparison charts, feature callouts, icons, and diagrams.",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "List your product features, specs, and key benefits",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide product details and value proposition",
+        "description": "Paste features, specifications, comparisons, and top benefits."
+      },
+      {
+        "title": "Choose infographic layout and style",
+        "description": "Select grids, before/after, comparison tables, or benefit diagrams."
+      },
+      {
+        "title": "Generate branded product infographics",
+        "description": "AI designs visuals with icons, labels, and hierarchy in your brand style."
+      },
+      {
+        "title": "Export for PDPs, decks, and ads",
+        "description": "Download high-resolution infographics for product pages, pitch decks, and ads."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams that need to explain products clearly",
+    "subtitle": "From e-commerce to SaaS, see who uses AI product infographics.",
+    "audiences": [
+      {
+        "label": "E-commerce product teams",
+        "description": "Help shoppers grasp specs and differentiators instantly on PDPs."
+      },
+      {
+        "label": "SaaS and software marketers",
+        "description": "Visualize workflows and feature sets anyone can grasp."
+      },
+      {
+        "label": "B2B sales and presales teams",
+        "description": "Create explainer visuals for proposals and demos without design wait time."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Produce infographics at scale for many clients."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product Infographics workflow?",
+        "answer": "An AI workflow that turns product details into branded, conversion-focused infographics."
+      },
+      {
+        "question": "Who should use this?",
+        "answer": "E-commerce product teams, SaaS marketers, B2B sales, and agencies."
+      },
+      {
+        "question": "What inputs are required?",
+        "answer": "Provide features, specs, comparisons, and benefits in text form."
+      },
+      {
+        "question": "What outputs will I get?",
+        "answer": "High-resolution infographic images for PDPs, decks, and ads."
+      },
+      {
+        "question": "Can I pick layouts and brand styles?",
+        "answer": "Yes. Choose layouts and AI will apply your brand colors and typography."
+      },
+      {
+        "question": "How do credits work?",
+        "answer": "Generations consume credits by resolution and scope. Iterate within your plan."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Infographics – Explain Features Visually",
+      "description": "AI-generated product infographics for marketing and sales."
+    },
+    "softwareApplication": {
+      "name": "Product Infographics Template",
+      "description": "AI workflow that creates product infographics from text inputs."
+    },
+    "faqPage": { "name": "Product Infographics – FAQ" }
+  }
+}

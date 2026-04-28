@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Wan 2.5 AI 视频生成器 | 阿里巴巴 | OpenCreator",
+      "description": "使用阿里巴巴的 Wan 2.5 创建精彩视频。支持最长 30 秒视频、1080p 分辨率、口型同步音频和流畅运动。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Wan 2.5",
+      "tagline": "延长时长视频生成",
+      "description": "Wan 2.5 是阿里巴巴强大的视频生成模型，具备延长的 30 秒时长、1080p 分辨率输出和口型同步音频生成。非常适合长视频内容和专业视频制作。",
+      "badge": "热门",
+      "ctaText": "免费试用 Wan 2.5",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "duration": "最长30秒",
+        "resolution": "1080p 输出",
+        "audioSync": "音频同步"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Wan 2.5 成为 AI 视频生成强大选择的原因",
+      "items": {
+        "duration": {
+          "title": "延长时长",
+          "description": "单次生成最长 30 秒视频 - 是 Wan 系列模型中最长的时长，非常适合完整叙事和详细展示。"
+        },
+        "resolution": {
+          "title": "1080p 高清输出",
+          "description": "生成 1080p 高清、24fps 帧率的视频，适合专业制作和社交媒体平台。"
+        },
+        "audioSync": {
+          "title": "口型同步音频",
+          "description": "原生音视频同步，具有准确的口型同步，实现自然的角色语音和对话。"
+        },
+        "motion": {
+          "title": "流畅运动",
+          "description": "先进的运动合成确保流畅、自然的动作，性能优于之前的 Wan 版本。"
+        },
+        "multilingual": {
+          "title": "多语言支持",
+          "description": "支持英语、中文和其他主要语言的提示词和音频生成。"
+        },
+        "imageToVideo": {
+          "title": "图生视频",
+          "description": "将静态图像转换为动态视频，基于文本提示生成运动效果。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Wan 2.5 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "product": {
+          "title": "产品展示",
+          "description": "电商视频",
+          "useCase": "创建从开箱到使用的详细产品演示视频，充分利用延长时长。"
+        },
+        "social": {
+          "title": "社交媒体内容",
+          "description": "TikTok 和 Reels",
+          "useCase": "为社交媒体平台生成具有流畅运动的吸引人短视频。"
+        },
+        "marketing": {
+          "title": "营销视频",
+          "description": "品牌广告",
+          "useCase": "制作带有旁白和产品展示的专业营销视频。"
+        },
+        "storytelling": {
+          "title": "故事内容",
+          "description": "叙事视频",
+          "useCase": "在单次生成中讲述有开头、中间和结尾的完整故事。"
+        },
+        "fashion": {
+          "title": "时尚展示",
+          "description": "服装展示",
+          "useCase": "创建具有模特动作和服装展示的动态时尚视频。"
+        },
+        "dialogue": {
+          "title": "角色语音",
+          "description": "口型同步内容",
+          "useCase": "生成具有自然角色语音和准确口型同步的视频。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Wan 2.5 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "audioGeneration": "音频生成",
+          "lipSync": "口型同步"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "motionSynthesis": "运动合成",
+          "multilingual": "多语言",
+          "promptFollowing": "提示词遵循",
+          "characterConsistency": "角色一致性"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Wan 2.5 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "maxDuration": "最大时长",
+        "resolution": "分辨率",
+        "audioSync": "音频同步",
+        "lipSync": "口型同步"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按使用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "积分根据时长和分辨率而异。订阅可享更多优惠。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "延长时长视频生成",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Wan 2.5？由谁开发？",
+          "answer": "Wan 2.5 是阿里巴巴强大的 AI 视频生成模型。它具备延长的 30 秒时长、1080p 分辨率输出和口型同步音频生成，适用于专业视频制作。"
+        },
+        "1": {
+          "question": "我可以用 Wan 2.5 创建什么类型的内容？",
+          "answer": "Wan 2.5 擅长创建产品展示、社交媒体内容、营销视频、故事内容、时尚展示和角色对话视频。它支持文生视频和图生视频两种生成方式。"
+        },
+        "2": {
+          "question": "Wan 2.5 视频可以有多长？",
+          "answer": "Wan 2.5 单次生成最长可达 30 秒 - 是 Wan 系列模型中最长的时长。非常适合完整叙事和详细产品展示。"
+        },
+        "3": {
+          "question": "Wan 2.5 输出什么分辨率？",
+          "answer": "Wan 2.5 生成 480p 和 1080p 分辨率、24fps 帧率的视频，适合社交媒体和专业制作。"
+        },
+        "4": {
+          "question": "Wan 2.5 支持音频生成吗？",
+          "answer": "支持！Wan 2.5 具备原生音视频同步功能，具有准确的口型同步，实现自然的角色语音。它支持英语、中文和其他主要语言。"
+        },
+        "5": {
+          "question": "Wan 2.5 与 Wan 2.6 相比如何？",
+          "answer": "Wan 2.5 提供更长的时长（30 秒 vs 15 秒），而 Wan 2.6 专注于多镜头叙事和增强的音频功能。如果需要更长的单镜头视频选择 Wan 2.5，如果需要多镜头叙事选择 Wan 2.6。"
+        }
+      }
+    }
+  }
+}

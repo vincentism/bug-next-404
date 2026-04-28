@@ -1,0 +1,159 @@
+{
+  "seo": {
+    "title": "AI Design Tools - Image Upscale, 3D Generator & More | OpenCreator",
+    "description": "Powerful AI design tools for image upscaling, background removal, 3D generation & brand design. AI image extender, generative fill & creative content tools.",
+    "keywords": [
+      "ai design tools",
+      "ai image upscale",
+      "ai image extender",
+      "ai background generator",
+      "ai 3d model generator",
+      "generative fill",
+      "ai image editor",
+      "ai poster maker"
+    ]
+  },
+  "hero": {
+    "badge": "Design Solution",
+    "title": "AI-powered creative tools",
+    "description": "Use AI workflows to handle the repetitive parts of design: upscale, restyle, and generate on-brand visuals in minutes instead of hours, while you stay focused on creative decisions.",
+    "cta": "Start Creating",
+    "secondaryCta": "See Templates",
+    "stats": {
+      "tools": {
+        "label": "Creative Tools",
+        "value": "40+"
+      },
+      "time": {
+        "label": "Avg. Generation",
+        "value": "1-2 min"
+      }
+    }
+  },
+  "oneSolution": {
+    "title": "One toolkit for all creative needs",
+    "description": "Start from templates for image editing, 3D, and marketing assets, then adapt the node graph to your brand. Feed in references, keep what works, and reuse the same workflows across campaigns instead of rebuilding every project from zero.",
+    "sections": {
+      "imageEditing": {
+        "title": "Image Editing",
+        "subtitle": "Upscale, remove, enhance"
+      },
+      "threeD": {
+        "title": "3D & Characters",
+        "subtitle": "Models, renders, interiors"
+      },
+      "marketing": {
+        "title": "Marketing & Ads",
+        "subtitle": "Posters, ads, thumbnails"
+      }
+    },
+    "explore": "Explore",
+    "templates": {
+      "imageUpscale": "Image Upscale",
+      "backgroundRemoveEdit": "Background Remove & Edit",
+      "styleTransferBananaPro": "Style Transfer",
+      "textToImage": "Text to Image",
+      "angleControl": "Angle Control",
+      "drawToEdit": "Draw to Edit",
+      "aiImageCombiner": "AI Image Combiner",
+      "subjectConsistency": "Subject Consistency",
+      "styleConsistency": "Style Consistency",
+      "subjectReLight": "Subject Re-light",
+      "multiReferences": "Multi References",
+      "megaMultiReferenceBuilder": "Multi-Reference Image Generator",
+      "3dCharacterRender": "3D Character Render",
+      "interiorDesign": "Interior Design",
+      "brandIdentity": "Brand Identity",
+      "blueprintToRender": "Blueprint to Render",
+      "characterModelSheet": "Character Model Sheet",
+      "3dCartoonUiCardLayout": "3D Cartoon UI Card Layout",
+      "athleticAd": "Athletic Ad",
+      "aiThumbnailMaker": "AI Thumbnail Maker",
+      "aiMoviePosterGenerator": "Movie Poster Generator",
+      "3cBrandPoster": "3C Brand Poster",
+      "blackFridayPoster": "Black Friday Poster",
+      "christmasSalesPoster": "Christmas Sales Poster",
+      "christmasFisheyePoster": "Christmas Fisheye Poster",
+      "brandLogoMaterial": "Brand Logo x Material",
+      "brandingVisualStyleExtractor": "Branding Visual Style Extractor",
+      "aiAlbumCoverGenerator": "AI Album Cover Generator",
+      "aiTextEffectGenerator": "AI Text Effect Generator",
+      "instructionFlowchartMaker": "Instruction Flowchart Maker",
+      "foodFlowchartPoster": "Food Flowchart Poster",
+      "polaroidArtCollage": "Polaroid Art Collage",
+      "metaPosterAd": "Meta Poster Ad",
+      "oneClickStoryBoard": "One-click Story Board",
+      "storyboardBuilder": "Storyboard Builder",
+      "rednoteViralPostFactory": "Rednote Viral Post Factory",
+      "rednoteAutoImageTextGenerator": "Rednote Auto Image Text Generator",
+      "miniFigureWorld": "Mini Figure World",
+      "threePanelBrandCreativePoster": "Three-panel Brand Creative Poster",
+      "dreamyGlassMaterial": "Dreamy Glass Material Generator"
+    }
+  },
+  "audiences": {
+    "title": "Built for",
+    "badge": "For creatives",
+    "description": "Whether you're a professional designer or just getting started, AI makes professional-grade design accessible to everyone.",
+    "items": {
+      "designers": {
+        "title": "Designers & Artists",
+        "description": "Speed up your workflow with AI-powered editing, generation, and enhancement tools. Focus on creativity, not tedious tasks.",
+        "roles": "Graphic designers, illustrators, digital artists"
+      },
+      "marketers": {
+        "title": "Marketing & Brand Teams",
+        "description": "Create on-brand visuals at scale. From social posts to ad campaigns, maintain consistency across all touchpoints.",
+        "roles": "Brand managers, social media managers, creative directors"
+      },
+      "entrepreneurs": {
+        "title": "Entrepreneurs & Startups",
+        "description": "Build your brand identity and marketing materials without hiring a design team. Professional results on a budget.",
+        "roles": "Founders, small business owners, solopreneurs"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": {
+      "q1": {
+        "question": "What kind of input images work best for editing and upscaling?",
+        "answer": "For image editing, style transfer, and upscaling, start with images that are sharp, not over-compressed, and at least 1024px on the shortest side. Avoid screenshots from chat apps or images with heavy artifacts. If you are combining multiple references (for example, mood boards or multi-reference templates), keep them visually consistent in lighting and style so the model can understand the direction more clearly."
+      },
+      "q2": {
+        "question": "How do multi-image and reference-board workflows actually help my design process?",
+        "answer": "Templates like the multi-reference image generator let you feed in several images (brand assets, previous campaigns, mood references) and generate a new image that respects those references. Instead of manually briefing a designer each time, you can turn your references into a repeatable workflow: update the input set, keep the same node graph, and quickly explore new variations while staying on-brand."
+      },
+      "q3": {
+        "question": "What are the limits of AI design? Can it follow my layout pixel-perfect?",
+        "answer": "AI is very good at generating overall compositions, lighting, and style, but it is not a replacement for pixel-perfect manual layout. It may slightly adjust spacing, typography, or small details. For assets that must follow strict brand guidelines or print specs, we recommend using OpenCreator to generate strong starting points (backgrounds, hero visuals, 3D renders), then doing final type and layout adjustments in your usual design tools if needed."
+      },
+      "q4": {
+        "question": "How long do generations take and how do credits work for design workflows?",
+        "answer": "Most image workflows return results in about 1–2 minutes. High-end image models or 3D-related steps consume more credits per run than simple edits. Each generation node in a workflow (for example, text-to-image, image-to-image, upscaler) consumes credits when it runs. If you are iterating heavily, you can freeze nodes you are happy with and only re-run the parts you are still exploring to control cost."
+      },
+      "q5": {
+        "question": "How do I keep brand visuals consistent across campaigns and channels?",
+        "answer": "Use a small number of carefully tuned workflows as your main source of truth: one for product shots, one for campaign key visuals, one for social content, etc. Lock in brand colors, logo treatments, and reference images inside those workflows. Team members can duplicate and adapt them instead of starting from scratch, which keeps the overall visual language consistent even when different people are producing assets."
+      }
+    }
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Design Tools",
+      "description": "Powerful AI design tools for image editing, 3D generation, and creative content."
+    },
+    "softwareApplication": {
+      "name": "AI Design Tools",
+      "description": "AI-powered creative tools for designers and content creators."
+    },
+    "faqPage": {
+      "name": "AI Design Tools - FAQ"
+    }
+  },
+  "relatedSolutions": {
+    "title": "Explore More Solutions",
+    "subtitle": "Discover other AI-powered workflows to elevate your creative production",
+    "ctaLabel": "View solution"
+  }
+}

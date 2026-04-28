@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Pet Model Try-on – Pet Product Model Image Generator | OpenCreator",
+    "description": "Create pet model try-on images with AI. AI product model generator for showing how collars, harnesses, clothes, and accessories look on different pets without organizing a full photoshoot.",
+    "keywords": [
+      "ai product model generator",
+      "ecommerce product photography",
+      "ai product photography",
+      "product image mockup ai",
+      "lifestyle product photography",
+      "pet model try on",
+      "pet product mockup",
+      "pet clothing try on",
+      "pet accessory photos",
+      "ai pet product image"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#pet", "#ecommerce", "#banana_pro"],
+    "title": "Pet Model Try-on",
+    "description": "Turn product shots and simple prompts into pet model imagery with AI. Quickly generate photos of collars, harnesses, outfits, and accessories on cute, on-brand pet models to upgrade your listings and ads.",
+    "inputPlaceholder": "Describe your pet product and ideal pet model scene",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide your pet product details",
+        "description": "Describe the product type—such as collar, harness, sweater, or accessory—and share any key selling points you want highlighted in the images."
+      },
+      {
+        "title": "Describe your ideal pet model and setting",
+        "description": "Specify pet type, size, and style (e.g., \"small dog in cozy indoor scene\" or \"active cat on modern sofa\") to guide the overall look."
+      },
+      {
+        "title": "Generate AI pet model try-on images",
+        "description": "The workflow creates images showing your product on AI-generated pet models in scenes that match your brief, keeping focus on fit and style."
+      },
+      {
+        "title": "Curate, refine, and export",
+        "description": "Pick your favorite images, iterate with updated prompts if needed, then export assets for use on product detail pages, ads, and social posts."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For pet brands and sellers who need model shots fast",
+    "subtitle": "Perfect for teams selling pet apparel, accessories, and gear across marketplaces and DTC sites.",
+    "audiences": [
+      {
+        "label": "Pet product brands",
+        "description": "Show how your products look in context on realistic pet models without coordinating time-consuming studio shoots."
+      },
+      {
+        "label": "Marketplace and DTC sellers",
+        "description": "Upgrade plain product shots with on-pet imagery that improves click-through and conversion on Amazon, Shopify, and other platforms."
+      },
+      {
+        "label": "Creative and marketing teams",
+        "description": "Generate pet model visuals for campaigns, hero sections, and social content, all aligned with your brand story."
+      },
+      {
+        "label": "Agencies and freelancers",
+        "description": "Use the workflow to explore pet model styling directions quickly before committing to final visual concepts."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Pet Model Try-on workflow?",
+        "answer": "Pet Model Try-on is an AI workflow that generates images of pet products worn by AI pet models. It helps you create engaging lifestyle shots for collars, harnesses, apparel, and accessories without traditional photoshoots."
+      },
+      {
+        "question": "What inputs do I need to start?",
+        "answer": "You provide a description of your pet product, the type of pet you want to show, and an optional style or setting. Product reference photos can further improve consistency."
+      },
+      {
+        "question": "Can I control the type of pet and environment?",
+        "answer": "Yes. You can specify species, size, and scene type in your prompt—for example, \"medium-sized dog in a park\" or \"indoor cat in a minimalist living room\"—to guide the generated images."
+      },
+      {
+        "question": "Where can I use the generated images?",
+        "answer": "You can use them on product detail pages, in marketplace listings, social media posts, email campaigns, and paid ads to better showcase your pet products."
+      },
+      {
+        "question": "Do these images replace all real photoshoots?",
+        "answer": "They are best used as a fast, flexible complement or alternative—especially when testing new product concepts, updating listings, or working with limited production resources."
+      },
+      {
+        "question": "How are credits and pricing handled?",
+        "answer": "Each run consumes credits based on the underlying image generation steps. Pricing is designed so you can try multiple looks before deciding which pet model images to keep."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Pet Model Try-on – Pet Product Model Image Generator",
+      "description": "Generate pet model try-on images for pet products using OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Pet Model Try-on AI Workflow",
+      "description": "AI-powered workflow for creating on-pet product images for collars, harnesses, apparel, and accessories."
+    },
+    "faqPage": {
+      "name": "Pet Model Try-on – FAQ"
+    }
+  }
+}

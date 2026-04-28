@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Hairstyle Lab – AI Hairstyle Generator & Preview | OpenCreator",
+    "description": "Try hairstyle ideas with AI and preview different cuts, lengths, and vibes before making styling decisions.",
+    "keywords": [
+      "ai hairstyle generator",
+      "hairstyle simulator",
+      "virtual haircut preview",
+      "hair style changer ai",
+      "haircut idea image",
+      "hairstyle mockup",
+      "hairstyle try on ai",
+      "hair style exploration"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#hairstyle", "#social_promo"],
+    "title": "Hairstyle Lab",
+    "description": "Try hairstyle ideas with AI-powered visuals. Explore different cuts, textures, and vibes on reference images or conceptual prompts, helping you generate hair-focused content and inspiration at scale.",
+    "inputPlaceholder": "Describe the hairstyle look you want to explore",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe or provide a reference base",
+        "description": "Start from a description or an optional reference image, including hair length, type, and any style cues (e.g., bob, layers, curls)."
+      },
+      {
+        "title": "Specify styles, eras, or moods",
+        "description": "Add details about the desired vibe—classic, edgy, K-pop inspired, retro, or everyday wearable—so results match your creative direction."
+      },
+      {
+        "title": "Generate AI hairstyle variations",
+        "description": "The workflow produces multiple hairstyle-focused images that match your brief, suitable for moodboards, content, or inspiration."
+      },
+      {
+        "title": "Curate and export for content or ideation",
+        "description": "Pick the most compelling looks, iterate if needed, then export for social content, creative decks, or personal inspiration."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For creators and brands playing with hair visuals",
+    "subtitle": "Ideal for beauty, fashion, and content teams.",
+    "audiences": [
+      {
+        "label": "Beauty and hair brands",
+        "description": "Develop hair-focused visuals for campaigns, tutorials, and social series without staging every photoshoot."
+      },
+      {
+        "label": "Stylists and salons",
+        "description": "Explore style directions and share visual ideas with clients or audiences in a quick, low-pressure way."
+      },
+      {
+        "label": "Content creators and influencers",
+        "description": "Generate hair transformation concepts and storytelling visuals that fuel ongoing content calendars."
+      },
+      {
+        "label": "Creative teams and agencies",
+        "description": "Use the workflow as a fast ideation tool for hair-related storylines in fashion and beauty campaigns."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Hairstyle Lab workflow?",
+        "answer": "Hairstyle Lab is an AI workflow for generating hairstyle-focused visuals, helping you explore haircuts, styles, and moods for content and creative ideation."
+      },
+      {
+        "question": "What inputs should I provide?",
+        "answer": "Provide a brief description of the desired hairstyle, and optionally a reference image or additional cues like color, texture, and styling details."
+      },
+      {
+        "question": "Can I use this with real client photos?",
+        "answer": "You can work from reference-like images in your prompts, but always review outputs carefully and follow privacy and consent requirements for any real client likenesses."
+      },
+      {
+        "question": "Where can I use the generated visuals?",
+        "answer": "Use them in moodboards, internal decks, social media content, or as inspiration for future shoots and styling decisions."
+      },
+      {
+        "question": "Does this replace professional hair photography?",
+        "answer": "It’s best used as a complementary tool—great for exploring ideas and filling content gaps between shoots."
+      },
+      {
+        "question": "How is pricing structured?",
+        "answer": "Each run consumes credits based on image generation, calibrated so you can explore multiple hairstyle directions in a single session."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Hairstyle Lab – AI Hairstyle Exploration Workflow",
+      "description": "Explore hairstyle ideas using OpenCreator's AI Hairstyle Lab workflow."
+    },
+    "softwareApplication": {
+      "name": "Hairstyle Lab AI Workflow",
+      "description": "AI-powered workflow for generating hairstyle visual variations for content and ideation."
+    },
+    "faqPage": {
+      "name": "Hairstyle Lab – FAQ"
+    }
+  }
+}

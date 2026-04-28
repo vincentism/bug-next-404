@@ -1,0 +1,106 @@
+{
+  "seo": {
+    "title": "Crunchy Mukbang ASMR – 脆响吃播 ASMR 视频生成 | OpenCreator",
+    "description": "生成以“脆感”为主的吃播 ASMR 视频，突出近景咬合与酥脆质感，适合 ASMR 创作者与零食品牌。",
+    "keywords": [
+      "脆响 asmr 视频",
+      "mukbang asmr 生成",
+      "零食 asmr 内容",
+      "脆感吃播",
+      "食物 asmr 制作",
+      "AI 脆响吃播"
+    ]
+  },
+  "hero": {
+    "featureTag": "视频生成",
+    "tags": ["#ASMR", "#美食", "#吃播"],
+    "title": "脆响吃播 ASMR",
+    "description": "用 AI 生成脆响吃播风格的 ASMR 视频，聚焦薯片、油炸小食、饼干等“酥脆”质地的近景咬合与碎屑细节。",
+    "inputTitle": "INPUT",
+    "inputPlaceholder": "描述零食类型与内容氛围",
+    "ctaText": "免费运行"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "确定“脆感”食物焦点",
+        "description": "如薯片、炸物、饼干等，并说明想要的 ASMR 氛围。"
+      },
+      {
+        "title": "选择取景与人物表达",
+        "description": "可仅拍食物、仅手部或隐含食者形象，突出视觉重点。"
+      },
+      {
+        "title": "生成脆响 ASMR 片段",
+        "description": "AI 生成近景咬合镜头，强调碎屑、质感与节奏。"
+      },
+      {
+        "title": "导出用于短视频与投放",
+        "description": "输出平台就绪的短视频，适配 Reels、Shorts 与零食推广。"
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "适合 ASMR 创作者与食品/零食品牌",
+    "subtitle": "从内容号到品牌账号，都能用“脆感”短片提高互动。",
+    "audiences": [
+      {
+        "label": "ASMR 内容创作者",
+        "description": "产出令人反复观看的脆响片段，增强停留与互动。"
+      },
+      {
+        "label": "零食与食品品牌",
+        "description": "用质感与咬合瞬间勾起食欲，提升购买意愿。"
+      },
+      {
+        "label": "社媒运营",
+        "description": "作为内容日历中的高互动素材，带动账号节奏。"
+      },
+      {
+        "label": "美食与生活方式账号",
+        "description": "为内容加入“脆感”声画，丰富素材类型。"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "什么是 Crunchy Mukbang ASMR 工作流？",
+        "answer": "这是一个生成脆响吃播风格 ASMR 短片的 AI 工作流，强调近景咬合、碎屑与质地表现。"
+      },
+      {
+        "question": "谁适合使用？",
+        "answer": "ASMR 创作者、零食品牌、社媒运营与美食类账号等需要“脆感”内容的人。"
+      },
+      {
+        "question": "需要哪些输入？",
+        "answer": "描述你想展示的零食类型（如薯片、饼干、坚果等），内容氛围（如治愈系、豪放派、ASMR 感等），以及期望的取景方式（如近景特写、俯拍全景）和参考风格。"
+      },
+      {
+        "question": "能得到什么输出？",
+        "answer": "生成平台就绪的短视频片段，重点突出零食的酥脆质地、咬合时的满足感以及声音视觉的同步效果，适合直接发布到抖音、快手、YouTube Shorts 等短视频平台。"
+      },
+      {
+        "question": "能控制取景与节奏吗？",
+        "answer": "可以。你可以选择仅手部或隐含人物，并偏好慢、常速或更紧凑的节奏。"
+      },
+      {
+        "question": "如何计费？",
+        "answer": "每次生成会按复杂度与时长消耗积分，你可以在套餐额度内多次迭代并导出。"
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Crunchy Mukbang ASMR – 脆响吃播 ASMR 视频生成",
+      "description": "为社媒与零食推广生成脆响吃播风格 ASMR 短片。"
+    },
+    "softwareApplication": {
+      "name": "Crunchy Mukbang ASMR 模板",
+      "description": "用于生成以“脆感”为核心的 ASMR 视频片段的 AI 工作流。"
+    },
+    "faqPage": {
+      "name": "Crunchy Mukbang ASMR – 常见问题"
+    }
+  }
+}

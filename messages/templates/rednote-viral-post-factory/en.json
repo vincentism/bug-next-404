@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Rednote Viral Post Factory – AI Xiaohongshu Content Creator | OpenCreator",
+    "description": "Create viral Xiaohongshu (Rednote) carousel posts with AI. Generate engaging multi-page content frameworks optimized for the platform's style and audience.",
+    "keywords": [
+      "xiaohongshu content creator",
+      "rednote post generator",
+      "ai social media content",
+      "carousel post maker",
+      "xiaohongshu marketing",
+      "rednote viral content",
+      "chinese social media ai",
+      "little red book posts"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#xiaohongshu", "#social_media", "#carousel_posts"],
+    "title": "Rednote Viral Post Factory",
+    "description": "Create viral Xiaohongshu carousel posts instantly. Upload your product image, and AI generates a complete multi-page content framework with catchy titles, engaging copy, and visual suggestions—all optimized for Rednote's unique style. Perfect for brands, influencers, and marketers targeting Chinese social media.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product image",
+        "description": "Provide a product photo or visual asset. The workflow analyzes it to create relevant, engaging content tailored to Xiaohongshu's audience."
+      },
+      {
+        "title": "AI generates content framework",
+        "description": "GPT-5.2 creates a complete multi-page carousel structure with cover page, pain points, solutions, comparisons, and call-to-action—all in Rednote's viral style."
+      },
+      {
+        "title": "Split into carousel pages",
+        "description": "The content is automatically formatted into individual pages, each with optimized text, emojis, and visual suggestions for maximum engagement."
+      },
+      {
+        "title": "Generate visual slides",
+        "description": "Nano Banana Pro creates professional carousel images that match Xiaohongshu's aesthetic, ready for direct posting."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for Xiaohongshu marketers",
+    "subtitle": "From brands to influencers, see who creates viral Rednote content with AI.",
+    "audiences": [
+      {
+        "label": "Brand marketers",
+        "description": "Create consistent, high-quality Xiaohongshu content at scale. Generate product posts that resonate with Chinese consumers and drive engagement."
+      },
+      {
+        "label": "KOLs & influencers",
+        "description": "Produce more content in less time while maintaining your unique voice. Let AI handle the framework while you add personal touches."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Turn product photos into compelling Rednote posts that drive traffic and sales. Create content that converts browsers into buyers."
+      },
+      {
+        "label": "Social media agencies",
+        "description": "Scale your Xiaohongshu content production for multiple clients. Maintain quality and platform-native style across all accounts."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Rednote Viral Post Factory?",
+        "answer": "This AI workflow creates complete Xiaohongshu (Rednote) carousel posts from a single product image. It generates multi-page content frameworks with viral-style copy, emojis, and visual suggestions optimized for the platform."
+      },
+      {
+        "question": "What content structure does it generate?",
+        "answer": "The workflow creates various page types including cover pages with catchy titles, pain point pages, solution pages, comparison pages, step-by-step guides, data highlights, and call-to-action pages—all following Xiaohongshu best practices."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses GPT-5.2 for content generation and framework creation, GPT-4o for text splitting into carousel pages, and Nano Banana Pro for generating the final visual slides."
+      },
+      {
+        "question": "Is the content in Chinese?",
+        "answer": "Yes, the workflow generates content in Chinese with Xiaohongshu's characteristic style—lively tone, strategic emoji usage, high information density, and clear formatting that resonates with the platform's audience."
+      },
+      {
+        "question": "How many pages does each carousel have?",
+        "answer": "The number of pages is flexible and adapts to your content needs. The AI creates an appropriate structure based on the topic, typically ranging from 5-10 pages for optimal engagement."
+      },
+      {
+        "question": "Can I customize the content style?",
+        "answer": "The workflow follows Xiaohongshu's proven viral content patterns, but you can adjust the generated content to match your brand voice before posting."
+      },
+      {
+        "question": "What input do I need to provide?",
+        "answer": "You only need to upload a product image. The workflow handles content ideation, copywriting, page structuring, and visual generation automatically."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Yes, the generated content can be used for commercial Xiaohongshu marketing, brand promotion, product launches, and influencer campaigns."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Rednote Viral Post Factory – AI Xiaohongshu Content Creator",
+      "description": "Create viral Xiaohongshu carousel posts with AI-powered content generation and visual design."
+    },
+    "softwareApplication": {
+      "name": "Rednote Viral Post Factory",
+      "description": "AI-powered tool for generating viral Xiaohongshu (Rednote) carousel posts with optimized content and visuals."
+    },
+    "faqPage": {
+      "name": "Rednote Viral Post Factory – FAQ"
+    }
+  }
+}

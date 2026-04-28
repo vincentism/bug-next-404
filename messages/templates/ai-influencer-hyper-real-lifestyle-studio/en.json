@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "How to Create an AI Influencer – Hyper-real Lifestyle Studio | OpenCreator",
+    "description": "Create a consistent, hyper-real AI influencer for social content and AI influencer marketing. Generate a character DNA, 4K character sheet, lifestyle gallery, and candid short video clips from your persona brief.",
+    "keywords": [
+      "how to create an ai influencer",
+      "ai influencer generator",
+      "virtual influencer creator",
+      "hyper realistic ai influencer",
+      "ai influencer marketing",
+      "character consistency ai",
+      "ai persona generator",
+      "social media influencer content"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#Social_Promo", "#Kling_2_6", "#Banana_Pro"],
+    "title": "AI Influencer – Hyper-real Lifestyle Studio",
+    "description": "A premium workflow for building consistent AI influencers and generating realistic iPhone-like lifestyle content. Define a persona brief, lock identity with a high-fidelity character sheet, create a 6-shot gallery, and turn stills into candid video clips.",
+    "inputPlaceholder": "Describe your influencer persona (look, vibe, wardrobe, setting)",
+    "ctaText": "Run for Free!",
+    "outputImageAlt": "Hyper-real AI influencer lifestyle content preview"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Write a detailed persona brief",
+        "description": "Describe the influencer’s age range, ethnicity, build, hair, vibe, wardrobe, and camera style. The workflow is tuned for handheld iPhone realism and natural skin texture."
+      },
+      {
+        "title": "Generate candidate prompts (Character DNA)",
+        "description": "A text generator turns your brief into multiple high-fidelity candidate prompts and prevents the common \"AI glow\" look by enforcing texture, asymmetry, and clean negative constraints."
+      },
+      {
+        "title": "Create a character sheet + lifestyle gallery",
+        "description": "Generate a clean 4K-style headshot sheet and a 6-shot lifestyle carousel. Use image edits to keep the same identity across different scenes."
+      },
+      {
+        "title": "Convert stills into candid social clips",
+        "description": "Use image-to-video (Kling 2.6) to create short handheld clips that feel like real captures—subtle motion, natural imperfections, and casual framing."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for consistent AI persona production",
+    "subtitle": "From social creators to agencies, this workflow turns a brief into repeatable influencer assets.",
+    "audiences": [
+      {
+        "label": "Social media creators",
+        "description": "Build a consistent AI persona and produce daily content without arranging shoots."
+      },
+      {
+        "label": "Brand marketing teams",
+        "description": "Generate UGC-like lifestyle assets for ads, landing pages, and creatives—fast iterations, consistent identity."
+      },
+      {
+        "label": "Agencies",
+        "description": "Deliver multiple influencer concepts and variations for clients while keeping a controlled production pipeline."
+      },
+      {
+        "label": "Product advertisers",
+        "description": "Use the influencer as a precursor asset for product ads: consistent face, controlled wardrobe, repeatable scenes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is AI Influencer – Hyper-real Lifestyle Studio?",
+        "answer": "It’s a workflow for creating a consistent AI influencer identity and generating realistic social content: candidate prompts, character sheet, lifestyle gallery, and image-to-video clips."
+      },
+      {
+        "question": "How does it keep the same person across outputs?",
+        "answer": "It builds a strict character prompt (\"Character DNA\") and then uses controlled generation + image editing steps to preserve facial identity, proportions, and texture across scenes."
+      },
+      {
+        "question": "What content formats does it produce?",
+        "answer": "A character sheet (high-fidelity portraits), a multi-shot lifestyle gallery, and short candid video clips that feel like handheld iPhone captures."
+      },
+      {
+        "question": "Is it for perfect studio beauty images?",
+        "answer": "No. The workflow is designed to avoid overly polished \"AI beauty\". It intentionally targets realistic texture, small imperfections, and casual framing."
+      },
+      {
+        "question": "Which models are used?",
+        "answer": "The workflow combines text generation (for prompt engineering), image generation/editing (for identity lock), and image-to-video generation (Kling 2.6) for motion."
+      },
+      {
+        "question": "Can I use the results commercially?",
+        "answer": "In general, yes—but you are responsible for complying with model provider terms and ensuring your inputs and use cases are compliant."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "AI Influencer – Hyper-real Lifestyle Studio",
+      "description": "Create consistent, hyper-real AI influencers and generate lifestyle photos and candid social clips."
+    },
+    "softwareApplication": {
+      "name": "AI Influencer Workflow",
+      "description": "AI workflow for building a consistent influencer identity and generating lifestyle images and short clips."
+    },
+    "faqPage": {
+      "name": "AI Influencer – Hyper-real Lifestyle Studio – FAQ"
+    }
+  }
+}

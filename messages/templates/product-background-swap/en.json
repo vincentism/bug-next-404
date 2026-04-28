@@ -1,0 +1,117 @@
+{
+  "seo": {
+    "title": "Product Background Swap – AI Background Remover | OpenCreator",
+    "description": "Remove and replace product backgrounds instantly with AI. Create professional product photos with clean white backgrounds or custom scenes—the best background remover app for ecommerce.",
+    "keywords": [
+      "product background remover",
+      "background remover app",
+      "remove background from picture",
+      "white background for pictures",
+      "ai background generator",
+      "background maker",
+      "ecommerce product photo editing",
+      "product photo editing",
+      "ai product photography",
+      "professional product photography"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#product_photography", "#image_editing"],
+    "title": "Product Background Swap",
+    "description": "Remove and replaceplace product backgrounds instantly with AI. Create professional product photos with clean backgrounds without expensive photography equipment. Perfect for e-commerce sellers who need consistent, high-quality product imagery.",
+    "inputPlaceholder": "Upload your product image",
+    "ctaText": "Remove Background"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product image",
+        "description": "Simply upload any product photo with its current background. Our AI will automatically detect and isolate the product from its surroundings."
+      },
+      {
+        "title": "AI removes background",
+        "description": "Advanced algorithms precisely detect product edges and remove the original background while maintaining fine details like hair, fur, or transparent materials."
+      },
+      {
+        "title": "Choose new background",
+        "description": "Select from white backgrounds, colored options, or custom scenes that match your brand aesthetic and marketplace requirements."
+      },
+      {
+        "title": "Download professional results",
+        "description": "Export high-resolution images with perfect backgrounds ready for Amazon, Shopify, or any e-commerce platform instantly."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for e-commerce product photography",
+    "subtitle": "From small sellers to large brands, see who uses AI to perfect their product images.",
+    "audiences": [
+      {
+        "label": "Amazon sellers",
+        "description": "Create Amazon-compliant product images with clean white backgrounds that meet marketplace standards and boost conversion rates."
+      },
+      {
+        "label": "E-commerce store owners",
+        "description": "Maintain consistent product imagery across your catalog without expensive photography equipment or professional photographers."
+      },
+      {
+        "label": "Product photographers",
+        "description": "Save hours of manual editing time while delivering perfect background removal for clients across multiple industries."
+      },
+      {
+        "label": "Marketing teams",
+        "description": "Create professional product visuals for campaigns, social media, and advertising without the need for complex photo editing software."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Product Background Swap workflow?",
+        "answer": "ProductProduct Background Swap is an AI-powered workflow that removes and removes and replaces product backgrounds instantly. Create professional product photos with clean backgrounds without expensive photography equipment."
+      },
+      {
+        "question": "Who is Product Background Swap designed for?",
+        "answer": "Product Background Swap is essential for e-commerce product photography: Amazon sellers, e-commerce store owners, product photographers, and marketing teams teams who need professional product images."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You upload your product image with its current background. The AI will automatically detect and isolate the product from its surroundings."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates professional product photos with backgrounds removed and replaced with clean white backgrounds or custom scenes that meet marketplace standards."
+      },
+      {
+        "question": "Can I handle complex products with fine details?",
+        "answer": "Yes. The AI excels at preserving fine details like hair,, fur,, lace,, or transparent materials that traditional background removal tools struggle with."
+      },
+      {
+        "question": "How do credits and pricing work for Product Background Swap?",
+        "answer": "Each background removal consumes credits based on the image complexity and resolution. The cost is optimized for the value of having perfect product photos."
+      },
+      {
+        "question": "Will the results meet Amazon's image requirements?",
+        "answer": "Absolutely. The workflow is designed to generate images that comply with Amazon's image guidelines, including proper white backgrounds and content restrictions."
+      },
+      {
+        "question": "Can I batch process multiple products?",
+        "answer": "Yes. You can process multiple product images in sequence, maintaining consistent quality and background settings across your entire product catalog."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Product Background Swap – AI Background Remover",
+      "description": "Remove and replace product backgrounds instantly with AI. Create professional product photos with clean backgrounds."
+    },
+    "softwareApplication": {
+      "name": "Product Background Swap AI Generator",
+      "description": "AI-powered background removal tool for creating professional product photography and marketplace-ready images."
+    },
+    "faqPage": {
+      "name": "Product Background Swap – FAQ"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Maternity & Baby Product Image Set – Baby Product Photo Generator | OpenCreator",
+    "description": "Create image sets for maternity and baby products with AI. Professional product photography services for soft, trustworthy visuals in gentle, parent-friendly contexts.",
+    "keywords": [
+      "product photography services",
+      "professional product photography",
+      "product image generator",
+      "ai product image generation",
+      "lifestyle product photography",
+      "ecommerce product photo editing",
+      "baby product image set",
+      "maternity product photos",
+      "ai product photos",
+      "product photo editing"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#baby", "#maternity", "#ecommerce"],
+    "title": "Maternity & Baby Product Image Set",
+    "description": "Generate complete image sets for maternity and baby products with AI. From product heroes to lifestyle scenes, create visuals that feel safe, warm, and parent-focused—without building every set from scratch.",
+    "inputPlaceholder": "Describe your maternity or baby product and ideal scene",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe your maternity or baby product",
+        "description": "Explain what the product is (clothing, gear, skincare, feeding, etc.), who it’s for, and any key benefits you want to highlight."
+      },
+      {
+        "title": "Define tone, setting, and safety cues",
+        "description": "Specify the mood (gentle, cozy, bright), setting (nursery, living room, stroller walk), and any visual cues that convey safety and care."
+      },
+      {
+        "title": "Generate AI image sets for your products",
+        "description": "The workflow creates a series of images that cover hero views, lifestyle scenes, and detail shots suitable for family and baby-focused marketing."
+      },
+      {
+        "title": "Review, refine, and export",
+        "description": "Curate the images that best reflect your brand promise and values, then export them for PDPs, campaigns, and social content."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For maternity, baby, and family brands",
+    "subtitle": "Ideal for teams building trust with parents and caregivers.",
+    "audiences": [
+      {
+        "label": "Baby and kids product brands",
+        "description": "Create image sets that show your products in age-appropriate, gentle environments that resonate with parents."
+      },
+      {
+        "label": "Maternity and nursing brands",
+        "description": "Show products in warm, reassuring contexts that respect sensitivity around pregnancy and postpartum."
+      },
+      {
+        "label": "E-commerce and marketplace sellers",
+        "description": "Upgrade basic product shots with context-rich images that help caregivers understand fit, use, and environment."
+      },
+      {
+        "label": "Creative and content teams",
+        "description": "Develop ongoing visual content for campaigns and social that stays within a safe, thoughtful aesthetic."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Maternity & Baby Product Image Set workflow?",
+        "answer": "Maternity & Baby Product Image Set is an AI workflow for generating multi-image sets tailored to baby and maternity products, emphasizing warmth, trust, and care-focused visuals."
+      },
+      {
+        "question": "What kind of guidance should I provide?",
+        "answer": "Provide product details, age ranges, and important safety or care aspects. You can also describe cultural or stylistic nuances relevant to your audience."
+      },
+      {
+        "question": "How do you ensure age-appropriate visuals?",
+        "answer": "You can guide the workflow with explicit prompts about age-appropriate contexts, clothing, and behaviors. It is still important to review outputs carefully for brand and regulatory alignment."
+      },
+      {
+        "question": "Where can I use the generated images?",
+        "answer": "Use them on PDPs, brand sites, landing pages for launches, email campaigns, and social platforms where parents research and discover products."
+      },
+      {
+        "question": "Can this workflow replace all custom photography?",
+        "answer": "It’s best used as a powerful complement—especially for testing concepts, refreshing visuals, or filling gaps between larger shoots."
+      },
+      {
+        "question": "How are credits and costs structured?",
+        "answer": "Each image set consumes credits based on the generation steps involved. It is priced so you can produce multiple sets while maintaining careful review of each result."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Maternity & Baby Product Image Set – Baby Product Photo Generator",
+      "description": "Create maternity and baby product image sets with OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Maternity & Baby Product Image Set AI Workflow",
+      "description": "AI-powered workflow for generating image sets tailored to maternity and baby products."
+    },
+    "faqPage": {
+      "name": "Maternity & Baby Product Image Set – FAQ"
+    }
+  }
+}

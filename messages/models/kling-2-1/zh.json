@@ -1,0 +1,214 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 2.1 AI 视频生成器 | 图生视频 | OpenCreator",
+      "description": "使用 Kling 2.1 AI 将静态图片转换为精彩视频。专业级运动合成，具备自然物理模拟、动态面部表情和灵活的时长选项。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Kling 2.1",
+      "tagline": "专业级 AI 视频生成",
+      "description": "使用 Kling AI v2.1 将静态图片转换为流畅、自然的视频。由快手开发，这款强大的图生视频模型提供专业级运动合成，具备逼真的物理模拟和动态面部表情。",
+      "badge": "最受欢迎",
+      "ctaText": "免费试用 Kling 2.1",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "duration": "5-10秒时长",
+        "resolution": "1080p 输出",
+        "physics": "物理模拟",
+        "multiRef": "多参考图"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Kling 2.1 成为 AI 视频生成强大选择的原因",
+      "items": {
+        "motion": {
+          "title": "自然运动合成",
+          "description": "先进的 3D 时空注意力机制精确建模复杂运动，确保视频符合真实世界物理规律。"
+        },
+        "facial": {
+          "title": "动态面部表情",
+          "description": "擅长生成逼真的面部表情和精确的动作，使角色更加生动和真实。"
+        },
+        "multiRef": {
+          "title": "多参考图支持",
+          "description": "支持最多 4 张输入图片进行多图生成，实现一致的角色和场景创作。"
+        },
+        "duration": {
+          "title": "灵活时长",
+          "description": "可选择 5 秒或 10 秒视频输出，满足从快速社交片段到较长叙事的内容需求。"
+        },
+        "effects": {
+          "title": "特效功能",
+          "description": "内置特效包括拥抱、亲吻、比心、挤压和膨胀等，助力创意叙事。"
+        },
+        "quality": {
+          "title": "质量保持",
+          "description": "在添加自然流畅运动的同时，保持源图像的精细细节和纹理。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Kling 2.1 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "outfit": {
+          "title": "360° 服装展示",
+          "description": "电商产品视频",
+          "useCase": "将静态产品照片转换为引人入胜的视频内容。非常适合时尚和生活方式产品。"
+        },
+        "streetwear": {
+          "title": "街头风 UGC 推广",
+          "description": "社交媒体内容",
+          "useCase": "为 Instagram、TikTok 等平台创建吸引眼球的 UGC 风格视频。"
+        },
+        "character": {
+          "title": "一致角色广告",
+          "description": "品牌广告",
+          "useCase": "在多个营销活动中制作一致的角色广告和品牌故事视频。"
+        },
+        "sportswear": {
+          "title": "运动服模特广告",
+          "description": "运动服展示",
+          "useCase": "为运动服和健身服产品呈现动态姿势和动作。"
+        },
+        "lipsync": {
+          "title": "带口型同步的 UGC 推广",
+          "description": "口型同步推广",
+          "useCase": "添加配音和口型同步，创建真实的推广内容。"
+        },
+        "accessories": {
+          "title": "配饰模特展示",
+          "description": "珠宝与配饰",
+          "useCase": "电商珠宝和配饰展示，配合优雅的模特呈现。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Kling 2.1 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "multiReference": "多参考图（最多4张）",
+          "motionBrush": "运动画笔"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "physicsSimulation": "物理模拟",
+          "facialExpressions": "面部表情",
+          "specialEffects": "特效",
+          "cameraModes": "相机模式"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Kling 2.1 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "multiReference": "多参考图支持",
+        "maxDuration": "最大时长",
+        "resolution": "分辨率",
+        "physicsSimulation": "物理模拟",
+        "facialExpressions": "面部表情",
+        "audioGeneration": "音频生成",
+        "lipSync": "口型同步"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "每次生成消耗积分。实际费用取决于您的订阅计划。",
+      "description": "专业模式，运动控制",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Kling 2.1？由谁开发？",
+          "answer": "Kling 2.1 是由快手开发的先进 AI 视频生成模型。它使用复杂的 3D 时空注意力机制和扩散 Transformer 架构，将参考图像和文本提示转换为高清电影级视频。"
+        },
+        "1": {
+          "question": "我可以用 Kling 2.1 创建什么类型的内容？",
+          "answer": "Kling 2.1 擅长创建电商产品视频、社交媒体内容、品牌广告、时尚展示、UGC 风格推广和娱乐内容。它支持多种内容类型，包括人物、动物、物体和场景。"
+        },
+        "2": {
+          "question": "Kling 2.1 视频可以有多长？",
+          "answer": "Kling 2.1 支持两种时长选项：5 秒和 10 秒。这种灵活性让您可以根据需求创建快速社交片段或较长的叙事序列。"
+        },
+        "3": {
+          "question": "Kling 2.1 支持哪些图片格式？",
+          "answer": "Kling 2.1 接受 JPG、JPEG、PNG、WEBP、GIF 和 AVIF 图片格式作为输入。输出始终为 MP4 格式，最高 1080p 高清分辨率。"
+        },
+        "4": {
+          "question": "我可以使用多张参考图吗？",
+          "answer": "可以！Kling 2.1 支持最多 4 张输入图片的多图生成。此功能可在视频内容中实现一致的角色和场景创作。"
+        },
+        "5": {
+          "question": "Kling 2.1 与其他 AI 视频模型相比如何？",
+          "answer": "Kling 2.1 以其逼真的物理模拟、动态面部表情和多参考图支持而脱颖而出。虽然 Veo 3 等模型提供更好的音频生成，Sora 2 支持更长时长，但 Kling 2.1 在图生视频质量和性价比方面表现出色。"
+        },
+        "6": {
+          "question": "Kling 2.1 的最长视频时长是多少？",
+          "answer": "Kling 2.1 支持最长 5 秒或 10 秒的视频，分辨率为 1080p 高清。5 秒适合快速社交片段，10 秒适合较长的叙事序列。"
+        },
+        "7": {
+          "question": "Kling AI 2.1 的最大视频时长是多少？",
+          "answer": "Kling AI 2.1 的最大视频时长是 10 秒。在 OpenCreator 上生成视频时，你可以选择 5 秒或 10 秒的时长选项。"
+        },
+        "8": {
+          "question": "我可以在 OpenCreator 上免费试用 Kling 2.1 吗？",
+          "answer": "可以！新用户注册即可获得免费积分，可用于试用 Kling 2.1。你可以先测试物理模拟和面部表情功能，再决定是否订阅。"
+        },
+        "9": {
+          "question": "Kling AI 2.1 的主要功能有哪些？",
+          "answer": "主要功能包括：基于 3D 时空注意力的自然运动合成、动态面部表情、多参考图支持（最多 4 张）、特效（拥抱、亲吻、比心）、物理模拟和 1080p 高清输出。"
+        },
+        "10": {
+          "question": "Kling 2.1 和 Kling 2.5 Turbo 怎么选？",
+          "answer": "Kling 2.5 Turbo 提供增强的提示词理解、卓越的运动质量，成本比 2.1 低 30%。但 Kling 2.1 因其稳定性和特效功能仍然很受欢迎。动作场景选 2.5；追求稳定质量选 2.1。"
+        },
+        "11": {
+          "question": "Kling 2.1 支持文生视频吗？",
+          "answer": "支持，Kling 2.1 同时支持图生视频和文生视频。你可以仅用文本提示词创建视频，或将文本与参考图结合以获得更多控制。"
+        },
+        "12": {
+          "question": "Kling 2.1 提供哪些特效？",
+          "answer": "Kling 2.1 包含内置特效：拥抱、亲吻、比心、挤压和扩张。这些特效无需额外编辑即可添加创意叙事选项。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Accessories Model Display For E-Commerce – AI Accessories Model Image Generator | OpenCreator",
+    "description": "Create accessories model display images for e-commerce with AI. Jewelry product photography and how to photograph jewelry to sell—show jewelry and accessories on styled models.",
+    "keywords": [
+      "jewelry product photography",
+      "how to photograph jewelry to sell",
+      "jewellery photography ideas",
+      "ai product model generator",
+      "ai fashion model generator",
+      "ecommerce product photography",
+      "accessories model display",
+      "jewelry model photo",
+      "ai accessories image",
+      "professional product photography services"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#accessories", "#branding"],
+    "title": "Accessories Model Display For E-Commerce",
+    "description": "Generate on-model accessories visuals for e-commerce with AI. Turn accessories-focused briefs into styled model shots that highlight fit, proportion, and vibe—without needing a full studio team every time.",
+    "inputPlaceholder": "Describe your accessory and desired model look",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Describe the accessory and key details",
+        "description": "Share what the accessory is (earrings, necklaces, bracelets, hair accessories, etc.), its material, and what you want viewers to notice most."
+      },
+      {
+        "title": "Define model styling and scene",
+        "description": "Specify model vibe (minimal, editorial, everyday), framing (close-up, half-body), and environment (studio, street, lifestyle) to align with your brand."
+      },
+      {
+        "title": "Generate AI accessories model displays",
+        "description": "The workflow creates model-focused visuals that showcase how accessories sit and read in context, ready for use across product and campaign assets."
+      },
+      {
+        "title": "Curate, review, and export",
+        "description": "Select images that best reflect your brand and product promise, then export for PDPs, collection pages, and social media placements."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For jewelry and accessories brands selling online",
+    "subtitle": "Ideal for teams who need frequent on-model accessory visuals.",
+    "audiences": [
+      {
+        "label": "Jewelry and accessories brands",
+        "description": "Show how pieces sit and catch light on models, building trust and desire without constant studio sessions."
+      },
+      {
+        "label": "DTC and marketplace sellers",
+        "description": "Upgrade basic packshots with on-model imagery that helps shoppers understand scale and styling options."
+      },
+      {
+        "label": "Creative and content teams",
+        "description": "Develop storytelling visuals for launches, lookbooks, and social campaigns centered around accessories."
+      },
+      {
+        "label": "Agencies and studios",
+        "description": "Use the workflow as an ideation and filler tool between larger shoots, keeping visual output consistent."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Accessories Model Display For E-Commerce workflow?",
+        "answer": "It is an AI workflow that generates on-model visuals for accessories, helping brands present jewelry and accessories on styled models for e-commerce and campaigns."
+      },
+      {
+        "question": "What inputs should I provide?",
+        "answer": "Describe the accessory type, material, target audience, and preferred styling approach. Adding reference imagery or mood cues can further guide the look."
+      },
+      {
+        "question": "Can I control how close-up the shots are?",
+        "answer": "Yes. You can request tight close-ups for detail, mid-shots for context, or a mix, and iterate based on what works best for your product pages."
+      },
+      {
+        "question": "Where can I use the generated assets?",
+        "answer": "Use them in PDP galleries, collection overviews, hero sections, social posts, and performance creatives that feature accessories."
+      },
+      {
+        "question": "Does this replace traditional model photoshoots?",
+        "answer": "It’s a flexible complement—especially useful for smaller launches, content refreshes, or SKUs that don’t justify full shoots."
+      },
+      {
+        "question": "How does pricing work?",
+        "answer": "Each run consumes credits based on underlying generation steps and is structured so you can explore multiple looks per accessory."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Accessories Model Display For E-Commerce – AI Accessories Model Image Generator",
+      "description": "Generate on-model accessory images for e-commerce using OpenCreator's AI workflows."
+    },
+    "softwareApplication": {
+      "name": "Accessories Model Display For E-Commerce AI Workflow",
+      "description": "AI-powered workflow for generating accessories model visuals for online selling."
+    },
+    "faqPage": {
+      "name": "Accessories Model Display For E-Commerce – FAQ"
+    }
+  }
+}

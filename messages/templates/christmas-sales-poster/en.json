@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Christmas Sales Poster – AI Holiday Sale Graphics | OpenCreator",
+    "description": "Create festive Christmas sales posters instantly with AI. Generate professional holiday promotional graphics that drive conversions during the shopping season.",
+    "keywords": [
+      "christmas poster maker",
+      "holiday sales graphics",
+      "christmas promotion design",
+      "seasonal sale poster",
+      "ai christmas poster generator",
+      "holiday marketing materials",
+      "christmas sale templates",
+      "festive promotional graphics"
+    ]
+  },
+  "hero": {
+    "featureTag": "Image Gen",
+    "tags": ["#ecommerce", "#sales", "#seasonal_promotion"],
+    "title": "Christmas Sales Poster",
+    "description": "Create festive Christmas sales posters instantly with AI. Generate professional holiday promotional graphics that drive conversions during the shopping season. Perfect for retailers, e-commerce stores, and businesses looking to maximize their holiday sales impact.",
+    "inputPlaceholder": "What products are you promoting for Christmas?",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Input your Christmas promotion details",
+        "description": "Provide your holiday products, discount offers, brand colors, and festive messaging. Include any special Christmas themes or elements you want incorporated."
+      },
+      {
+        "title": "Choose festive poster style",
+        "description": "Select from traditional Christmas, modern minimalist, or bold holiday designs optimized for your brand and seasonal marketing campaigns."
+      },
+      {
+        "title": "Generate AI Christmas posters",
+        "description": "Create multiple poster variations with festive layouts, Christmas typography, and seasonal imagery that capture the holiday shopping spirit."
+      },
+      {
+        "title": "Download and launch your holiday campaign",
+        "description": "Export high-resolution Christmas posters ready for social media, email, website banners, and print advertising to maximize holiday sales."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Essential for holiday marketing campaigns",
+    "subtitle": "From small shops to major retailers, see who creates Christmas sales posters with AI.",
+    "audiences": [
+      {
+        "label": "Retail stores & boutiques",
+        "description": "Create eye-catching Christmas promotions without hiring designers, saving time and money while maximizing holiday sales impact."
+      },
+      {
+        "label": "E-commerce businesses",
+        "description": "Generate festive product showcases and holiday banners that stand out in crowded online marketplaces and social feeds."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Batch-produce professional Christmas graphics for multiple clients, maintaining quality while scaling holiday campaign production."
+      },
+      {
+        "label": "Small business owners",
+        "description": "Access professional holiday marketing materials that compete with larger brands, leveling the playing field during the crucial shopping season."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Christmas Sales Poster workflow?",
+        "answer": "Christmas SalesPoster is an AI-powered workflow that creates festive Christmas sales posters instantly. Generate professional holiday promotional graphics that drive conversions during the shopping season."
+      },
+      {
+        "question": "Who is Christmas Sales Poster designed for?",
+        "answer": "Christmas Sales Poster is essential for holiday marketing campaigns campaigns: retail stores stores, e-commerce businesses, marketing agencies, and small business owners who need professional Christmas graphics."
+      },
+      {
+        "question": "What kind of input do I need to start?",
+        "answer": "You provide your Christmas promotion details and products, including holiday products,, discount offers, brand colors, and any festive messaging or themes you want incorporated."
+      },
+      {
+        "question": "What type of output can I expect from this workflow?",
+        "answer": "The workflow generates multiple poster variations with festive layouts, Christmas typography, and seasonal imagery that capture the holiday shopping spirit."
+      },
+      {
+        "question": "Can I create posters for different Christmas themes?",
+        "answer": "Yes. You can create traditional Christmas,, modern minimalist,, or bold holiday designs that match your brand and seasonal marketing strategy."
+      },
+      {
+        "question": "How do credits and pricing work for Christmas Sales Poster?",
+        "answer": "Each poster generation consumes credits based on the image model and complexity. Christmas posters are optimized for high conversion impact while keeping costs reasonable for your holiday campaigns."
+      },
+      {
+        "question": "Can I maintain brand consistency across all Christmas materials?",
+        "answer": "Absolutely. The workflow incorporates your brand colors, fonts, and visual identity to ensure all Christmas promotional materials maintain consistent branding across all customer touchpoints."
+      },
+      {
+        "question": "Is this suitable for last-minute Christmas campaigns?",
+        "answer": "Yes. The workflow is designed for speed, allowing you to create professional Christmas graphics in minutes rather than days, perfect for both planned campaigns and last-minute promotional opportunities."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Christmas Sales Poster – AI Holiday Sale Graphics",
+      "description": "Create festive Christmas sales posters instantly with AI. Generate professional holiday promotional graphics for the shopping season."
+    },
+    "softwareApplication": {
+      "name": "Christmas Sales Poster AI Generator",
+      "description": "AI-powered Christmas poster creator for generating festive holiday sales graphics and promotional materials."
+    },
+    "faqPage": {
+      "name": "Christmas Sales Poster – FAQ"
+    }
+  }
+}

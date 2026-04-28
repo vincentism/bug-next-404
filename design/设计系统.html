@@ -1,0 +1,2202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OpenCreator — Design System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Poller+One&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --green:#0CF06B;--green-s:#8FFCBA;
+  --blue:#5C6FFF;--blue-s:rgba(92,111,255,.25);
+  --pink:#FF65D4;--pink-s:#FFB4EA;
+  --yellow:#FFCF0F;--yellow-s:#FFE566;
+  --green-rgb:12,240,107;--blue-rgb:92,111,255;--pink-rgb:255,101,212;--yellow-rgb:255,207,15;
+  --amber:#FF9500;--red:#FF4757;
+  --g50:#FFFFFF;--g100:#F5F5F5;--g200:#E8E8E8;--g300:#D4D4D4;--g400:#A3A3A3;
+  --g500:#737373;--g600:#525252;--g700:#404040;--g800:#262626;--g900:#222222;
+  --page-bg:#FFFFFF;--page-bg-2:#F5F5F5;--surface:#FFFFFF;--surface-soft:#F5F5F5;
+  --page-bg-rgb:255,255,255;--surface-rgb:255,255,255;--surface-soft-rgb:245,245,245;
+  --ink:#222222;--ink-hover:#333333;--ink-rgb:34,34,34;
+  --agent-ink:#141414;--agent-ink-rgb:20,20,20;
+  --shadow-0:none;
+  --shadow-1:0 1px 2px rgba(var(--ink-rgb),.05);
+  --shadow-2:0 2px 8px rgba(var(--ink-rgb),.06),0 0 1px rgba(var(--ink-rgb),.04);
+  --shadow-3:0 4px 16px rgba(var(--ink-rgb),.07),0 1px 3px rgba(var(--ink-rgb),.04);
+  --shadow-4:0 12px 32px rgba(var(--ink-rgb),.08),0 2px 6px rgba(var(--ink-rgb),.04),inset 0 1px 0 rgba(255,255,255,.42);
+  --shadow:var(--shadow-4);
+  --radius-xs:4px;--radius-sm:8px;--radius-md:12px;--radius-lg:16px;--radius-xl:20px;--radius-pill:999px;
+  --space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-5:20px;--space-6:24px;--space-7:28px;--space-8:32px;--space-9:40px;--space-10:48px;
+  --ease:cubic-bezier(.4,0,.2,1);--ease-spring:cubic-bezier(.16,1,.3,1);
+  --dur-fast:150ms;--dur-normal:250ms;--dur-slow:500ms;
+}
+html{font-family:'Roboto',-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:14px;color:var(--g900);background:var(--page-bg);-webkit-font-smoothing:antialiased}
+body{min-height:100vh;padding-bottom:120px;background:linear-gradient(180deg,var(--page-bg) 0%,var(--page-bg-2) 100%)}
+
+/* ---- Page header ---- */
+.page-hdr{
+  position:sticky;top:0;z-index:200;
+  background:rgba(255,255,255,.9);backdrop-filter:blur(12px);
+  border-bottom:1px solid rgba(212,212,212,.82);
+  box-shadow:0 1px 0 rgba(255,255,255,.72);
+  padding:14px 32px;display:flex;align-items:center;gap:14px;
+}
+.page-hdr h1{font-family:'Poller One',serif;font-size:18px;font-weight:400;letter-spacing:.01em}
+.page-hdr .tag{font-size:11px;font-weight:700;background:var(--ink);color:#fff;padding:4px 11px;border-radius:999px;border:1px solid rgba(255,255,255,.14);box-shadow:0 8px 18px rgba(var(--ink-rgb),.14)}
+
+/* ---- Section ---- */
+.ds-section{padding:48px 32px 0}
+.ds-section-title{
+  font-family:'Poller One',serif;font-size:24px;font-weight:400;
+  color:var(--g900);margin-bottom:6px;
+}
+.ds-section-desc{font-size:13px;color:var(--g500);margin-bottom:28px;line-height:1.6;max-width:640px}
+
+/* ---- Card container ---- */
+.ds-card{
+  border-radius:18px;border:1px solid var(--g200);
+  background:var(--surface);overflow:hidden;
+  box-shadow:var(--shadow);padding:28px;margin-bottom:24px;
+}
+.ds-card-title{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--g500);margin-bottom:20px}
+
+/* ====================
+   1. COLOR PALETTE
+   ==================== */
+.color-grid{display:grid;grid-template-columns:repeat(4, 1fr);gap:24px;margin-bottom:32px}
+.color-mod{display:flex;flex-direction:column;gap:10px}
+.color-mod-label{font-size:11px;font-weight:700;color:var(--g700);text-transform:uppercase;letter-spacing:.06em}
+.color-swatch-row{display:flex;gap:6px;align-items:flex-end}
+.color-swatch{
+  flex:1;border-radius:10px;height:56px;
+  display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
+  padding-bottom:6px;
+  border:1px solid rgba(var(--ink-rgb),.06);
+  position:relative;
+}
+.color-swatch.secondary{height:40px;opacity:.9}
+.color-swatch-hex{font-size:9px;font-family:'Roboto Mono',monospace;font-weight:600;color:rgba(0,0,0,.55);letter-spacing:.02em}
+.color-swatch-hex.light{color:rgba(255,255,255,.8)}
+.color-swatch-name{font-size:8px;color:rgba(0,0,0,.4);margin-bottom:1px}
+.color-swatch-name.light{color:rgba(255,255,255,.6)}
+.color-usage{font-size:10px;color:var(--g400);line-height:1.4;margin-top:2px}
+.color-pin-preview{
+  width:22px;height:22px;border-radius:50%;
+  border:2.5px solid;margin:0 auto 8px;
+}
+
+/* Neutral strip */
+.neutral-strip{display:flex;gap:0;border-radius:10px;overflow:hidden;height:44px;margin-bottom:8px}
+.neutral-chip{
+  flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
+  padding-bottom:5px;position:relative;min-width:0;
+}
+.neutral-chip-label{font-size:8px;font-weight:600;opacity:.7;letter-spacing:.02em}
+.neutral-chip-hex{font-size:7px;font-family:'Roboto Mono',monospace;font-weight:500;opacity:.5}
+.neutral-row-label{font-size:10px;font-weight:700;color:var(--g500);margin-bottom:8px;text-transform:uppercase;letter-spacing:.06em}
+
+/* Surface row */
+.surface-strip{display:flex;gap:8px;margin-bottom:8px}
+.surface-chip{
+  flex:1;height:52px;border-radius:10px;
+  border:1px solid rgba(var(--ink-rgb),.08);
+  display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
+  padding-bottom:6px;
+}
+.surface-chip-name{font-size:8px;font-weight:600;color:var(--g500)}
+.surface-chip-hex{font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)}
+
+/* Utility colors */
+.util-strip{display:flex;gap:8px}
+.util-chip{
+  width:52px;height:52px;border-radius:10px;
+  display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
+  padding-bottom:6px;
+  border:1px solid rgba(var(--ink-rgb),.06);
+}
+.util-chip-name{font-size:8px;font-weight:600;color:rgba(255,255,255,.8)}
+.util-chip-hex{font-size:7px;font-family:'Roboto Mono',monospace;color:rgba(255,255,255,.6)}
+
+/* ====================
+   2. TYPOGRAPHY
+   ==================== */
+.type-specimen{margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid var(--g100)}
+.type-specimen:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0}
+.type-meta{display:flex;align-items:baseline;gap:12px;margin-bottom:4px}
+.type-token{
+  font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;
+  color:var(--g400);background:var(--g100);padding:3px 8px;border-radius:4px;
+  flex-shrink:0;
+}
+.type-spec{font-size:10px;color:var(--g400);font-family:'Roboto Mono',monospace}
+.type-preview{margin-top:8px;line-height:1.4}
+
+/* Scale table */
+.scale-table{width:100%;border-collapse:collapse;margin-top:16px}
+.scale-table th{
+  text-align:left;font-size:9px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--g400);padding:8px 12px;
+  border-bottom:2px solid var(--g200);
+}
+.scale-table td{
+  padding:10px 12px;border-bottom:1px solid var(--g100);
+  font-size:12px;color:var(--g700);vertical-align:middle;
+}
+.scale-table tr:last-child td{border-bottom:none}
+.scale-table .token-cell{font-size:10px;font-weight:700;color:var(--g500);font-family:'Roboto Mono',monospace;white-space:nowrap}
+.scale-table .preview-cell{font-family:'Roboto',sans-serif}
+.scale-table .spec-cell{font-size:10px;color:var(--g400);font-family:'Roboto Mono',monospace;white-space:nowrap}
+.scale-table .color-dot{display:inline-block;width:10px;height:10px;border-radius:50%;vertical-align:middle;margin-right:6px}
+
+/* ====================
+   3. ICONS
+   ==================== */
+.icon-grid{display:grid;grid-template-columns:repeat(auto-fill, minmax(100px, 1fr));gap:4px}
+.icon-item{
+  display:flex;flex-direction:column;align-items:center;gap:6px;
+  padding:16px 8px;border-radius:12px;
+  transition:background .15s;cursor:default;
+}
+.icon-item:hover{background:var(--g100)}
+.icon-item i{color:var(--g700)}
+.icon-item-name{font-size:9px;color:var(--g400);text-align:center;word-break:break-all;font-family:'Roboto Mono',monospace}
+.icon-sizes{display:flex;align-items:flex-end;gap:16px;margin-bottom:20px}
+.icon-size-demo{display:flex;flex-direction:column;align-items:center;gap:4px}
+.icon-size-label{font-size:9px;color:var(--g400);font-family:'Roboto Mono',monospace}
+
+.ds-note{
+  font-size:11px;color:var(--g500);line-height:1.6;
+  padding:12px 16px;border-radius:10px;
+  background:var(--surface-soft);border:1px solid var(--g200);
+  margin-top:16px;
+}
+.ds-note code{
+  font-size:10px;background:var(--g100);padding:2px 5px;border-radius:4px;
+  font-family:'Roboto Mono',monospace;color:var(--g700);
+}
+
+.ds-grid-2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.ds-grid-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.ds-grid-4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.ds-stack{display:flex;flex-direction:column;gap:16px}
+.mono{font-family:'JetBrains Mono',monospace}
+
+.rule-list,.spec-list{display:flex;flex-direction:column;gap:12px}
+.rule-row,.spec-item{
+  display:flex;gap:12px;align-items:flex-start;
+  padding:14px 16px;border-radius:12px;
+  background:var(--surface-soft);border:1px solid var(--g200);
+}
+.rule-row::before,.spec-item::before{
+  content:'';width:8px;height:8px;margin-top:5px;flex-shrink:0;
+  border-radius:2px;background:var(--ink);
+}
+.rule-row.accent-green::before{background:var(--green)}
+.rule-row.accent-blue::before{background:var(--blue)}
+.rule-row.accent-pink::before{background:var(--pink)}
+.rule-row.accent-yellow::before{background:var(--yellow)}
+.rule-row strong,.spec-item strong{display:block;font-size:12px;font-weight:700;color:var(--g800);margin-bottom:4px}
+.rule-row p,.spec-item p{font-size:12px;line-height:1.6;color:var(--g600)}
+.spec-chip{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:5px 9px;border-radius:999px;border:1px solid var(--g200);
+  background:var(--surface);font-size:10px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.08em;color:var(--g500);
+}
+.spec-chip code,.metric-chip code,.motion-card-meta code,.motion-token code,.entry-hint kbd,.code-block,.result-chip code{
+  font-family:'JetBrains Mono',monospace;
+}
+
+.motion-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.motion-card{
+  padding:16px;border-radius:14px;border:1px solid var(--g200);
+  background:var(--surface-soft);
+}
+.motion-demo{
+  height:72px;border-radius:12px;border:1px solid var(--g200);
+  background:var(--surface);display:flex;align-items:center;justify-content:center;
+  position:relative;overflow:hidden;margin-bottom:12px;
+}
+.motion-card-title{font-size:12px;font-weight:700;color:var(--g800);margin-bottom:4px}
+.motion-card-meta{font-size:10px;line-height:1.55;color:var(--g500)}
+.motion-demo-halo-shell{
+  position:relative;width:42px;height:42px;border-radius:14px;background:var(--agent-ink);
+  box-shadow:0 8px 20px rgba(var(--agent-ink-rgb),.16);
+}
+.motion-demo-halo-shell::before{
+  content:'';position:absolute;inset:-5px;border-radius:18px;opacity:.95;
+  background:conic-gradient(
+    from 0deg,
+    transparent,
+    rgba(var(--green-rgb),.35) 60deg,
+    rgba(var(--blue-rgb),.3) 150deg,
+    rgba(var(--pink-rgb),.28) 240deg,
+    rgba(var(--yellow-rgb),.24) 320deg,
+    transparent 360deg
+  );
+  filter:blur(4px);animation:halo 8s linear infinite;
+}
+.motion-demo-breathe{
+  width:18px;height:18px;border-radius:5px;background:var(--g800);
+  animation:icon-breathe 3s ease-in-out infinite alternate;
+}
+.motion-demo-wave{
+  display:flex;gap:.5px;font-size:13px;font-weight:500;color:var(--g500);
+}
+.motion-demo-wave span{
+  display:inline-block;opacity:.4;
+  animation:ch-wave 2.5s var(--ease) infinite;
+}
+.motion-demo-dot{
+  width:10px;height:10px;border-radius:2px;background:var(--green);
+  animation:dot-pulse 2s ease-in-out infinite;
+}
+.motion-token{font-size:11px;line-height:1.6;color:var(--g600)}
+.motion-token code{
+  font-size:10px;background:var(--g100);padding:2px 5px;border-radius:4px;color:var(--g700);
+}
+
+.entry-row{display:flex;align-items:center;gap:20px}
+.btn-shell{
+  position:relative;width:48px;height:48px;border-radius:14px;flex-shrink:0;
+}
+.btn-shell::before{
+  content:'';position:absolute;inset:-4px;border-radius:18px;
+  background:conic-gradient(
+    from 0deg,
+    transparent,
+    rgba(var(--green-rgb),.35) 60deg,
+    rgba(var(--blue-rgb),.3) 150deg,
+    rgba(var(--pink-rgb),.28) 240deg,
+    rgba(var(--yellow-rgb),.24) 320deg,
+    transparent 360deg
+  );
+  opacity:0;transition:opacity var(--dur-slow) var(--ease);
+  animation:halo 8s linear infinite;filter:blur(4px);pointer-events:none;
+}
+.btn-shell.is-hover::before,.btn-shell:hover::before{opacity:1}
+.agent-btn{
+  width:100%;height:100%;border-radius:14px;background:var(--agent-ink);
+  border:none;cursor:pointer;overflow:hidden;outline:none;-webkit-tap-highlight-color:transparent;
+  box-shadow:0 4px 12px rgba(var(--agent-ink-rgb),.2),inset 0 1px 0 rgba(255,255,255,.06),inset 0 0 0 1px rgba(255,255,255,.06);
+  transition:transform 400ms var(--ease-spring),box-shadow 400ms var(--ease);
+  position:relative;
+}
+.agent-btn:hover{
+  transform:scale(1.06);
+  box-shadow:0 8px 28px rgba(var(--agent-ink-rgb),.3),inset 0 1px 0 rgba(255,255,255,.1),inset 0 0 0 1px rgba(255,255,255,.12);
+}
+.agent-btn:active,.agent-btn.is-active{transform:scale(.96);transition-duration:100ms}
+.agent-btn canvas{display:block;width:100%;height:100%;border-radius:14px}
+.burst-cv{position:absolute;inset:-46px;pointer-events:none;z-index:-1}
+.entry-info{display:flex;flex-direction:column;gap:2px}
+.entry-title{font-family:'Poller One',serif;font-size:15px;font-weight:400;color:var(--g900)}
+.entry-hint{font-size:13px;color:var(--g400);display:flex;align-items:center;gap:6px}
+.entry-hint kbd{
+  font-size:10px;padding:1px 5px;border-radius:4px;
+  border:1px solid var(--g300);color:var(--g500);background:var(--surface);
+}
+.entry-demo-wrap{
+  display:flex;align-items:center;justify-content:space-between;gap:24px;
+  padding:4px 2px;
+}
+.entry-metrics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;flex:1}
+.metric-chip{
+  padding:12px 14px;border-radius:12px;border:1px solid var(--g200);
+  background:var(--surface-soft);
+}
+.metric-chip strong{display:block;font-size:11px;font-weight:800;color:var(--g500);text-transform:uppercase;letter-spacing:.08em;margin-bottom:6px}
+.metric-chip p{font-size:12px;line-height:1.55;color:var(--g600)}
+.metric-chip code{
+  font-size:10px;background:var(--surface);padding:2px 4px;border-radius:4px;color:var(--g700);
+}
+.agent-state-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.agent-state-card{
+  padding:18px 14px;border-radius:14px;border:1px solid var(--g200);
+  background:var(--surface-soft);display:flex;flex-direction:column;
+  align-items:center;gap:12px;text-align:center;
+}
+.agent-state-label{font-size:11px;font-weight:800;color:var(--g500);text-transform:uppercase;letter-spacing:.08em}
+.agent-state-meta{font-size:11px;line-height:1.55;color:var(--g600)}
+.agent-state-stage{
+  width:100%;min-height:78px;border-radius:12px;background:var(--surface);
+  border:1px solid var(--g200);display:flex;align-items:center;justify-content:center;
+}
+
+.thinking-stack{display:flex;flex-direction:column;gap:12px}
+.thinking-inline{
+  display:flex;align-items:center;gap:12px;min-height:32px;
+}
+.think-icon{width:20px;height:20px;flex-shrink:0}
+.think-icon canvas{
+  display:block;width:100%;height:100%;
+  animation:icon-breathe 3s ease-in-out infinite alternate;
+}
+.think-text{
+  font-size:14px;font-weight:500;color:var(--g400);
+  display:flex;gap:.5px;
+}
+.think-text .ch{
+  display:inline-block;opacity:.4;
+  animation:ch-wave 2.5s var(--ease) infinite;
+}
+.thought-done{
+  display:flex;align-items:center;gap:12px;min-height:32px;
+  cursor:pointer;border-radius:8px;padding:0 4px;
+  transition:background var(--dur-fast) var(--ease);
+}
+.thought-done:hover{background:rgba(var(--ink-rgb),.03)}
+.thought-done .think-icon canvas{animation:none}
+.td-label{font-size:14px;font-weight:500;color:var(--g500)}
+.td-chevron{
+  margin-left:auto;opacity:.45;display:flex;align-items:center;justify-content:center;
+  color:var(--g400);transition:transform var(--dur-fast) var(--ease);
+}
+.td-chevron svg{width:14px;height:14px}
+.thought-done.expanded .td-chevron{transform:rotate(90deg)}
+.thought-panel-wrap{
+  overflow:hidden;max-height:0;opacity:0;
+  transition:max-height var(--dur-normal) var(--ease),opacity 200ms var(--ease),margin var(--dur-normal) var(--ease);
+  margin-left:32px;
+}
+.thought-panel-wrap.open{max-height:140px;opacity:1;margin-top:6px}
+.thought-panel{
+  padding:12px 14px;border-radius:12px;border:1px solid var(--g200);
+  background:var(--surface-soft);font-size:12px;line-height:1.6;color:var(--g600);
+}
+
+.control-family-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px}
+.control-family-card,.control-state-card,.status-signal-card{
+  padding:16px;border-radius:14px;border:1px solid var(--g200);
+  background:var(--surface-soft);
+}
+.control-demo-stage{
+  min-height:84px;border-radius:12px;border:1px solid rgba(var(--ink-rgb),.06);
+  background:linear-gradient(180deg, rgba(var(--surface-rgb),.96) 0%, rgba(var(--surface-soft-rgb),.92) 100%);
+  display:flex;align-items:center;justify-content:center;padding:12px;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.78);
+}
+.control-family-name{
+  margin-top:12px;font-size:11px;font-weight:800;color:var(--g500);
+  text-transform:uppercase;letter-spacing:.08em;
+}
+.control-family-copy{
+  margin-top:6px;font-size:12px;line-height:1.58;color:var(--g600);
+}
+
+.spec-icon-btn,.spec-send-shell,.spec-pill-btn,.spec-feedback-btn{
+  border:none;cursor:default;font:inherit;
+}
+.spec-icon-btn{
+  width:40px;height:40px;border-radius:12px;
+  display:inline-flex;align-items:center;justify-content:center;
+  color:var(--g500);background:rgba(var(--surface-soft-rgb),.92);
+  border:1px solid rgba(var(--ink-rgb),.08);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.82);
+}
+.spec-icon-btn.is-hover{
+  color:var(--g800);background:rgba(var(--surface-rgb),.96);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.9), 0 0 0 1px rgba(var(--ink-rgb),.05);
+}
+.spec-icon-btn svg,.spec-send-btn svg,.spec-feedback-btn svg{width:18px;height:18px;stroke-width:2}
+
+.spec-pill-btn{
+  min-height:40px;padding:0 14px;border-radius:999px;
+  display:inline-flex;align-items:center;gap:8px;
+  border:1px solid rgba(var(--ink-rgb),.1);
+  background:rgba(var(--surface-rgb),.78);
+  color:var(--g600);font-size:12px;font-weight:700;
+  box-shadow:inset 0 1px 0 rgba(var(--surface-rgb),.9);
+  backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+}
+.spec-pill-btn svg{width:15px;height:15px;stroke-width:1.9;color:var(--g400)}
+
+.spec-send-shell{
+  width:44px;height:44px;border-radius:14px;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--ink);box-shadow:0 8px 18px rgba(var(--ink-rgb),.18);
+}
+.spec-send-shell.is-hover{
+  background:rgba(var(--green-rgb),.94);
+  box-shadow:0 14px 30px rgba(var(--green-rgb),.18), 0 0 0 1px rgba(var(--green-rgb),.24);
+}
+.spec-send-btn{
+  width:100%;height:100%;border-radius:inherit;
+  display:inline-flex;align-items:center;justify-content:center;
+  background:transparent;color:#fff;
+}
+.spec-send-shell.is-hover .spec-send-btn{color:var(--ink)}
+
+.spec-suggestion-card{
+  width:100%;display:flex;align-items:center;gap:10px;
+  padding:10px 12px;border-radius:14px;border:1px solid rgba(var(--ink-rgb),.08);
+  background:rgba(var(--surface-rgb),.92);box-shadow:none;
+}
+.spec-suggestion-thumb{
+  width:46px;height:46px;border-radius:12px;flex-shrink:0;
+  background:
+    linear-gradient(180deg, rgba(20,20,20,0) 32%, rgba(20,20,20,.28) 100%),
+    linear-gradient(135deg, #f2dcc0 0%, #f4d3a2 50%, #d9a18e 100%);
+  border:1px solid rgba(var(--ink-rgb),.08);
+}
+.spec-suggestion-copy{
+  flex:1;min-width:0;display:flex;flex-direction:column;gap:3px;
+}
+.spec-suggestion-copy strong{
+  font-size:13px;font-weight:700;color:var(--g800);line-height:1.25;
+}
+.spec-suggestion-copy span{
+  font-size:11px;line-height:1.4;color:var(--g500);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.spec-suggestion-check{
+  width:16px;height:16px;display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;color:var(--g700);
+}
+.spec-suggestion-check svg{width:14px;height:14px;stroke-width:2.2}
+
+.spec-queue{
+  width:100%;display:flex;align-items:center;gap:10px;
+  padding:9px 12px;border-radius:14px;border:1px solid rgba(var(--ink-rgb),.08);
+  background:rgba(255,255,255,.76);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.84);
+  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+}
+.spec-queue-copy{
+  flex:1;min-width:0;display:flex;flex-direction:column;gap:2px;
+}
+.spec-queue-title{
+  font-size:12px;font-weight:600;letter-spacing:-.015em;color:var(--g800);
+}
+.spec-queue-meta{
+  font-size:10px;color:var(--g500);display:flex;align-items:center;gap:6px;
+  font-variant-numeric:tabular-nums;
+}
+.spec-queue-right{
+  display:flex;align-items:center;gap:8px;flex-shrink:0;
+  color:var(--g400);font-size:10px;font-weight:700;font-variant-numeric:tabular-nums;
+}
+.spec-queue-right svg{width:14px;height:14px;stroke-width:1.9;opacity:.5}
+
+.control-state-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.control-state-label{
+  margin-bottom:10px;font-size:11px;font-weight:800;color:var(--g500);
+  text-transform:uppercase;letter-spacing:.08em;
+}
+.control-state-sample{
+  min-height:44px;padding:0 12px;border-radius:12px;
+  border:1px solid rgba(var(--ink-rgb),.08);
+  background:rgba(var(--surface-rgb),.92);
+  display:flex;align-items:center;gap:8px;
+  transition:all var(--dur-fast) var(--ease);
+}
+.control-state-chip{
+  width:9px;height:9px;border-radius:999px;
+  border:1.5px solid rgba(var(--ink-rgb),.18);background:transparent;
+  flex-shrink:0;
+}
+.control-state-text{
+  flex:1;min-width:0;font-size:12px;font-weight:600;color:var(--g700);
+}
+.control-state-check{
+  width:16px;height:16px;display:flex;align-items:center;justify-content:center;
+  color:var(--g700);flex-shrink:0;
+}
+.control-state-check svg{width:14px;height:14px;stroke-width:2.2}
+.control-state-sample.is-hover{
+  background:rgba(var(--surface-rgb),.98);
+  border-color:rgba(var(--ink-rgb),.14);
+}
+.control-state-sample.is-pressed{
+  transform:scale(.988);
+  background:color-mix(in srgb, rgba(var(--surface-rgb),.96) 88%, var(--surface-soft) 12%);
+}
+.control-state-sample.is-chosen{
+  opacity:.84;border-color:rgba(var(--ink-rgb),.095);
+}
+.control-state-sample.is-inactive{
+  opacity:.5;background:rgba(var(--surface-soft-rgb),.78);
+}
+.control-state-sample.is-disabled{
+  background:var(--g100);border-color:var(--g200);
+}
+.control-state-sample.is-disabled .control-state-text,
+.control-state-sample.is-disabled .control-state-check{
+  color:var(--g400);
+}
+.control-state-sample.is-disabled .control-state-chip{
+  border-color:rgba(var(--ink-rgb),.1);
+}
+.control-state-copy{
+  margin-top:10px;font-size:12px;line-height:1.58;color:var(--g600);
+}
+
+.status-signal-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px}
+.status-signal-head{
+  display:flex;align-items:center;gap:10px;margin-bottom:8px;
+}
+.status-signal-title{font-size:12px;font-weight:700;color:var(--g800)}
+.status-signal-card p{font-size:12px;line-height:1.58;color:var(--g600)}
+
+.spec-status-indicator{
+  position:relative;width:18px;height:18px;flex-shrink:0;color:var(--g500);
+}
+.spec-status-indicator::before,.spec-status-indicator::after{
+  content:'';position:absolute;
+}
+.spec-status-indicator--thinking::before{
+  inset:4px;background:var(--g700);border-radius:2px;
+  transform:rotate(45deg);animation:icon-breathe 1.8s ease-in-out infinite alternate;
+}
+.spec-status-indicator--tool::before{
+  inset:2px;border-radius:999px;border:1.5px solid rgba(var(--ink-rgb),.16);
+  border-top-color:var(--g600);animation:spin 1s linear infinite;
+}
+.spec-status-indicator--done::before{
+  inset:3px;border-radius:999px;border:1.5px solid rgba(var(--ink-rgb),.62);
+}
+.spec-status-indicator--pending::before{
+  inset:3px;border-radius:999px;border:1.5px solid rgba(var(--ink-rgb),.14);
+}
+.spec-feedback-btn{
+  width:28px;height:28px;border-radius:10px;
+  display:inline-flex;align-items:center;justify-content:center;
+  background:rgba(var(--ink-rgb),.08);color:var(--g700);
+  border:1px solid rgba(var(--ink-rgb),.08);
+}
+
+.control-map-table-wrap{
+  overflow:auto;border:1px solid var(--g200);border-radius:14px;
+}
+.control-map-table{
+  width:100%;border-collapse:collapse;background:var(--surface);
+}
+.control-map-table th{
+  text-align:left;padding:12px 14px;font-size:10px;font-weight:800;
+  text-transform:uppercase;letter-spacing:.08em;color:var(--g500);
+  background:var(--surface-soft);border-bottom:1px solid var(--g200);
+  white-space:nowrap;
+}
+.control-map-table td{
+  padding:13px 14px;border-bottom:1px solid var(--g100);
+  font-size:12px;line-height:1.55;color:var(--g600);vertical-align:top;
+}
+.control-map-table tr:last-child td{border-bottom:none}
+.control-map-table td strong{display:block;color:var(--g800);font-weight:700}
+
+.status-guide{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.status-guide-item,.anatomy-card{
+  padding:16px;border-radius:14px;border:1px solid var(--g200);
+  background:var(--surface-soft);
+}
+.status-guide-head{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.status-guide-title{font-size:12px;font-weight:700;color:var(--g800)}
+.status-guide-body,.anatomy-card p{font-size:12px;line-height:1.6;color:var(--g600)}
+.anatomy-card strong{display:block;font-size:11px;font-weight:800;color:var(--g500);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px}
+
+.cascade{display:flex;flex-direction:column;gap:4px}
+.tool-row{
+  display:flex;align-items:center;gap:10px;min-height:36px;padding:0 4px;
+  border-radius:8px;cursor:pointer;transition:background var(--dur-fast) var(--ease);
+  user-select:none;
+}
+.tool-row:hover{background:rgba(var(--ink-rgb),.025)}
+.status-dot{
+  width:6px;height:6px;flex-shrink:0;border-radius:1px;
+}
+.status-dot.done{background:var(--g300);opacity:.5}
+.status-dot.running{
+  background:var(--green);
+  animation:dot-pulse 2s ease-in-out infinite;
+}
+.status-dot.pending{
+  background:transparent;border:1.5px solid var(--g300);opacity:.55;
+}
+.tool-label{
+  font-size:14px;font-weight:500;color:var(--g700);
+  flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.tool-row.is-done .tool-label{opacity:.5}
+.tool-row.is-running .tool-label{color:var(--g800)}
+.row-chevron{
+  width:16px;height:16px;opacity:.35;flex-shrink:0;
+  transition:transform var(--dur-fast) var(--ease);
+  display:flex;align-items:center;justify-content:center;color:var(--g400);
+}
+.row-chevron svg{width:12px;height:12px}
+.tool-row.expanded .row-chevron{transform:rotate(90deg)}
+.tool-payload-wrap{
+  overflow:hidden;max-height:0;opacity:0;
+  transition:max-height var(--dur-normal) var(--ease),opacity 200ms var(--ease),margin var(--dur-normal) var(--ease);
+  margin-left:16px;margin-top:0;
+}
+.tool-payload-wrap.open{
+  max-height:220px;opacity:1;margin-top:4px;margin-bottom:8px;
+}
+.tool-payload-inner{
+  font-size:13px;line-height:1.5;color:var(--g500);padding:0 4px;
+}
+.result-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.result-chip{
+  display:inline-flex;align-items:center;gap:6px;
+  font-size:12px;font-weight:500;color:var(--g600);
+  padding:4px 10px;border-radius:8px;
+  background:rgba(var(--ink-rgb),.05);border:1px solid rgba(var(--ink-rgb),.05);
+}
+.result-chip .chip-thumb{
+  width:16px;height:16px;border-radius:4px;background:rgba(var(--ink-rgb),.06);
+  display:flex;align-items:center;justify-content:center;color:var(--g500);
+}
+.result-chip .chip-thumb svg{width:10px;height:10px;stroke-width:1.8}
+.code-block{
+  font-size:11px;line-height:1.6;padding:12px;border-radius:8px;margin-top:6px;
+  background:var(--surface-soft);border:1px solid var(--g200);color:var(--g500);
+}
+.code-block .cv{color:var(--blue)}
+.chat-text{font-size:14px;line-height:1.6;color:var(--g600);margin-top:12px}
+
+/* ====================
+   8. SHADOWS & RADIUS
+   ==================== */
+.shadow-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:20px}
+.shadow-cell{
+  display:flex;flex-direction:column;align-items:center;gap:10px;
+  padding:16px 12px;
+}
+.shadow-block{
+  width:100%;aspect-ratio:1.4;border-radius:var(--radius-lg);
+  background:var(--surface);
+  transition:box-shadow var(--dur-normal) var(--ease);
+}
+.shadow-block[data-level="0"]{box-shadow:var(--shadow-0);border:1px solid var(--g200)}
+.shadow-block[data-level="1"]{box-shadow:var(--shadow-1)}
+.shadow-block[data-level="2"]{box-shadow:var(--shadow-2)}
+.shadow-block[data-level="3"]{box-shadow:var(--shadow-3)}
+.shadow-block[data-level="4"]{box-shadow:var(--shadow-4)}
+.shadow-label{font-size:10px;font-weight:700;color:var(--g500);font-family:'JetBrains Mono',monospace}
+.shadow-spec{font-size:9px;color:var(--g400);text-align:center;line-height:1.4}
+.radius-row{display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap}
+.radius-cell{display:flex;flex-direction:column;align-items:center;gap:8px}
+.radius-block{
+  background:var(--g200);display:flex;align-items:center;justify-content:center;
+  color:var(--g500);font-size:10px;font-weight:700;font-family:'JetBrains Mono',monospace;
+}
+.radius-block[data-r="xs"]{width:36px;height:36px;border-radius:var(--radius-xs)}
+.radius-block[data-r="sm"]{width:44px;height:44px;border-radius:var(--radius-sm)}
+.radius-block[data-r="md"]{width:52px;height:52px;border-radius:var(--radius-md)}
+.radius-block[data-r="lg"]{width:60px;height:60px;border-radius:var(--radius-lg)}
+.radius-block[data-r="xl"]{width:68px;height:68px;border-radius:var(--radius-xl)}
+.radius-block[data-r="pill"]{width:100px;height:36px;border-radius:var(--radius-pill)}
+.radius-label{font-size:9px;font-weight:700;color:var(--g500);font-family:'JetBrains Mono',monospace}
+
+.card-variant-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.card-v{padding:20px;min-height:100px;display:flex;flex-direction:column;justify-content:space-between}
+.card-v-name{font-size:11px;font-weight:800;color:var(--g500);text-transform:uppercase;letter-spacing:.08em;margin-bottom:6px}
+.card-v-desc{font-size:11px;line-height:1.55;color:var(--g400)}
+.card-flush{background:var(--surface-soft);border-radius:var(--radius-lg)}
+.card-subtle{background:var(--surface);border:1px solid var(--g200);border-radius:var(--radius-lg);box-shadow:var(--shadow-1)}
+.card-default{background:var(--surface);border:1px solid var(--g200);border-radius:var(--radius-lg);box-shadow:var(--shadow-2)}
+.card-elevated{background:var(--surface);border-radius:var(--radius-xl);box-shadow:var(--shadow-3)}
+.card-interactive{
+  background:var(--surface);border:1px solid var(--g200);border-radius:var(--radius-lg);
+  box-shadow:var(--shadow-1);cursor:pointer;
+  transition:box-shadow var(--dur-normal) var(--ease),border-color var(--dur-fast) var(--ease);
+}
+.card-interactive:hover{box-shadow:var(--shadow-3);border-color:var(--g300)}
+
+/* ====================
+   9. SPACING & CHAT FEED
+   ==================== */
+.space-scale{display:flex;align-items:flex-end;gap:6px;padding:8px 0}
+.space-bar{
+  display:flex;flex-direction:column;align-items:center;gap:4px;min-width:40px;
+}
+.space-bar-fill{
+  width:100%;background:var(--blue);border-radius:var(--radius-xs);opacity:.18;
+  transition:opacity var(--dur-fast) var(--ease);
+}
+.space-bar:hover .space-bar-fill{opacity:.35}
+.space-bar-val{font-size:9px;font-weight:700;color:var(--g500);font-family:'JetBrains Mono',monospace}
+.space-bar-tok{font-size:8px;color:var(--g400);font-family:'JetBrains Mono',monospace}
+
+.chat-demo{
+  max-width:480px;margin:0 auto;
+  background:linear-gradient(180deg,rgba(var(--page-bg-rgb),.96) 0%,rgba(var(--surface-soft-rgb),.94) 100%);
+  border:1px solid rgba(var(--ink-rgb),.08);
+  border-radius:var(--radius-xl);overflow:hidden;
+  box-shadow:0 20px 40px rgba(var(--ink-rgb),.08),0 3px 10px rgba(var(--ink-rgb),.04),inset 0 1px 0 rgba(var(--surface-rgb),.7);
+  backdrop-filter:blur(18px);
+  -webkit-backdrop-filter:blur(18px);
+}
+.chat-demo-hdr{
+  padding:var(--space-3) var(--space-5);
+  border-bottom:1px solid rgba(var(--ink-rgb),.07);
+  display:flex;align-items:center;justify-content:space-between;
+  background:rgba(var(--page-bg-rgb),.82);backdrop-filter:blur(14px);
+  -webkit-backdrop-filter:blur(14px);
+}
+.chat-demo-hdr-title{font-size:13px;font-weight:700;color:var(--g800)}
+.chat-demo-hdr-meta{font-size:11px;color:var(--g400)}
+.chat-demo-body{
+  padding:var(--space-5);display:flex;flex-direction:column;
+  background:linear-gradient(180deg,rgba(var(--page-bg-rgb),.34) 0%,rgba(var(--surface-rgb),.5) 100%);
+}
+.chat-demo-body .chat-gap-4{height:var(--space-1)}
+.chat-demo-body .chat-gap-8{height:var(--space-2)}
+.chat-demo-body .chat-gap-16{height:var(--space-4)}
+.chat-demo-body .chat-gap-24{height:var(--space-6)}
+.chat-user-row{display:flex;justify-content:flex-end}
+.chat-user-bubble{
+  max-width:80%;padding:var(--space-3) var(--space-4);
+  background:rgba(var(--surface-rgb),.92);border:1px solid rgba(var(--ink-rgb),.08);
+  border-radius:var(--radius-lg);border-bottom-right-radius:var(--radius-xs);
+  font-size:14px;line-height:1.55;color:var(--g800);
+  box-shadow:0 8px 18px rgba(var(--ink-rgb),.05),inset 0 1px 0 rgba(var(--surface-rgb),.9);
+  backdrop-filter:blur(10px);
+  -webkit-backdrop-filter:blur(10px);
+}
+.chat-agent-text{
+  font-size:14px;line-height:1.65;color:var(--g700);
+  max-width:92%;
+}
+.chat-agent-text strong{font-weight:700;color:var(--g800)}
+.chat-tool-pill{
+  display:inline-flex;align-items:center;gap:var(--space-2);
+  padding:var(--space-2) var(--space-3);
+  background:rgba(var(--surface-rgb),.84);border:1px solid rgba(var(--ink-rgb),.08);
+  border-radius:var(--radius-md);font-size:13px;font-weight:500;
+  color:var(--g600);box-shadow:0 8px 18px rgba(var(--ink-rgb),.04),inset 0 1px 0 rgba(var(--surface-rgb),.84);
+  cursor:pointer;transition:background var(--dur-fast) var(--ease),border-color var(--dur-fast) var(--ease),transform var(--dur-fast) var(--ease);
+  width:100%;
+  backdrop-filter:blur(10px);
+  -webkit-backdrop-filter:blur(10px);
+}
+.chat-tool-pill:hover{background:rgba(var(--surface-soft-rgb),.9);border-color:rgba(var(--ink-rgb),.11);transform:translateY(-1px)}
+.chat-tool-pill .pill-icon{
+  width:18px;height:18px;border-radius:var(--radius-sm);
+  background:rgba(var(--ink-rgb),.05);display:flex;align-items:center;justify-content:center;
+  color:var(--g500);flex-shrink:0;
+}
+.chat-tool-pill .pill-icon svg{width:11px;height:11px;stroke-width:2}
+.chat-tool-pill .pill-chev{margin-left:auto;color:var(--g400);opacity:.5;display:flex}
+.chat-tool-pill .pill-chev svg{width:12px;height:12px}
+.chat-thought-row{
+  display:flex;align-items:center;gap:var(--space-2);
+  font-size:13px;font-weight:500;color:var(--g400);
+  cursor:pointer;padding:var(--space-1) 0;
+}
+.chat-thought-row .chev{opacity:.4;display:flex}
+.chat-thought-row .chev svg{width:12px;height:12px}
+.chat-quick-actions{display:flex;flex-wrap:wrap;gap:var(--space-2)}
+.chat-quick-pill{
+  display:inline-flex;align-items:center;gap:var(--space-1);
+  padding:6px var(--space-3);
+  border:1px solid rgba(var(--ink-rgb),.08);border-radius:var(--radius-pill);
+  font-size:12px;font-weight:500;color:var(--g600);
+  background:rgba(var(--surface-rgb),.8);cursor:pointer;
+  transition:border-color var(--dur-fast) var(--ease),background var(--dur-fast) var(--ease),transform var(--dur-fast) var(--ease);
+  backdrop-filter:blur(8px);
+  -webkit-backdrop-filter:blur(8px);
+}
+.chat-quick-pill:hover{border-color:rgba(var(--ink-rgb),.11);background:rgba(var(--surface-soft-rgb),.88);transform:translateY(-1px)}
+.chat-quick-pill .qp-icon{color:var(--g400);display:flex}
+.chat-quick-pill .qp-icon svg{width:13px;height:13px;stroke-width:1.8}
+.chat-input-wrap{
+  padding:var(--space-3) var(--space-5) var(--space-5);
+}
+.chat-input-bar{
+  display:flex;align-items:center;gap:var(--space-2);
+  padding:var(--space-3) var(--space-4);
+  background:rgba(var(--surface-rgb),.9);border:1px solid rgba(var(--ink-rgb),.08);
+  border-radius:var(--radius-lg);box-shadow:0 14px 28px rgba(var(--ink-rgb),.06),0 2px 8px rgba(var(--ink-rgb),.03),inset 0 1px 0 rgba(var(--surface-rgb),.92);
+  transition:border-color var(--dur-fast) var(--ease),box-shadow var(--dur-fast) var(--ease);
+  backdrop-filter:blur(14px);
+  -webkit-backdrop-filter:blur(14px);
+}
+.chat-input-bar:focus-within{border-color:rgba(var(--ink-rgb),.12);box-shadow:0 18px 34px rgba(var(--ink-rgb),.08),0 2px 10px rgba(var(--ink-rgb),.04),inset 0 1px 0 rgba(var(--surface-rgb),.94)}
+.chat-input-bar input{
+  flex:1;border:none;outline:none;background:transparent;
+  font-size:14px;color:var(--g800);font-family:inherit;
+}
+.chat-input-bar input::placeholder{color:var(--g400)}
+.chat-input-bar .input-actions{display:flex;gap:var(--space-1);align-items:center}
+.chat-input-bar .input-action{
+  width:28px;height:28px;border-radius:var(--radius-sm);
+  display:flex;align-items:center;justify-content:center;
+  color:var(--g400);cursor:pointer;border:none;background:transparent;
+  transition:background var(--dur-fast) var(--ease),color var(--dur-fast) var(--ease);
+}
+.chat-input-bar .input-action:hover{background:rgba(var(--ink-rgb),.05);color:var(--g600)}
+.chat-input-bar .input-send{
+  width:28px;height:28px;border-radius:var(--radius-sm);
+  display:flex;align-items:center;justify-content:center;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;
+  transition:opacity var(--dur-fast) var(--ease);
+}
+.chat-input-bar .input-send:hover{opacity:.85}
+.chat-toolbar{
+  display:flex;align-items:center;gap:var(--space-2);
+  padding:var(--space-2) var(--space-5) 0;
+}
+.chat-toolbar-btn{
+  display:inline-flex;align-items:center;gap:var(--space-1);
+  padding:4px var(--space-2);border-radius:var(--radius-sm);
+  font-size:12px;font-weight:500;color:var(--g500);
+  background:transparent;border:none;cursor:pointer;
+  transition:background var(--dur-fast) var(--ease);
+}
+.chat-toolbar-btn:hover{background:rgba(var(--ink-rgb),.05)}
+.chat-toolbar-btn svg{width:14px;height:14px;stroke-width:1.8}
+.chat-spacing-anno{
+  position:absolute;right:-48px;
+  display:flex;align-items:center;gap:4px;
+  font-size:9px;font-weight:700;color:var(--blue);
+  font-family:'JetBrains Mono',monospace;opacity:.6;
+  white-space:nowrap;
+}
+.chat-spacing-anno::before{
+  content:'';width:16px;height:1px;background:var(--blue);opacity:.4;
+}
+
+@media (max-width:980px){
+  .shadow-grid,.card-variant-grid{grid-template-columns:repeat(2,1fr)}
+  .chat-demo{max-width:100%}
+}
+
+@keyframes halo{to{transform:rotate(360deg)}}
+@keyframes icon-breathe{
+  0%{transform:scale(.92)}
+  100%{transform:scale(1.08)}
+}
+@keyframes ch-wave{
+  0%,100%{opacity:.4;transform:translateY(0)}
+  20%{opacity:1;transform:translateY(-1px)}
+}
+@keyframes dot-pulse{
+  0%,100%{box-shadow:0 0 0 rgba(var(--green-rgb),0)}
+  50%{box-shadow:0 0 8px rgba(var(--green-rgb),.55)}
+}
+@keyframes spin{
+  to{transform:rotate(360deg)}
+}
+
+@media (max-width:980px){
+  .color-grid,.ds-grid-2,.ds-grid-3,.ds-grid-4,.motion-grid,.agent-state-grid,.status-guide,.control-family-grid,.control-state-grid,.status-signal-grid{grid-template-columns:1fr}
+  .entry-demo-wrap{flex-direction:column;align-items:flex-start}
+  .entry-metrics{width:100%}
+}
+</style>
+</head>
+<body>
+
+<div class="page-hdr">
+  <h1>OpenCreator</h1>
+  <span class="tag">Design System</span>
+</div>
+
+
+<!-- ============================================================
+     SECTION 1: COLOR PALETTE
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Color</div>
+  <div class="ds-section-desc">Flat, no gradients on borders or outlines. Modality colors identify data types across the canvas with a neon-forward saturation. Neutrals use a cool blue-tinted scale. Surfaces are blue-shifted whites for professional clarity.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Modality Colors — Primary + Secondary</div>
+
+    <div class="color-grid">
+
+      <!-- Text -->
+      <div class="color-mod">
+        <div class="color-mod-label">Text</div>
+        <div class="color-pin-preview" style="background:var(--green);border-color:var(--green-s)"></div>
+        <div class="color-swatch-row">
+          <div class="color-swatch" style="background:var(--green)">
+            <div class="color-swatch-name">Primary</div>
+            <div class="color-swatch-hex">#0CF06B</div>
+          </div>
+          <div class="color-swatch secondary" style="background:var(--green-s)">
+            <div class="color-swatch-name">Secondary</div>
+            <div class="color-swatch-hex">#8FFCBA</div>
+          </div>
+        </div>
+        <div class="color-usage">Pin fill, node border, status accent</div>
+      </div>
+
+      <!-- Image -->
+      <div class="color-mod">
+        <div class="color-mod-label">Image</div>
+        <div class="color-pin-preview" style="background:var(--blue);border-color:var(--blue-s)"></div>
+        <div class="color-swatch-row">
+          <div class="color-swatch" style="background:var(--blue)">
+            <div class="color-swatch-name light">Primary</div>
+            <div class="color-swatch-hex light">#5C6FFF</div>
+          </div>
+          <div class="color-swatch secondary" style="background:#D6DBFF">
+            <div class="color-swatch-name">Secondary</div>
+            <div class="color-swatch-hex">25% opacity</div>
+          </div>
+        </div>
+        <div class="color-usage">Pin fill, node border, status accent</div>
+      </div>
+
+      <!-- Video -->
+      <div class="color-mod">
+        <div class="color-mod-label">Video</div>
+        <div class="color-pin-preview" style="background:var(--pink);border-color:var(--pink-s)"></div>
+        <div class="color-swatch-row">
+          <div class="color-swatch" style="background:var(--pink)">
+            <div class="color-swatch-name">Primary</div>
+            <div class="color-swatch-hex">#FF65D4</div>
+          </div>
+          <div class="color-swatch secondary" style="background:var(--pink-s)">
+            <div class="color-swatch-name">Secondary</div>
+            <div class="color-swatch-hex">#FFB4EA</div>
+          </div>
+        </div>
+        <div class="color-usage">Pin fill, node border, status accent</div>
+      </div>
+
+      <!-- Audio -->
+      <div class="color-mod">
+        <div class="color-mod-label">Audio</div>
+        <div class="color-pin-preview" style="background:var(--yellow);border-color:var(--yellow-s)"></div>
+        <div class="color-swatch-row">
+          <div class="color-swatch" style="background:var(--yellow)">
+            <div class="color-swatch-name">Primary</div>
+            <div class="color-swatch-hex">#FFCF0F</div>
+          </div>
+          <div class="color-swatch secondary" style="background:var(--yellow-s)">
+            <div class="color-swatch-name">Secondary</div>
+            <div class="color-swatch-hex">#FFE566</div>
+          </div>
+        </div>
+        <div class="color-usage">Pin fill, node border, status accent</div>
+      </div>
+    </div>
+
+    <div class="ds-card-title" style="margin-top:8px">Neutral Scale — Black & White</div>
+    <div class="neutral-strip">
+      <div class="neutral-chip" style="background:var(--g50)"><div class="neutral-chip-label" style="color:var(--g500)">50</div></div>
+      <div class="neutral-chip" style="background:var(--g100)"><div class="neutral-chip-label" style="color:var(--g500)">100</div></div>
+      <div class="neutral-chip" style="background:var(--g200)"><div class="neutral-chip-label" style="color:var(--g500)">200</div></div>
+      <div class="neutral-chip" style="background:var(--g300)"><div class="neutral-chip-label" style="color:var(--g600)">300</div></div>
+      <div class="neutral-chip" style="background:var(--g400)"><div class="neutral-chip-label" style="color:#fff">400</div></div>
+      <div class="neutral-chip" style="background:var(--g500)"><div class="neutral-chip-label" style="color:#fff">500</div></div>
+      <div class="neutral-chip" style="background:var(--g600)"><div class="neutral-chip-label" style="color:#fff">600</div></div>
+      <div class="neutral-chip" style="background:var(--g700)"><div class="neutral-chip-label" style="color:#fff">700</div></div>
+      <div class="neutral-chip" style="background:var(--g800)"><div class="neutral-chip-label" style="color:#fff">800</div></div>
+      <div class="neutral-chip" style="background:var(--g900)"><div class="neutral-chip-label" style="color:#fff">900</div></div>
+    </div>
+    <div style="display:flex;gap:0;margin-bottom:24px">
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#FFFFFF</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#F5F5F5</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#E8E8E8</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#D4D4D4</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#A3A3A3</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#737373</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#525252</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#404040</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#262626</div>
+      <div style="flex:1;text-align:center;font-size:8px;font-family:'Roboto Mono',monospace;color:var(--g400)">#141414</div>
+    </div>
+
+    <div class="ds-card-title">Surface & Background</div>
+    <div class="surface-strip">
+      <div class="surface-chip" style="background:var(--page-bg)"><div class="surface-chip-name">page-bg</div><div class="surface-chip-hex">#FFFFFF</div></div>
+      <div class="surface-chip" style="background:var(--page-bg-2)"><div class="surface-chip-name">page-bg-2</div><div class="surface-chip-hex">#F5F5F5</div></div>
+      <div class="surface-chip" style="background:var(--surface)"><div class="surface-chip-name">surface</div><div class="surface-chip-hex">#FFFFFF</div></div>
+      <div class="surface-chip" style="background:var(--surface-soft)"><div class="surface-chip-name">surface-soft</div><div class="surface-chip-hex">#F5F5F5</div></div>
+      <div class="surface-chip" style="background:var(--ink)"><div class="surface-chip-name" style="color:rgba(255,255,255,.7)">ink</div><div class="surface-chip-hex" style="color:rgba(255,255,255,.5)">#141414</div></div>
+      <div class="surface-chip" style="background:var(--ink-hover)"><div class="surface-chip-name" style="color:rgba(255,255,255,.7)">ink-hover</div><div class="surface-chip-hex" style="color:rgba(255,255,255,.5)">#222222</div></div>
+    </div>
+
+    <div class="ds-card-title" style="margin-top:24px">Utility</div>
+    <div class="util-strip">
+      <div class="util-chip" style="background:var(--amber)"><div class="util-chip-name">amber</div><div class="util-chip-hex">#FF9500</div></div>
+      <div class="util-chip" style="background:var(--red)"><div class="util-chip-name">red</div><div class="util-chip-hex">#FF4757</div></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ============================================================
+     SECTION 2: TYPOGRAPHY
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Typography</div>
+  <div class="ds-section-desc">Two typefaces. Poller One for display and bold accent moments. Roboto for everything functional. Body text is 14px. Sizes and weights are intentional — don't improvise.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Typefaces</div>
+
+    <div class="type-specimen">
+      <div class="type-meta">
+        <div class="type-token">Display</div>
+        <div class="type-spec">Poller One &middot; 400 only</div>
+      </div>
+      <div class="type-preview" style="font-family:'Poller One',serif;font-size:32px;color:var(--g900)">
+        OpenCreator
+      </div>
+      <div class="color-usage" style="margin-top:6px">Page titles, hero text, section headings, brutalist accent labels. Use sparingly — one Poller One element per view is usually enough.</div>
+    </div>
+
+    <div class="type-specimen">
+      <div class="type-meta">
+        <div class="type-token">Body</div>
+        <div class="type-spec">Roboto &middot; 300 / 400 / 500 / 700 / 900</div>
+      </div>
+      <div class="type-preview" style="font-family:'Roboto',sans-serif;font-size:14px;color:var(--g700);line-height:1.65">
+        The quick brown fox jumps over the lazy dog. Designed to feel calm in the room and enormous in the mix, the speaker pairs sculpted industrial form with unexpectedly wide, precise sound.
+      </div>
+      <div class="color-usage" style="margin-top:6px">All functional text: labels, descriptions, prompts, results, UI controls. 14px base. Lighter weights (300) for large text, heavier weights (700/900) for emphasis and badges.</div>
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Type Scale</div>
+    <table class="scale-table">
+      <thead>
+        <tr>
+          <th style="width:120px">Token</th>
+          <th style="width:140px">Spec</th>
+          <th style="width:80px">Color</th>
+          <th>Preview</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="token-cell">page-title</td>
+          <td class="spec-cell">Poller One / 24px</td>
+          <td><div class="color-dot" style="background:var(--g900)"></div>g900</td>
+          <td class="preview-cell" style="font-family:'Poller One',serif;font-size:24px;color:var(--g900)">Page Title</td>
+        </tr>
+        <tr>
+          <td class="token-cell">section-title</td>
+          <td class="spec-cell">Poller One / 20px</td>
+          <td><div class="color-dot" style="background:var(--g900)"></div>g900</td>
+          <td class="preview-cell" style="font-family:'Poller One',serif;font-size:20px;color:var(--g900)">Section Title</td>
+        </tr>
+        <tr>
+          <td class="token-cell">heading</td>
+          <td class="spec-cell">Roboto 700 / 16px</td>
+          <td><div class="color-dot" style="background:var(--g800)"></div>g800</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:16px;font-weight:700;color:var(--g800)">Heading Text</td>
+        </tr>
+        <tr>
+          <td class="token-cell">subheading</td>
+          <td class="spec-cell">Roboto 700 / 13px</td>
+          <td><div class="color-dot" style="background:var(--g700)"></div>g700</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:13px;font-weight:700;color:var(--g700)">Subheading Text</td>
+        </tr>
+        <tr>
+          <td class="token-cell">body</td>
+          <td class="spec-cell">Roboto 400 / 14px</td>
+          <td><div class="color-dot" style="background:var(--g700)"></div>g700</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:14px;font-weight:400;color:var(--g700)">Body text at the default reading size.</td>
+        </tr>
+        <tr>
+          <td class="token-cell">body-small</td>
+          <td class="spec-cell">Roboto 400 / 12px</td>
+          <td><div class="color-dot" style="background:var(--g600)"></div>g600</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:12px;font-weight:400;color:var(--g600)">Smaller body for node content, config fields, result text.</td>
+        </tr>
+        <tr>
+          <td class="token-cell">label</td>
+          <td class="spec-cell">Roboto 700 / 12px</td>
+          <td><div class="color-dot" style="background:var(--g700)"></div>g700</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:12px;font-weight:700;color:var(--g700)">Config Label *</td>
+        </tr>
+        <tr>
+          <td class="token-cell">caption</td>
+          <td class="spec-cell">Roboto 500 / 11px</td>
+          <td><div class="color-dot" style="background:var(--g500)"></div>g500</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:11px;font-weight:500;color:var(--g500)">Model chip, tab label, status pill, pin label</td>
+        </tr>
+        <tr>
+          <td class="token-cell">micro</td>
+          <td class="spec-cell">Roboto 600 / 10px</td>
+          <td><div class="color-dot" style="background:var(--g400)"></div>g400</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:10px;font-weight:600;color:var(--g400)">Tooltip, badge count, select-all link, metadata</td>
+        </tr>
+        <tr>
+          <td class="token-cell">overline</td>
+          <td class="spec-cell">Roboto 800 / 9px / uppercase</td>
+          <td><div class="color-dot" style="background:var(--g400)"></div>g400</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:9px;font-weight:800;color:var(--g400);text-transform:uppercase;letter-spacing:.08em">Section Label / Card Title</td>
+        </tr>
+        <tr>
+          <td class="token-cell">accent-bold</td>
+          <td class="spec-cell">Roboto 900 / any size</td>
+          <td><div class="color-dot" style="background:var(--g900)"></div>g900</td>
+          <td class="preview-cell" style="font-family:'Roboto',sans-serif;font-size:14px;font-weight:900;color:var(--g900)">Brutalist emphasis (use with restraint)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="ds-note">
+      <strong>Usage rules:</strong> Node label = <code>caption</code> at 12px 400 weight, color <code>g600</code>. Config field labels = <code>label</code>. Result body text = <code>body-small</code>. Buttons and chips = <code>caption</code>. Avoid font sizes outside this scale. When in doubt, use <code>body-small</code> (12px/400).
+    </div>
+  </div>
+</div>
+
+
+<!-- ============================================================
+     SECTION 3: ICON SYSTEM
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Icons</div>
+  <div class="ds-section-desc">All icons use Lucide Icons — consistent 24px grid, 1.5px stroke, round caps. Never mix icon libraries. Use the SVG source directly or via the lucide-react package.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Icon Sizes</div>
+    <div class="icon-sizes">
+      <div class="icon-size-demo">
+        <i data-lucide="pencil" style="width:12px;height:12px;color:var(--g700)"></i>
+        <div class="icon-size-label">12px</div>
+        <div style="font-size:9px;color:var(--g400)">Inline / chips</div>
+      </div>
+      <div class="icon-size-demo">
+        <i data-lucide="pencil" style="width:14px;height:14px;color:var(--g700)"></i>
+        <div class="icon-size-label">14px</div>
+        <div style="font-size:9px;color:var(--g400)">Buttons / tabs</div>
+      </div>
+      <div class="icon-size-demo">
+        <i data-lucide="pencil" style="width:16px;height:16px;color:var(--g700)"></i>
+        <div class="icon-size-label">16px</div>
+        <div style="font-size:9px;color:var(--g400)">Default</div>
+      </div>
+      <div class="icon-size-demo">
+        <i data-lucide="pencil" style="width:20px;height:20px;color:var(--g700)"></i>
+        <div class="icon-size-label">20px</div>
+        <div style="font-size:9px;color:var(--g400)">Header actions</div>
+      </div>
+      <div class="icon-size-demo">
+        <i data-lucide="pencil" style="width:24px;height:24px;color:var(--g700)"></i>
+        <div class="icon-size-label">24px</div>
+        <div style="font-size:9px;color:var(--g400)">Large / empty</div>
+      </div>
+    </div>
+
+    <div class="ds-card-title">Commonly Used</div>
+    <div class="icon-grid">
+      <div class="icon-item"><i data-lucide="play" style="width:20px;height:20px"></i><div class="icon-item-name">play</div></div>
+      <div class="icon-item"><i data-lucide="square" style="width:20px;height:20px"></i><div class="icon-item-name">square (stop)</div></div>
+      <div class="icon-item"><i data-lucide="pencil" style="width:20px;height:20px"></i><div class="icon-item-name">pencil</div></div>
+      <div class="icon-item"><i data-lucide="copy" style="width:20px;height:20px"></i><div class="icon-item-name">copy</div></div>
+      <div class="icon-item"><i data-lucide="trash-2" style="width:20px;height:20px"></i><div class="icon-item-name">trash-2</div></div>
+      <div class="icon-item"><i data-lucide="check" style="width:20px;height:20px"></i><div class="icon-item-name">check</div></div>
+      <div class="icon-item"><i data-lucide="x" style="width:20px;height:20px"></i><div class="icon-item-name">x</div></div>
+      <div class="icon-item"><i data-lucide="chevron-down" style="width:20px;height:20px"></i><div class="icon-item-name">chevron-down</div></div>
+      <div class="icon-item"><i data-lucide="chevron-up" style="width:20px;height:20px"></i><div class="icon-item-name">chevron-up</div></div>
+      <div class="icon-item"><i data-lucide="plus" style="width:20px;height:20px"></i><div class="icon-item-name">plus</div></div>
+      <div class="icon-item"><i data-lucide="settings-2" style="width:20px;height:20px"></i><div class="icon-item-name">settings-2</div></div>
+      <div class="icon-item"><i data-lucide="search" style="width:20px;height:20px"></i><div class="icon-item-name">search</div></div>
+      <div class="icon-item"><i data-lucide="type" style="width:20px;height:20px"></i><div class="icon-item-name">type (text)</div></div>
+      <div class="icon-item"><i data-lucide="image" style="width:20px;height:20px"></i><div class="icon-item-name">image</div></div>
+      <div class="icon-item"><i data-lucide="video" style="width:20px;height:20px"></i><div class="icon-item-name">video</div></div>
+      <div class="icon-item"><i data-lucide="mic" style="width:20px;height:20px"></i><div class="icon-item-name">mic (audio)</div></div>
+      <div class="icon-item"><i data-lucide="upload" style="width:20px;height:20px"></i><div class="icon-item-name">upload</div></div>
+      <div class="icon-item"><i data-lucide="download" style="width:20px;height:20px"></i><div class="icon-item-name">download</div></div>
+      <div class="icon-item"><i data-lucide="external-link" style="width:20px;height:20px"></i><div class="icon-item-name">external-link</div></div>
+      <div class="icon-item"><i data-lucide="alert-circle" style="width:20px;height:20px"></i><div class="icon-item-name">alert-circle</div></div>
+      <div class="icon-item"><i data-lucide="loader" style="width:20px;height:20px"></i><div class="icon-item-name">loader</div></div>
+      <div class="icon-item"><i data-lucide="grip-vertical" style="width:20px;height:20px"></i><div class="icon-item-name">grip-vertical</div></div>
+      <div class="icon-item"><i data-lucide="lock" style="width:20px;height:20px"></i><div class="icon-item-name">lock</div></div>
+      <div class="icon-item"><i data-lucide="unlock" style="width:20px;height:20px"></i><div class="icon-item-name">unlock</div></div>
+    </div>
+
+    <div class="ds-note" style="margin-top:20px">
+      <strong>Library:</strong> <code>lucide-react</code> for React components, or raw SVGs from <code>lucide.dev</code>.<br>
+      <strong>Stroke:</strong> 1.5px default. Use 1.25px at 12px size, 2px for emphasis.<br>
+      <strong>Color:</strong> <code>g700</code> default, <code>g400</code> for disabled/secondary, <code>g900</code> for active, modality color for typed icons.<br>
+      <strong>Modality mapping:</strong> <code>type</code> = Text, <code>image</code> = Image, <code>video</code> = Video, <code>mic</code> = Audio.
+    </div>
+  </div>
+</div>
+
+
+
+<!-- ============================================================
+     SECTION 5: AGENT ENTRY BUTTON
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Agent Entry</div>
+  <div class="ds-section-desc">The entry affordance is the agent's brand anchor: a dark square with a pixel-rendered OpenCreator diamond. It should feel tactile, slightly mysterious, and richer in motion than the rest of the system without becoming ornamental.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Pixel Identity</div>
+    <div class="ds-grid-2">
+      <div class="spec-list">
+        <div class="spec-item">
+          <div>
+            <strong>Matrix construction</strong>
+            <p>A <span class="mono">15x15</span> pixel-dot matrix uses <span class="mono">4px</span> blocks with <span class="mono">1.5px</span> gaps. The logo sits inside a <span class="mono">48px</span> square with <span class="mono">14px</span> corner radius.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Always-dark anchor</strong>
+            <p>The base button fill stays <span class="mono">#0D0D0D</span> regardless of page theme so the entry reads as a consistent agent object, not another canvas control.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Ambient idle motion</strong>
+            <p>Idle state uses a radial brightness wave plus sparse firefly sparkles. The effect should read as quiet energy, not shimmer.</p>
+          </div>
+        </div>
+      </div>
+      <div class="spec-list">
+        <div class="spec-item">
+          <div>
+            <strong>Hover behavior</strong>
+            <p>Hover introduces two things: magnetic pixel pull toward cursor and neon bleed from the four modality colors. This is the only place brand glow is allowed to bloom this much.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Click behavior</strong>
+            <p>Click compresses the button and emits an expanding ring of <span class="mono">30</span> tiny particles. Keep it short, square, and precise.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Interaction contract</strong>
+            <p>Scale transitions use <span class="mono">--ease-spring</span>. Hover to <span class="mono">1.06</span>, active to <span class="mono">0.96</span>, never beyond those bounds.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Live Demo</div>
+    <div class="entry-demo-wrap">
+      <div class="entry-row">
+        <div class="btn-shell">
+          <canvas class="burst-cv" id="burstCv" width="280" height="280"></canvas>
+          <button class="agent-btn" id="entryBtn" type="button" aria-label="Ask Agent">
+            <canvas id="entryCv" width="144" height="144"></canvas>
+          </button>
+        </div>
+        <div class="entry-info">
+          <div class="entry-title">Ask Agent</div>
+          <div class="entry-hint">Open assistant <kbd>Cmd /</kbd></div>
+        </div>
+      </div>
+      <div class="entry-metrics">
+        <div class="metric-chip">
+          <strong>Canvas Map</strong>
+          <p><code>15x15</code> sprite matrix with white idle pixels and hover-time modality bleed.</p>
+        </div>
+        <div class="metric-chip">
+          <strong>Halo Shell</strong>
+          <p>Conic aura sits outside the button at <code>-4px</code> inset and rotates independently.</p>
+        </div>
+        <div class="metric-chip">
+          <strong>Response Curve</strong>
+          <p>Hover scale uses <code>400ms</code> spring. Press snaps to <code>100ms</code> for tactile certainty.</p>
+        </div>
+        <div class="metric-chip">
+          <strong>Brand Colors</strong>
+          <p>Glow ring cycles Text / Image / Video / Audio in that exact order.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">States</div>
+    <div class="agent-state-grid">
+      <div class="agent-state-card">
+        <div class="agent-state-label">Idle</div>
+        <div class="agent-state-stage">
+          <div class="btn-shell">
+            <button class="agent-btn" type="button" tabindex="-1" aria-hidden="true">
+              <canvas id="entryIdleCv" width="144" height="144"></canvas>
+            </button>
+          </div>
+        </div>
+        <div class="agent-state-meta">Quiet white pixel field with soft depth and no halo reveal.</div>
+      </div>
+      <div class="agent-state-card">
+        <div class="agent-state-label">Hover Halo</div>
+        <div class="agent-state-stage">
+          <div class="btn-shell is-hover">
+            <button class="agent-btn" type="button" tabindex="-1" aria-hidden="true">
+              <canvas id="entryHoverCv" width="144" height="144"></canvas>
+            </button>
+          </div>
+        </div>
+        <div class="agent-state-meta">Halo visible, pixels slightly color-shifted, object reads magnetized.</div>
+      </div>
+      <div class="agent-state-card">
+        <div class="agent-state-label">Pressed</div>
+        <div class="agent-state-stage">
+          <div class="btn-shell is-hover">
+            <button class="agent-btn is-active" type="button" tabindex="-1" aria-hidden="true">
+              <canvas id="entryPressCv" width="144" height="144"></canvas>
+            </button>
+          </div>
+        </div>
+        <div class="agent-state-meta">Same glow language, but with compressed scale and slightly hotter center.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ============================================================
+     SECTION 6: THINKING STATES
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Thinking States</div>
+  <div class="ds-section-desc">Thinking UI should feel legible and alive without stealing focus from the conversation. Pixel icons stay small, text stays quiet, and completion states turn into compact collapsible summaries rather than loud banners.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Thinking Inline</div>
+    <div class="thinking-stack">
+      <div class="thinking-inline">
+        <div class="think-icon"><canvas id="thinkInlineCv" width="42" height="42"></canvas></div>
+        <div class="think-text" id="thinkText"></div>
+      </div>
+      <div class="ds-note">
+        Use the inverted mini diamond here: dark pixels on a light background. The icon breathes; the label waves by opacity and only lifts <code>1px</code> at peak.
+      </div>
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Thought Complete</div>
+    <div class="thinking-stack">
+      <div class="thought-done" id="thoughtToggle" aria-expanded="false">
+        <div class="think-icon"><canvas id="thinkDoneCv" width="42" height="42"></canvas></div>
+        <span class="td-label">Thought for 16 seconds</span>
+        <span class="td-chevron"><i data-lucide="chevron-right"></i></span>
+      </div>
+      <div class="thought-panel-wrap" id="thoughtPanel">
+        <div class="thought-panel">Reasoned through entry affordance hierarchy, mapped tool-state semantics, and selected low-amplitude motion rules before any tool UI was revealed.</div>
+      </div>
+      <div class="ds-note">
+        Completed thinking states stay compact by default. Use them as a disclosure header, not a transcript dump: one sentence summary, duration label, and a quiet chevron.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- ============================================================
+     SECTION 7: CONTROLS & STATES
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Controls & States</div>
+  <div class="ds-section-desc">The left-side agent feed already has a usable control grammar. This section consolidates the real button families, the shared interaction ladder, and the execution signals so future UI changes stop inventing one-off treatments.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Control Families</div>
+    <div class="control-family-grid">
+      <div class="control-family-card">
+        <div class="control-demo-stage">
+          <button class="spec-icon-btn is-hover" type="button" tabindex="-1" aria-hidden="true">
+            <i data-lucide="paperclip"></i>
+          </button>
+        </div>
+        <div class="control-family-name">Icon Button</div>
+        <div class="control-family-copy">Used for header actions, attachment, and lightweight feedback. Base is transparent-to-soft fill; hover strengthens contrast without adding heavy depth.</div>
+      </div>
+
+      <div class="control-family-card">
+        <div class="control-demo-stage">
+          <button class="spec-pill-btn" type="button" tabindex="-1" aria-hidden="true">
+            <i data-lucide="panel-left"></i>
+            <span>Asset Library</span>
+          </button>
+        </div>
+        <div class="control-family-name">Glass Pill</div>
+        <div class="control-family-copy">Used for capability pickers like asset and skill entry points. Keep the shell translucent, neutral, and slightly lifted only on hover.</div>
+      </div>
+
+      <div class="control-family-card">
+        <div class="control-demo-stage">
+          <div class="spec-send-shell is-hover" aria-hidden="true">
+            <button class="spec-send-btn" type="button" tabindex="-1">
+              <i data-lucide="arrow-up"></i>
+            </button>
+          </div>
+        </div>
+        <div class="control-family-name">Primary Send</div>
+        <div class="control-family-copy">The main composer commit action. Idle stays dark and compact; hover can invert into the brand green state, but the footprint and geometry must stay identical.</div>
+      </div>
+
+      <div class="control-family-card">
+        <div class="control-demo-stage">
+          <div class="spec-suggestion-card" aria-hidden="true">
+            <div class="spec-suggestion-thumb"></div>
+            <div class="spec-suggestion-copy">
+              <strong>Pain-point Flip Hook</strong>
+              <span>Lead with the “easy to smudge” claim, then resolve with proof.</span>
+            </div>
+            <span class="spec-suggestion-check"><i data-lucide="check"></i></span>
+          </div>
+        </div>
+        <div class="control-family-name">Suggestion Row</div>
+        <div class="control-family-copy">Decision trays use a quiet bordered row, not a floating card. Selection settles with grayscale confirmation and a slight dim, while non-chosen options fade harder.</div>
+      </div>
+
+      <div class="control-family-card">
+        <div class="control-demo-stage">
+          <div class="spec-queue" aria-hidden="true">
+            <span class="spec-status-indicator spec-status-indicator--tool"></span>
+            <div class="spec-queue-copy">
+              <span class="spec-queue-title">Creative Strategy</span>
+              <span class="spec-queue-meta"><span>0:12</span><span>Tool running</span></span>
+            </div>
+            <div class="spec-queue-right">
+              <span>2 / 5</span>
+              <i data-lucide="chevron-right"></i>
+            </div>
+          </div>
+        </div>
+        <div class="control-family-name">Queue / To-do Trigger</div>
+        <div class="control-family-copy">This shell stays narrow and informational. Status lives in the left indicator and the meta row; the container itself should not shout.</div>
+      </div>
+    </div>
+
+    <div class="ds-note">
+      Neutral white/black surfaces are the default across the agent feed. Brand color belongs to the primary send hover or media content itself, not to every control shell. Confirmation checks stay grayscale.
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Interaction State Ladder</div>
+    <div class="control-state-grid">
+      <div class="control-state-card">
+        <div class="control-state-label">Rest</div>
+        <div class="control-state-sample">
+          <span class="control-state-chip"></span>
+          <span class="control-state-text">Neutral surface, readable copy</span>
+        </div>
+        <div class="control-state-copy">Default state is flat and quiet: white surface, thin border, no semantic color.</div>
+      </div>
+
+      <div class="control-state-card">
+        <div class="control-state-label">Hover</div>
+        <div class="control-state-sample is-hover">
+          <span class="control-state-chip"></span>
+          <span class="control-state-text">Slight contrast increase</span>
+        </div>
+        <div class="control-state-copy">Hover only raises contrast and surface density. Avoid deep shadows or hue jumps for ordinary controls.</div>
+      </div>
+
+      <div class="control-state-card">
+        <div class="control-state-label">Pressed</div>
+        <div class="control-state-sample is-pressed">
+          <span class="control-state-chip"></span>
+          <span class="control-state-text">Compressed and tactile</span>
+        </div>
+        <div class="control-state-copy">Pressed feedback is mostly geometric: a tiny scale compression and a denser surface, not a new visual language.</div>
+      </div>
+
+      <div class="control-state-card">
+        <div class="control-state-label">Chosen</div>
+        <div class="control-state-sample is-chosen">
+          <span class="control-state-chip"></span>
+          <span class="control-state-text">Settled selection</span>
+          <span class="control-state-check"><i data-lucide="check"></i></span>
+        </div>
+        <div class="control-state-copy">After selection, keep the chosen row slightly dimmed instead of brighter. It should read “resolved”, not “still asking for attention”.</div>
+      </div>
+
+      <div class="control-state-card">
+        <div class="control-state-label">Inactive</div>
+        <div class="control-state-sample is-inactive">
+          <span class="control-state-chip"></span>
+          <span class="control-state-text">Non-chosen options fade first</span>
+        </div>
+        <div class="control-state-copy">When a decision is locked, unselected siblings lose emphasis by opacity and contrast, while layout and spacing remain unchanged.</div>
+      </div>
+
+      <div class="control-state-card">
+        <div class="control-state-label">Disabled</div>
+        <div class="control-state-sample is-disabled">
+          <span class="control-state-chip"></span>
+          <span class="control-state-text">No action available</span>
+          <span class="control-state-check"><i data-lucide="minus"></i></span>
+        </div>
+        <div class="control-state-copy">Disabled means unavailable, not loading. Use lighter grayscale, remove hover response, and keep motion out of the shell.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Status Signals</div>
+    <div class="status-signal-grid">
+      <div class="status-signal-card">
+        <div class="status-signal-head">
+          <span class="spec-status-indicator spec-status-indicator--thinking"></span>
+          <div class="status-signal-title">Thinking</div>
+        </div>
+        <p>Use the compact diamond language for reasoning. Motion stays inside the icon and should never animate the entire container.</p>
+      </div>
+
+      <div class="status-signal-card">
+        <div class="status-signal-head">
+          <span class="spec-status-indicator spec-status-indicator--tool"></span>
+          <div class="status-signal-title">Tool Running</div>
+        </div>
+        <p>Tool execution uses the thin ring spinner already present in the queue. Keep it grayscale so execution can coexist with any content type.</p>
+      </div>
+
+      <div class="status-signal-card">
+        <div class="status-signal-head">
+          <span class="spec-status-indicator spec-status-indicator--done"></span>
+          <div class="status-signal-title">Done</div>
+        </div>
+        <p>Completion is a dark ring, not a filled dot. It should read final and quiet, especially when stacked in a to-do list.</p>
+      </div>
+
+      <div class="status-signal-card">
+        <div class="status-signal-head">
+          <span class="spec-status-indicator spec-status-indicator--pending"></span>
+          <div class="status-signal-title">Pending</div>
+        </div>
+        <p>Pending is the lightest ring in the system. It marks future steps without pulling attention away from the current task.</p>
+      </div>
+
+      <div class="status-signal-card">
+        <div class="status-signal-head">
+          <span class="spec-feedback-btn"><i data-lucide="thumbs-up"></i></span>
+          <div class="status-signal-title">Acknowledged</div>
+        </div>
+        <p>Feedback and confirmation states settle into stronger neutral fill, not colorful badges. The signal is “recorded”, not “celebrated”.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Agent Component Mapping</div>
+    <div class="control-map-table-wrap">
+      <table class="control-map-table">
+        <thead>
+          <tr>
+            <th>Agent Part</th>
+            <th>Family</th>
+            <th>Core States</th>
+            <th>Status Signal</th>
+            <th>Rule</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Header actions</strong>Project switch, add, collapse, attachment</td>
+            <td>Icon Button</td>
+            <td>Rest / Hover / Pressed</td>
+            <td>None</td>
+            <td>Keep these flat and neutral so the header does not compete with the feed body.</td>
+          </tr>
+          <tr>
+            <td><strong>Feedback CTA</strong>Thumb up / thumb down after replies</td>
+            <td>Icon Button</td>
+            <td>Rest / Hover / Selected</td>
+            <td>Acknowledged</td>
+            <td>Place feedback after the suggestion tray. Selected state uses grayscale emphasis, not semantic green or red.</td>
+          </tr>
+          <tr>
+            <td><strong>Library entry pills</strong>Asset library, skill library</td>
+            <td>Glass Pill</td>
+            <td>Rest / Hover</td>
+            <td>None</td>
+            <td>Use translucent shells with restrained lift. These are utilities, not call-to-action buttons.</td>
+          </tr>
+          <tr>
+            <td><strong>Composer send</strong>Main message commit</td>
+            <td>Primary Send</td>
+            <td>Rest / Hover / Disabled</td>
+            <td>Reserved for commit only</td>
+            <td>Green inversion is allowed here because it marks the highest-priority action in the left panel.</td>
+          </tr>
+          <tr>
+            <td><strong>Suggestion trays</strong>Search, strategy, talent, editing decisions</td>
+            <td>Suggestion Row</td>
+            <td>Rest / Hover / Chosen / Inactive</td>
+            <td>Optional media preview</td>
+            <td>Rows should feel like ranked decisions. Use border and opacity changes instead of stacked card shadows.</td>
+          </tr>
+          <tr>
+            <td><strong>To-do / queue</strong>Collapsed progress header and expanded task rows</td>
+            <td>Queue / To-do Trigger</td>
+            <td>Collapsed / Open</td>
+            <td>Thinking / Tool / Done / Pending</td>
+            <td>Status belongs to the indicator and meta line. The shell stays thin, glassy, and secondary to the composer.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- ============================================================
+     SECTION 8: SHADOWS, RADIUS & CARDS
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Depth & Shape</div>
+  <div class="ds-section-desc">Five elevation tiers and six radius tokens form the spatial language. Shadows stay blue-cool and never warm. Cards combine border, shadow, and radius into named surface variants that map directly to chat feed and canvas contexts.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Shadow Elevation Scale</div>
+    <div class="shadow-grid">
+      <div class="shadow-cell">
+        <div class="shadow-block" data-level="0"></div>
+        <div class="shadow-label">shadow-0</div>
+        <div class="shadow-spec">none + 1px border<br>Flat inline elements</div>
+      </div>
+      <div class="shadow-cell">
+        <div class="shadow-block" data-level="1"></div>
+        <div class="shadow-label">shadow-1</div>
+        <div class="shadow-spec">1px 2px blur<br>Tool pills, chips</div>
+      </div>
+      <div class="shadow-cell">
+        <div class="shadow-block" data-level="2"></div>
+        <div class="shadow-label">shadow-2</div>
+        <div class="shadow-spec">2px 8px blur<br>Cards, input bars</div>
+      </div>
+      <div class="shadow-cell">
+        <div class="shadow-block" data-level="3"></div>
+        <div class="shadow-label">shadow-3</div>
+        <div class="shadow-spec">4px 16px blur<br>Panels, popovers</div>
+      </div>
+      <div class="shadow-cell">
+        <div class="shadow-block" data-level="4"></div>
+        <div class="shadow-label">shadow-4</div>
+        <div class="shadow-spec">12px 32px blur<br>Hero cards, overlays</div>
+      </div>
+    </div>
+    <div class="ds-note">
+      All shadows use <code>--ink-rgb</code> as the tint base, keeping them cool-toned in light mode. Never use warm or pure-black shadows. The <code>shadow-4</code> level adds a subtle <code>inset 0 1px 0 white</code> top highlight to lift cards off the page.
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Border Radius Tokens</div>
+    <div class="radius-row">
+      <div class="radius-cell">
+        <div class="radius-block" data-r="xs">4</div>
+        <div class="radius-label">xs</div>
+      </div>
+      <div class="radius-cell">
+        <div class="radius-block" data-r="sm">8</div>
+        <div class="radius-label">sm</div>
+      </div>
+      <div class="radius-cell">
+        <div class="radius-block" data-r="md">12</div>
+        <div class="radius-label">md</div>
+      </div>
+      <div class="radius-cell">
+        <div class="radius-block" data-r="lg">16</div>
+        <div class="radius-label">lg</div>
+      </div>
+      <div class="radius-cell">
+        <div class="radius-block" data-r="xl">20</div>
+        <div class="radius-label">xl</div>
+      </div>
+      <div class="radius-cell">
+        <div class="radius-block" data-r="pill">pill</div>
+        <div class="radius-label">pill</div>
+      </div>
+    </div>
+    <div class="ds-note">
+      <strong>Mapping:</strong> Status dots = <code>xs</code>. Tool rows / code blocks = <code>sm</code>. Buttons / input fields / chips = <code>md</code>. Chat bubbles / standard cards = <code>lg</code>. Modals / artifact previews / large panels = <code>xl</code>. Tags / action pills / badges = <code>pill</code>.
+    </div>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Card Variants</div>
+    <div class="card-variant-grid">
+      <div class="card-v card-flush">
+        <div class="card-v-name">Flush</div>
+        <div class="card-v-desc">No border, no shadow. Background tint only. For inset areas and tool payloads.</div>
+      </div>
+      <div class="card-v card-subtle">
+        <div class="card-v-name">Subtle</div>
+        <div class="card-v-desc">1px border + shadow-1. Quiet lift for tool pills, nested cards, and disclosure panels.</div>
+      </div>
+      <div class="card-v card-default">
+        <div class="card-v-name">Default</div>
+        <div class="card-v-desc">Border + shadow-2. Standard content cards, user bubbles, input bars.</div>
+      </div>
+      <div class="card-v card-elevated">
+        <div class="card-v-name">Elevated</div>
+        <div class="card-v-desc">No border, shadow-3. Floating panels, artifact preview, popovers.</div>
+      </div>
+    </div>
+    <div style="margin-top:16px">
+      <div class="card-v card-interactive" style="max-width:320px;padding:16px 20px;display:flex;align-items:center;gap:12px">
+        <div style="width:36px;height:36px;border-radius:var(--radius-md);background:var(--surface-soft);display:flex;align-items:center;justify-content:center"><i data-lucide="image" style="width:16px;height:16px;color:var(--g500)"></i></div>
+        <div>
+          <div class="card-v-name" style="margin-bottom:2px">Interactive</div>
+          <div class="card-v-desc">Hover for shadow-3 lift. For clickable rows and selectable items.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ============================================================
+     SECTION 9: SPACING & CHAT FEED LAYOUT
+     ============================================================ -->
+<div class="ds-section">
+  <div class="ds-section-title">Spacing & Feed</div>
+  <div class="ds-section-desc">The spacing scale governs all vertical rhythm and internal padding. The chat feed applies it as a strict cadence: tight within tool groups, generous between senders, and deliberate around input affordances.</div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Spacing Scale</div>
+    <div class="space-scale">
+      <div class="space-bar"><div class="space-bar-fill" style="height:4px"></div><div class="space-bar-val">4</div><div class="space-bar-tok">sp-1</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:8px"></div><div class="space-bar-val">8</div><div class="space-bar-tok">sp-2</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:12px"></div><div class="space-bar-val">12</div><div class="space-bar-tok">sp-3</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:16px"></div><div class="space-bar-val">16</div><div class="space-bar-tok">sp-4</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:20px"></div><div class="space-bar-val">20</div><div class="space-bar-tok">sp-5</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:24px"></div><div class="space-bar-val">24</div><div class="space-bar-tok">sp-6</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:28px"></div><div class="space-bar-val">28</div><div class="space-bar-tok">sp-7</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:32px"></div><div class="space-bar-val">32</div><div class="space-bar-tok">sp-8</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:40px"></div><div class="space-bar-val">40</div><div class="space-bar-tok">sp-9</div></div>
+      <div class="space-bar"><div class="space-bar-fill" style="height:48px"></div><div class="space-bar-val">48</div><div class="space-bar-tok">sp-10</div></div>
+    </div>
+    <table class="scale-table" style="margin-top:20px">
+      <thead>
+        <tr>
+          <th style="width:100px">Token</th>
+          <th style="width:70px">Value</th>
+          <th>Chat Feed Usage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="token-cell">space-1</td><td class="spec-cell">4px</td><td>Tool cascade row gap, minimum separator</td></tr>
+        <tr><td class="token-cell">space-2</td><td class="spec-cell">8px</td><td>Chip gaps, quick-action pill gaps, same-sender consecutive messages</td></tr>
+        <tr><td class="token-cell">space-3</td><td class="spec-cell">12px</td><td>User bubble padding (vertical), compact card inner padding</td></tr>
+        <tr><td class="token-cell">space-4</td><td class="spec-cell">16px</td><td>Tool group to response text, user bubble padding (horizontal), standard inner gap</td></tr>
+        <tr><td class="token-cell">space-5</td><td class="spec-cell">20px</td><td>Chat body padding, input area horizontal padding</td></tr>
+        <tr><td class="token-cell">space-6</td><td class="spec-cell">24px</td><td>Sender-change gap (user-to-agent or agent-to-user turn boundary)</td></tr>
+        <tr><td class="token-cell">space-8</td><td class="spec-cell">32px</td><td>Section-level gap inside panels, date separator vertical space</td></tr>
+        <tr><td class="token-cell">space-10</td><td class="spec-cell">48px</td><td>Page-level section padding, design system section tops</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="ds-card">
+    <div class="ds-card-title">Feed Rhythm Rules</div>
+    <div class="ds-grid-2">
+      <div class="spec-list">
+        <div class="spec-item">
+          <div>
+            <strong>Sender-change gap: 24px</strong>
+            <p>Every time authorship switches (user to agent, agent to user), insert a <span class="mono">space-6</span> gap. This is the primary visual separator in the conversation.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Tool cascade row gap: 4px</strong>
+            <p>Tool pills within the same group stack with only <span class="mono">space-1</span> between them. This keeps the cascade visually tight and scannable.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Tool-to-response gap: 16px</strong>
+            <p>Between a tool cascade block and the agent's text response that follows, use <span class="mono">space-4</span>. Enough separation to be distinct, not enough to break the reading flow.</p>
+          </div>
+        </div>
+      </div>
+      <div class="spec-list">
+        <div class="spec-item">
+          <div>
+            <strong>User bubble: radius-lg, clipped corner</strong>
+            <p>Right-aligned, <span class="mono">12px 16px</span> padding. Bottom-right corner uses <span class="mono">radius-xs</span> to mark authorship. Shadow-1 only, not elevated.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Agent text: no wrapper card</strong>
+            <p>Agent responses render as plain body text (14px / 1.65 line-height) without a surrounding card. The text itself is the surface, keeping the feed light.</p>
+          </div>
+        </div>
+        <div class="spec-item">
+          <div>
+            <strong>Input bar: shadow-2, focus to shadow-3</strong>
+            <p>The input starts at subtle elevation and lifts on focus. Radius <span class="mono">lg</span>, padding <span class="mono">12px 16px</span>. Send button uses <span class="mono">ink</span> background.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+  lucide.createIcons();
+
+  (() => {
+    const GS = 15;
+    const PX = 4;
+    const SP = 1.5;
+    const ST = PX + SP;
+    const CS = 144;
+    const H = CS / 2;
+    const OFF = H - (GS * ST - SP) / 2;
+
+    const MAP = [
+      [0,0,0,0,0,0,0,2,0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,4,6,4,0,0,0,0,0,0],
+      [0,0,0,0,0,3,6,8,6,3,0,0,0,0,0],
+      [0,0,0,0,2,6,8,9,8,6,2,0,0,0,0],
+      [0,0,0,2,6,8,9,9,9,8,6,2,0,0,0],
+      [0,0,3,6,8,9,9,9,9,9,8,6,3,0,0],
+      [0,4,6,8,9,9,9,9,9,9,9,8,6,4,0],
+      [2,6,8,9,9,9,9,9,9,9,9,9,8,6,2],
+      [0,4,6,8,9,9,9,9,9,9,9,8,6,4,0],
+      [0,0,3,6,8,9,9,9,9,9,8,6,3,0,0],
+      [0,0,0,2,6,8,9,9,9,8,6,2,0,0,0],
+      [0,0,0,0,2,6,8,9,8,6,2,0,0,0,0],
+      [0,0,0,0,0,3,6,8,6,3,0,0,0,0,0],
+      [0,0,0,0,0,0,4,6,4,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0,2,0,0,0,0,0,0,0]
+    ];
+
+    const NEON = [
+      { r: 12, g: 240, b: 107 },
+      { r: 92, g: 111, b: 255 },
+      { r: 255, g: 101, b: 212 },
+      { r: 255, g: 207, b: 15 }
+    ];
+
+    function createEntryPixels() {
+      const pixels = [];
+      for (let r = 0; r < GS; r += 1) {
+        for (let c = 0; c < GS; c += 1) {
+          if (MAP[r][c] > 0) {
+            pixels.push({
+              base: MAP[r][c],
+              x: OFF + c * ST,
+              y: OFF + r * ST,
+              cx: OFF + c * ST + PX / 2,
+              cy: OFF + r * ST + PX / 2,
+              dist: Math.hypot((OFF + c * ST + PX / 2) - H, (OFF + r * ST + PX / 2) - H),
+              b: 0,
+              glow: 0,
+              ci: (r * 7 + c * 11) % 4,
+              gT: Math.random() * 5,
+              gD: 0,
+              ox: 0,
+              oy: 0
+            });
+          }
+        }
+      }
+      return pixels;
+    }
+
+    function renderEntryFrame(ctx, pixels, t, dt, state) {
+      const hover = state.hover || 0;
+      const mx = state.mx ?? H;
+      const my = state.my ?? H;
+      const click = state.click || 0;
+
+      ctx.clearRect(0, 0, CS, CS);
+      ctx.fillStyle = 'rgba(255,255,255,0.02)';
+      for (let r = 0; r < GS; r += 1) {
+        for (let c = 0; c < GS; c += 1) {
+          ctx.fillRect(OFF + c * ST, OFF + r * ST, PX, PX);
+        }
+      }
+
+      for (const p of pixels) {
+        const wave = (Math.sin(p.dist * 0.06 - t * 0.8) + 1) * 0.5;
+        p.gT -= dt;
+        if (p.gT <= 0) {
+          p.gD = 0.1 + Math.random() * 0.3;
+          p.gT = 3 + Math.random() * 5;
+        }
+
+        let sparkle = 0;
+        if (p.gD > 0) {
+          p.gD -= dt;
+          sparkle = Math.random() * 0.8;
+        }
+
+        const baseIntensity = (p.base / 9) * 0.7 + 0.3;
+        const idleBrightness = baseIntensity * (0.6 + wave * 0.3 + sparkle);
+
+        let hoverBrightness = 0;
+        let targetGlow = 0;
+        let pxShift = 0;
+        let pyShift = 0;
+        if (hover > 0.01) {
+          const dx = p.cx - mx;
+          const dy = p.cy - my;
+          const distance = Math.hypot(dx, dy);
+          const proximity = Math.max(0, 1 - distance / 45);
+          const squared = proximity * proximity;
+          hoverBrightness = squared * 1.2;
+          targetGlow = squared;
+          if (distance > 1) {
+            const force = squared * 4.5;
+            pxShift = (-dx / distance) * force;
+            pyShift = (-dy / distance) * force;
+          }
+        }
+
+        const waveRadius = (1 - click) * 75;
+        const clickBrightness = click > 0 ? Math.max(0, 1 - Math.abs(p.dist - waveRadius) / 18) * click * 1.5 : 0;
+        const targetBrightness = Math.min(1.2, idleBrightness * (1 - hover * 0.3) + hoverBrightness * hover + clickBrightness);
+
+        p.b += (targetBrightness - p.b) * 0.15;
+        p.glow += (targetGlow * hover - p.glow) * 0.1;
+        p.ox += (pxShift * hover - p.ox) * 0.12;
+        p.oy += (pyShift * hover - p.oy) * 0.12;
+
+        if (p.b < 0.05) continue;
+
+        const x = Math.round(p.x + p.ox);
+        const y = Math.round(p.y + p.oy);
+        const brightness = Math.min(255, p.b * 255);
+        const neon = NEON[p.ci];
+        const fr = Math.round(brightness * (1 - p.glow) + neon.r * p.glow);
+        const fg = Math.round(brightness * (1 - p.glow) + neon.g * p.glow);
+        const fb = Math.round(brightness * (1 - p.glow) + neon.b * p.glow);
+
+        ctx.globalAlpha = Math.min(1, p.b);
+        ctx.fillStyle = `rgb(${fr},${fg},${fb})`;
+        ctx.fillRect(x, y, PX, PX);
+
+        if (p.glow > 0.1 || p.b > 0.8) {
+          ctx.globalAlpha = Math.max(p.glow * 0.4, (p.b - 0.7) * 0.2);
+          ctx.fillRect(x - 1.5, y - 1.5, PX + 3, PX + 3);
+        }
+      }
+
+      ctx.globalAlpha = 1;
+    }
+
+    function renderEntrySnapshot(canvasId, config) {
+      const canvas = document.getElementById(canvasId);
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      const pixels = createEntryPixels();
+      const t = config.t ?? 1.8;
+      renderEntryFrame(ctx, pixels, t, 1 / 60, {
+        hover: config.hover || 0,
+        mx: config.mx ?? H,
+        my: config.my ?? H,
+        click: config.click || 0
+      });
+    }
+
+    const entryCanvas = document.getElementById('entryCv');
+    const burstCanvas = document.getElementById('burstCv');
+    const entryButton = document.getElementById('entryBtn');
+
+    const entryPixels = entryCanvas ? createEntryPixels() : null;
+    const entryCtx = entryCanvas ? entryCanvas.getContext('2d') : null;
+    const burstCtx = burstCanvas ? burstCanvas.getContext('2d') : null;
+    const bursts = [];
+    let hoverTarget = 0;
+    let hoverAmount = 0;
+    let mouseX = H;
+    let mouseY = H;
+    let clickBurst = 0;
+
+    if (entryButton) {
+      entryButton.addEventListener('mouseenter', () => {
+        hoverTarget = 1;
+      });
+
+      entryButton.addEventListener('mouseleave', () => {
+        hoverTarget = 0;
+      });
+
+      entryButton.addEventListener('mousemove', (event) => {
+        const rect = entryButton.getBoundingClientRect();
+        mouseX = ((event.clientX - rect.left) / rect.width) * CS;
+        mouseY = ((event.clientY - rect.top) / rect.height) * CS;
+      });
+
+      entryButton.addEventListener('click', () => {
+        clickBurst = 1;
+        for (let i = 0; i < 30; i += 1) {
+          const angle = Math.random() * Math.PI * 2;
+          const speed = 1 + Math.random() * 4;
+          bursts.push({
+            x: 140 + Math.cos(angle) * (14 + Math.random() * 8),
+            y: 140 + Math.sin(angle) * (14 + Math.random() * 8),
+            vx: Math.cos(angle) * speed,
+            vy: Math.sin(angle) * speed,
+            life: 1,
+            decay: 0.015 + Math.random() * 0.02,
+            size: 1.5 + Math.random() * 3,
+            color: NEON[Math.floor(Math.random() * NEON.length)]
+          });
+        }
+      });
+    }
+
+    const MINI = [
+      [0,0,0,3,0,0,0],
+      [0,0,4,7,4,0,0],
+      [0,4,7,9,7,4,0],
+      [3,7,9,9,9,7,3],
+      [0,4,7,9,7,4,0],
+      [0,0,4,7,4,0,0],
+      [0,0,0,3,0,0,0]
+    ];
+    const MG = 7;
+    const MPX = 4;
+    const MSP = 2;
+    const MST = MPX + MSP;
+    const MCS = 42;
+    const MH = MCS / 2;
+    const MOFF = MH - (MG * MST - MSP) / 2;
+
+    function buildMiniPixels() {
+      const pixels = [];
+      for (let r = 0; r < MG; r += 1) {
+        for (let c = 0; c < MG; c += 1) {
+          if (MINI[r][c] > 0) {
+            pixels.push({
+              base: MINI[r][c],
+              x: MOFF + c * MST,
+              y: MOFF + r * MST,
+              dist: Math.hypot((MOFF + c * MST + MPX / 2) - MH, (MOFF + r * MST + MPX / 2) - MH),
+              b: 0,
+              shimT: Math.random() * 4,
+              shimD: 0
+            });
+          }
+        }
+      }
+      return pixels;
+    }
+
+    function renderMini(canvasId, pixels, t, dt, animated) {
+      const canvas = document.getElementById(canvasId);
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      ctx.clearRect(0, 0, MCS, MCS);
+
+      for (const p of pixels) {
+        const norm = p.base / 9;
+        let brightness;
+        if (animated) {
+          const wave = (Math.sin(p.dist * 0.08 - t * 0.6) + 1) * 0.5;
+          p.shimT -= dt;
+          if (p.shimT <= 0) {
+            p.shimD = 0.15 + Math.random() * 0.2;
+            p.shimT = 2 + Math.random() * 4;
+          }
+          let shimmer = 0;
+          if (p.shimD > 0) {
+            p.shimD -= dt;
+            shimmer = Math.random() * 0.5;
+          }
+          brightness = norm * (0.5 + wave * 0.35 + shimmer);
+        } else {
+          brightness = norm * 0.55;
+        }
+
+        p.b += (brightness - p.b) * 0.12;
+        if (p.b < 0.05) continue;
+        const channel = Math.round(Math.max(0, 255 - p.b * 255));
+        ctx.globalAlpha = Math.min(1, p.b * 1.2);
+        ctx.fillStyle = `rgb(${channel},${channel},${channel})`;
+        ctx.fillRect(Math.round(p.x), Math.round(p.y), MPX, MPX);
+      }
+
+      ctx.globalAlpha = 1;
+    }
+
+    const thinkInlinePixels = buildMiniPixels();
+    const thinkDonePixels = buildMiniPixels();
+
+    const thinkingText = document.getElementById('thinkText');
+    if (thinkingText) {
+      const chars = 'Thinking...';
+      let html = '';
+      for (let i = 0; i < chars.length; i += 1) {
+        const delay = i * 80 + (i >= 8 ? (i - 8) * 40 : 0);
+        html += `<span class="ch" style="animation-delay:${delay}ms">${chars[i]}</span>`;
+      }
+      thinkingText.innerHTML = html;
+    }
+
+    const thoughtToggle = document.getElementById('thoughtToggle');
+    const thoughtPanel = document.getElementById('thoughtPanel');
+    if (thoughtToggle && thoughtPanel) {
+      thoughtToggle.addEventListener('click', () => {
+        const expanded = thoughtToggle.classList.toggle('expanded');
+        thoughtToggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+        thoughtPanel.classList.toggle('open', expanded);
+      });
+    }
+
+
+    renderEntrySnapshot('entryIdleCv', { hover: 0, click: 0, t: 1.2 });
+    renderEntrySnapshot('entryHoverCv', { hover: 0.72, mx: H - 18, my: H - 18, click: 0.12, t: 2.1 });
+    renderEntrySnapshot('entryPressCv', { hover: 0.88, mx: H + 10, my: H - 6, click: 0.34, t: 2.6 });
+
+    let t = 0;
+    function frame() {
+      t += 1 / 60;
+
+      if (entryCtx && entryPixels) {
+        hoverAmount += (hoverTarget - hoverAmount) * 0.08;
+        if (clickBurst > 0) {
+          clickBurst = Math.max(0, clickBurst - 0.035);
+        }
+        renderEntryFrame(entryCtx, entryPixels, t, 1 / 60, {
+          hover: hoverAmount,
+          mx: mouseX,
+          my: mouseY,
+          click: clickBurst
+        });
+      }
+
+      if (burstCtx) {
+        burstCtx.clearRect(0, 0, 280, 280);
+        for (let i = bursts.length - 1; i >= 0; i -= 1) {
+          const particle = bursts[i];
+          particle.x += particle.vx;
+          particle.y += particle.vy;
+          particle.vx *= 0.95;
+          particle.vy *= 0.95;
+          particle.life -= particle.decay;
+
+          if (particle.life <= 0) {
+            bursts.splice(i, 1);
+            continue;
+          }
+
+          burstCtx.globalAlpha = particle.life * 0.6;
+          burstCtx.fillStyle = `rgb(${particle.color.r},${particle.color.g},${particle.color.b})`;
+          const size = Math.round(particle.size * particle.life);
+          burstCtx.fillRect(Math.round(particle.x), Math.round(particle.y), size, size);
+        }
+        burstCtx.globalAlpha = 1;
+      }
+
+      renderMini('thinkInlineCv', thinkInlinePixels, t, 1 / 60, true);
+      renderMini('thinkDoneCv', thinkDonePixels, t, 1 / 60, false);
+      window.requestAnimationFrame(frame);
+    }
+
+    frame();
+  })();
+</script>
+</body>
+</html>

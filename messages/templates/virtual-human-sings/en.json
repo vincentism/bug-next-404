@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Virtual Human Sings – AI Singing Video Generator with Lip Sync | OpenCreator",
+    "description": "Create AI singing videos with realistic lip sync. Transform any portrait into a virtual singer performing in a professional recording studio—perfect for music content creators and social media.",
+    "keywords": [
+      "virtual human singing",
+      "ai singing video generator",
+      "lip sync video maker",
+      "ai singer generator",
+      "virtual singer creator",
+      "ai music video maker",
+      "digital human singing",
+      "ai lip sync generator",
+      "virtual performer video",
+      "ai avatar singing",
+      "music video generator",
+      "singing video creator"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#virtual_human", "#music", "#lip_sync"],
+    "title": "Virtual Human Sings",
+    "description": "Create AI singing videos with realistic lip sync. Upload a portrait photo and audio clips—the AI transforms your image into a virtual singer performing in a professional recording studio, with perfectly synchronized lip movements. Perfect for music creators who want engaging video content without filming.",
+    "inputPlaceholder": "Upload portrait and audio files",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload portrait photo and describe the scene",
+        "description": "Provide a portrait image and describe how you want the virtual singer to appear—like wearing a hat, headphones, standing before a microphone in a recording studio with soft lighting."
+      },
+      {
+        "title": "AI generates recording studio scenes",
+        "description": "Nano Banana Pro creates multiple professional recording studio scenes with your character, maintaining identity consistency while adding cinematic atmosphere and realistic lighting."
+      },
+      {
+        "title": "Upload audio segments for lip sync",
+        "description": "Provide 3 audio clips of the song. Each clip will be paired with a different camera angle of your virtual singer for visual variety in the final video."
+      },
+      {
+        "title": "Generate lip-synced singing videos",
+        "description": "Fal Infinitalk creates realistic lip sync videos for each scene, then the built-in video editor combines them into a complete music video with multiple camera angles."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for music creators and content producers",
+    "subtitle": "From independent musicians to social media creators, see who makes singing videos with AI.",
+    "audiences": [
+      {
+        "label": "Independent musicians",
+        "description": "Create professional music video content for your songs without expensive video production, using your own image or a virtual persona."
+      },
+      {
+        "label": "Social media content creators",
+        "description": "Produce engaging singing and lip sync videos for TikTok, Instagram Reels, and YouTube Shorts that stand out with studio-quality visuals."
+      },
+      {
+        "label": "Virtual influencer creators",
+        "description": "Build and animate virtual personas that can perform music content, expanding your creative possibilities beyond static images."
+      },
+      {
+        "label": "Music marketers",
+        "description": "Generate promotional singing videos for artist campaigns, cover songs, or brand jingles with consistent virtual performer representations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Virtual Human Sings workflow?",
+        "answer": "This AI-powered workflow creates realistic singing videos with lip sync. It transforms your portrait into a virtual singer in a recording studio, syncs lip movements to your audio, and combines multiple camera angles into a complete music video."
+      },
+      {
+        "question": "What AI models power this workflow?",
+        "answer": "The workflow uses Nano Banana Pro for generating consistent character images in different poses, and Fal Infinitalk for realistic audio-to-video lip sync generation. A built-in video editor assembles the final multi-angle video."
+      },
+      {
+        "question": "What inputs do I need to provide?",
+        "answer": "You need a portrait photo of the person (or character) you want as the singer, and 3 audio clips of the song segments. The AI handles scene generation and lip sync automatically."
+      },
+      {
+        "question": "How realistic is the lip sync?",
+        "answer": "Fal Infinitalk produces highly realistic lip sync that matches the audio timing and phonetics. The result looks natural with proper mouth movements synchronized to the singing."
+      },
+      {
+        "question": "Can I use any portrait photo?",
+        "answer": "Yes. The workflow works with any clear portrait photo—real people, illustrated characters, or AI-generated faces. The AI maintains identity consistency across all generated scenes."
+      },
+      {
+        "question": "What does the final video look like?",
+        "answer": "The output is a professional-looking music video featuring your virtual singer in a recording studio setting, with multiple camera angles (front view, side angles) edited together with smooth transitions."
+      },
+      {
+        "question": "Can I customize the recording studio scene?",
+        "answer": "Yes. You can describe the desired scene elements—lighting style, accessories like hats or headphones, microphone setup, and overall atmosphere to match your creative vision."
+      },
+      {
+        "question": "How does pricing work for this workflow?",
+        "answer": "Credits are consumed based on the AI models used. The workflow combines Nano Banana Pro (50% discount) for image generation and Fal Infinitalk for lip sync video creation."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Virtual Human Sings – AI Singing Video Generator",
+      "description": "Create AI singing videos with realistic lip sync using portrait photos and audio."
+    },
+    "softwareApplication": {
+      "name": "Virtual Human Sings AI Generator",
+      "description": "AI-powered singing video creator for generating virtual performer videos with realistic lip sync from portraits and audio."
+    },
+    "faqPage": {
+      "name": "Virtual Human Sings – FAQ"
+    }
+  }
+}

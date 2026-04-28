@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "JSON to Video – AI JSON to Video Generator | OpenCreator",
+    "description": "Turn structured JSON data into finished videos with OpenCreator's JSON to Video workflow. Convert timelines, scenes, and captions into dynamic, data-driven visuals.",
+    "keywords": [
+      "json to video",
+      "data driven video generator",
+      "programmatic video creation",
+      "structured data to video",
+      "automated explainer videos",
+      "how to generate videos from json with ai",
+      "ai tool for data to video automation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Gen",
+    "tags": ["#json_to_video", "#automation", "#programmatic"],
+    "title": "JSON to Video",
+    "description": "Convert structured JSON data—timelines, scenes, captions, or events—into finished videos. Use AI to interpret fields like text, timing, and media references to auto-assemble explainer videos, tutorials, or programmatic creatives.",
+    "inputPlaceholder": "Paste your JSON structure defining scenes, text, and assets",
+    "ctaText": "Run for Free!"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Provide a JSON schema for your video",
+        "description": "Define scenes, durations, copy blocks, media URLs, and any layout or style hints in a structured JSON format that matches your use case."
+      },
+      {
+        "title": "Define visual and motion defaults",
+        "description": "Set global preferences for typography, transitions, color, and pacing so generated videos follow a consistent look and feel."
+      },
+      {
+        "title": "Generate AI-assembled videos from JSON",
+        "description": "Run the JSON to Video workflow so AI reads your data structure and builds a timeline with scenes, overlays, and media placements."
+      },
+      {
+        "title": "Review, tweak schema, and re-generate",
+        "description": "Adjust fields in your JSON—like timing, copy, or assets—and quickly re-run the workflow to create updated versions at scale."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "For teams automating video at scale",
+    "subtitle": "From dev tools to marketing engines, see who turns JSON into video.",
+    "audiences": [
+      {
+        "label": "Product and developer teams",
+        "description": "Turn structured events, logs, or configuration into explainer or monitoring videos driven by your own data schemas."
+      },
+      {
+        "label": "Programmatic and performance marketers",
+        "description": "Generate large sets of tailored video creatives from structured feeds, campaign metadata, or audience segments."
+      },
+      {
+        "label": "Education and training platforms",
+        "description": "Convert lesson metadata, module structures, or recap data into walk-through or summary videos."
+      },
+      {
+        "label": "Internal tooling and ops teams",
+        "description": "Build internal utilities that take workflow definitions or data snapshots and output videos for reviews or communication."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What does the JSON to Video AI workflow do?",
+        "answer": "This workflow takes structured JSON data—such as scenes, timings, captions, and media references—and turns it into finished videos. It is designed as a JSON to video generator for data-driven explainers, tutorials, and programmatic creatives."
+      },
+      {
+        "question": "What should my JSON structure include for best results?",
+        "answer": "You should define scenes with fields for duration, text or captions, media URLs, and any layout or style hints that matter to your use case. A clear, well-documented schema makes it easier for the workflow to assemble timelines correctly."
+      },
+      {
+        "question": "Who typically uses a JSON to Video workflow?",
+        "answer": "It is especially useful for product and developer teams, programmatic and performance marketers, education platforms, and internal tooling teams who want to generate videos automatically from structured data feeds or definitions."
+      },
+      {
+        "question": "Can I iterate quickly by editing JSON instead of editing video?",
+        "answer": "Yes. A core benefit of this workflow is that you can adjust copy, timing, or referenced media directly in JSON, then re-run the workflow to generate updated videos—without going through a manual editing timeline each time."
+      },
+      {
+        "question": "What types of videos are a good fit for JSON to Video?",
+        "answer": "Common examples include explainers based on event streams, product or feature walkthroughs defined as steps, programmatic campaign creatives using feed data, and recap videos generated from structured logs or lesson metadata."
+      },
+      {
+        "question": "How do credits and costs work for JSON to Video generations?",
+        "answer": "Each generation consumes credits depending on video length and model settings. It is usually best to prototype on shorter timelines or smaller datasets, then scale up once you are happy with your JSON schema and output format."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "JSON to Video – AI JSON to Video Generator",
+      "description": "Convert structured JSON definitions into dynamic, data-driven videos for explainers, tutorials, and automation."
+    },
+    "softwareApplication": {
+      "name": "AI JSON to Video Generator",
+      "description": "AI workflow that assembles videos from structured JSON data, helping teams automate video creation at scale."
+    },
+    "faqPage": { "name": "JSON to Video – FAQ" },
+    "videoObject": {
+      "name": "JSON to Video – AI JSON to Video Generator",
+      "description": "Convert structured JSON definitions into dynamic, data-driven videos for explainers, tutorials, and automation."
+    }
+  }
+}

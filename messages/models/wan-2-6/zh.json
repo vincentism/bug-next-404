@@ -1,0 +1,215 @@
+{
+  "model": {
+    "meta": {
+      "title": "Wan 2.6 AI 视频生成器 | 阿里巴巴 | OpenCreator",
+      "description": "使用阿里巴巴的 Wan 2.6 创建精彩视频。支持最长 15 秒多镜头视频，原生音视频同步、口型同步和角色一致性。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Wan 2.6",
+      "tagline": "多镜头视频与音频同步",
+      "description": "Wan 2.6 是阿里巴巴最新的视频生成模型，具有参考视频生成、多镜头叙事和原生音视频同步功能。上传包含外观和声音的角色参考，生成具有克隆级一致性的新场景。最长 15 秒视频。",
+      "badge": "新品",
+      "ctaText": "免费试用 Wan 2.6",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "duration": "最长15秒",
+        "audioSync": "音频同步",
+        "multiShot": "多镜头"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "了解 Wan 2.6 成为阿里巴巴最先进视频模型的原因",
+      "items": {
+        "multiShot": {
+          "title": "多镜头叙事",
+          "description": "生成具有多个摄像机角度的完整叙事序列。模型自动规划镜头转换，同时保持角色、环境和光线的一致性。"
+        },
+        "audioSync": {
+          "title": "原生音频同步",
+          "description": "角色说话时具有准确的嘴型和时机。逐帧生成与音轨匹配的视觉效果，实现精确的口型同步。"
+        },
+        "consistency": {
+          "title": "克隆级一致性",
+          "description": "参考主体在各镜头中保持完全相同的外观 - 面部特征、服装、身体比例和独特特征几乎完全一致。"
+        },
+        "duration": {
+          "title": "延长时长",
+          "description": "单次生成最长 15 秒视频 - 足以完成完整的叙事弧线、产品展示和社交媒体内容。"
+        },
+        "referenceToVideo": {
+          "title": "参考视频生成",
+          "description": "上传包含外观和声音的角色参考视频，然后使用文本提示词生成由该角色出演的新场景，保持视觉和音频的一致性。"
+        },
+        "resolution": {
+          "title": "高分辨率输出",
+          "description": "生成 480p 到 1080p 分辨率、24fps 帧率的视频，适合社交媒体和专业制作。"
+        },
+        "dualSubject": {
+          "title": "双主体互动",
+          "description": "支持 1-3 个参考视频，可实现单主体生成或同一场景中复杂的双主体互动。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Wan 2.6 创建的真实案例和使用场景",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "social": {
+          "title": "社交媒体内容",
+          "description": "TikTok 和 Reels",
+          "useCase": "为 TikTok、Instagram Reels 和 YouTube Shorts 创建吸引眼球的短视频。"
+        },
+        "marketing": {
+          "title": "营销视频",
+          "description": "品牌广告",
+          "useCase": "制作带有旁白、对话和产品展示的专业营销视频。"
+        },
+        "ecommerce": {
+          "title": "电商展示",
+          "description": "产品视频",
+          "useCase": "生成从开箱到使用的产品视频，配有同步的音频描述。"
+        },
+        "storytelling": {
+          "title": "多镜头故事",
+          "description": "叙事内容",
+          "useCase": "使用多个摄像机角度讲述有开头、中间和结尾的完整故事。"
+        },
+        "dialogue": {
+          "title": "角色对话",
+          "description": "剧本表演",
+          "useCase": "创建采访、剧本表演和喜剧小品，支持多角色对话。"
+        },
+        "music": {
+          "title": "音乐表演",
+          "description": "唱歌和说唱",
+          "useCase": "生成带有唱歌、说唱和乐器表演的音乐视频，配有口型同步。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Wan 2.6 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "multiReference": "多参考图",
+          "audioGeneration": "音频生成"
+        },
+        "advanced": {
+          "title": "高级功能",
+          "multiShot": "多镜头叙事",
+          "lipSync": "口型同步",
+          "soundEffects": "音效",
+          "ambientSound": "环境音"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Wan 2.6 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "multiShot": "多镜头",
+        "maxDuration": "最大时长",
+        "audioSync": "音频同步",
+        "lipSync": "口型同步"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按使用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "积分根据时长和分辨率而异。订阅可享更多优惠。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "阿里巴巴最新多镜头视频模型",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Wan 2.6？由谁开发？",
+          "answer": "Wan 2.6 是阿里巴巴于 2025 年 12 月发布的最新 AI 视频生成模型。它具备多镜头叙事、原生音视频同步和克隆级角色一致性，适用于专业视频制作。"
+        },
+        "1": {
+          "question": "我可以用 Wan 2.6 创建什么类型的内容？",
+          "answer": "Wan 2.6 擅长创建社交媒体内容、营销视频、电商展示、多镜头故事、角色对话和音乐表演。它支持文生视频和图生视频两种生成方式。"
+        },
+        "2": {
+          "question": "Wan 2.6 视频可以有多长？",
+          "answer": "Wan 2.6 单次生成最长可达 15 秒。这足以完成完整的叙事弧线、产品展示和大多数社交媒体内容需求。"
+        },
+        "3": {
+          "question": "Wan 2.6 支持音频生成吗？",
+          "answer": "支持！Wan 2.6 具备原生音视频同步功能，包括带有准确口型同步的语音、音效和环境音。它支持英语、中文和其他主要语言。"
+        },
+        "4": {
+          "question": "我可以使用多少个参考视频？",
+          "answer": "Wan 2.6 支持 1-3 个参考视频。单个参考适用于一致的主体生成，多个参考可实现双主体互动或复杂的场景引导。"
+        },
+        "5": {
+          "question": "Wan 2.6 与其他 AI 视频模型相比如何？",
+          "answer": "Wan 2.6 以其多镜头叙事能力、原生音频同步和延长的 15 秒时长而脱颖而出。虽然 Veo 3 提供类似的音频功能，但 Wan 2.6 在角色一致性和多镜头叙事方面表现出色。"
+        },
+        "6": {
+          "question": "我可以在 OpenCreator 上免费试用 Wan 2.6 吗？",
+          "answer": "可以！新用户注册即可获得免费积分，可用于试用 Wan 2.6。你可以先体验多镜头叙事和音频生成功能，再决定是否订阅。"
+        },
+        "7": {
+          "question": "Wan 2.6 的多镜头（multishot）功能是什么？",
+          "answer": "Wan 2.6 的多镜头功能可以智能地将你的提示词拆分为多个连贯的镜头，在单个视频中自动编排。它会在所有镜头中保持角色、风格和叙事的一致性，无需手动剪辑。"
+        },
+        "8": {
+          "question": "Wan 2.6 在 OpenCreator 上怎么计费？",
+          "answer": "积分会根据时长和分辨率有所不同。本页定价区域会展示最新费用。订阅用户享有额外折扣，新用户可用注册赠送的积分免费试用。"
+        },
+        "9": {
+          "question": "Wan 2.6 支持哪些分辨率和比例？",
+          "answer": "Wan 2.6 支持最高 1080p 分辨率，常见比例包括 16:9、9:16、1:1。建议按平台选择：YouTube 用 16:9，抖音/Reels 用 9:16，Instagram 用 1:1。"
+        },
+        "10": {
+          "question": "Wan 2.6 和 Veo 3 怎么选？",
+          "answer": "两者都擅长音视频生成。如果你需要多镜头叙事、更长片段（最长 15 秒）和角色一致性，选 Wan 2.6；如果你更看重单镜头电影感和高级镜头控制，选 Veo 3。"
+        },
+        "11": {
+          "question": "Wan 2.6 和 Sora 2 怎么选？",
+          "answer": "Wan 2.6 提供原生音频同步和多镜头叙事；Sora 2 更强调物理真实感和视觉保真度。如果你需要对话和多角色场景，优先选 Wan 2.6；如果追求电影级单镜头，可以试试 Sora 2。"
+        },
+        "12": {
+          "question": "Wan 2.6 支持文生视频和图生视频吗？",
+          "answer": "支持。想要更稳定的角色/风格一致性建议用图生视频；想要更自由的创意探索可用文生视频。两种方式都支持多镜头生成和原生音频。"
+        }
+      }
+    }
+  }
+}

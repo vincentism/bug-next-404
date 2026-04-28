@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Automotive Advertising Storyboard Workflow – AI Car Ad Creator | OpenCreator",
+    "description": "Create professional automotive advertising storyboards with AI. Generate cinematic car ad sequences, dynamic shots, and brand-aligned visuals for vehicle marketing campaigns.",
+    "keywords": [
+      "automotive advertising",
+      "car ad storyboard",
+      "AI car commercial",
+      "vehicle marketing video",
+      "automotive video production",
+      "car advertisement creator",
+      "AI storyboard generator",
+      "automotive brand video"
+    ]
+  },
+  "hero": {
+    "featureTag": "Video Ads",
+    "tags": ["#automotive", "#advertising", "#storyboard"],
+    "title": "Automotive Advertising Storyboard",
+    "description": "Create professional automotive advertising storyboards with AI. Generate cinematic car ad sequences with dynamic camera angles, dramatic lighting, and brand-aligned visuals. Perfect for automotive brands, dealers, and agencies.",
+    "inputPlaceholder": "Upload your car image",
+    "ctaText": "Create Car Ad"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your vehicle image",
+        "description": "Provide a car photo or render. The AI analyzes the vehicle's design language, color scheme, and key features to plan the storyboard."
+      },
+      {
+        "title": "AI generates storyboard frames",
+        "description": "Nano Banana Pro creates multiple cinematic frames showcasing your vehicle from dynamic angles—hero shots, detail close-ups, motion sequences, and environmental scenes."
+      },
+      {
+        "title": "Add dramatic visual effects",
+        "description": "The workflow applies professional automotive photography techniques: dramatic lighting, reflections, speed blur effects, and atmospheric environments."
+      },
+      {
+        "title": "Export complete storyboard",
+        "description": "Download your ready-to-present storyboard with all frames sequenced for production reference or client presentation."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for automotive marketing professionals",
+    "subtitle": "From car brands to creative agencies, see who creates automotive ads with AI.",
+    "audiences": [
+      {
+        "label": "Automotive brands",
+        "description": "Visualize advertising concepts quickly before committing to expensive video production, testing multiple creative directions efficiently."
+      },
+      {
+        "label": "Car dealerships",
+        "description": "Create professional-looking promotional content for your inventory without hiring production crews or renting studios."
+      },
+      {
+        "label": "Creative agencies",
+        "description": "Present compelling storyboards to automotive clients faster, winning pitches with polished visual concepts."
+      },
+      {
+        "label": "Video production teams",
+        "description": "Pre-visualize complex automotive shoots, plan camera movements, and align creative vision before filming."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Automotive Advertising Storyboard workflow?",
+        "answer": "It's an AI-powered workflow that creates professional storyboards for automotive advertising, generating cinematic frames, camera angles, and visual sequences for car commercials and promotional videos."
+      },
+      {
+        "question": "What types of vehicles work best?",
+        "answer": "The workflow handles all vehicle types—sedans, SUVs, sports cars, trucks, motorcycles, and even concept vehicles. It adapts the visual style to match each vehicle's character."
+      },
+      {
+        "question": "Can I specify the advertising style?",
+        "answer": "Yes. You can guide the AI toward specific styles—luxury elegance, sporty dynamism, rugged adventure, or family-friendly warmth—and the storyboard will reflect that direction."
+      },
+      {
+        "question": "How many frames does the storyboard include?",
+        "answer": "A typical workflow generates 6-12 frames covering various angles and scenarios: hero shots, detail close-ups, motion sequences, and environmental contexts."
+      },
+      {
+        "question": "Can this be used for client presentations?",
+        "answer": "Absolutely. The output is presentation-ready, perfect for pitching concepts to automotive clients or getting internal stakeholder alignment before production."
+      },
+      {
+        "question": "Does it generate actual video?",
+        "answer": "The workflow focuses on storyboard frames. However, you can use these frames as input for AI video generation to create motion content from the storyboard."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Automotive Advertising Storyboard Workflow",
+      "description": "AI-powered storyboard generator for automotive advertising and car commercials."
+    },
+    "softwareApplication": {
+      "name": "Automotive Ad Storyboard Generator",
+      "description": "Create professional automotive advertising storyboards with AI-generated cinematic frames."
+    },
+    "faqPage": {
+      "name": "Automotive Advertising Storyboard – FAQ"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 1.6 AI 视频生成器 | 多参考图 & 元素模式 | OpenCreator",
+      "description": "使用快手 Kling 1.6 创建精彩视频。支持最多4张参考图的多图模式、运动笔刷控制和特效。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "Kling 1.6",
+      "tagline": "多参考图的力量",
+      "description": "快手先进的视频生成模型，支持多图参考。Kling 1.6 提供高品质视频，支持最多4张参考图、运动笔刷控制和特效，助力创意叙事。",
+      "badge": "元素模式",
+      "ctaText": "免费试用 Kling 1.6",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "multiReference": "4张参考图",
+        "firstLastFrame": "首尾帧控制",
+        "motionBrush": "运动笔刷",
+        "specialFx": "特效"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 Kling 1.6 在创意视频生成方面的强大能力",
+      "items": {
+        "multiReference": {
+          "title": "多图参考",
+          "description": "在元素模式下使用最多4张参考图。将多个主体、角色或物体组合到单个视频中，保持外观一致。"
+        },
+        "firstLastFrame": {
+          "title": "首尾帧控制",
+          "description": "提供起始和结束帧，生成流畅、连贯的过渡。非常适合控制运动和精确动画。"
+        },
+        "motionBrush": {
+          "title": "运动笔刷控制",
+          "description": "使用运动笔刷定义静态和动态区域。精确控制图像中哪些部分应该移动以及如何移动。"
+        },
+        "specialFx": {
+          "title": "特效",
+          "description": "应用内置特效，如拥抱、亲吻、比心、挤压和扩展，创作富有创意和吸引力的内容。"
+        },
+        "quality": {
+          "title": "高品质输出",
+          "description": "专业级运动合成，自然流畅的动画，保留原始图像的品质和艺术意图。"
+        },
+        "flexible": {
+          "title": "灵活时长",
+          "description": "生成5秒或10秒时长的视频，支持多种宽高比选项，包括16:9、9:16和1:1。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 Kling 1.6 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "elements": {
+          "title": "元素模式",
+          "description": "多参考图",
+          "useCase": "将不同参考图中的多个角色或物体组合成一个连贯的视频。"
+        },
+        "transition": {
+          "title": "流畅过渡",
+          "description": "运动控制",
+          "useCase": "使用首尾帧模式在两帧之间创建精确的运动，实现可控的动画效果。"
+        },
+        "product": {
+          "title": "产品视频",
+          "description": "电商内容",
+          "useCase": "使用运动笔刷控制特定运动，生成动态产品展示视频。"
+        },
+        "effects": {
+          "title": "特效",
+          "description": "创意内容",
+          "useCase": "应用比心和拥抱等特效，创作吸引人的社交媒体内容。"
+        },
+        "fashion": {
+          "title": "时尚内容",
+          "description": "服装展示",
+          "useCase": "创建动态时尚视频，在多个镜头中保持模特外观一致。"
+        },
+        "commercial": {
+          "title": "商业广告",
+          "description": "品牌内容",
+          "useCase": "制作具有可控运动和高品质输出的专业广告。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 Kling 1.6 功能的完整信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最高分辨率",
+          "durationOptions": "时长选项"
+        },
+        "modes": {
+          "title": "生成模式",
+          "imageToVideo": "图生视频",
+          "elementsMode": "元素模式（最多4张）",
+          "firstLastFrame": "首尾帧控制"
+        },
+        "controls": {
+          "title": "运动控制",
+          "motionBrush": "运动笔刷",
+          "staticMask": "静态遮罩",
+          "dynamicMask": "动态遮罩"
+        },
+        "effects": {
+          "title": "特效",
+          "hug": "拥抱效果",
+          "kiss": "亲吻效果",
+          "heartGesture": "比心手势",
+          "squish": "挤压效果"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Kling 1.6 与其他 Kling 版本的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "multiReference": "多参考图模式",
+        "firstLastFrame": "首尾帧控制",
+        "motionBrush": "运动笔刷",
+        "specialFx": "特效",
+        "maxDuration": "最长时长",
+        "resolution": "分辨率"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "description": "高质量，复杂场景",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "积分按生成次数消耗。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Kling 1.6，由谁开发？",
+          "answer": "Kling 1.6 是快手的先进视频生成模型。由中国领先的短视频平台快手团队开发，具备多图参考支持和运动控制功能。"
+        },
+        "1": {
+          "question": "什么是元素模式？",
+          "answer": "元素模式允许您使用最多4张参考图来创建视频。您可以将不同图像中的多个角色、物体或场景组合成一个连贯的视频，保持外观一致。"
+        },
+        "2": {
+          "question": "运动笔刷是如何工作的？",
+          "answer": "运动笔刷让您定义图像中的静态和动态区域。您可以指定哪些部分应保持静止，哪些应该移动，并通过轨迹控制实现精确的运动路径。"
+        },
+        "3": {
+          "question": "有哪些特效可用？",
+          "answer": "Kling 1.6 提供内置特效，包括拥抱、亲吻、比心手势、挤压和扩展。这些非常适合创作吸引人的社交媒体内容和创意视频。"
+        },
+        "4": {
+          "question": "支持哪些视频时长和分辨率？",
+          "answer": "Kling 1.6 生成5秒或10秒时长的视频，支持多种宽高比选项，包括16:9（横版）、9:16（竖版）和1:1（方形）。"
+        },
+        "5": {
+          "question": "Kling 1.6 与 Kling 2.1 相比如何？",
+          "answer": "Kling 1.6 在多图参考（元素模式）方面表现出色，支持最多4张图片，而 Kling 2.1 提供更好的运动质量和更新的功能。多参考图需求选择1.6，追求最新品质选择2.1。"
+        }
+      }
+    }
+  }
+}

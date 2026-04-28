@@ -1,0 +1,171 @@
+{
+  "model": {
+    "meta": {
+      "title": "FLUX 1.1 Pro AI 图像生成器 | 文生图 | OpenCreator",
+      "description": "使用 Black Forest Labs 的 FLUX 1.1 Pro 创建精彩图像。最先进的文生图功能，具备极速生成、出色的提示词遵循和卓越的图像多样性。在 OpenCreator 免费试用。"
+    },
+    "hero": {
+      "modelName": "FLUX 1.1 Pro",
+      "tagline": "最先进的速度",
+      "description": "Black Forest Labs 旗舰图像生成模型。FLUX 1.1 Pro 以极速生成、顶级提示词遵循、卓越视觉品质和出色的输出多样性提供最先进的性能。",
+      "badge": "最快",
+      "ctaText": "免费试用 FLUX 1.1 Pro",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "textToImage": "文生图",
+        "blazingSpeed": "极速生成",
+        "promptFollowing": "提示词遵循",
+        "highQuality": "高品质",
+        "diversity": "输出多样性"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "探索 FLUX 1.1 Pro 为何是最快的最先进图像模型",
+      "items": {
+        "speed": {
+          "title": "极速生成",
+          "description": "在几秒钟内生成高品质图像。FLUX 1.1 Pro 针对速度优化，同时不牺牲品质。"
+        },
+        "promptFollowing": {
+          "title": "卓越的提示词遵循",
+          "description": "对复杂提示词的出色理解。高保真地获得您描述的精确内容。"
+        },
+        "quality": {
+          "title": "卓越视觉品质",
+          "description": "最先进的图像品质，具有惊人的细节、准确的色彩和专业级输出。"
+        },
+        "diversity": {
+          "title": "输出多样性",
+          "description": "从相同提示词生成多样化的变体。轻松探索不同的诠释和风格。"
+        },
+        "photorealism": {
+          "title": "写实效果",
+          "description": "创建可与专业摄影媲美的超写实图像。非常适合产品拍摄和肖像。"
+        },
+        "hands": {
+          "title": "准确的人体解剖",
+          "description": "与以前的模型相比，改进了人手和解剖结构的生成。更一致、更自然的结果。"
+        }
+      }
+    },
+    "gallery": {
+      "title": "实际效果展示",
+      "subtitle": "在 OpenCreator 上使用 FLUX 1.1 Pro 创建的真实案例",
+      "tryWorkflow": "试用此工作流 →",
+      "items": {
+        "portrait": {
+          "title": "UGC 推广",
+          "description": "街头服饰营销",
+          "useCase": "为街头服饰和时尚品牌创建真实的 UGC 风格推广内容。"
+        },
+        "product": {
+          "title": "角色一致性",
+          "description": "一致的角色",
+          "useCase": "生成具有跨场景一致角色外观的广告。"
+        },
+        "landscape": {
+          "title": "模特广告",
+          "description": "运动服营销",
+          "useCase": "为运动服和运动品牌创建专业的模特广告。"
+        },
+        "artistic": {
+          "title": "歌词转 MV",
+          "description": "音乐视频",
+          "useCase": "将歌词转化为创意音乐视频视觉和场景。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "关于 FLUX 1.1 Pro 功能的完整信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最高分辨率",
+          "aspectRatios": "宽高比"
+        },
+        "modes": {
+          "title": "生成模式",
+          "textToImage": "文生图",
+          "ultraMode": "Ultra 模式 (4MP)",
+          "rawMode": "Raw 模式"
+        },
+        "performance": {
+          "title": "性能",
+          "generationSpeed": "生成速度",
+          "parameters": "模型参数",
+          "architecture": "架构"
+        },
+        "quality": {
+          "title": "品质特性",
+          "photorealism": "写实度",
+          "promptFidelity": "提示词保真度",
+          "anatomyAccuracy": "解剖准确性"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 FLUX 1.1 Pro 与其他图像模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "textToImage": "文生图",
+        "speed": "生成速度",
+        "promptFollowing": "提示词遵循",
+        "photorealism": "写实度",
+        "diversity": "输出多样性",
+        "quality": "视觉品质"
+      }
+    },
+    "pricing": {
+      "title": "超高性价比",
+      "subtitle": "",
+      "description": "超快速度，图像多样性",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划优惠",
+      "note": "积分按生成次数消耗。实际费用取决于您的订阅计划。",
+      "viewFullPricing": "查看完整定价 →",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 FLUX 1.1 Pro，由谁开发？",
+          "answer": "FLUX 1.1 Pro 是 Black Forest Labs 的旗舰文生图模型。由前 Stability AI 员工开发，基于 120 亿参数的整流流变换器架构。"
+        },
+        "1": {
+          "question": "FLUX 1.1 Pro 与其他图像模型有什么不同？",
+          "answer": "FLUX 1.1 Pro 以极速生成、出色的提示词遵循和卓越的输出多样性提供最先进的性能。它在写实度方面表现出色，并生成更一致的人体解剖结构。"
+        },
+        "2": {
+          "question": "FLUX 1.1 Pro 有多快？",
+          "answer": "FLUX 1.1 Pro 是目前最快的高品质图像生成器之一。它可以在几秒钟内生成详细的图像，同时保持卓越的品质。"
+        },
+        "3": {
+          "question": "什么是 Ultra 和 Raw 模式？",
+          "answer": "Ultra 模式生成高达 400 万像素（4 倍更高分辨率）的图像，而不影响速度。Raw 模式以抓拍摄影风格创建超写实图像。"
+        },
+        "4": {
+          "question": "我可以创建什么类型的图像？",
+          "answer": "您可以创建肖像、产品拍摄、风景、概念艺术、建筑可视化、艺术风格等。FLUX 1.1 Pro 支持从写实到艺术的多样风格。"
+        },
+        "5": {
+          "question": "FLUX 1.1 Pro 如何处理人体解剖结构？",
+          "answer": "FLUX 1.1 Pro 显著改进了人体解剖结构的生成，尤其是手部。与上一代模型相比，它产生更一致、更自然的人体特征。"
+        }
+      }
+    }
+  }
+}

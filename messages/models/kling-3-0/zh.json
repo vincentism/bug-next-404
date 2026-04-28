@@ -1,0 +1,169 @@
+{
+  "model": {
+    "meta": {
+      "title": "Kling 3.0 AI 视频生成器 | 电影级画质 | OpenCreator",
+      "description": "使用快手 Kling 3.0 创建电影级 AI 视频。最长15秒时长、原生多语言音频、多镜头摄像机控制、极致主体一致性。在 OpenCreator 免费试用。",
+      "keywords": [
+        "Kling 3.0",
+        "快手 Kling",
+        "Kling AI",
+        "AI 视频生成器",
+        "电影级 AI 视频",
+        "多镜头分镜生成",
+        "图生视频",
+        "文生视频",
+        "原生音频生成",
+        "主体一致性",
+        "Kling 3.0 Pro",
+        "Kling 3.0 Standard",
+        "OpenCreator Kling"
+      ]
+    },
+    "hero": {
+      "modelName": "Kling 3.0",
+      "tagline": "电影级 AI 视频生成",
+      "description": "Kling 3.0 是快手首个统一多模态视频模型，将世界级 4K 画质、原生多语言音频、多镜头分镜和先进物理引擎融合于单一创作架构。AI 导演时代已来。",
+      "badge": "新品",
+      "ctaText": "免费试用 Kling 3.0",
+      "secondaryCtaText": "查看定价",
+      "capabilities": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "duration": "最长15秒",
+        "resolution": "4K 输出",
+        "nativeAudio": "原生音频"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "统一架构驱动下一代 AI 导演级视频创作",
+      "items": {
+        "cinematic4K": {
+          "title": "原生 4K 电影级输出",
+          "description": "超高清 4K 分辨率输出，原生文字渲染。Logo、标题和品牌元素在每一帧中都保持清晰可读。"
+        },
+        "multiShot": {
+          "title": "多镜头分镜",
+          "description": "单次生成即可创建最多6个不同镜头切换的电影级序列，支持正反打对话模式和自动摄像机转场。"
+        },
+        "audioGeneration": {
+          "title": "增强音频生成",
+          "description": "角色专属声音参考集成于视频生成中。支持中文、英文、日语、韩语、西班牙语及地方方言。"
+        },
+        "subjectConsistency": {
+          "title": "绝对主体一致性",
+          "description": "通过 Elements 3.0 视频参考系统锁定角色、道具和声音。跨多镜头、多角度、多场景转换保持视觉一致。"
+        },
+        "physics": {
+          "title": "导演级物理引擎",
+          "description": "先进的流体动力学、重力和复杂物体交互模拟，呈现遵循真实世界物理定律的逼真运动效果。"
+        },
+        "extendedDuration": {
+          "title": "15秒超长时长",
+          "description": "原生支持最长15秒视频生成，自定义时长控制，实现更完整的叙事弧度、长镜头和单视频内多次剧情转折。"
+        }
+      }
+    },
+    "tierComparison": {
+      "title": "Standard vs Pro",
+      "subtitle": "相同提示词，不同版本 —— 对比 Kling 3.0 Standard 和 Pro 的输出质量",
+      "promptLabel": "提示词",
+      "prompt": "画面描述：这是一个极具电影感的中景推镜头（Slow Dolly Zoom）。画面正中央伫立着一位身材魁梧的骑士，仿佛一尊钢铁雕塑。人物动作：他双手交叠，戴着厚重的金属护手，重重地压在一把巨型双手剑的剑柄末端。剑身笔直地插入布满白霜和深色泥土的地面中，支撑着他疲惫但坚毅的躯体。铠甲细节：镜头极其清晰地展现了铠甲的繁复质感。这是一套暗银色的瓦雷利亚钢风格板甲，表面布满了肉眼可见的锤纹和蚀刻工艺。铠甲并非崭新，而是布满了细微的划痕、凹陷和干涸的暗红色血迹，在冷冽的月光下反射出冰冷、坚硬的金属光泽。肩膀处披着的毛皮披风质感厚重，每一根毛发都在寒风中微微颤动。环境与氛围：背景是模糊的（浅景深），暗示着一座古老的、烟雾缭绕的城堡废墟或飘雪的北境森林。空气中充满了史诗般的颗粒感，飘落的雪花和远处飘来的余烬在微弱的逆光中飞舞。光线是典型的《权力的游戏》风格——低对比度的冷色调，侧面有一束暖黄色的火光打在铠甲的侧面，形成强烈的冷暖对比。",
+      "standardLabel": "Standard",
+      "proLabel": "Pro"
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "了解 Kling 3.0 功能的所有信息",
+      "categories": {
+        "inputOutput": {
+          "title": "输入与输出",
+          "inputFormats": "输入格式",
+          "outputFormat": "输出格式",
+          "maxResolution": "最大分辨率",
+          "durationOptions": "时长选项"
+        },
+        "capabilities": {
+          "title": "功能",
+          "imageToVideo": "图生视频",
+          "textToVideo": "文生视频",
+          "audioGeneration": "原生音频",
+          "multiShot": "多镜头控制"
+        },
+        "audioFeatures": {
+          "title": "音频与语言",
+          "multiLanguage": "多语言音频",
+          "dialects": "方言支持",
+          "multiCharacter": "多角色对话",
+          "soundEffects": "音效"
+        },
+        "performance": {
+          "title": "性能",
+          "generationTime": "生成时间",
+          "apiAccess": "API 访问",
+          "batchProcessing": "批量处理"
+        }
+      }
+    },
+    "comparison": {
+      "title": "模型对比",
+      "subtitle": "了解 Kling 3.0 与其他领先 AI 视频模型的对比",
+      "featureLabel": "功能",
+      "recommended": "★ 推荐",
+      "supported": "支持",
+      "partial": "部分支持",
+      "notSupported": "不支持",
+      "features": {
+        "imageToVideo": "图生视频",
+        "textToVideo": "文生视频",
+        "maxDuration": "最大时长",
+        "nativeAudio": "原生音频",
+        "multiShot": "多镜头",
+        "subjectConsistency": "主体一致性"
+      }
+    },
+    "pricing": {
+      "title": "简单定价",
+      "subtitle": "按使用量付费",
+      "perGeneration": "每次生成",
+      "discountForSubscribers": "订阅用户专享",
+      "discountWithPro": "Pro 计划专享",
+      "note": "积分根据时长和版本（Standard/Pro）而异。订阅可享更多优惠。",
+      "viewFullPricing": "查看完整定价 →",
+      "description": "快手最先进的电影级视频模型",
+      "planSectionTitle": "搭配订阅计划更省",
+      "planCreditsPerMonthLabel": "积分/月",
+      "planPerCreditLabel": "每积分",
+      "planPerGenerationLabel": "起每次生成"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "什么是 Kling 3.0？由谁开发？",
+          "answer": "Kling 3.0 是快手于 2026 年 2 月发布的首个统一多模态视频模型。包含 Video 3.0 和 Video 3.0 Omni 两个版本，将世界级 4K 画质、原生音频、多镜头分镜和先进物理引擎融合于单一 AI 导演架构。"
+        },
+        "1": {
+          "question": "我可以用 Kling 3.0 创建什么类型的内容？",
+          "answer": "Kling 3.0 擅长电影叙事、品牌广告、电商产品视频、社交媒体内容、多人对话场景和多语言内容。支持文生视频和图生视频两种生成方式，并具备多镜头分镜控制。"
+        },
+        "2": {
+          "question": "Kling 3.0 视频可以有多长？",
+          "answer": "Kling 3.0 支持最长15秒的视频生成，并支持自定义时长控制，较之前的10秒限制有显著提升。这使得复杂序列（包括长镜头和多次剧情转折）成为可能。"
+        },
+        "3": {
+          "question": "Kling 3.0 支持哪些语言的音频？",
+          "answer": "Kling 3.0 支持中文、英文、日语、韩语和西班牙语的原生音频生成，包括各种地方口音和方言。可以生成每个角色说不同语言的复杂多角色对话场景。"
+        },
+        "4": {
+          "question": "Kling 3.0 的多镜头功能是什么？",
+          "answer": "Kling 3.0 支持在单个视频中创建最多6个不同的镜头切换。创作者可以为每个镜头定义独立的分镜画面、景别、视角、叙事内容和摄像机运动，将其变成初步的剪辑工具。"
+        },
+        "5": {
+          "question": "Kling 3.0 与 Kling 2.6 及其他模型相比如何？",
+          "answer": "Kling 3.0 将 Kling 2.6 的原生音频进化为完整的 AI 导演工作流。核心升级：原生 4K 输出、最多6个镜头切换的多镜头分镜、Elements 3.0 绝对主体一致性、全新导演级物理引擎、15秒超长时长、5种语言音频支持。直接与 Veo 3.1 和 Sora 2 竞争。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "model": {
+    "meta": {
+      "title": "Seedance 2.0 — 新一代多模态视频模型 | OpenCreator",
+      "description": "Seedance 2.0 支持图像、视频、音频、文本四模态输入，实现精准参考控制、流畅运动和叙事连续性的电影级视频生成。"
+    },
+    "hero": {
+      "modelName": "Seedance 2.0",
+      "tagline": "多模态视频创作，全面进化",
+      "description": "Seedance 2.0 支持图像、视频、音频、文本四种输入，实现精准可控的电影级视频生成。用一张图设定视觉风格，用一段视频定义运镜与动作，用音频设定节奏与氛围，一切通过自然语言指令完成。",
+      "badge": "即将上线",
+      "ctaText": "加入候补名单",
+      "secondaryCtaText": "查看价格",
+      "capabilities": {
+        "textImageVideo": "文本 + 图像 + 视频 + 音频",
+        "referenceControl": "参考驱动控制",
+        "motionConsistency": "更流畅的运动与一致性",
+        "multiCamera": "续写与多机位叙事",
+        "comingSoon": "即将登陆 OpenCreator"
+      }
+    },
+    "showcase": {
+      "title": "效果展示",
+      "subtitle": "从舞蹈编排到动作大片——探索 Seedance 2.0 在不同创作场景下的生成能力。",
+      "items": {
+        "streetDance": {
+          "title": "街舞 Battle",
+          "description": "节奏 + 运镜编排",
+          "useCase": "高节奏动作、鼓点转场与快速编舞下的人物连续性。"
+        },
+        "relationshipDrama": {
+          "title": "生活短剧",
+          "description": "对话驱动叙事",
+          "useCase": "情绪对话、近景表演与自然对话节奏控制。"
+        },
+        "musicMV": {
+          "title": "音乐 MV",
+          "description": "音画叙事",
+          "useCase": "风格化视觉母题与音乐节奏的同步表达。"
+        },
+        "wuxiaDuel": {
+          "title": "武侠决斗",
+          "description": "动作编排",
+          "useCase": "复杂武术动作、镜头方向切换与戏剧化打斗编排。"
+        },
+        "monsterInvasion": {
+          "title": "怪兽入侵",
+          "description": "大场面特效",
+          "useCase": "大场景构图、破坏节拍与特效叙事连续性。"
+        },
+        "cinematicTransition": {
+          "title": "电影转场",
+          "description": "创意镜头衔接",
+          "useCase": "流畅场景过渡、创意视觉效果与跨镜头叙事衔接。"
+        }
+      }
+    },
+    "workflow": {
+      "title": "导演级工作流",
+      "subtitle": "选择入口模式，用 @ 绑定参考素材，在同一画布上续写与迭代。",
+      "cards": {
+        "entry": {
+          "title": "选择入口模式",
+          "description": "首尾帧模式适合锚点镜头，All-in-One Reference 适合多模态混合编排。"
+        },
+        "assets": {
+          "title": "优先上传高影响素材",
+          "description": "先上传决定构图、动作节奏和基调的关键素材，再补充辅助参考。"
+        },
+        "addressing": {
+          "title": "用 @ 绑定素材角色",
+          "description": "在提示词中为每份素材指定角色——首帧、运镜、角色外观、背景音乐。"
+        },
+        "editing": {
+          "title": "续写与迭代",
+          "description": "通过续写和时间线编辑保持叙事连贯，无需每次从零开始。"
+        }
+      },
+      "modeTitle": "支持的交互模式",
+      "modes": {
+        "firstLast": {
+          "title": "首尾帧模式",
+          "description": "适合对开场与结尾有明确锚点要求的生成任务。"
+        },
+        "allInOne": {
+          "title": "All-in-One Reference",
+          "description": "适合多模态混输与精细化素材编排。"
+        }
+      },
+      "promptBlueprint": {
+        "title": "提示词模板",
+        "lines": {
+          "0": "@Image 1 作为首帧，@Video 1 参考镜头运动。",
+          "1": "动作节奏参考 @Video 2，画面风格参考 @Image 2。",
+          "2": "@Audio 1 作为 BGM，转场点对齐鼓点。",
+          "3": "将 @Video 1 续写 5 秒，以干净特写收尾。"
+        },
+        "note": "显式标注每个 @ 引用并遵循混合素材上限，以获得最佳效果。"
+      },
+      "audioHint": "没有单独音频？已上传视频中的音轨同样可以控制节奏与氛围。"
+    },
+    "features": {
+      "title": "核心能力",
+      "subtitle": "生成质量、可控性与创意表达的全面升级。",
+      "items": {
+        "textImageVideo": {
+          "title": "四模态输入",
+          "description": "在一次生成中组合文本、图像、视频和音频——每种模态都能丰富最终输出。"
+        },
+        "multimodalReference": {
+          "title": "参考驱动控制",
+          "description": "上传参考图像控制构图，视频控制运镜与动作，音频控制节奏——模型理解并精准复现。"
+        },
+        "motionConsistency": {
+          "title": "运动与一致性升级",
+          "description": "物理动态显著更真实，运动更流畅，跨帧场景级视觉一致性更强。"
+        },
+        "continuation": {
+          "title": "续写与叙事连贯",
+          "description": "延续已有素材、构建多镜头叙事序列——从上一个片段的结尾处继续创作。"
+        },
+        "editableWorkflow": {
+          "title": "生成即编辑",
+          "description": "支持角色替换、片段插入和时间线式迭代——在同一工作流中创作与打磨。"
+        },
+        "storytelling": {
+          "title": "短视频表达力",
+          "description": "针对舞蹈编排、情绪对话、音乐视觉、动作戏和特效微叙事优化。"
+        }
+      }
+    },
+    "specs": {
+      "title": "技术规格",
+      "subtitle": "输入限制、生成参数与交互控制一览。",
+      "categories": {
+        "inputLimit": {
+          "title": "输入限制",
+          "imageInput": "图像输入",
+          "videoInput": "视频输入",
+          "audioInput": "音频输入",
+          "mixedFiles": "混合素材上限"
+        },
+        "generation": {
+          "title": "生成能力",
+          "duration": "时长",
+          "outputFormat": "输出格式",
+          "aspectRatio": "画幅比例"
+        },
+        "controls": {
+          "title": "交互控制",
+          "entryModes": "入口模式",
+          "materialAddressing": "素材引用",
+          "videoExtension": "视频续写",
+          "timelineEditing": "时间线编辑"
+        },
+        "quality": {
+          "title": "质量亮点",
+          "motionStability": "运动稳定性",
+          "characterConsistency": "视觉一致性",
+          "audioVisualSync": "音画同步"
+        }
+      },
+      "values": {
+        "imageInput": "最多 9 张图像",
+        "videoInput": "最多 3 段视频，总时长 ≤ 15 秒",
+        "audioInput": "最多 3 段音频（MP3），总时长 ≤ 15 秒",
+        "mixedFiles": "跨模态总计最多 12 个文件",
+        "generationDuration": "4–15 秒，可自选",
+        "outputFormat": "MP4，支持内置音效 / 背景音乐",
+        "aspectRatio": "竖屏、方屏、横屏均支持",
+        "entryModes": "首尾帧 · All-in-One Reference",
+        "materialAddressing": "提示词中通过 @Image / @Video / @Audio 分配素材角色",
+        "videoExtension": "基于提示词续写已有片段",
+        "timelineEditing": "支持在序列中新增、替换和删除片段",
+        "motionStability": "增强的物理动态与更流畅的连续运动",
+        "characterConsistency": "更强的面部、服装与场景级一致性",
+        "audioVisualSync": "更真实的声音时序、音效与环境音"
+      }
+    },
+    "pricing": {
+      "title": "即将登陆 OpenCreator",
+      "subtitle": "Seedance 2.0 尚未开放使用——加入候补名单，第一时间获取上线通知",
+      "ctaText": "加入候补名单",
+      "comingSoonBadge": "即将上线",
+      "description": "字节跳动新一代多模态视频生成模型",
+      "note": "具体价格与开放时间将在接入与质量验证完成后公布。",
+      "viewFullPricing": "查看完整价格 →"
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "0": {
+          "question": "Seedance 2.0 是什么？",
+          "answer": "Seedance 2.0 是字节跳动新一代视频模型，支持图像、视频、音频、文本四模态输入，实现可控的电影级视频生成。"
+        },
+        "1": {
+          "question": "Seedance 2.0 什么时候能在 OpenCreator 使用？",
+          "answer": "我们正在积极接入中。加入候补名单，上线后第一时间通知您。"
+        },
+        "2": {
+          "question": "输入限制是什么？",
+          "answer": "最多 9 张图像、3 段视频（总时长 ≤ 15 秒）、3 段音频（总时长 ≤ 15 秒），混合参考总数最多 12 个。"
+        },
+        "3": {
+          "question": "是否支持视频续写和编辑？",
+          "answer": "是的。Seedance 2.0 支持延续已有素材、在片段间插入新场景、替换角色或片段——全部通过自然语言提示词驱动。"
+        },
+        "4": {
+          "question": "@ 引用系统是如何工作的？",
+          "answer": "在提示词中使用 @ 为上传的素材分配角色——例如 '@Image 1 作为首帧，@Video 1 参考运镜，@Audio 1 作为 BGM'。"
+        },
+        "5": {
+          "question": "Seedance 2.0 最适合制作什么类型的内容？",
+          "answer": "它在舞蹈编排、情绪短剧、音乐 MV、动作戏、商业短片和特效叙事内容方面表现突出，尤其适合需要强参考控制的场景。"
+        }
+      }
+    }
+  }
+}

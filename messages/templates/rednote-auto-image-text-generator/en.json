@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Rednote Automatic Image and Text Generator – AI Social Content Creator | OpenCreator",
+    "description": "Create viral Xiaohongshu (RED) posts automatically with AI. Generate engaging image-text content for Chinese social media marketing. Perfect for brands targeting Chinese consumers.",
+    "keywords": [
+      "xiaohongshu content generator",
+      "rednote post maker",
+      "AI social media content",
+      "chinese social marketing",
+      "RED app content creator",
+      "xiaohongshu marketing tool",
+      "AI image text generator",
+      "social media automation"
+    ]
+  },
+  "hero": {
+    "featureTag": "Social Content",
+    "tags": ["#xiaohongshu", "#rednote", "#social_marketing"],
+    "title": "Rednote Auto Image & Text Generator",
+    "description": "Automatically generate engaging Xiaohongshu (RED) posts with AI. Create viral-ready image-text content that resonates with Chinese consumers. Perfect for brands, influencers, and marketers targeting the RED platform.",
+    "inputPlaceholder": "Upload your product or content image",
+    "ctaText": "Create RED Post"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your product or lifestyle image",
+        "description": "Provide a product photo or lifestyle image that you want to feature in your Xiaohongshu post. The AI will analyze the content and style."
+      },
+      {
+        "title": "AI generates optimized content",
+        "description": "GPT-4o analyzes your image and generates engaging Chinese copy optimized for the RED platform, including trending hashtags and emotional hooks."
+      },
+      {
+        "title": "Create visual layouts automatically",
+        "description": "The workflow generates multiple image layouts with text overlays, stickers, and design elements that match Xiaohongshu aesthetic trends."
+      },
+      {
+        "title": "Export ready-to-post content",
+        "description": "Download your complete post set with images and captions, ready to publish on Xiaohongshu for maximum engagement and reach."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Perfect for RED platform marketers",
+    "subtitle": "From brands to influencers, see who creates Xiaohongshu content with AI.",
+    "audiences": [
+      {
+        "label": "E-commerce brands",
+        "description": "Create consistent, high-quality RED posts for your product catalog without hiring expensive content teams or KOLs."
+      },
+      {
+        "label": "Social media managers",
+        "description": "Scale your Xiaohongshu content production while maintaining authentic, platform-native aesthetics that drive engagement."
+      },
+      {
+        "label": "KOLs & Influencers",
+        "description": "Generate more content ideas and posts faster, keeping your RED feed fresh and your followers engaged."
+      },
+      {
+        "label": "Marketing agencies",
+        "description": "Deliver high-volume RED content for multiple clients efficiently while maintaining quality and brand consistency."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Rednote Automatic Image and Text Generator?",
+        "answer": "It's an AI-powered workflow that automatically creates Xiaohongshu (RED/Rednote) posts, generating both engaging Chinese copy and visual layouts optimized for the platform's unique content style."
+      },
+      {
+        "question": "Does the AI understand Xiaohongshu content trends?",
+        "answer": "Yes. The workflow is designed to generate content that matches RED's aesthetic preferences, including trending formats, popular hashtags, and engagement-driving copy styles native to the platform."
+      },
+      {
+        "question": "What kind of input do I need?",
+        "answer": "Simply upload a product image or lifestyle photo. The AI handles everything else—from writing compelling Chinese copy to creating visually appealing layouts with text overlays."
+      },
+      {
+        "question": "Can I customize the generated content?",
+        "answer": "Absolutely. You can provide guidance on tone, key selling points, and target audience. The AI will incorporate these into the generated posts while maintaining platform-native appeal."
+      },
+      {
+        "question": "Is the content generated in Chinese?",
+        "answer": "Yes. The workflow generates authentic Chinese content optimized for Xiaohongshu, including proper use of trending expressions, hashtags, and content formats popular on the platform."
+      },
+      {
+        "question": "How many posts can I generate at once?",
+        "answer": "Each workflow run generates multiple post variations, giving you options to choose from or A/B test for maximum engagement on your RED account."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Rednote Automatic Image and Text Generator",
+      "description": "AI-powered Xiaohongshu content generator for creating viral RED posts automatically."
+    },
+    "softwareApplication": {
+      "name": "Rednote Auto Content Generator",
+      "description": "Automatically generate engaging Xiaohongshu posts with AI-powered image and text creation."
+    },
+    "faqPage": {
+      "name": "Rednote Auto Generator – FAQ"
+    }
+  }
+}

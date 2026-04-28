@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "所有 AI 模型，一站汇聚",
+    "description": "探索 OpenCreator 支持的全部 AI 模型，比较能力、积分消耗，找到最适合你工作流的模型。",
+    "note": "模型定价与可用性由内部配置驱动，页面始终反映最新状态。"
+  },
+  "categories": {
+    "text": {
+      "title": "文本模型",
+      "description": "通用推理、写作与分析模型。"
+    },
+    "image": {
+      "title": "图像生成",
+      "description": "文生图与照片生成模型。"
+    },
+    "imageToImage": {
+      "title": "图像编辑",
+      "description": "图生图与编辑类模型。"
+    },
+    "video": {
+      "title": "图生视频",
+      "description": "图生视频模型，适用于广告与影视片段。"
+    },
+    "textToVideo": {
+      "title": "文生视频",
+      "description": "文生视频模型，适用于脚本与分镜。"
+    },
+    "DescribeImage": {
+      "title": "图像描述",
+      "description": "视觉语言模型，用于理解和描述图像。"
+    },
+    "startEndFrame": {
+      "title": "首尾帧",
+      "description": "基于关键帧的视频生成模型。"
+    },
+    "imageAngleControl": {
+      "title": "多角度图像",
+      "description": "多视角合成模型，可由单张照片生成不同角度的画面。"
+    },
+    "videoLipSync": {
+      "title": "视频对嘴",
+      "description": "让口型与语音自然同步的模型。"
+    }
+  },
+  "modelCount": "{count, plural, one {个模型} other {个模型}}",
+  "roles": {
+    "free": "免费版",
+    "canvas": "画布",
+    "flow": "工作流",
+    "api": "API",
+    "other": "其他"
+  },
+  "badges": {
+    "disabled": "暂不可用",
+    "unavailable": "使用说明即将上线"
+  },
+  "viewDetails": "查看详情"
+}

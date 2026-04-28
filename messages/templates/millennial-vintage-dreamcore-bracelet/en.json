@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "Millennial Vintage Dreamcore Style Bracelet – AI Jewelry Creator | OpenCreator",
+    "description": "Create stunning millennial vintage dreamcore style bracelet visuals with AI. Generate nostalgic Y2K aesthetic jewelry content with dreamy effects and retro-futuristic vibes.",
+    "keywords": [
+      "dreamcore jewelry",
+      "Y2K bracelet design",
+      "vintage aesthetic jewelry",
+      "millennial style accessories",
+      "AI jewelry creator",
+      "retro-futuristic bracelet",
+      "nostalgic jewelry visuals",
+      "dreamcore aesthetic"
+    ]
+  },
+  "hero": {
+    "featureTag": "Jewelry Design",
+    "tags": ["#dreamcore", "#Y2K", "#vintage_jewelry"],
+    "title": "Millennial Vintage Dreamcore Bracelet",
+    "description": "Create stunning millennial vintage dreamcore style bracelet visuals with AI. Generate nostalgic Y2K aesthetic jewelry content featuring dreamy effects, soft gradients, and retro-futuristic vibes. Perfect for jewelry brands targeting the millennial aesthetic market.",
+    "inputPlaceholder": "Upload your bracelet image",
+    "ctaText": "Create Dreamcore Visuals"
+  },
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Upload your bracelet image",
+        "description": "Provide a bracelet photo. The AI analyzes the jewelry design and identifies opportunities for dreamcore aesthetic enhancement."
+      },
+      {
+        "title": "Apply dreamcore aesthetic",
+        "description": "Nano Banana Pro transforms your bracelet with millennial vintage effects—soft gradients, dreamy lighting, nostalgic color palettes, and Y2K visual elements."
+      },
+      {
+        "title": "Generate styled variations",
+        "description": "The workflow creates multiple aesthetic variations showcasing your bracelet in different dreamcore scenarios and visual treatments."
+      },
+      {
+        "title": "Export aesthetic content",
+        "description": "Download your complete set of dreamcore bracelet visuals ready for social media, e-commerce, or brand campaigns."
+      }
+    ]
+  },
+  "whoIsFor": {
+    "title": "Built for aesthetic-forward jewelry brands",
+    "subtitle": "From indie designers to fashion retailers, see who creates dreamcore jewelry content with AI.",
+    "audiences": [
+      {
+        "label": "Jewelry designers",
+        "description": "Present your bracelet designs with trendy millennial aesthetics that resonate with younger consumers and social media audiences."
+      },
+      {
+        "label": "Fashion retailers",
+        "description": "Create eye-catching product content that stands out in the crowded accessories market with distinctive visual styling."
+      },
+      {
+        "label": "Social media marketers",
+        "description": "Generate scroll-stopping aesthetic content for Instagram, Pinterest, and TikTok that captures the dreamcore trend."
+      },
+      {
+        "label": "E-commerce sellers",
+        "description": "Elevate your jewelry listings with premium aesthetic visuals that justify higher price points and attract style-conscious buyers."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What is the Millennial Vintage Dreamcore Bracelet workflow?",
+        "answer": "It's an AI-powered workflow that transforms bracelet images into millennial vintage dreamcore aesthetic visuals, featuring Y2K-inspired effects, dreamy atmospheres, and nostalgic styling."
+      },
+      {
+        "question": "What is dreamcore aesthetic?",
+        "answer": "Dreamcore combines nostalgic millennial elements with surreal, dreamy visuals. Think soft gradients, Y2K color palettes, ethereal lighting, and retro-futuristic vibes popular on social media."
+      },
+      {
+        "question": "What types of bracelets work best?",
+        "answer": "The workflow enhances all bracelet styles—beaded, charm, chain, cuff. It particularly shines with pieces that have interesting textures, colors, or nostalgic design elements."
+      },
+      {
+        "question": "Can I use this for other jewelry types?",
+        "answer": "While optimized for bracelets, the dreamcore aesthetic workflow can be applied to other jewelry pieces like rings, necklaces, and earrings with similar stunning results."
+      },
+      {
+        "question": "Is this suitable for commercial use?",
+        "answer": "Yes. The generated content is perfect for e-commerce listings, social media marketing, brand campaigns, and any commercial jewelry promotion."
+      },
+      {
+        "question": "Can I customize the aesthetic intensity?",
+        "answer": "Yes. You can guide the AI toward subtle dreamcore touches or full aesthetic transformation depending on your brand positioning and target audience."
+      }
+    ]
+  },
+  "schema": {
+    "webPage": {
+      "name": "Millennial Vintage Dreamcore Style Bracelet",
+      "description": "AI-powered dreamcore aesthetic generator for jewelry visuals and Y2K-inspired content."
+    },
+    "softwareApplication": {
+      "name": "Dreamcore Bracelet Visual Generator",
+      "description": "Create stunning millennial vintage dreamcore bracelet visuals with AI-powered aesthetic transformation."
+    },
+    "faqPage": {
+      "name": "Millennial Vintage Dreamcore Bracelet – FAQ"
+    }
+  }
+}
