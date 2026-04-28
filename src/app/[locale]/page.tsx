@@ -2,19 +2,23 @@ import type { Metadata } from 'next'
 import React from 'react'
 import { LandingNavbar, Hero } from '@/components/landing'
 import {
-  LazySeeHowItWorks,
-  LazyModelShowcase,
-  LazyTemplatesCarousel,
-  LazyWhyOpenCreator,
-  LazyFAQWrapper,
-  LazyLandingCTA,
-  LazyLandingFooter,
+  LazyPositioning,
+  LazyFeatures,
+  LazyModelsMarquee,
+  LazyEndorse,
+  LazyVsLedger,
+  LazyCommunity,
+  LazyCallbackCta,
 } from '@/components/landing/lazy-sections'
 import { JsonLd } from '@/components/seo/json-ld'
-import { buildFaqPageSchema, createSchemaGraph, getSiteUrl } from '@/lib/seo/schema'
+import { createSchemaGraph, getSiteUrl } from '@/lib/seo/schema'
 import PageLoading from '@/components/ui/pageLoading'
-import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { LandingFooter } from '@/components/landing'
+import { CustomCursor } from '@/components/landing/v3/layout/custom-cursor'
+import { Grain } from '@/components/landing/v3/layout/grain'
+import { LandingV3ClientRuntime } from '@/components/landing/v3/controllers/landing-v3-client-runtime'
+import '@/components/landing/v3/styles/landing-v3.module.css'
 
 type LandingPageProps = {
   params: Promise<{ locale: string }>
@@ -35,16 +39,8 @@ export async function generateMetadata({ params }: LandingPageProps): Promise<Me
 }
 
 export default async function LandingPage({ params }: LandingPageProps) {
-  const { locale } = await params
+  await params
   const siteUrl = getSiteUrl()
-  const pageUrl = `${siteUrl}/${locale}`
-
-  const tFaq = await getTranslations({ locale, namespace: 'landing.faq' })
-
-  const faqItems: FAQItem[] = Array.from({ length: 8 }).map((_, index) => ({
-    question: tFaq(`items.${index}.question`),
-    answer: tFaq(`items.${index}.answer`),
-  }))
 
   const homepageSchema = createSchemaGraph([
     {
@@ -63,25 +59,26 @@ export default async function LandingPage({ params }: LandingPageProps) {
         '@id': `${siteUrl}#organization`,
       },
     },
-    buildFaqPageSchema({
-      url: pageUrl,
-      name: 'OpenCreator FAQ',
-      faqItems: faqItems,
-    }),
   ])
 
   return (
     <React.Suspense fallback={<PageLoading />}>
-      <div className="w-full h-full overflow-y-auto overflow-x-hidden bg-[#F7F7F7]">
+      <div className="landing-v3" data-surface="paper">
         <LandingNavbar />
-        <Hero />
-        <LazySeeHowItWorks />
-        <LazyModelShowcase />
-        <LazyTemplatesCarousel />
-        <LazyWhyOpenCreator />
-        <LazyFAQWrapper items={faqItems} />
-        <LazyLandingCTA />
-        <LazyLandingFooter />
+        <CustomCursor />
+        <main id="main">
+          <Hero />
+          <LazyPositioning />
+          <LazyFeatures />
+          <LazyModelsMarquee />
+          <LazyEndorse />
+          <LazyVsLedger />
+          <LazyCommunity />
+          <LazyCallbackCta />
+          <LandingFooter />
+        </main>
+        <LandingV3ClientRuntime />
+        <Grain />
         <JsonLd id="landing-schema" data={homepageSchema} />
       </div>
     </React.Suspense>

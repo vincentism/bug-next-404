@@ -15,6 +15,7 @@
     "analyzer": "ANALYZE=true pnpm build"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.2",
     "@heroui/image": "^2.2.17",
     "@heroui/listbox": "^2.3.26",
     "@heroui/system": "^2.4.27",
@@ -30,6 +31,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^12.23.24",
     "gray-matter": "^4.0.3",
+    "gsap": "^3.15.0",
     "lucide-react": "^0.468.0",
     "next": "15.5.9",
     "next-intl": "^3.26.5",

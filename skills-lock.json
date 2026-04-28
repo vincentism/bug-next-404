@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "gsap": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/gsap/SKILL.md",
+      "computedHash": "22e6fd7e1c1038eebc8304c985fab31839cc19ec291d3d19c022f899fbd36e46"
+    },
     "vercel-react-best-practices": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",

@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { JetBrains_Mono, Poller_One, Roboto } from 'next/font/google'
+import { Instrument_Serif, JetBrains_Mono, Poller_One, Roboto } from 'next/font/google'
 import React from 'react'
 import Script from 'next/script'
 import { cookies } from 'next/headers'
@@ -25,11 +25,20 @@ const PollerOne = Poller_One({
 
 const RobotoFont = Roboto({
   subsets: ['latin'],
-  weight: ['400', '500'], // 只保留常用的两个字重，减少字体文件加载
+  weight: ['400', '500', '700', '900'],
   display: 'swap',
   preload: true,
   variable: '--font-robote',
   fallback: ['system-ui', 'arial'],
+})
+
+const InstrumentSerif = Instrument_Serif({
+  subsets: ['latin'],
+  weight: ['400'],
+  style: ['italic'],
+  display: 'swap',
+  variable: '--font-instrument-serif',
+  fallback: ['Times New Roman', 'serif'],
 })
 
 const JetBrainsMono = JetBrains_Mono({
@@ -119,7 +128,7 @@ export default async function RootLayout({
   return (
     <html
       translate="no"
-      className={`${RobotoFont.variable} ${PollerOne.variable} ${JetBrainsMono.variable}`}
+      className={`${RobotoFont.variable} ${PollerOne.variable} ${JetBrainsMono.variable} ${InstrumentSerif.variable}`}
       style={
         {
           inset: 0,
@@ -128,6 +137,7 @@ export default async function RootLayout({
           fontFamily: RobotoFont.style.fontFamily,
           '--font-poller-one': PollerOne.style.fontFamily,
           '--font-jetbrains-mono': JetBrainsMono.style.fontFamily,
+          '--font-instrument-serif': InstrumentSerif.style.fontFamily,
           '--font-outfit': RobotoFont.style.fontFamily,
           '--font-noto-sans-sc': RobotoFont.style.fontFamily,
         } as React.CSSProperties
@@ -198,7 +208,7 @@ export default async function RootLayout({
         style={{
           margin: 0,
         }}
-        className={'bg-white relative flex flex-col p-0 !m-0'}
+        className={'bg-white relative flex flex-col p-0 m-0!'}
       >
         {/* GTM noscript fallback */}
         {!isChina && (
