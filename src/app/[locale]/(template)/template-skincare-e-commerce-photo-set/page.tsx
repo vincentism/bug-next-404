@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -71,7 +72,7 @@ export default async function SkincarePhotoSetLandingPage({ params }: PageProps)
         outputImages={outputImages}
         outputImageAlts={['AI skincare product photo set example with premium e-commerce visuals']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f27bd1a58"
+        ctaLink={getAppUrl('/canvas?shareid=691f27bd1a58', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

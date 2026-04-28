@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -73,7 +74,7 @@ export default async function PatternExtractLandingPage({ params }: PageProps) {
           'AI pattern extraction example showing a seamless, reusable design asset',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f20ec0089"
+        ctaLink={getAppUrl('/canvas?shareid=691f20ec0089', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection workflowKey="pattern-extract" steps={t.raw('howItWorks.steps')} />

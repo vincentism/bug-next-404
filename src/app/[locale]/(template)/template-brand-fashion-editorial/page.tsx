@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/ylg/4ba4c06880068cf05148f561168ad2ca.jpg'
 const OUTPUT_VIDEO = 'https://ik.imagekit.io/opencreator/ylg/d1fcc6faac2942ba6c8e31c75594bf2c_raw.mp4'
@@ -99,7 +100,7 @@ export default async function BrandFashionEditorialLandingPage({ params }: PageP
         outputVideos={outputVideos}
         outputImageAlts={['AI-generated brand fashion editorial photo with professional styling']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=695fc16b5e88"
+        ctaLink={getAppUrl('/canvas?shareid=695fc16b5e88', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

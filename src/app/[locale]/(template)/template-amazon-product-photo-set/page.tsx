@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -73,7 +74,7 @@ export default async function AmazonProductPhotoSetLandingPage({ params }: PageP
           'AI-generated Amazon product photo set showing professional listing images with lifestyle shots and infographics',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69204e7cce26"
+        ctaLink={getAppUrl('/canvas?shareid=69204e7cce26', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

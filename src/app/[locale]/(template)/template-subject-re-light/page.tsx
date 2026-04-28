@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -71,7 +72,7 @@ export default async function SubjectRelightLandingPage({ params }: PageProps) {
           'AI subject re-light example showing lighting change while preserving identity',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69205bbd1789"
+        ctaLink={getAppUrl('/canvas?shareid=69205bbd1789', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

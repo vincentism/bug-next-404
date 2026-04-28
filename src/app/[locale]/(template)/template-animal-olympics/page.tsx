@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -76,7 +77,7 @@ export default async function AnimalOlympicsLandingPage({ params }: PageProps) {
         ]}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f3145c52e"
+        ctaLink={getAppUrl('/canvas?shareid=691f3145c52e', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection workflowKey="animal-olympics" steps={t.raw('howItWorks.steps')} />

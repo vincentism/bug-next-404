@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -75,7 +76,7 @@ export default async function BatchAiModelTryOnLandingPage({ params }: PageProps
           'Batch AI model try-on image set showing consistent on-model visuals for fashion products',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=6928296ef9d8"
+        ctaLink={getAppUrl('/canvas?shareid=6928296ef9d8', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

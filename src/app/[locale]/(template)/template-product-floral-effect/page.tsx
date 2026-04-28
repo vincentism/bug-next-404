@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -75,7 +76,7 @@ export default async function ProductFloralEffectLandingPage({ params }: PagePro
           'AI-generated product floral effect example showing botanical visual enhancement with flowers',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f2718d87a"
+        ctaLink={getAppUrl('/canvas?shareid=691f2718d87a', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_STORYBOARD_BUILDER_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1119-templates-refresh/Storyboard Builder.png',
@@ -69,12 +70,12 @@ export default async function StoryboardBuilderLandingPage({ params }: PageProps
         outputImages={TEMPLATE_STORYBOARD_BUILDER_OUTPUTIMAGES_1}
         outputImageAlts={['AI storyboard builder workflow example showing scene planning panels']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f34f48cf8"
+        ctaLink={getAppUrl('/canvas?shareid=691f34f48cf8', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection
         steps={t.raw('howItWorks.steps')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f34f48cf8"
+        ctaLink={getAppUrl('/canvas?shareid=691f34f48cf8', locale)}
       />
       <WorkflowWhoIsForSection
         title={t('whoIsFor.title')}

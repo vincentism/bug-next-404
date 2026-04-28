@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/0114/封面图.png'
 const OUTPUT_VIDEO = 'https://ik.imagekit.io/opencreator/web/xm/0114/小红书.mp4'
@@ -76,7 +77,7 @@ export default async function PetSealDanceLandingPage({ params }: PageProps) {
         outputVideos={outputVideos}
         outputImageAlts={[t('hero.outputImageAlt')]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=696740c94f50"
+        ctaLink={getAppUrl('/canvas?shareid=696740c94f50', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

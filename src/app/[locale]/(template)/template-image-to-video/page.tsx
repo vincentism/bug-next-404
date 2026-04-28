@@ -24,6 +24,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -74,7 +75,7 @@ export default async function ImageToVideoLandingPage({ params }: PageProps) {
           'AI-generated image to video conversion example showing animated visual output',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=692057c9a6b9"
+        ctaLink={getAppUrl('/canvas?shareid=692057c9a6b9', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

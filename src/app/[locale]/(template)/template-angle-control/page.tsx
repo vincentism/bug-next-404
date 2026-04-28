@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/0211/官号封面（2026） (1).png'
 
@@ -72,7 +73,7 @@ export default async function AngleControlLandingPage({ params }: PageProps) {
         outputImages={outputImages}
         outputImageAlts={['AI angle control output with consistent product identity']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=698b6a305726"
+        ctaLink={getAppUrl('/canvas?shareid=698b6a305726', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

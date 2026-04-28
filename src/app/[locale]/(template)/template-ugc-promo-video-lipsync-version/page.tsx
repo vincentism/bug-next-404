@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -77,7 +78,7 @@ export default async function UGCPromoVideoLipsyncLandingPage({ params }: PagePr
         inputImageAlts={['Reference visuals for AI-generated lip-synced UGC promo video ads']}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f3139a814"
+        ctaLink={getAppUrl('/canvas?shareid=691f3139a814', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

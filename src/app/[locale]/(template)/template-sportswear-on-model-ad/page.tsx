@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -74,7 +75,7 @@ export default async function SportswearOnModelAdLandingPage({ params }: PagePro
         ]}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f2991a2bc"
+        ctaLink={getAppUrl('/canvas?shareid=691f2991a2bc', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -74,7 +75,7 @@ export default async function POVLeakedFootageLandingPage({ params }: PageProps)
         ]}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=6920541088dc"
+        ctaLink={getAppUrl('/canvas?shareid=6920541088dc', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

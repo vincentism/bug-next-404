@@ -19,6 +19,7 @@ import {
 } from '@/lib/seo/schema'
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -150,7 +151,7 @@ export default async function SeedanceLiteModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -191,7 +192,7 @@ export default async function SeedanceLiteModelPage({ params }: PageProps) {
       title: t('gallery.items.consistency.title'),
       description: t('gallery.items.consistency.description'),
       useCase: t('gallery.items.consistency.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      link: getAppUrl('/canvas?shareid=691f25484cd0', locale),
     },
     {
       type: 'video' as const,
@@ -201,7 +202,7 @@ export default async function SeedanceLiteModelPage({ params }: PageProps) {
       title: t('gallery.items.transition.title'),
       description: t('gallery.items.transition.description'),
       useCase: t('gallery.items.transition.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2718d87a',
+      link: getAppUrl('/canvas?shareid=691f2718d87a', locale),
     },
     {
       type: 'video' as const,
@@ -210,7 +211,7 @@ export default async function SeedanceLiteModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f282fb403',
+      link: getAppUrl('/canvas?shareid=691f282fb403', locale),
     },
     {
       type: 'video' as const,
@@ -219,7 +220,7 @@ export default async function SeedanceLiteModelPage({ params }: PageProps) {
       title: t('gallery.items.social.title'),
       description: t('gallery.items.social.description'),
       useCase: t('gallery.items.social.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f325f2bc1',
+      link: getAppUrl('/canvas?shareid=691f325f2bc1', locale),
     },
     {
       type: 'video' as const,
@@ -228,7 +229,7 @@ export default async function SeedanceLiteModelPage({ params }: PageProps) {
       title: t('gallery.items.animation.title'),
       description: t('gallery.items.animation.description'),
       useCase: t('gallery.items.animation.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=69285afcf73f',
+      link: getAppUrl('/canvas?shareid=69285afcf73f', locale),
     },
   ]
 

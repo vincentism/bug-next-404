@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -73,7 +74,7 @@ export default async function InstructionFlowchartMakerLandingPage({ params }: P
           'AI-generated instruction flowchart showing clear step-by-step visual guide',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=693037bcad84"
+        ctaLink={getAppUrl('/canvas?shareid=693037bcad84', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

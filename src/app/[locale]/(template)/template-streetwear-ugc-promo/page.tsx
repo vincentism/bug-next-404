@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -77,7 +78,7 @@ export default async function StreetwearUGCPromoLandingPage({ params }: PageProp
           'AI-generated streetwear UGC promo example showing authentic urban fashion content',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f269d38df"
+        ctaLink={getAppUrl('/canvas?shareid=691f269d38df', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

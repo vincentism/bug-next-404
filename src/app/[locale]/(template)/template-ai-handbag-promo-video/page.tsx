@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE =
   'https://ik.imagekit.io/opencreator/web/xm/0203/image_20260203_71dcc5a9-e746-45ec-b2ed-070e823592ee (1).png'
@@ -84,7 +85,7 @@ export default async function AIHandbagPromoVideoLandingPage({ params }: PagePro
         outputVideos={outputVideos}
         outputImageAlts={['AI-generated handbag promo key visual with luxury studio look']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=6981d5bea18a"
+        ctaLink={getAppUrl('/canvas?shareid=6981d5bea18a', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

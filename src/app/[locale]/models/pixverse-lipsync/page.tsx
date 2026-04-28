@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -82,7 +83,6 @@ const modelData = {
     ],
     badge: 'Popular',
     ctaText: 'Try Pixverse Lipsync Free',
-    ctaLink: '/skills',
   },
   comparison: {
     features: ['Lip Sync', 'Realism', 'Speed', 'Multi-Language', 'API Access', 'Free Tier'],
@@ -158,7 +158,7 @@ export default async function PixverseLipsyncModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -198,7 +198,7 @@ export default async function PixverseLipsyncModelPage({ params }: PageProps) {
       title: t('gallery.items.talkingHead.title'),
       description: t('gallery.items.talkingHead.description'),
       useCase: t('gallery.items.talkingHead.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      link: getAppUrl('/canvas?shareid=691f3139a814', locale),
     },
     {
       type: 'video' as const,
@@ -208,7 +208,7 @@ export default async function PixverseLipsyncModelPage({ params }: PageProps) {
       title: t('gallery.items.marketing.title'),
       description: t('gallery.items.marketing.description'),
       useCase: t('gallery.items.marketing.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      link: getAppUrl('/canvas?shareid=691f25484cd0', locale),
     },
     {
       type: 'video' as const,
@@ -218,7 +218,7 @@ export default async function PixverseLipsyncModelPage({ params }: PageProps) {
       title: t('gallery.items.dubbing.title'),
       description: t('gallery.items.dubbing.description'),
       useCase: t('gallery.items.dubbing.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      link: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'video' as const,
@@ -228,7 +228,7 @@ export default async function PixverseLipsyncModelPage({ params }: PageProps) {
       title: t('gallery.items.ugc.title'),
       description: t('gallery.items.ugc.description'),
       useCase: t('gallery.items.ugc.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -237,7 +237,7 @@ export default async function PixverseLipsyncModelPage({ params }: PageProps) {
       title: t('gallery.items.education.title'),
       description: t('gallery.items.education.description'),
       useCase: t('gallery.items.education.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f27c703c2',
+      link: getAppUrl('/canvas?shareid=691f27c703c2', locale),
     },
     {
       type: 'video' as const,
@@ -247,7 +247,7 @@ export default async function PixverseLipsyncModelPage({ params }: PageProps) {
       title: t('gallery.items.avatar.title'),
       description: t('gallery.items.avatar.description'),
       useCase: t('gallery.items.avatar.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      link: getAppUrl('/canvas?shareid=691f2a048044', locale),
     },
   ]
 

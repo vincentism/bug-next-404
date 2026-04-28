@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -77,7 +78,7 @@ export default async function ClothingPromotionShortFilmLandingPage({ params }: 
           'AI-generated clothing promotion short film with dynamic fashion visuals',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=697b0d01d45a"
+        ctaLink={getAppUrl('/canvas?shareid=697b0d01d45a', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

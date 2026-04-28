@@ -23,8 +23,9 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
-const CTA_LINK = 'https://opencreator.io/canvas?shareid=69415c2c11ca'
+const CTA_SHARE_ID = '69415c2c11ca'
 const COVER_IMAGE =
   'https://ik.imagekit.io/opencreator/web/xm/1216/UGC Promo Video (Lipsync Version).png'
 
@@ -75,10 +76,10 @@ export default async function RednoteViralPostFactoryLandingPage({ params }: Pag
           'AI-generated Xiaohongshu carousel post with viral content framework and professional visuals',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink={CTA_LINK}
+        ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)}
       />
       <ModelShowcase />
-      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={CTA_LINK} />
+      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)} />
       <WorkflowWhoIsForSection
         title={t('whoIsFor.title')}
         subtitle={t('whoIsFor.subtitle')}

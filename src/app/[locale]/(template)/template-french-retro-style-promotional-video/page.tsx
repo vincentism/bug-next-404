@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/0113/1月13日.png'
 const OUTPUT_VIDEO =
@@ -83,7 +84,7 @@ export default async function FrenchRetroStylePromotionalVideoLandingPage({ para
         outputVideos={outputVideos}
         outputImageAlts={[t('hero.outputImageAlt')]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69659679478b"
+        ctaLink={getAppUrl('/canvas?shareid=69659679478b', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

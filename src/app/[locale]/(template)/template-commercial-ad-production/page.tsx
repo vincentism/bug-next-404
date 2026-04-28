@@ -23,8 +23,9 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
-const CTA_LINK = 'https://opencreator.io/canvas?shareid=6948d87a7ccd'
+const CTA_SHARE_ID = '6948d87a7ccd'
 const COVER_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/1222/12月22日.png'
 const VIDEO_URL = 'https://ik.imagekit.io/opencreator/web/xm/1222/12月22日.mp4'
 
@@ -77,10 +78,10 @@ export default async function CommercialAdProductionLandingPage({ params }: Page
           'AI-generated commercial ad video showing cinematic product showcase with professional motion',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink={CTA_LINK}
+        ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)}
       />
       <ModelShowcase />
-      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={CTA_LINK} />
+      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)} />
       <WorkflowWhoIsForSection
         title={t('whoIsFor.title')}
         subtitle={t('whoIsFor.subtitle')}

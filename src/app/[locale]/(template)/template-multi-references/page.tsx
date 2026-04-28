@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_MULTI_REFERENCES_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1119-templates-refresh/Multi References.png',
@@ -69,7 +70,7 @@ export default async function MultiReferencesLandingPage({ params }: PageProps) 
         outputImages={TEMPLATE_MULTI_REFERENCES_OUTPUTIMAGES_1}
         outputImageAlts={['AI multi references workflow example showing combined reference images']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=692058255e37"
+        ctaLink={getAppUrl('/canvas?shareid=692058255e37', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

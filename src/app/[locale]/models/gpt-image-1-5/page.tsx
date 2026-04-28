@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -85,7 +86,6 @@ const modelData = {
     ],
     badge: 'New',
     ctaText: 'Try GPT Image 1.5 Free',
-    ctaLink: '/skills',
   },
   features: [
     {
@@ -127,7 +127,7 @@ const modelData = {
       description: 'E-commerce Imagery',
       useCase:
         'Create professional product photos with perfect lighting and backgrounds for online stores.',
-      link: 'https://opencreator.io/canvas?shareid=69204e7cce26',
+      shareId: '69204e7cce26',
     },
     {
       type: 'image' as const,
@@ -135,7 +135,7 @@ const modelData = {
       title: 'Marketing Visuals',
       description: 'Brand Assets',
       useCase: 'Generate cohesive marketing materials with accurate text and brand elements.',
-      link: 'https://opencreator.io/canvas?shareid=691f24bb8dda',
+      shareId: '691f24bb8dda',
     },
     {
       type: 'image' as const,
@@ -144,7 +144,7 @@ const modelData = {
       description: 'Professional Headshots',
       useCase:
         'Create realistic portraits and headshots for professional profiles and social media.',
-      link: 'https://opencreator.io/canvas?shareid=691f1fe0bb8b',
+      shareId: '691f1fe0bb8b',
     },
     {
       type: 'image' as const,
@@ -152,7 +152,7 @@ const modelData = {
       title: 'Poster Design',
       description: 'Typography & Layout',
       useCase: 'Design stunning posters with accurate text rendering and professional typography.',
-      link: 'https://opencreator.io/canvas?shareid=691f2e16b9f1',
+      shareId: '691f2e16b9f1',
     },
     {
       type: 'image' as const,
@@ -160,7 +160,7 @@ const modelData = {
       title: 'Virtual Try-on',
       description: 'Fashion & Apparel',
       useCase: 'Create virtual try-on experiences for fashion and apparel products.',
-      link: 'https://opencreator.io/canvas?shareid=691f244dde65',
+      shareId: '691f244dde65',
     },
     {
       type: 'image' as const,
@@ -168,7 +168,7 @@ const modelData = {
       title: 'Background Swap',
       description: 'Image Editing',
       useCase: 'Edit existing images with targeted changes while preserving overall quality.',
-      link: 'https://opencreator.io/canvas?shareid=692050d932cf',
+      shareId: '692050d932cf',
     },
   ],
   comparison: {
@@ -284,7 +284,7 @@ export default async function GptImage15ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -322,7 +322,7 @@ export default async function GptImage15ModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=69204e7cce26',
+      link: getAppUrl('/canvas?shareid=69204e7cce26', locale),
     },
     {
       type: 'image' as const,
@@ -330,7 +330,7 @@ export default async function GptImage15ModelPage({ params }: PageProps) {
       title: t('gallery.items.marketing.title'),
       description: t('gallery.items.marketing.description'),
       useCase: t('gallery.items.marketing.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f24bb8dda',
+      link: getAppUrl('/canvas?shareid=691f24bb8dda', locale),
     },
     {
       type: 'image' as const,
@@ -338,7 +338,7 @@ export default async function GptImage15ModelPage({ params }: PageProps) {
       title: t('gallery.items.portrait.title'),
       description: t('gallery.items.portrait.description'),
       useCase: t('gallery.items.portrait.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f1fe0bb8b',
+      link: getAppUrl('/canvas?shareid=691f1fe0bb8b', locale),
     },
     {
       type: 'image' as const,
@@ -346,7 +346,7 @@ export default async function GptImage15ModelPage({ params }: PageProps) {
       title: t('gallery.items.poster.title'),
       description: t('gallery.items.poster.description'),
       useCase: t('gallery.items.poster.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2e16b9f1',
+      link: getAppUrl('/canvas?shareid=691f2e16b9f1', locale),
     },
     {
       type: 'image' as const,
@@ -354,7 +354,7 @@ export default async function GptImage15ModelPage({ params }: PageProps) {
       title: t('gallery.items.social.title'),
       description: t('gallery.items.social.description'),
       useCase: t('gallery.items.social.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f244dde65',
+      link: getAppUrl('/canvas?shareid=691f244dde65', locale),
     },
     {
       type: 'image' as const,
@@ -362,7 +362,7 @@ export default async function GptImage15ModelPage({ params }: PageProps) {
       title: t('gallery.items.editing.title'),
       description: t('gallery.items.editing.description'),
       useCase: t('gallery.items.editing.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692050d932cf',
+      link: getAppUrl('/canvas?shareid=692050d932cf', locale),
     },
   ]
 

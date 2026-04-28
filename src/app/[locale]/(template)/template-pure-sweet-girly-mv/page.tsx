@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -71,7 +72,7 @@ export default async function PureSweetGirlyMvLandingPage({ params }: PageProps)
           'AI-generated oriental fantasy MV storyboard with surreal 3D CG aesthetics featuring Chinese gardens and ethereal characters',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=697f5b1ae5f4"
+        ctaLink={getAppUrl('/canvas?shareid=697f5b1ae5f4', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

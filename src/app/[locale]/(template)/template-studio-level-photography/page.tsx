@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -71,7 +72,7 @@ export default async function StudioLevelPhotographyLandingPage({ params }: Page
           'AI studio-level photography example showing polished product or portrait visuals',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69206593b22c"
+        ctaLink={getAppUrl('/canvas?shareid=69206593b22c', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

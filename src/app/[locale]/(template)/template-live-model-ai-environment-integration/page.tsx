@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const COVER_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/1130-template/Templates Covers (1).png'
 
@@ -82,7 +83,7 @@ export default async function LiveModelAiEnvironmentIntegrationLandingPage({ par
           'AI-composited brand visual showing a real live model integrated into an on-brand AI-generated environment',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=692c328d54e4"
+        ctaLink={getAppUrl('/canvas?shareid=692c328d54e4', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

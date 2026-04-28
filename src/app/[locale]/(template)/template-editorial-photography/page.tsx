@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -71,7 +72,7 @@ export default async function EditorialPhotographyLandingPage({ params }: PagePr
         outputImages={outputImages}
         outputImageAlts={['AI editorial photography example showing fashion campaign imagery']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f1f18acaa"
+        ctaLink={getAppUrl('/canvas?shareid=691f1f18acaa', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

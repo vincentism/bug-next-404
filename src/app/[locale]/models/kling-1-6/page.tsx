@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -156,7 +157,7 @@ export default async function Kling16ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -196,7 +197,7 @@ export default async function Kling16ModelPage({ params }: PageProps) {
       title: t('gallery.items.elements.title'),
       description: t('gallery.items.elements.description'),
       useCase: t('gallery.items.elements.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f26e8e3be',
+      link: getAppUrl('/canvas?shareid=691f26e8e3be', locale),
     },
     {
       type: 'video' as const,
@@ -205,7 +206,7 @@ export default async function Kling16ModelPage({ params }: PageProps) {
       title: t('gallery.items.transition.title'),
       description: t('gallery.items.transition.description'),
       useCase: t('gallery.items.transition.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f28f576af',
+      link: getAppUrl('/canvas?shareid=691f28f576af', locale),
     },
     {
       type: 'video' as const,
@@ -215,7 +216,7 @@ export default async function Kling16ModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      link: getAppUrl('/canvas?shareid=691f2a048044', locale),
     },
     {
       type: 'video' as const,
@@ -225,7 +226,7 @@ export default async function Kling16ModelPage({ params }: PageProps) {
       title: t('gallery.items.effects.title'),
       description: t('gallery.items.effects.description'),
       useCase: t('gallery.items.effects.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      link: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'video' as const,
@@ -235,7 +236,7 @@ export default async function Kling16ModelPage({ params }: PageProps) {
       title: t('gallery.items.fashion.title'),
       description: t('gallery.items.fashion.description'),
       useCase: t('gallery.items.fashion.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -245,7 +246,7 @@ export default async function Kling16ModelPage({ params }: PageProps) {
       title: t('gallery.items.commercial.title'),
       description: t('gallery.items.commercial.description'),
       useCase: t('gallery.items.commercial.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2991a2bc',
+      link: getAppUrl('/canvas?shareid=691f2991a2bc', locale),
     },
   ]
 

@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -80,7 +81,7 @@ export default async function ThreeDFigureDesignLandingPage({ params }: PageProp
         ]}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=68bf0f2473d4"
+        ctaLink={getAppUrl('/canvas?shareid=68bf0f2473d4', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

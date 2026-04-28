@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -164,7 +165,7 @@ export default async function KlingO1ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 

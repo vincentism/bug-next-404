@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/0211/Screenshot 2026-02-11 011630.png'
 const OUTPUT_VIDEO =
@@ -85,7 +86,7 @@ export default async function MotionTransferLandingPage({ params }: PageProps) {
           'AI motion transfer result driven by character image and reference video',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=698b6aea2579"
+        ctaLink={getAppUrl('/canvas?shareid=698b6aea2579', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

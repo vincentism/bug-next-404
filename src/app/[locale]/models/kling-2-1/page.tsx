@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -95,7 +96,6 @@ const modelData = {
     ],
     badge: 'Most Popular',
     ctaText: 'Try Kling 2.1 Free',
-    ctaLink: '/skills',
   },
   features: [
     {
@@ -139,7 +139,7 @@ const modelData = {
       description: 'E-commerce Product Videos',
       useCase:
         'Transform static product photos into engaging video content. Perfect for fashion and lifestyle products.',
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      shareId: '691f2a048044',
     },
     {
       type: 'video' as const,
@@ -150,7 +150,7 @@ const modelData = {
       description: 'Social Media Content',
       useCase:
         'Create scroll-stopping UGC-style videos for Instagram, TikTok, and other platforms.',
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      shareId: '691f269d38df',
     },
     {
       type: 'video' as const,
@@ -160,7 +160,7 @@ const modelData = {
       title: 'Consistent Character Ads',
       description: 'Brand Advertising',
       useCase: 'Produce consistent character ads and brand storytelling videos across campaigns.',
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      shareId: '692053b03267',
     },
     {
       type: 'video' as const,
@@ -170,7 +170,7 @@ const modelData = {
       title: 'Sportswear On-Model Ad',
       description: 'Athletic Wear Showcase',
       useCase: 'Dynamic poses and movements for sportswear and activewear products.',
-      link: 'https://opencreator.io/canvas?shareid=691f2991a2bc',
+      shareId: '691f2991a2bc',
     },
     {
       type: 'video' as const,
@@ -180,7 +180,7 @@ const modelData = {
       title: 'UGC Promo with Lipsync',
       description: 'Lip-synced Promotions',
       useCase: 'Add voice-over and lip-sync to create authentic promotional content.',
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      shareId: '691f3139a814',
     },
     {
       type: 'video' as const,
@@ -189,7 +189,7 @@ const modelData = {
       title: 'Accessories Model Display',
       description: 'Jewelry & Accessories',
       useCase: 'E-commerce jewelry and accessories showcase with elegant model presentation.',
-      link: 'https://opencreator.io/canvas?shareid=69285afcf73f',
+      shareId: '69285afcf73f',
     },
   ],
   comparison: {
@@ -318,7 +318,7 @@ export default async function Kling21ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -358,7 +358,7 @@ export default async function Kling21ModelPage({ params }: PageProps) {
       title: t('gallery.items.outfit.title'),
       description: t('gallery.items.outfit.description'),
       useCase: t('gallery.items.outfit.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      link: getAppUrl('/canvas?shareid=691f2a048044', locale),
     },
     {
       type: 'video' as const,
@@ -368,7 +368,7 @@ export default async function Kling21ModelPage({ params }: PageProps) {
       title: t('gallery.items.streetwear.title'),
       description: t('gallery.items.streetwear.description'),
       useCase: t('gallery.items.streetwear.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      link: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'video' as const,
@@ -378,7 +378,7 @@ export default async function Kling21ModelPage({ params }: PageProps) {
       title: t('gallery.items.character.title'),
       description: t('gallery.items.character.description'),
       useCase: t('gallery.items.character.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -388,7 +388,7 @@ export default async function Kling21ModelPage({ params }: PageProps) {
       title: t('gallery.items.sportswear.title'),
       description: t('gallery.items.sportswear.description'),
       useCase: t('gallery.items.sportswear.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2991a2bc',
+      link: getAppUrl('/canvas?shareid=691f2991a2bc', locale),
     },
     {
       type: 'video' as const,
@@ -398,7 +398,7 @@ export default async function Kling21ModelPage({ params }: PageProps) {
       title: t('gallery.items.lipsync.title'),
       description: t('gallery.items.lipsync.description'),
       useCase: t('gallery.items.lipsync.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      link: getAppUrl('/canvas?shareid=691f3139a814', locale),
     },
     {
       type: 'video' as const,
@@ -407,7 +407,7 @@ export default async function Kling21ModelPage({ params }: PageProps) {
       title: t('gallery.items.accessories.title'),
       description: t('gallery.items.accessories.description'),
       useCase: t('gallery.items.accessories.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=69285afcf73f',
+      link: getAppUrl('/canvas?shareid=69285afcf73f', locale),
     },
   ]
 

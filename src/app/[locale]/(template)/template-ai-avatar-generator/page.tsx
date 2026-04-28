@@ -17,6 +17,7 @@ import OffModalTips from '@/components/dialog/off_modal_tips'
 import { JsonLd } from '@/components/seo/json-ld'
 import { buildFaqPageSchema, createSchemaGraph, getSiteUrl } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -84,7 +85,7 @@ export default async function CoupleAvatarsLandingPage({ params }: PageProps) {
         inputImages={inputImages}
         outputImages={outputImages}
         ctaText={t('hero.ctaText')}
-        ctaLink="/skills"
+        ctaLink={getAppUrl('/skills', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

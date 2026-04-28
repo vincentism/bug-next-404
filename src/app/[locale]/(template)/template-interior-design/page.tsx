@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -71,7 +72,7 @@ export default async function InteriorDesignLandingPage({ params }: PageProps) {
         outputImages={TEMPLATE_INTERIOR_DESIGN_OUTPUTIMAGES_1}
         outputImageAlts={['AI interior design workflow example showing room visualization']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69206766ffd0"
+        ctaLink={getAppUrl('/canvas?shareid=69206766ffd0', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

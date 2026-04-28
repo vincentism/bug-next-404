@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -73,7 +74,7 @@ export default async function ProductInfographicsLandingPage({ params }: PagePro
           'AI product infographic example converting features and specs into clear visuals',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69206a68f77b"
+        ctaLink={getAppUrl('/canvas?shareid=69206a68f77b', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

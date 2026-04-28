@@ -24,6 +24,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -79,7 +80,7 @@ export default async function FoodProductAdLandingPage({ params }: PageProps) {
           'AI-generated food product ad example showing appetizing food marketing content',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f28f576af"
+        ctaLink={getAppUrl('/canvas?shareid=691f28f576af', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection workflowKey="food-product-ad" steps={t.raw('howItWorks.steps')} />

@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -79,7 +80,7 @@ export default async function Digital3cSpecialEffectLightingLandingPage({ params
         outputVideos={TEMPLATE_DIGITAL_3C_SPECIAL_EFFECT_LIGHTING_OUTPUTVIDEOS_1}
         outputImageAlts={['AI-generated 3C digital product with special effect lighting']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=695fa8645efd"
+        ctaLink={getAppUrl('/canvas?shareid=695fa8645efd', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

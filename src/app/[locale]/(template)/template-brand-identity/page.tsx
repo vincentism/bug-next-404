@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -71,7 +72,7 @@ export default async function BrandIdentityLandingPage({ params }: PageProps) {
         outputImages={outputImages}
         outputImageAlts={['AI brand identity example showing cohesive visual system']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69206d4b311b"
+        ctaLink={getAppUrl('/canvas?shareid=69206d4b311b', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection workflowKey="brand-identity" steps={t.raw('howItWorks.steps')} />

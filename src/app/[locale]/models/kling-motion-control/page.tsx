@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -126,7 +127,7 @@ export default async function KlingMotionControlModelPage({ params }: PageProps)
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -167,7 +168,7 @@ export default async function KlingMotionControlModelPage({ params }: PageProps)
       title: t('gallery.items.dance.title'),
       description: t('gallery.items.dance.description'),
       useCase: t('gallery.items.dance.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=698066d28256',
+      link: getAppUrl('/canvas?shareid=698066d28256', locale),
     },
     {
       type: 'video' as const,
@@ -176,7 +177,7 @@ export default async function KlingMotionControlModelPage({ params }: PageProps)
       title: t('gallery.items.character.title'),
       description: t('gallery.items.character.description'),
       useCase: t('gallery.items.character.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=6967a913e769',
+      link: getAppUrl('/canvas?shareid=6967a913e769', locale),
     },
     {
       type: 'video' as const,
@@ -196,7 +197,7 @@ export default async function KlingMotionControlModelPage({ params }: PageProps)
       title: t('gallery.items.influencer.title'),
       description: t('gallery.items.influencer.description'),
       useCase: t('gallery.items.influencer.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=6967ca22660c',
+      link: getAppUrl('/canvas?shareid=6967ca22660c', locale),
     },
     {
       type: 'video' as const,
@@ -215,7 +216,7 @@ export default async function KlingMotionControlModelPage({ params }: PageProps)
       title: t('gallery.items.tutorial.title'),
       description: t('gallery.items.tutorial.description'),
       useCase: t('gallery.items.tutorial.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=698066d28256',
+      link: getAppUrl('/canvas?shareid=698066d28256', locale),
     },
   ]
 

@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -82,7 +83,6 @@ const modelData = {
     ],
     badge: 'Pro',
     ctaText: 'Try Sync Lipsync 2.0',
-    ctaLink: '/skills',
   },
   comparison: {
     features: [
@@ -165,7 +165,7 @@ export default async function SyncLipsync2ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -205,7 +205,7 @@ export default async function SyncLipsync2ModelPage({ params }: PageProps) {
       title: t('gallery.items.dubbing.title'),
       description: t('gallery.items.dubbing.description'),
       useCase: t('gallery.items.dubbing.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      link: getAppUrl('/canvas?shareid=691f3139a814', locale),
     },
     {
       type: 'video' as const,
@@ -215,7 +215,7 @@ export default async function SyncLipsync2ModelPage({ params }: PageProps) {
       title: t('gallery.items.postEdit.title'),
       description: t('gallery.items.postEdit.description'),
       useCase: t('gallery.items.postEdit.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      link: getAppUrl('/canvas?shareid=691f25484cd0', locale),
     },
     {
       type: 'video' as const,
@@ -225,7 +225,7 @@ export default async function SyncLipsync2ModelPage({ params }: PageProps) {
       title: t('gallery.items.animation.title'),
       description: t('gallery.items.animation.description'),
       useCase: t('gallery.items.animation.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -235,7 +235,7 @@ export default async function SyncLipsync2ModelPage({ params }: PageProps) {
       title: t('gallery.items.aiAvatar.title'),
       description: t('gallery.items.aiAvatar.description'),
       useCase: t('gallery.items.aiAvatar.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      link: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'video' as const,
@@ -244,7 +244,7 @@ export default async function SyncLipsync2ModelPage({ params }: PageProps) {
       title: t('gallery.items.multiPerson.title'),
       description: t('gallery.items.multiPerson.description'),
       useCase: t('gallery.items.multiPerson.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f27c703c2',
+      link: getAppUrl('/canvas?shareid=691f27c703c2', locale),
     },
     {
       type: 'video' as const,
@@ -254,7 +254,7 @@ export default async function SyncLipsync2ModelPage({ params }: PageProps) {
       title: t('gallery.items.translation.title'),
       description: t('gallery.items.translation.description'),
       useCase: t('gallery.items.translation.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      link: getAppUrl('/canvas?shareid=691f2a048044', locale),
     },
   ]
 

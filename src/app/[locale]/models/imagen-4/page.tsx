@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -149,7 +150,7 @@ export default async function Imagen4ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -189,7 +190,7 @@ export default async function Imagen4ModelPage({ params }: PageProps) {
       title: t('gallery.items.photorealistic.title'),
       description: t('gallery.items.photorealistic.description'),
       useCase: t('gallery.items.photorealistic.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=691f24c7302f',
+      workflowLink: getAppUrl('/canvas?shareid=691f24c7302f', locale),
     },
     {
       type: 'image' as const,
@@ -197,7 +198,7 @@ export default async function Imagen4ModelPage({ params }: PageProps) {
       title: t('gallery.items.typography.title'),
       description: t('gallery.items.typography.description'),
       useCase: t('gallery.items.typography.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=691f2302e27c',
+      workflowLink: getAppUrl('/canvas?shareid=691f2302e27c', locale),
     },
   ]
 

@@ -21,6 +21,7 @@ import { buildAlternatesMetadata, getCanonicalUrl } from '@/lib/seo/urls'
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -156,7 +157,7 @@ export default async function Flux11ProModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -196,7 +197,7 @@ export default async function Flux11ProModelPage({ params }: PageProps) {
       title: t('gallery.items.portrait.title'),
       description: t('gallery.items.portrait.description'),
       useCase: t('gallery.items.portrait.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      workflowLink: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'image' as const,
@@ -204,7 +205,7 @@ export default async function Flux11ProModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=692053b03267',
+      workflowLink: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'image' as const,
@@ -212,7 +213,7 @@ export default async function Flux11ProModelPage({ params }: PageProps) {
       title: t('gallery.items.landscape.title'),
       description: t('gallery.items.landscape.description'),
       useCase: t('gallery.items.landscape.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=691f2991a2bc',
+      workflowLink: getAppUrl('/canvas?shareid=691f2991a2bc', locale),
     },
     {
       type: 'image' as const,
@@ -220,7 +221,7 @@ export default async function Flux11ProModelPage({ params }: PageProps) {
       title: t('gallery.items.artistic.title'),
       description: t('gallery.items.artistic.description'),
       useCase: t('gallery.items.artistic.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=691f3672857c',
+      workflowLink: getAppUrl('/canvas?shareid=691f3672857c', locale),
     },
   ]
 

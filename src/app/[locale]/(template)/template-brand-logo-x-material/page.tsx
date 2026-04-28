@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -71,7 +72,7 @@ export default async function BrandLogoMaterialLandingPage({ params }: PageProps
         outputImages={outputImages}
         outputImageAlts={['AI brand logo x material example showing textured logo treatment']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f21d7406c"
+        ctaLink={getAppUrl('/canvas?shareid=691f21d7406c', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

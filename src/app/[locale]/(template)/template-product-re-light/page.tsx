@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -75,7 +76,7 @@ export default async function ProductRelightLandingPage({ params }: PageProps) {
           'AI product re-lighting example showing studio-quality lighting applied to an e-commerce product photo',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=692055c06288"
+        ctaLink={getAppUrl('/canvas?shareid=692055c06288', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection workflowKey="product-re-light" steps={t.raw('howItWorks.steps')} />

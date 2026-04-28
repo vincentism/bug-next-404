@@ -24,6 +24,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -76,7 +77,7 @@ export default async function CrunchyMukbangAsmrLandingPage({ params }: PageProp
         inputImageAlts={['Crunchy Mukbang ASMR AI video cover showing crunchy snack visuals']}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f3372747c"
+        ctaLink={getAppUrl('/canvas?shareid=691f3372747c', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

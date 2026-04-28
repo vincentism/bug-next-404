@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE =
   'https://ik.imagekit.io/opencreator/web/xm/0115/pasted-image-2026-01-14T16-50-23-381Z.png'
@@ -85,7 +86,7 @@ export default async function AIInfluencerHyperRealLifestyleStudioLandingPage({
         outputVideos={outputVideos}
         outputImageAlts={[t('hero.outputImageAlt')]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=6967c97776d3"
+        ctaLink={getAppUrl('/canvas?shareid=6967c97776d3', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

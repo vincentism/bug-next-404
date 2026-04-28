@@ -23,8 +23,9 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
-const CTA_LINK = 'https://opencreator.io/canvas'
+const CTA_PATH = '/canvas'
 const COVER_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/1214/Templates Covers.png'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
@@ -52,6 +53,7 @@ export default async function NinePanelStoryboardLandingPage({ params }: PagePro
   const t = await getTranslations({ locale, namespace: 'templates.ninePanelStoryboard' })
   const siteUrl = getSiteUrl()
   const pageUrl = `${siteUrl}/${locale}/template-nine-panel-storyboard`
+  const ctaLink = getAppUrl(CTA_PATH, locale)
 
   const outputImages = [COVER_IMAGE]
 
@@ -74,10 +76,10 @@ export default async function NinePanelStoryboardLandingPage({ params }: PagePro
           'AI-generated 9-panel storyboard with consistent characters and visual style',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink={CTA_LINK}
+        ctaLink={ctaLink}
       />
       <ModelShowcase />
-      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={CTA_LINK} />
+      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={ctaLink} />
       <WorkflowWhoIsForSection
         title={t('whoIsFor.title')}
         subtitle={t('whoIsFor.subtitle')}

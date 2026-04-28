@@ -21,6 +21,7 @@ import { buildAlternatesMetadata, getCanonicalUrl } from '@/lib/seo/urls'
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -94,7 +95,6 @@ const modelData = {
     capabilities: ['Image to Video', 'Text to Video', 'Up to 15s', 'Audio Sync', 'Multi-Shot'],
     badge: 'New',
     ctaText: 'Try Wan 2.6 Free',
-    ctaLink: '/skills',
   },
   features: [
     {
@@ -138,7 +138,7 @@ const modelData = {
       description: 'TikTok & Reels',
       useCase:
         'Create scroll-stopping short-form videos for TikTok, Instagram Reels, and YouTube Shorts.',
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      shareId: '691f269d38df',
     },
     {
       type: 'video' as const,
@@ -149,7 +149,7 @@ const modelData = {
       description: 'Brand Advertising',
       useCase:
         'Produce professional marketing videos with narration, dialogue, and product showcases.',
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      shareId: '691f25484cd0',
     },
     {
       type: 'video' as const,
@@ -160,7 +160,7 @@ const modelData = {
       description: 'Product Videos',
       useCase:
         'Generate product videos from unboxing to usage with synchronized audio descriptions.',
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      shareId: '691f2a048044',
     },
     {
       type: 'video' as const,
@@ -171,7 +171,7 @@ const modelData = {
       description: 'Narrative Content',
       useCase:
         'Tell complete stories with beginning, middle, and end using multiple camera angles.',
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      shareId: '692053b03267',
     },
     {
       type: 'video' as const,
@@ -182,7 +182,7 @@ const modelData = {
       description: 'Scripted Performances',
       useCase:
         'Create interviews, scripted performances, and comedy skits with multi-character dialogue.',
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      shareId: '691f3139a814',
     },
     {
       type: 'video' as const,
@@ -193,7 +193,7 @@ const modelData = {
       description: 'Singing & Rap',
       useCase:
         'Generate music videos with singing, rap, and instrumental performances with lip-sync.',
-      link: 'https://opencreator.io/canvas?shareid=691f2991a2bc',
+      shareId: '691f2991a2bc',
     },
   ],
   comparison: {
@@ -278,7 +278,7 @@ export default async function Wan26ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -318,7 +318,7 @@ export default async function Wan26ModelPage({ params }: PageProps) {
       title: t('gallery.items.social.title'),
       description: t('gallery.items.social.description'),
       useCase: t('gallery.items.social.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      link: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'video' as const,
@@ -328,7 +328,7 @@ export default async function Wan26ModelPage({ params }: PageProps) {
       title: t('gallery.items.marketing.title'),
       description: t('gallery.items.marketing.description'),
       useCase: t('gallery.items.marketing.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      link: getAppUrl('/canvas?shareid=691f25484cd0', locale),
     },
     {
       type: 'video' as const,
@@ -338,7 +338,7 @@ export default async function Wan26ModelPage({ params }: PageProps) {
       title: t('gallery.items.ecommerce.title'),
       description: t('gallery.items.ecommerce.description'),
       useCase: t('gallery.items.ecommerce.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      link: getAppUrl('/canvas?shareid=691f2a048044', locale),
     },
     {
       type: 'video' as const,
@@ -348,7 +348,7 @@ export default async function Wan26ModelPage({ params }: PageProps) {
       title: t('gallery.items.storytelling.title'),
       description: t('gallery.items.storytelling.description'),
       useCase: t('gallery.items.storytelling.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -358,7 +358,7 @@ export default async function Wan26ModelPage({ params }: PageProps) {
       title: t('gallery.items.dialogue.title'),
       description: t('gallery.items.dialogue.description'),
       useCase: t('gallery.items.dialogue.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      link: getAppUrl('/canvas?shareid=691f3139a814', locale),
     },
     {
       type: 'video' as const,
@@ -368,7 +368,7 @@ export default async function Wan26ModelPage({ params }: PageProps) {
       title: t('gallery.items.music.title'),
       description: t('gallery.items.music.description'),
       useCase: t('gallery.items.music.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2991a2bc',
+      link: getAppUrl('/canvas?shareid=691f2991a2bc', locale),
     },
   ]
 

@@ -26,6 +26,7 @@ import {
 } from '@/lib/seo/schema'
 import { buildAlternatesMetadata, getCanonicalUrl } from '@/lib/seo/urls'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -33,7 +34,7 @@ type PageProps = {
 
 // Hero template for CTA link
 const HERO_TEMPLATE = {
-  ctaLink: 'https://opencreator.io/canvas?shareid=691f2a8b6b5a',
+  shareId: '691f2a8b6b5a',
 }
 
 // 模板类型定义
@@ -463,7 +464,7 @@ export default async function AIVideoPage({ params }: PageProps) {
 
               <div className="flex flex-wrap gap-4 pt-2">
                 <a
-                  href={HERO_TEMPLATE.ctaLink}
+                  href={getAppUrl(`/canvas?shareid=${HERO_TEMPLATE.shareId}`, locale)}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl bg-black text-[#1fde1f] border-2 border-black font-poller-one text-base hover:bg-[#1fde1f] hover:text-black hover:shadow-[4px_4px_0_#000] transition-all duration-200"
@@ -471,12 +472,12 @@ export default async function AIVideoPage({ params }: PageProps) {
                   <span>{t('hero.cta')}</span>
                   <span className="group-hover:translate-x-1 transition-transform">→</span>
                 </a>
-                <Link
-                  href="/skills"
+                <a
+                  href={getAppUrl('/skills', locale)}
                   className="inline-flex items-center justify-center px-6 py-4 rounded-2xl border-2 border-black text-sm bg-white hover:bg-black hover:text-white transition-all duration-200"
                 >
                   {t('hero.secondaryCta')}
-                </Link>
+                </a>
               </div>
             </div>
 

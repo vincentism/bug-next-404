@@ -23,8 +23,9 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
-const CTA_LINK = 'https://opencreator.io/canvas?shareid=693ea57e1b82'
+const CTA_SHARE_ID = '693ea57e1b82'
 const COVER_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/1214/Templates Covers.png'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
@@ -74,10 +75,10 @@ export default async function NineGridShotBreakdownLandingPage({ params }: PageP
           'AI-generated 3x3 cinematic storyboard grid showing 9 unique camera angles from a single reference image',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink={CTA_LINK}
+        ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)}
       />
       <ModelShowcase />
-      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={CTA_LINK} />
+      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)} />
       <WorkflowWhoIsForSection
         title={t('whoIsFor.title')}
         subtitle={t('whoIsFor.subtitle')}

@@ -14,6 +14,7 @@ import { cn } from '@/lib/utils'
 import { useLocale } from 'next-intl'
 import { useTranslations } from '@/i18n/client'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
+import { getAppUrl } from '@/lib/app-url'
 import { LandingBookDemoModal } from './book-demo-modal'
 import { SOLUTION_ITEMS } from './solution-items'
 
@@ -55,6 +56,7 @@ export const LandingNavbar = memo(function LandingNavbar() {
     () => navbarLanguages.find(language => language.code === locale) ?? navbarLanguages[0],
     [locale]
   )
+  const appSkillsUrl = useMemo(() => getAppUrl('/skills', locale), [locale])
   const tNavbar = useTranslations('landing.navbar')
 
   const router = useRouter()
@@ -122,7 +124,6 @@ export const LandingNavbar = memo(function LandingNavbar() {
   )
 
   useEffect(() => {
-    router.prefetch('/skills')
     router.prefetch('/openclaw')
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
@@ -218,13 +219,12 @@ export const LandingNavbar = memo(function LandingNavbar() {
                             </Link>
                           ))}
                           <div className="border-t border-gray-100 mt-1 pt-1">
-                            <Link
-                              href="/skills"
-                              prefetch={false}
+                            <a
+                              href={appSkillsUrl}
                               className="block px-4 py-2 text-sm text-gray-500 hover:text-black hover:bg-gray-50 transition-colors"
                             >
                               {tNavbar('solutionItems.viewAll')} →
-                            </Link>
+                            </a>
                           </div>
                         </div>
                       </motion.div>
@@ -298,13 +298,12 @@ export const LandingNavbar = memo(function LandingNavbar() {
                 {tNavbar('bookADemo')}
               </button>
 
-              <Link
-                href="/skills"
-                prefetch={false}
+              <a
+                href={appSkillsUrl}
                 className="inline-flex items-center justify-center px-8 py-2 bg-white text-black font-bold rounded-xl border-2 border-black hover:bg-theme-pink hover:text-white hover:border-black hover:border-dashed transition-colors"
               >
                 {tNavbar('startForFree')}
-              </Link>
+              </a>
 
               <Tooltip
                 placement="bottom"
@@ -367,14 +366,13 @@ export const LandingNavbar = memo(function LandingNavbar() {
               >
                 {tNavbar('home')}
               </Link>
-              <Link
-                href="/skills"
-                prefetch={false}
+              <a
+                href={appSkillsUrl}
                 className="block py-2 text-base font-medium hover:text-gray-600 transition-colors"
                 onClick={closeMobileMenu}
               >
                 {tNavbar('solutions')}
-              </Link>
+              </a>
               <Link
                 href="/pricing"
                 prefetch={false}
@@ -431,14 +429,13 @@ export const LandingNavbar = memo(function LandingNavbar() {
                 {tNavbar('bookADemo')}
               </button>
 
-              <Link
-                href="/skills"
-                prefetch={false}
+              <a
+                href={appSkillsUrl}
                 className="block w-full text-center mt-2 py-2 px-8 rounded-xl border-2 border-black bg-white text-black font-bold hover:bg-theme-pink hover:text-white hover:border-black hover:border-dashed transition-colors"
                 onClick={closeMobileMenu}
               >
                 {tNavbar('startForFree')}
-              </Link>
+              </a>
 
               <div className="flex items-center gap-3 pt-4 border-t border-gray-200 mt-4">
                 <span className="text-sm text-gray-500">{tNavbar('language')}</span>

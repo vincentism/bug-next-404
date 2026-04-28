@@ -1,9 +1,11 @@
 ## dev环境
 
-www-dev.opencreator.io
-editor-dev.opencreator.io
+www-preview.opencreator.io  
+editor-peview.opencreator.io
+
+
 
 ## prod 环境
 
-opencreator.io
-app.opencreaor.io
+opencreator.io  
+app.opencreator.io

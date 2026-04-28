@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_DRAW_TO_EDIT_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1119-templates-refresh/Draw to Edit.png',
@@ -71,7 +72,7 @@ export default async function DrawToEditLandingPage({ params }: PageProps) {
         outputImages={TEMPLATE_DRAW_TO_EDIT_OUTPUTIMAGES_1}
         outputImageAlts={['AI draw to edit workflow example showing sketch-based image editing']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69205c9c6d53"
+        ctaLink={getAppUrl('/canvas?shareid=69205c9c6d53', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

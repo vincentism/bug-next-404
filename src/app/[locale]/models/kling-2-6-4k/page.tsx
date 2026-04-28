@@ -19,6 +19,7 @@ import {
 } from '@/lib/seo/schema'
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -125,7 +126,7 @@ export default async function Kling264KModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -167,7 +168,7 @@ export default async function Kling264KModelPage({ params }: PageProps) {
       title: t('gallery.items.cinematic.title'),
       description: t('gallery.items.cinematic.description'),
       useCase: t('gallery.items.cinematic.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      link: getAppUrl('/canvas?shareid=691f25484cd0', locale),
     },
     {
       type: 'video' as const,
@@ -177,7 +178,7 @@ export default async function Kling264KModelPage({ params }: PageProps) {
       title: t('gallery.items.commercial.title'),
       description: t('gallery.items.commercial.description'),
       useCase: t('gallery.items.commercial.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      link: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'video' as const,
@@ -187,7 +188,7 @@ export default async function Kling264KModelPage({ params }: PageProps) {
       title: t('gallery.items.vr.title'),
       description: t('gallery.items.vr.description'),
       useCase: t('gallery.items.vr.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      link: getAppUrl('/canvas?shareid=691f2a048044', locale),
     },
     {
       type: 'video' as const,
@@ -197,7 +198,7 @@ export default async function Kling264KModelPage({ params }: PageProps) {
       title: t('gallery.items.sports.title'),
       description: t('gallery.items.sports.description'),
       useCase: t('gallery.items.sports.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      link: getAppUrl('/canvas?shareid=691f3139a814', locale),
     },
     {
       type: 'video' as const,
@@ -207,7 +208,7 @@ export default async function Kling264KModelPage({ params }: PageProps) {
       title: t('gallery.items.documentary.title'),
       description: t('gallery.items.documentary.description'),
       useCase: t('gallery.items.documentary.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -216,7 +217,7 @@ export default async function Kling264KModelPage({ params }: PageProps) {
       title: t('gallery.items.branding.title'),
       description: t('gallery.items.branding.description'),
       useCase: t('gallery.items.branding.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f27c703c2',
+      link: getAppUrl('/canvas?shareid=691f27c703c2', locale),
     },
   ]
 

@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_BACKGROUND_REMOVE_EDIT_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1119-templates-refresh/Background Remove & Edit.png',
@@ -71,7 +72,7 @@ export default async function BackgroundRemoveEditLandingPage({ params }: PagePr
           'AI background removal and editing workflow example showing clean cutout',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69205c84793b"
+        ctaLink={getAppUrl('/canvas?shareid=69205c84793b', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

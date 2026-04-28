@@ -21,6 +21,7 @@ import { buildAlternatesMetadata, getCanonicalUrl } from '@/lib/seo/urls'
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -157,7 +158,7 @@ export default async function NanoBananaProModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -196,7 +197,7 @@ export default async function NanoBananaProModelPage({ params }: PageProps) {
       title: t('gallery.items.conceptArt.title'),
       description: t('gallery.items.conceptArt.description'),
       useCase: t('gallery.items.conceptArt.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=69284bf81862',
+      workflowLink: getAppUrl('/canvas?shareid=69284bf81862', locale),
     },
     {
       type: 'image' as const,
@@ -204,7 +205,7 @@ export default async function NanoBananaProModelPage({ params }: PageProps) {
       title: t('gallery.items.productVisuals.title'),
       description: t('gallery.items.productVisuals.description'),
       useCase: t('gallery.items.productVisuals.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=69204e7cce26',
+      workflowLink: getAppUrl('/canvas?shareid=69204e7cce26', locale),
     },
     {
       type: 'image' as const,
@@ -212,7 +213,7 @@ export default async function NanoBananaProModelPage({ params }: PageProps) {
       title: t('gallery.items.infographics.title'),
       description: t('gallery.items.infographics.description'),
       useCase: t('gallery.items.infographics.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=69206a68f77b',
+      workflowLink: getAppUrl('/canvas?shareid=69206a68f77b', locale),
     },
     {
       type: 'image' as const,
@@ -220,7 +221,7 @@ export default async function NanoBananaProModelPage({ params }: PageProps) {
       title: t('gallery.items.posters.title'),
       description: t('gallery.items.posters.description'),
       useCase: t('gallery.items.posters.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=691f2e16b9f1',
+      workflowLink: getAppUrl('/canvas?shareid=691f2e16b9f1', locale),
     },
     {
       type: 'image' as const,
@@ -228,7 +229,7 @@ export default async function NanoBananaProModelPage({ params }: PageProps) {
       title: t('gallery.items.socialMedia.title'),
       description: t('gallery.items.socialMedia.description'),
       useCase: t('gallery.items.socialMedia.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=691f1f18acaa',
+      workflowLink: getAppUrl('/canvas?shareid=691f1f18acaa', locale),
     },
     {
       type: 'image' as const,
@@ -236,7 +237,7 @@ export default async function NanoBananaProModelPage({ params }: PageProps) {
       title: t('gallery.items.moodBoards.title'),
       description: t('gallery.items.moodBoards.description'),
       useCase: t('gallery.items.moodBoards.useCase'),
-      workflowLink: 'https://opencreator.io/canvas?shareid=692052a047c6',
+      workflowLink: getAppUrl('/canvas?shareid=692052a047c6', locale),
     },
   ]
 

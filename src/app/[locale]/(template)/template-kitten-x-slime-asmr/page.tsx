@@ -24,6 +24,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -78,7 +79,7 @@ export default async function KittenSlimeAsmrLandingPage({ params }: PageProps) 
         ]}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f33af7990"
+        ctaLink={getAppUrl('/canvas?shareid=691f33af7990', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

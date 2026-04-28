@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -75,7 +76,7 @@ export default async function HomewareLifestyleAdLandingPage({ params }: PagePro
           'AI-generated homeware lifestyle ad example showing furniture in a real home environment',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f25571c77"
+        ctaLink={getAppUrl('/canvas?shareid=691f25571c77', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

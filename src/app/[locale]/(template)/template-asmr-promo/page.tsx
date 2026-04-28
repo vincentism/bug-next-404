@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -75,7 +76,7 @@ export default async function ASMRPromoLandingPage({ params }: PageProps) {
           'AI-generated ASMR promo example showing relaxing sensory marketing content',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f27c703c2"
+        ctaLink={getAppUrl('/canvas?shareid=691f27c703c2', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection workflowKey="asmr-promo" steps={t.raw('howItWorks.steps')} />

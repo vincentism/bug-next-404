@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -71,7 +72,7 @@ export default async function StyleTransferBananaProLandingPage({ params }: Page
         outputImages={outputImages}
         outputImageAlts={['AI-powered style transfer showing artistic transformation of images']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=693031fe7033"
+        ctaLink={getAppUrl('/canvas?shareid=693031fe7033', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

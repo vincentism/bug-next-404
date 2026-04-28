@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -75,7 +76,7 @@ export default async function LinkedInHeadshotLandingPage({ params }: PageProps)
           'AI-generated professional LinkedIn headshot example showing polished portrait with clean background',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f1fe0bb8b"
+        ctaLink={getAppUrl('/canvas?shareid=691f1fe0bb8b', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

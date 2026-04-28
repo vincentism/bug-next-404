@@ -36,6 +36,94 @@ const withAnalyzer = withBundleAnalyzer({
   openAnalyzer: true,
 })
 
+type NextConfigWithLegacyTurbo = NextConfig & {
+  experimental?: NextConfig['experimental'] & {
+    turbo?: NonNullable<NextConfig['turbopack']>
+  }
+}
+
+const FALLBACK_APP_BASE_URL = 'https://app.opencreator.io'
+
+const PRODUCT_ROUTE_PREFIXES = [
+  'home',
+  'skills',
+  'projects',
+  'workflows',
+  'assets',
+  'developer/apikeys',
+  'canvas',
+  'credits',
+  'payment-redirect',
+  'auth-complete',
+  'sso-callback',
+  'custom-workflow',
+  'content-production',
+  'remotion',
+  'sign-in',
+  'sign-up',
+  'verify',
+  'tiktok/auth',
+  'youtube/auth',
+] as const
+
+const normalizeBaseUrl = (url: string) => url.replace(/\/$/, '')
+
+const getAppBaseUrl = () =>
+  normalizeBaseUrl(process.env.NEXT_PUBLIC_APP_URL || process.env.APP_BASE_URL || FALLBACK_APP_BASE_URL)
+
+const createProductRedirects = () => {
+  const appBaseUrl = getAppBaseUrl()
+
+  return PRODUCT_ROUTE_PREFIXES.flatMap(prefix => [
+    {
+      source: `/:locale(en|zh)/${prefix}`,
+      destination: `${appBaseUrl}/:locale/${prefix}`,
+      permanent: true,
+    },
+    {
+      source: `/:locale(en|zh)/${prefix}/:path*`,
+      destination: `${appBaseUrl}/:locale/${prefix}/:path*`,
+      permanent: true,
+    },
+    {
+      source: `/${prefix}`,
+      destination: `${appBaseUrl}/${prefix}`,
+      permanent: true,
+    },
+    {
+      source: `/${prefix}/:path*`,
+      destination: `${appBaseUrl}/${prefix}/:path*`,
+      permanent: true,
+    },
+  ])
+}
+
+const migrateLegacyTurboConfig = (config: NextConfig): NextConfig => {
+  const legacyConfig = config as NextConfigWithLegacyTurbo
+  const legacyTurbo = legacyConfig.experimental?.turbo
+
+  if (!legacyTurbo) {
+    return config
+  }
+
+  legacyConfig.turbopack = {
+    ...legacyTurbo,
+    ...legacyConfig.turbopack,
+    resolveAlias: {
+      ...legacyTurbo.resolveAlias,
+      ...legacyConfig.turbopack?.resolveAlias,
+    },
+    rules: {
+      ...legacyTurbo.rules,
+      ...legacyConfig.turbopack?.rules,
+    },
+  }
+
+  delete legacyConfig.experimental?.turbo
+
+  return legacyConfig
+}
+
 const nextConfig: NextConfig = {
   outputFileTracingRoot: __dirname,
 
@@ -118,6 +206,31 @@ const nextConfig: NextConfig = {
       },
     ]
   },
+  async redirects() {
+    return [
+      ...createProductRedirects(),
+      {
+        source: '/:locale(en|zh)/template',
+        destination: '/:locale',
+        permanent: true,
+      },
+      {
+        source: '/:locale(en|zh)/templates',
+        destination: '/:locale',
+        permanent: true,
+      },
+      {
+        source: '/template',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/templates',
+        destination: '/',
+        permanent: true,
+      },
+    ]
+  },
   // output: 'export',
   // 生产环境静态资源从 R2 CDN 提供，EC2 只负责 SSR
   // assetPrefix: (() => {
@@ -176,7 +289,7 @@ export default async () => {
       ? withAnalyzer(withNextIntl(nextConfig))
       : withNextIntl(nextConfig)
 
-  return withSentryConfig(composedConfig, {
+  return withSentryConfig(migrateLegacyTurboConfig(composedConfig), {
     // 自动上传 source maps 以便在 Sentry 中看到可读的堆栈
     sourcemaps: {
       deleteSourcemapsAfterUpload: true,

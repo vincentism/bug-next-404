@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/0110/投流的原理与应用.jpg'
 const OUTPUT_VIDEO =
@@ -77,7 +78,7 @@ export default async function EverythingTurnsIntoRobotsLandingPage({ params }: P
         outputVideos={outputVideos}
         outputImageAlts={[t('hero.outputImageAlt')]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69612b4f1711"
+        ctaLink={getAppUrl('/canvas?shareid=69612b4f1711', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

@@ -3,8 +3,10 @@
 import React, { memo, useCallback, useState } from 'react'
 import { Link } from '@/i18n/navigation'
 import { ArrowRight } from 'lucide-react'
+import { useLocale } from 'next-intl'
 import { useTranslations } from '@/i18n/client'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
+import { getAppUrl } from '@/lib/app-url'
 
 const images = [
   {
@@ -60,6 +62,8 @@ const images = [
 export const LandingCTA = memo(function LandingCTA() {
   const [isHovered, setIsHovered] = useState(false)
   const t = useTranslations('landing.cta')
+  const locale = useLocale()
+  const appSkillsUrl = getAppUrl('/skills', locale)
   const handleMouseEnter = useCallback(() => {
     setIsHovered(true)
   }, [])
@@ -80,12 +84,12 @@ export const LandingCTA = memo(function LandingCTA() {
             </h2>
 
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4 justify-center lg:justify-start">
-              <Link
-                href="/skills"
+              <a
+                href={appSkillsUrl}
                 className="inline-flex items-center justify-center text-base lg:text-lg px-8 lg:px-16 py-2.5 lg:py-3 bg-black text-white font-bold rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors"
               >
                 {t('ctaPrimary')}
-              </Link>
+              </a>
               <Link
                 href="https://uusd8j57636y.sg.larksuite.com/share/base/form/shrlgNBmyK5OBha9x1PFYWXnA3e?from=navigation"
                 target="_blank"

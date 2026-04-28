@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -74,7 +75,7 @@ export default async function BlackFridayPosterLandingPage({ params }: PageProps
         outputImages={outputImages}
         outputImageAlts={t.raw('hero.outputImageAlts')}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f2e16b9f1"
+        ctaLink={getAppUrl('/canvas?shareid=691f2e16b9f1', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

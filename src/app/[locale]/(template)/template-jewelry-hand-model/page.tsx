@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -73,7 +74,7 @@ export default async function JewelryHandModelLandingPage({ params }: PageProps)
           'AI ring try-on image showing realistic hand model with accurate scale and lighting',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f1e3b3cc0"
+        ctaLink={getAppUrl('/canvas?shareid=691f1e3b3cc0', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

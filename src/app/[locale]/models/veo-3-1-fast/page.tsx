@@ -21,6 +21,7 @@ import { buildAlternatesMetadata, getCanonicalUrl } from '@/lib/seo/urls'
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -172,7 +173,7 @@ export default async function Veo31FastModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -213,7 +214,7 @@ export default async function Veo31FastModelPage({ params }: PageProps) {
       title: t('gallery.items.transition.title'),
       description: t('gallery.items.transition.description'),
       useCase: t('gallery.items.transition.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f27d7ca9a',
+      link: getAppUrl('/canvas?shareid=691f27d7ca9a', locale),
     },
     {
       type: 'video' as const,
@@ -222,7 +223,7 @@ export default async function Veo31FastModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f35e36201',
+      link: getAppUrl('/canvas?shareid=691f35e36201', locale),
     },
     {
       type: 'video' as const,
@@ -231,7 +232,7 @@ export default async function Veo31FastModelPage({ params }: PageProps) {
       title: t('gallery.items.social.title'),
       description: t('gallery.items.social.description'),
       useCase: t('gallery.items.social.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f295ce7e5',
+      link: getAppUrl('/canvas?shareid=691f295ce7e5', locale),
     },
     {
       type: 'video' as const,
@@ -240,7 +241,7 @@ export default async function Veo31FastModelPage({ params }: PageProps) {
       title: t('gallery.items.prototype.title'),
       description: t('gallery.items.prototype.description'),
       useCase: t('gallery.items.prototype.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f27c703c2',
+      link: getAppUrl('/canvas?shareid=691f27c703c2', locale),
     },
     {
       type: 'video' as const,
@@ -250,7 +251,7 @@ export default async function Veo31FastModelPage({ params }: PageProps) {
       title: t('gallery.items.commercial.title'),
       description: t('gallery.items.commercial.description'),
       useCase: t('gallery.items.commercial.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3403eece',
+      link: getAppUrl('/canvas?shareid=691f3403eece', locale),
     },
     {
       type: 'video' as const,
@@ -260,7 +261,7 @@ export default async function Veo31FastModelPage({ params }: PageProps) {
       title: t('gallery.items.animation.title'),
       description: t('gallery.items.animation.description'),
       useCase: t('gallery.items.animation.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3372747c',
+      link: getAppUrl('/canvas?shareid=691f3372747c', locale),
     },
   ]
 

@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -72,7 +73,7 @@ export default async function SpecialMaterialAsmrLandingPage({ params }: PagePro
         inputImageAlts={['Special Material ASMR AI video cover showing unique material textures']}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f3679d23e"
+        ctaLink={getAppUrl('/canvas?shareid=691f3679d23e', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

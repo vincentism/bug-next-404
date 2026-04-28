@@ -22,6 +22,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -96,7 +97,7 @@ export default async function GiantPlushieRemixLandingPage({ params }: PageProps
         inputImages={inputImages}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="/skills"
+        ctaLink={getAppUrl('/skills', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

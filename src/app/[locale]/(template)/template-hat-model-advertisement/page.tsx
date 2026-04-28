@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE =
   'https://ik.imagekit.io/opencreator/web/xm/1229/36836386e15601b9e27f17bf6d1860cb.jpg'
@@ -73,7 +74,7 @@ export default async function HatModelAdvertisementLandingPage({ params }: PageP
         outputImages={outputImages}
         outputImageAlts={['AI-generated hat model ad visual with commercial fashion styling']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=695279daca97"
+        ctaLink={getAppUrl('/canvas?shareid=695279daca97', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

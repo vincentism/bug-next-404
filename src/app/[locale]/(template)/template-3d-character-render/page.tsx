@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_3D_CHARACTER_RENDER_OUTPUTVIDEOS_1 = ['https://ik.imagekit.io/opencreator/uploads/ucqX2F4s7M.mp4']
 
@@ -70,7 +71,7 @@ export default async function ThreeDCharacterRenderLandingPage({ params }: PageP
         ]}
         inputImageAlts={['3D character render reference example for AI workflow']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f33b8a0fb"
+        ctaLink={getAppUrl('/canvas?shareid=691f33b8a0fb', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

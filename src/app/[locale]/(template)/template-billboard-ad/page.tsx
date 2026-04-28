@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -77,7 +78,7 @@ export default async function BillboardAdLandingPage({ params }: PageProps) {
           'AI-generated billboard ad example showing professional outdoor advertising design',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f282fb403"
+        ctaLink={getAppUrl('/canvas?shareid=691f282fb403', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection workflowKey="billboard-ad" steps={t.raw('howItWorks.steps')} />

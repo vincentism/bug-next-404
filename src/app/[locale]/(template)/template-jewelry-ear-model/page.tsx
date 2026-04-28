@@ -23,6 +23,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = { params: Promise<{ locale: string }> }
 
@@ -71,7 +72,7 @@ export default async function JewelryEarModelLandingPage({ params }: PageProps) 
         outputImages={outputImages}
         outputImageAlts={['AI earring try-on image showing realistic ear model with accurate fit']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=692057a6807f"
+        ctaLink={getAppUrl('/canvas?shareid=692057a6807f', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

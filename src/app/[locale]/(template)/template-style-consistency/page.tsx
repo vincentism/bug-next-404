@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_STYLE_CONSISTENCY_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1119-templates-refresh/Style Consistency.png',
@@ -69,7 +70,7 @@ export default async function StyleConsistencyLandingPage({ params }: PageProps)
         outputImages={TEMPLATE_STYLE_CONSISTENCY_OUTPUTIMAGES_1}
         outputImageAlts={['AI style consistency workflow example showing unified visual style']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69205ba587b8"
+        ctaLink={getAppUrl('/canvas?shareid=69205ba587b8', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

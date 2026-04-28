@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -161,7 +162,7 @@ export default async function LumaRay2ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -201,7 +202,7 @@ export default async function LumaRay2ModelPage({ params }: PageProps) {
       title: t('gallery.items.nature.title'),
       description: t('gallery.items.nature.description'),
       useCase: t('gallery.items.nature.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f26e8e3be',
+      link: getAppUrl('/canvas?shareid=691f26e8e3be', locale),
     },
     {
       type: 'video' as const,
@@ -211,7 +212,7 @@ export default async function LumaRay2ModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2718d87a',
+      link: getAppUrl('/canvas?shareid=691f2718d87a', locale),
     },
     {
       type: 'video' as const,
@@ -221,7 +222,7 @@ export default async function LumaRay2ModelPage({ params }: PageProps) {
       title: t('gallery.items.portrait.title'),
       description: t('gallery.items.portrait.description'),
       useCase: t('gallery.items.portrait.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2991a2bc',
+      link: getAppUrl('/canvas?shareid=691f2991a2bc', locale),
     },
     {
       type: 'video' as const,
@@ -230,7 +231,7 @@ export default async function LumaRay2ModelPage({ params }: PageProps) {
       title: t('gallery.items.surreal.title'),
       description: t('gallery.items.surreal.description'),
       useCase: t('gallery.items.surreal.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3145c52e',
+      link: getAppUrl('/canvas?shareid=691f3145c52e', locale),
     },
     {
       type: 'video' as const,
@@ -239,7 +240,7 @@ export default async function LumaRay2ModelPage({ params }: PageProps) {
       title: t('gallery.items.closeup.title'),
       description: t('gallery.items.closeup.description'),
       useCase: t('gallery.items.closeup.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f295ce7e5',
+      link: getAppUrl('/canvas?shareid=691f295ce7e5', locale),
     },
     {
       type: 'video' as const,
@@ -249,7 +250,7 @@ export default async function LumaRay2ModelPage({ params }: PageProps) {
       title: t('gallery.items.vfx.title'),
       description: t('gallery.items.vfx.description'),
       useCase: t('gallery.items.vfx.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f27d7ca9a',
+      link: getAppUrl('/canvas?shareid=691f27d7ca9a', locale),
     },
   ]
 

@@ -5,8 +5,10 @@ import dynamic from 'next/dynamic'
 import { motion } from 'framer-motion'
 import { Link } from '@/i18n/navigation'
 import { ArrowRight } from 'lucide-react'
+import { useLocale } from 'next-intl'
 import { useTranslations } from '@/i18n/client'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
+import { getAppUrl } from '@/lib/app-url'
 
 const LazyWhyDemo = dynamic(() => import('./why-demo').then(mod => mod.WhyDemo), {
   ssr: false,
@@ -17,6 +19,8 @@ const LazyWhyDemo = dynamic(() => import('./why-demo').then(mod => mod.WhyDemo),
 
 export function WhyOpenCreator() {
   const t = useTranslations('landing.whyOpenCreator')
+  const locale = useLocale()
+  const appSkillsUrl = getAppUrl('/skills', locale)
 
   return (
     <section className="relative w-full bg-black py-12 md:py-16 lg:py-24 overflow-hidden">
@@ -105,12 +109,12 @@ export function WhyOpenCreator() {
             </ul>
 
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4">
-              <Link
-                href="/skills"
+              <a
+                href={appSkillsUrl}
                 className="inline-flex items-center justify-center px-5 lg:px-6 py-2.5 lg:py-3 bg-white text-black font-bold rounded-xl border-2 border-[#131713] hover:bg-theme-pink hover:text-white hover:border-black hover:border-dashed transition-colors text-sm lg:text-base"
               >
                 {t('section1.ctaPrimary')}
-              </Link>
+              </a>
               <Link
                 href="https://uusd8j57636y.sg.larksuite.com/share/base/form/shrlgNBmyK5OBha9x1PFYWXnA3e?from=navigation"
                 target="_blank"
@@ -166,12 +170,12 @@ export function WhyOpenCreator() {
             </ul>
 
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4">
-              <Link
-                href="/skills"
+              <a
+                href={appSkillsUrl}
                 className="inline-flex items-center justify-center px-5 lg:px-6 py-2.5 lg:py-3 bg-white text-black font-bold rounded-xl border-2 border-[#131713] hover:bg-theme-pink hover:text-white hover:border-black hover:border-dashed transition-colors text-sm lg:text-base"
               >
                 {t('section2.ctaPrimary')}
-              </Link>
+              </a>
               <Link
                 href="https://uusd8j57636y.sg.larksuite.com/share/base/form/shrlgNBmyK5OBha9x1PFYWXnA3e?from=navigation"
                 target="_blank"

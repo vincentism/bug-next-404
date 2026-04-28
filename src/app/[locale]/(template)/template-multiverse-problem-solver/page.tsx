@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_MULTIVERSE_PROBLEM_SOLVER_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1121-templates-covers/Multiverse Problem Solver.png',
@@ -71,7 +72,7 @@ export default async function MultiverseProblemSolverLandingPage({ params }: Pag
           'AI multiverse problem solver workflow example showing creative solutions',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=6920661df89e"
+        ctaLink={getAppUrl('/canvas?shareid=6920661df89e', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

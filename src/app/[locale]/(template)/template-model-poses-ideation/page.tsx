@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_MODEL_POSES_IDEATION_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1119-templates-refresh/Model Poses Ideation.png',
@@ -73,7 +74,7 @@ export default async function ModelPosesIdeationLandingPage({ params }: PageProp
           'AI model poses ideation workflow example showing various pose references',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69205708e61c"
+        ctaLink={getAppUrl('/canvas?shareid=69205708e61c', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

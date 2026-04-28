@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const TEMPLATE_ONE_CLICK_STORY_BOARD_OUTPUTIMAGES_1 = [
           'https://ik.imagekit.io/opencreator/web/xm/1119-templates-refresh/One-click Story Board.png',
@@ -71,7 +72,7 @@ export default async function OneClickStoryBoardLandingPage({ params }: PageProp
           'AI one-click storyboard workflow example showing visual narrative panels',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69205b19cc8b"
+        ctaLink={getAppUrl('/canvas?shareid=69205b19cc8b', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

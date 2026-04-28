@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -74,7 +75,7 @@ export default async function RingDisplayLandingPage({ params }: PageProps) {
         outputVideos={TEMPLATE_RING_DISPLAY_OUTPUTVIDEOS_1}
         outputImageAlts={['AI-generated retouched ring photo on white background']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=695fa9cba7cd"
+        ctaLink={getAppUrl('/canvas?shareid=695fa9cba7cd', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

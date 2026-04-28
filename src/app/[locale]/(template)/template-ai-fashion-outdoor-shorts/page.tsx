@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -68,7 +69,7 @@ export default async function AIFashionOutdoorShortsLandingPage({ params }: Page
         inputType="text"
         outputImages={outputImages}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=693566c8d1bb"
+        ctaLink={getAppUrl('/canvas?shareid=693566c8d1bb', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

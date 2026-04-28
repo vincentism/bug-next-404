@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE =
   'https://ik.imagekit.io/opencreator/web/xm/0108/OpenCreator_image_1767857280031.png'
@@ -104,7 +105,7 @@ export default async function GothicJewelryWorkflowLandingPage({ params }: PageP
           'AI-generated gothic-style jewelry photo with dramatic dark aesthetic lighting',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=695f7a560fdd"
+        ctaLink={getAppUrl('/canvas?shareid=695f7a560fdd', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

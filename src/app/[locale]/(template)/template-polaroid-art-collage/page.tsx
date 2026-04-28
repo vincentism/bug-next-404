@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -75,7 +76,7 @@ export default async function PolaroidArtCollageLandingPage({ params }: PageProp
           'AI-generated polaroid art collage combining lifestyle and product visuals in an aesthetic layout',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=692861bf2fb2"
+        ctaLink={getAppUrl('/canvas?shareid=692861bf2fb2', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

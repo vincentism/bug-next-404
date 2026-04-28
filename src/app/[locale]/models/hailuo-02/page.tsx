@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -161,7 +162,7 @@ export default async function Hailuo02ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -198,7 +199,7 @@ export default async function Hailuo02ModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3145c52e',
+      link: getAppUrl('/canvas?shareid=691f3145c52e', locale),
     },
     {
       type: 'video' as const,
@@ -208,7 +209,7 @@ export default async function Hailuo02ModelPage({ params }: PageProps) {
       title: t('gallery.items.character.title'),
       description: t('gallery.items.character.description'),
       useCase: t('gallery.items.character.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f33b8a0fb',
+      link: getAppUrl('/canvas?shareid=691f33b8a0fb', locale),
     },
   ]
 

@@ -23,8 +23,9 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
-const CTA_LINK = 'https://opencreator.io/canvas?shareid=694179d96f9c'
+const CTA_SHARE_ID = '694179d96f9c'
 const COVER_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/1216/12月16日-封面.jpg'
 const OUTPUT_VIDEO = 'https://ik.imagekit.io/opencreator/web/xm/1216/12月16日.mp4'
 
@@ -78,10 +79,10 @@ export default async function JewelryFullCycleGeneratorLandingPage({ params }: P
           'AI-generated jewelry marketing assets including product photos and promotional video',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink={CTA_LINK}
+        ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)}
       />
       <ModelShowcase />
-      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={CTA_LINK} />
+      <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} ctaLink={getAppUrl(`/canvas?shareid=${CTA_SHARE_ID}`, locale)} />
       <WorkflowWhoIsForSection
         title={t('whoIsFor.title')}
         subtitle={t('whoIsFor.subtitle')}

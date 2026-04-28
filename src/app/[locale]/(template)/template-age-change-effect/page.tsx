@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -75,7 +76,7 @@ export default async function AgeChangeEffectLandingPage({ params }: PageProps) 
           'AI age change effect example showing younger and older variations of a portrait in one layout',
         ]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=692830523660"
+        ctaLink={getAppUrl('/canvas?shareid=692830523660', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

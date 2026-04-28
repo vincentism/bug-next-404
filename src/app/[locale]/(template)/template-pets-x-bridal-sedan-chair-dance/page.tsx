@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/web/xm/0114/1月14日 (2).png'
 const OUTPUT_VIDEO = 'https://ik.imagekit.io/opencreator/uploads/lS7-wK7Kyq.mp4'
@@ -79,7 +80,7 @@ export default async function PetsXBridalSedanChairDanceLandingPage({ params }: 
         outputVideos={outputVideos}
         outputImageAlts={[t('hero.outputImageAlt')]}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=6967a913e769"
+        ctaLink={getAppUrl('/canvas?shareid=6967a913e769', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

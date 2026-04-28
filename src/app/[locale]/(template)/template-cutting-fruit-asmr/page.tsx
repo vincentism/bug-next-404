@@ -24,6 +24,7 @@ import {
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
 import { getTranslations } from '@/i18n/get-translations'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -78,7 +79,7 @@ export default async function CuttingFruitAsmrLandingPage({ params }: PageProps)
         ]}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=691f3403eece"
+        ctaLink={getAppUrl('/canvas?shareid=691f3403eece', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection

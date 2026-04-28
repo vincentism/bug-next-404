@@ -44,7 +44,7 @@ const NotFound = () => {
 
   useEffect(() => {
     if (countdown <= 0) {
-      router.push('/home')
+      router.push('/')
     }
   }, [countdown, router])
 
@@ -96,7 +96,7 @@ const NotFound = () => {
 
         <div className="flex flex-col sm:flex-row items-center gap-4 z-10">
           <Button
-            onClick={() => router.push('/home')}
+            onClick={() => router.push('/')}
             className="h-12 px-8 rounded-full bg-black text-white hover:bg-black/80 font-bold text-base transition-all hover:scale-105 shadow-xl shadow-black/10"
           >
             <Home className="w-4 h-4 mr-2" />

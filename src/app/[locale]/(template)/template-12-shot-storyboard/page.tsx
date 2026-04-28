@@ -23,6 +23,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -72,7 +73,7 @@ export default async function TwelveShotStoryboardLandingPage({ params }: PagePr
         outputVideos={outputVideos}
         outputImageAlts={['AI-generated 12-shot storyboard and TVC ad video from product image']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=694bb7594851"
+        ctaLink={getAppUrl('/canvas?shareid=694bb7594851', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -168,7 +169,7 @@ export default async function Sora2ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -208,7 +209,7 @@ export default async function Sora2ModelPage({ params }: PageProps) {
       title: t('gallery.items.ugc.title'),
       description: t('gallery.items.ugc.description'),
       useCase: t('gallery.items.ugc.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=69204d83c7cd',
+      link: getAppUrl('/canvas?shareid=69204d83c7cd', locale),
     },
     {
       type: 'video' as const,
@@ -217,7 +218,7 @@ export default async function Sora2ModelPage({ params }: PageProps) {
       title: t('gallery.items.ads.title'),
       description: t('gallery.items.ads.description'),
       useCase: t('gallery.items.ads.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25e6c72a',
+      link: getAppUrl('/canvas?shareid=691f25e6c72a', locale),
     },
     {
       type: 'video' as const,
@@ -226,7 +227,7 @@ export default async function Sora2ModelPage({ params }: PageProps) {
       title: t('gallery.items.idols.title'),
       description: t('gallery.items.idols.description'),
       useCase: t('gallery.items.idols.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f23a9053d',
+      link: getAppUrl('/canvas?shareid=691f23a9053d', locale),
     },
     {
       type: 'video' as const,
@@ -236,7 +237,7 @@ export default async function Sora2ModelPage({ params }: PageProps) {
       title: t('gallery.items.product.title'),
       description: t('gallery.items.product.description'),
       useCase: t('gallery.items.product.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      link: getAppUrl('/canvas?shareid=691f25484cd0', locale),
     },
     {
       type: 'video' as const,
@@ -246,7 +247,7 @@ export default async function Sora2ModelPage({ params }: PageProps) {
       title: t('gallery.items.cinematic.title'),
       description: t('gallery.items.cinematic.description'),
       useCase: t('gallery.items.cinematic.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -255,7 +256,7 @@ export default async function Sora2ModelPage({ params }: PageProps) {
       title: t('gallery.items.animation.title'),
       description: t('gallery.items.animation.description'),
       useCase: t('gallery.items.animation.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3145c52e',
+      link: getAppUrl('/canvas?shareid=691f3145c52e', locale),
     },
   ]
 

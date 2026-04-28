@@ -20,6 +20,7 @@ import {
 import { getTranslations } from '@/i18n/get-translations'
 import type { FAQItem } from '@/components/landing/faq'
 import { getPricingConfig, buildPlanSummaries } from '../model-plan-pricing'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -80,7 +81,6 @@ const modelData = {
     capabilities: ['Image to Video', 'Text to Video', 'Up to 10s', 'Audio-Visual', 'Lip Sync'],
     badge: 'New',
     ctaText: 'Try Kling 2.6 Pro Free',
-    ctaLink: '/skills',
   },
   features: [
     {
@@ -124,7 +124,7 @@ const modelData = {
       description: 'Advertising & Marketing',
       useCase:
         'One-click generation of short ads featuring narration, character dialogue, and product showcases with comprehensive sound effects.',
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      shareId: '691f25484cd0',
     },
     {
       type: 'video' as const,
@@ -135,7 +135,7 @@ const modelData = {
       description: 'TikTok & Reels',
       useCase:
         'Create engaging social content with multi-character dialogue, interviews, scripted performances, and comedy skits.',
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      shareId: '691f269d38df',
     },
     {
       type: 'video' as const,
@@ -146,7 +146,7 @@ const modelData = {
       description: 'Product Showcase',
       useCase:
         'Automate creation of product showcase videos highlighting key selling points with narration and monologue.',
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      shareId: '691f2a048044',
     },
     {
       type: 'video' as const,
@@ -157,7 +157,7 @@ const modelData = {
       description: 'Singing & Rap',
       useCase:
         'Generate music videos with singing, rap, and instrumental performances with accurate lip synchronization.',
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      shareId: '691f3139a814',
     },
     {
       type: 'video' as const,
@@ -168,7 +168,7 @@ const modelData = {
       description: 'Multi-Character',
       useCase:
         'Create videos with natural multi-character dialogue, interviews, and scripted performances.',
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      shareId: '692053b03267',
     },
     {
       type: 'video' as const,
@@ -178,7 +178,7 @@ const modelData = {
       description: 'Voice-Over Videos',
       useCase:
         'Generate videos with professional narration and ambient sound effects for storytelling.',
-      link: 'https://opencreator.io/canvas?shareid=691f27c703c2',
+      shareId: '691f27c703c2',
     },
   ],
   comparison: {
@@ -295,7 +295,7 @@ export default async function Kling26ProModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: '/skills',
+    ctaLink: getAppUrl('/skills', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 
@@ -335,7 +335,7 @@ export default async function Kling26ProModelPage({ params }: PageProps) {
       title: t('gallery.items.advertising.title'),
       description: t('gallery.items.advertising.description'),
       useCase: t('gallery.items.advertising.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f25484cd0',
+      link: getAppUrl('/canvas?shareid=691f25484cd0', locale),
     },
     {
       type: 'video' as const,
@@ -345,7 +345,7 @@ export default async function Kling26ProModelPage({ params }: PageProps) {
       title: t('gallery.items.social.title'),
       description: t('gallery.items.social.description'),
       useCase: t('gallery.items.social.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f269d38df',
+      link: getAppUrl('/canvas?shareid=691f269d38df', locale),
     },
     {
       type: 'video' as const,
@@ -355,7 +355,7 @@ export default async function Kling26ProModelPage({ params }: PageProps) {
       title: t('gallery.items.ecommerce.title'),
       description: t('gallery.items.ecommerce.description'),
       useCase: t('gallery.items.ecommerce.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f2a048044',
+      link: getAppUrl('/canvas?shareid=691f2a048044', locale),
     },
     {
       type: 'video' as const,
@@ -365,7 +365,7 @@ export default async function Kling26ProModelPage({ params }: PageProps) {
       title: t('gallery.items.music.title'),
       description: t('gallery.items.music.description'),
       useCase: t('gallery.items.music.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f3139a814',
+      link: getAppUrl('/canvas?shareid=691f3139a814', locale),
     },
     {
       type: 'video' as const,
@@ -375,7 +375,7 @@ export default async function Kling26ProModelPage({ params }: PageProps) {
       title: t('gallery.items.dialogue.title'),
       description: t('gallery.items.dialogue.description'),
       useCase: t('gallery.items.dialogue.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=692053b03267',
+      link: getAppUrl('/canvas?shareid=692053b03267', locale),
     },
     {
       type: 'video' as const,
@@ -384,7 +384,7 @@ export default async function Kling26ProModelPage({ params }: PageProps) {
       title: t('gallery.items.narration.title'),
       description: t('gallery.items.narration.description'),
       useCase: t('gallery.items.narration.useCase'),
-      link: 'https://opencreator.io/canvas?shareid=691f27c703c2',
+      link: getAppUrl('/canvas?shareid=691f27c703c2', locale),
     },
   ]
 

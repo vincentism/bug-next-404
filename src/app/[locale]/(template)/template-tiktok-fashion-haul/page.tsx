@@ -24,6 +24,7 @@ import {
   getSiteUrl,
 } from '@/lib/seo/schema'
 import type { FAQItem } from '@/components/landing/faq'
+import { getAppUrl } from '@/lib/app-url'
 
 const OUTPUT_IMAGE = 'https://ik.imagekit.io/opencreator/ylg/d4b05112644504a61e6f6ec56411a020.png'
 const OUTPUT_VIDEO = 'https://ik.imagekit.io/opencreator/ylg/d20576d09108445d56ef73136061ab1f.mp4'
@@ -99,7 +100,7 @@ export default async function TiktokFashionHaulLandingPage({ params }: PageProps
         outputVideos={outputVideos}
         outputImageAlts={['AI-generated TikTok fashion haul video with influencer style']}
         ctaText={t('hero.ctaText')}
-        ctaLink="https://opencreator.io/canvas?shareid=69604d3e5f38"
+        ctaLink={getAppUrl('/canvas?shareid=69604d3e5f38', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />
