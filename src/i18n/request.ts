@@ -39,7 +39,7 @@ function getSegmentedMessageRequest(pathname: string): SegmentedMessageRequest {
   if (stripped === '/nanobanana2') return { type: 'single', dir: 'templates', slug: 'nanobanana2' }
 
   if (stripped.startsWith('/template-')) {
-    return { type: 'single', dir: 'templates', slug: stripped.slice(1) }
+    return { type: 'single', dir: 'templates', slug: stripped.replace(/^\/template-/, '') }
   }
 
   const [, section, slug] = stripped.split('/')

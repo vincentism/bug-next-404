@@ -5,33 +5,13 @@ import typography from '@tailwindcss/typography'
 import defaultTheme from 'tailwindcss/defaultTheme'
 
 export default {
-  darkMode: ['class'],
+  darkMode: 'class',
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
     './node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}',
   ],
-  // 屏蔽警告
-  logging: {
-    level: 'error', // 只显示错误，隐藏警告
-  },
-  safelist: [
-    // 只保留确实需要的 safelist 模式
-    'animate-bounce',
-    'animate-customPulse',
-  ],
-
-  future: {
-    hoverOnlyWhenSupported: true,
-  },
-  corePlugins: {
-    preflight: true,
-  },
-  // 移除 experimental，该功能会导致构建变慢且有警告
-  // experimental: {
-  //   optimizeUniversalDefaults: true,
-  // },
   theme: {
     extend: {
       fontFamily: {
@@ -211,6 +191,5 @@ export default {
       },
     },
   },
-  // darkMode: "class",
-  plugins: [animate, typography, heroui()],
+  plugins: [animate, typography, heroui()] as NonNullable<Config['plugins']>,
 } satisfies Config
