@@ -5,7 +5,7 @@ import { Link } from '@/i18n/navigation'
 import { Globe2, Instagram, Youtube } from 'lucide-react'
 import { useTranslations } from '@/i18n/client'
 import { useLocale } from 'next-intl'
-import './v3/styles/landing-v3.module.css'
+import './v3/styles/landing-v3.css'
 
 const footerLanguages = [
   { code: 'en', label: 'English (US)', nativeName: 'English' },

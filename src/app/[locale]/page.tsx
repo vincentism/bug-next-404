@@ -18,7 +18,7 @@ import { LandingFooter } from '@/components/landing'
 import { CustomCursor } from '@/components/landing/v3/layout/custom-cursor'
 import { Grain } from '@/components/landing/v3/layout/grain'
 import { LandingV3ClientRuntime } from '@/components/landing/v3/controllers/landing-v3-client-runtime'
-import '@/components/landing/v3/styles/landing-v3.module.css'
+import '@/components/landing/v3/styles/landing-v3.css'
 
 type LandingPageProps = {
   params: Promise<{ locale: string }>

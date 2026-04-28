@@ -15,7 +15,7 @@ import { LandingBookDemoModal } from './book-demo-modal'
 import { SOLUTION_ITEMS } from './solution-items'
 import { AnnouncementBarController } from './v3/controllers/announcement-bar-controller'
 import { LandingAnnouncementBar } from './v3/layout/announcement-bar'
-import './v3/styles/landing-v3.module.css'
+import './v3/styles/landing-v3.css'
 
 const navbarLanguages = [
   { code: 'en', label: 'English', nativeName: 'English' },
