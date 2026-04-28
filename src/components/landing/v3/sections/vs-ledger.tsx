@@ -15,11 +15,11 @@ export const VsLedgerSection = memo(function VsLedgerSection() {
     <section className="section-paper vs" id="vs" aria-label="OpenCreator vs the old way">
       <div className="section-inner">
         <header className="section-head">
-          <h2 className="section-title reveal">The fastest way<br />to <em>ship creative.</em><br /><s>hands-down.</s></h2>
-          <p className="section-lead reveal" data-reveal-delay="160">Manual production vs. the OpenCreator white-box scaling agent — 5 creatives a week becomes 50+ a day.</p>
+          <h2 className="section-title">The fastest way<br />to <em>ship creative.</em><br /><s>hands-down.</s></h2>
+          <p className="section-lead">Manual production vs. the OpenCreator white-box scaling agent — 5 creatives a week becomes 50+ a day.</p>
         </header>
         <div className="vs-ledger" role="group" aria-label="Manual production vs OpenCreator comparison">
-          <article className="vs-ledger__col reveal">
+          <article className="vs-ledger__col">
             <header>
               <span className="section-kicker">01 · Manual production</span>
               <h3 className="vs-ledger__col-title">The traditional <em>stack.</em></h3>
@@ -35,7 +35,7 @@ export const VsLedgerSection = memo(function VsLedgerSection() {
             </ol>
             <footer className="vs-ledger__foot"><span>Total output</span><span>5/week</span><span>2–3h/video</span></footer>
           </article>
-          <article className="vs-ledger__col vs-ledger__col--oc reveal" data-reveal-delay="160">
+          <article className="vs-ledger__col vs-ledger__col--oc">
             <header>
               <span className="section-kicker">02 · OpenCreator</span>
               <h3 className="vs-ledger__col-title">White-box <em>scaling agent.</em></h3>
@@ -46,9 +46,9 @@ export const VsLedgerSection = memo(function VsLedgerSection() {
               <p>2–3 min end-to-end · 50+ creatives/day · from $1/video</p>
             </div>
           </article>
-          <div className="vs-ledger__savings reveal" data-reveal-delay="240" aria-label="Savings per video">
-            <div><span>Time saved</span><span className="vs-ledger__saving-num"><span data-count-to="178">0</span><em>min</em></span></div>
-            <div><span>Money saved</span><span className="vs-ledger__saving-num">$<span data-count-to="374">0</span></span></div>
+          <div className="vs-ledger__savings" aria-label="Savings per video">
+            <div><span>Time saved</span><span className="vs-ledger__saving-num"><span>178</span><em>min</em></span></div>
+            <div><span>Money saved</span><span className="vs-ledger__saving-num">$<span>374</span></span></div>
           </div>
         </div>
       </div>

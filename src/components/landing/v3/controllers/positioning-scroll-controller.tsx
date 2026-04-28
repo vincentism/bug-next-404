@@ -2,6 +2,7 @@
 
 import { memo, useEffect } from 'react'
 import { clamp01, type Point } from './animation-utils'
+import { gsap, ScrollTrigger } from './gsap-init'
 
 export const PositioningScrollController = memo(function PositioningScrollController() {
   useEffect(() => {
@@ -26,6 +27,9 @@ export const PositioningScrollController = memo(function PositioningScrollContro
     const desktopQuery = window.matchMedia('(min-width: 960px)')
     const reducedQuery = window.matchMedia('(prefers-reduced-motion: reduce)')
     let rafId = 0
+    let timeline: ReturnType<typeof gsap.timeline> | null = null
+    let trigger: ReturnType<typeof ScrollTrigger.create> | null = null
+    const progressProxy = { value: 0 }
 
     section.querySelectorAll<HTMLElement>('.pm-pin-dot[data-pin]').forEach(dot => {
       if (dot.dataset.pin) pinMap.set(dot.dataset.pin, dot)
@@ -122,55 +126,108 @@ export const PositioningScrollController = memo(function PositioningScrollContro
       )
     }
 
-    const updateFromScroll = () => {
+    const applyStaticProgress = () => {
+      applyProgress(1)
+      thinkEl?.setAttribute('data-open', '1')
+      canvasEl?.setAttribute('data-view', 'preview')
+      canvasTabs.forEach(tab =>
+        tab.setAttribute('data-active', tab.dataset.tab === 'preview' ? '1' : '0')
+      )
+      recomputeEdges()
+    }
+
+    const syncTimelineProgress = () => {
+      applyProgress(progressProxy.value)
+      recomputeEdges()
+    }
+
+    const killScrollTrigger = () => {
+      trigger?.kill()
+      timeline?.kill()
+      trigger = null
+      timeline = null
+    }
+
+    const setupScrollTrigger = () => {
+      killScrollTrigger()
       if (!desktopQuery.matches || reducedQuery.matches) {
-        applyProgress(1)
-        thinkEl?.setAttribute('data-open', '1')
-        canvasEl?.setAttribute('data-view', 'preview')
-        canvasTabs.forEach(tab =>
-          tab.setAttribute('data-active', tab.dataset.tab === 'preview' ? '1' : '0')
-        )
-        recomputeEdges()
+        applyStaticProgress()
         return
       }
 
-      const rect = section.getBoundingClientRect()
-      const viewportHeight = window.innerHeight || 1
-      const travel = section.offsetHeight - viewportHeight
-      const progress = travel > 0 ? clamp01(-rect.top / travel) : 1
-      applyProgress(progress)
+      progressProxy.value = 0
+      timeline = gsap.timeline({ paused: true })
+      timeline.to(progressProxy, {
+        value: 1,
+        duration: 1,
+        ease: 'none',
+        onUpdate: syncTimelineProgress,
+      })
+
+      trigger = ScrollTrigger.create({
+        trigger: section,
+        start: 'top top',
+        end: 'bottom bottom',
+        animation: timeline,
+        scrub: 0.6,
+        invalidateOnRefresh: true,
+        onRefresh: syncTimelineProgress,
+      })
+
+      ScrollTrigger.refresh()
+      timeline.progress(trigger.progress)
+      syncTimelineProgress()
+    }
+
+    const refreshLayout = () => {
+      if (!desktopQuery.matches || reducedQuery.matches) {
+        killScrollTrigger()
+        applyStaticProgress()
+        return
+      }
+
+      if (!trigger || !timeline) {
+        setupScrollTrigger()
+        return
+      }
+
       recomputeEdges()
+      ScrollTrigger.refresh()
+      timeline.progress(trigger.progress)
+      syncTimelineProgress()
     }
 
     const requestUpdate = () => {
       if (rafId) return
       rafId = window.requestAnimationFrame(() => {
         rafId = 0
-        updateFromScroll()
+        refreshLayout()
       })
     }
 
     const imageListeners: Array<() => void> = []
+    const refreshTimers: number[] = []
     section.querySelectorAll<HTMLImageElement>('.pm-node img').forEach(img => {
       if (img.complete) return
       img.addEventListener('load', requestUpdate, { once: true })
       imageListeners.push(() => img.removeEventListener('load', requestUpdate))
     })
 
-    window.addEventListener('scroll', requestUpdate, { passive: true })
     window.addEventListener('resize', requestUpdate)
     desktopQuery.addEventListener('change', requestUpdate)
     reducedQuery.addEventListener('change', requestUpdate)
     document.fonts?.ready.then(requestUpdate).catch(() => {})
-    requestUpdate()
+    refreshTimers.push(window.setTimeout(requestUpdate, 180))
+    setupScrollTrigger()
 
     return () => {
-      window.removeEventListener('scroll', requestUpdate)
+      refreshTimers.forEach(timer => window.clearTimeout(timer))
       window.removeEventListener('resize', requestUpdate)
       desktopQuery.removeEventListener('change', requestUpdate)
       reducedQuery.removeEventListener('change', requestUpdate)
       imageListeners.forEach(cleanup => cleanup())
       if (rafId) window.cancelAnimationFrame(rafId)
+      killScrollTrigger()
     }
   }, [])
 

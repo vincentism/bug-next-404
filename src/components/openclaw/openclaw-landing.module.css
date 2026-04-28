@@ -31,6 +31,7 @@
 
 .heroZone {
   position: relative;
+  padding-top: 24px;
   background: #0b0e0b;
   overflow: hidden;
 }

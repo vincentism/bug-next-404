@@ -1,11 +1,13 @@
-## dev环境
+## dev 环境 
+官网站: https://www-dev.opencreator.io  
+产品站: https://editor-dev.opencreator.io
 
-www-preview.opencreator.io  
-editor-peview.opencreator.io
 
+## preview 环境
+官网站: https://www-preview.opencreator.io  
+产品站: https://editor-preview.opencreator.io
 
 
 ## prod 环境
-
-opencreator.io  
-app.opencreator.io
+官网站: https://opencreator.io  
+产品站: https://app.opencreator.io

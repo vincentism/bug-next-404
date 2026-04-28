@@ -5,7 +5,7 @@ export const CallbackCtaSection = memo(function CallbackCtaSection() {
   return (
     <section className="callback" id="start" aria-label="Start Free callback" data-surface="green">
       <div className="callback__inner">
-        <p className="callback__eyebrow">Start today</p>
+        <p className="callback__eyebrow"><span className="callback__eyebrow-dot" aria-hidden="true" />Start today</p>
         <h2 className="callback__h2">Your 24/7 content team<br />starts <em>today.</em></h2>
         <p className="callback__sub">Free on sign-up. No card. No onboarding call. Ship the first spot before your coffee gets cold.</p>
         <div className="callback__cta-row">

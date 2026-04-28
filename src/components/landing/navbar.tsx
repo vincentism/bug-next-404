@@ -1,6 +1,6 @@
 'use client'
 
-import React, { memo, useCallback, useMemo } from 'react'
+import React, { memo, useCallback, useEffect, useMemo, useRef } from 'react'
 import { useSafeState } from 'ahooks'
 import { Menu, X } from 'lucide-react'
 import { Listbox, ListboxItem } from '@heroui/listbox'
@@ -13,7 +13,9 @@ import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
 import { getAppUrl } from '@/lib/app-url'
 import { LandingBookDemoModal } from './book-demo-modal'
 import { SOLUTION_ITEMS } from './solution-items'
+import { AnnouncementBarController } from './v3/controllers/announcement-bar-controller'
 import { LandingAnnouncementBar } from './v3/layout/announcement-bar'
+import './v3/styles/landing-v3.module.css'
 
 const navbarLanguages = [
   { code: 'en', label: 'English', nativeName: 'English' },
@@ -32,6 +34,7 @@ export const LandingNavbar = memo(function LandingNavbar() {
   const [showWorkflowsMenu, setShowWorkflowsMenu] = useSafeState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useSafeState(false)
   const [bookDemoOpen, setBookDemoOpen] = useSafeState(false)
+  const workflowsCloseTimerRef = useRef<ReturnType<typeof window.setTimeout> | null>(null)
   const pathname = usePathname()
   const locale = useLocale()
   const isHome = pathname === '/'
@@ -59,13 +62,27 @@ export const LandingNavbar = memo(function LandingNavbar() {
     [changeLanguage]
   )
 
+  const clearWorkflowsCloseTimer = useCallback(() => {
+    if (workflowsCloseTimerRef.current) {
+      window.clearTimeout(workflowsCloseTimerRef.current)
+      workflowsCloseTimerRef.current = null
+    }
+  }, [])
+
   const handleWorkflowsMouseEnter = useCallback(() => {
+    clearWorkflowsCloseTimer()
     setShowWorkflowsMenu(true)
-  }, [setShowWorkflowsMenu])
+  }, [clearWorkflowsCloseTimer, setShowWorkflowsMenu])
 
   const handleWorkflowsMouseLeave = useCallback(() => {
-    setShowWorkflowsMenu(false)
-  }, [setShowWorkflowsMenu])
+    clearWorkflowsCloseTimer()
+    workflowsCloseTimerRef.current = window.setTimeout(() => {
+      setShowWorkflowsMenu(false)
+      workflowsCloseTimerRef.current = null
+    }, 140)
+  }, [clearWorkflowsCloseTimer, setShowWorkflowsMenu])
+
+  useEffect(() => clearWorkflowsCloseTimer, [clearWorkflowsCloseTimer])
 
   const openBookDemo = useCallback(() => {
     setBookDemoOpen(true)
@@ -75,7 +92,10 @@ export const LandingNavbar = memo(function LandingNavbar() {
     setBookDemoOpen(false)
   }, [setBookDemoOpen])
 
-  const toggleMobileMenu = useCallback(() => setIsMobileMenuOpen(value => !value), [setIsMobileMenuOpen])
+  const toggleMobileMenu = useCallback(
+    () => setIsMobileMenuOpen(value => !value),
+    [setIsMobileMenuOpen]
+  )
 
   const closeMobileMenu = useCallback(() => {
     setIsMobileMenuOpen(false)
@@ -101,7 +121,8 @@ export const LandingNavbar = memo(function LandingNavbar() {
   const isPricing = pathname === '/pricing'
 
   return (
-    <>
+    <div className="landing-v3" data-surface="paper">
+      <AnnouncementBarController />
       <LandingAnnouncementBar linkHref={anchorHref('#models')} />
       <nav className="nav" id="nav" aria-label="Primary" data-surface="paper">
         <Link href="/" prefetch={false} className="nav__brand" aria-label="OpenCreator home">
@@ -112,25 +133,47 @@ export const LandingNavbar = memo(function LandingNavbar() {
         </Link>
         <span className="nav__sep" aria-hidden="true" />
         <div className="nav__links">
-          <Link
-            href="/"
-            prefetch={false}
-            className={cn('nav__link', isHome && 'is-active')}
-          >
+          <Link href="/" prefetch={false} className={cn('nav__link', isHome && 'is-active')}>
             {tNavbar('home')}
           </Link>
           <div onMouseEnter={handleWorkflowsMouseEnter} onMouseLeave={handleWorkflowsMouseLeave}>
-            <button type="button" className="nav__link" aria-haspopup="menu" aria-expanded={showWorkflowsMenu}>
+            <button
+              type="button"
+              className="nav__link"
+              aria-haspopup="menu"
+              aria-expanded={showWorkflowsMenu}
+            >
               {tNavbar('solutions')}
-              <svg className="nav__caret" viewBox="0 0 10 10" width="10" height="10" fill="none" aria-hidden="true">
-                <path d="M2 4l3 3 3-3" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+              <svg
+                className="nav__caret"
+                viewBox="0 0 10 10"
+                width="10"
+                height="10"
+                fill="none"
+                aria-hidden="true"
+              >
+                <path
+                  d="M2 4l3 3 3-3"
+                  stroke="currentColor"
+                  strokeWidth="1.4"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
               </svg>
             </button>
           </div>
-          <Link href="/pricing" prefetch={false} className={cn('nav__link', isPricing && 'is-active')}>
+          <Link
+            href="/pricing"
+            prefetch={false}
+            className={cn('nav__link', isPricing && 'is-active')}
+          >
             {tNavbar('pricing')}
           </Link>
-          <Link href="/openclaw" prefetch={false} className={cn('nav__link', isOpenClaw && 'is-active')}>
+          <Link
+            href="/openclaw"
+            prefetch={false}
+            className={cn('nav__link', isOpenClaw && 'is-active')}
+          >
             {tNavbar('openClaw')}
           </Link>
           <a className="nav__link" href={anchorHref('#community')}>
@@ -138,7 +181,12 @@ export const LandingNavbar = memo(function LandingNavbar() {
           </a>
         </div>
         <span className="nav__spacer" />
-        <button type="button" className="nav__cta nav__cta--ghost" onClick={openBookDemo} data-cursor="open">
+        <button
+          type="button"
+          className="nav__cta nav__cta--ghost"
+          onClick={openBookDemo}
+          data-cursor="open"
+        >
           {tNavbar('bookADemo')}
         </button>
         <a href={appSkillsUrl} className="nav__cta nav__cta--primary" data-cursor="open">
@@ -148,11 +196,19 @@ export const LandingNavbar = memo(function LandingNavbar() {
           placement="bottom"
           content={
             <div className="bg-white px-0 py-1 min-w-[120px]">
-              <Listbox aria-label="Language selection" onAction={handleLanguageAction} variant="flat" className="p-0">
+              <Listbox
+                aria-label="Language selection"
+                onAction={handleLanguageAction}
+                variant="flat"
+                className="p-0"
+              >
                 {navbarLanguages.map(lang => (
                   <ListboxItem
                     key={lang.code}
-                    className={cn('text-[12px] px-2 py-1.5', lang.code === currentLanguage.code && 'bg-[#F2F2F2]')}
+                    className={cn(
+                      'text-[12px] px-2 py-1.5',
+                      lang.code === currentLanguage.code && 'bg-[#F2F2F2]'
+                    )}
                   >
                     {lang.nativeName}
                   </ListboxItem>
@@ -161,25 +217,41 @@ export const LandingNavbar = memo(function LandingNavbar() {
             </div>
           }
         >
-          <button
-            type="button"
-            className="nav__lang"
-            aria-label={tNavbar('ariaSwitchLanguage')}
-          >
+          <button type="button" className="nav__lang" aria-label={tNavbar('ariaSwitchLanguage')}>
             <span className="nav__lang-zh">文</span>
             <span className="nav__lang-en">A</span>
           </button>
         </Tooltip>
-        <button type="button" className="nav__menu-btn" onClick={toggleMobileMenu} aria-label="Open menu" aria-expanded={isMobileMenuOpen}>
+        <button
+          type="button"
+          className="nav__menu-btn"
+          onClick={toggleMobileMenu}
+          aria-label="Open menu"
+          aria-expanded={isMobileMenuOpen}
+        >
           {isMobileMenuOpen ? 'Close' : 'Menu'}
           {isMobileMenuOpen ? <X size={14} /> : <Menu size={14} />}
         </button>
         {showWorkflowsMenu && (
-          <div className="nav__dropdown" onMouseEnter={handleWorkflowsMouseEnter} onMouseLeave={handleWorkflowsMouseLeave}>
+          <div
+            className="nav__dropdown"
+            onMouseEnter={handleWorkflowsMouseEnter}
+            onMouseLeave={handleWorkflowsMouseLeave}
+          >
             {SOLUTION_ITEMS.map(item => (
-              <Link key={item.href} href={item.href} prefetch={false} className="nav__dropdown-item">
+              <Link
+                key={item.href}
+                href={item.href}
+                prefetch={false}
+                className="nav__dropdown-item"
+              >
                 {/* eslint-disable-next-line @next/next/no-img-element -- small dropdown thumbnails */}
-                <img className="nav__dropdown-thumb" src={getCdnImageUrlWithSize(item.image, 96, 96)} alt="" loading="lazy" />
+                <img
+                  className="nav__dropdown-thumb"
+                  src={getCdnImageUrlWithSize(item.image, 96, 96)}
+                  alt=""
+                  loading="lazy"
+                />
                 <span>
                   <span className="nav__dropdown-title">{tNavbar(item.titleKey)}</span>
                   <span className="nav__dropdown-desc">{tNavbar(item.descKey)}</span>
@@ -191,21 +263,40 @@ export const LandingNavbar = memo(function LandingNavbar() {
       </nav>
       {isMobileMenuOpen && (
         <div className="nav__mobile" data-surface="paper">
-          <Link href="/" prefetch={false} onClick={closeMobileMenu}>{tNavbar('home')}</Link>
-          <a href={appSkillsUrl} onClick={closeMobileMenu}>{tNavbar('solutions')}</a>
-          <Link href="/pricing" prefetch={false} onClick={closeMobileMenu}>{tNavbar('pricing')}</Link>
-          <Link href="/openclaw" prefetch={false} onClick={closeMobileMenu}>{tNavbar('openClaw')}</Link>
-          <a href={anchorHref('#community')} onClick={closeMobileMenu}>{tNavbar('community')}</a>
-          <button type="button" onClick={handleMobileBookDemoClick}>{tNavbar('bookADemo')}</button>
-          <a href={appSkillsUrl} onClick={closeMobileMenu}>{tNavbar('startForFree')}</a>
+          <Link href="/" prefetch={false} onClick={closeMobileMenu}>
+            {tNavbar('home')}
+          </Link>
+          <a href={appSkillsUrl} onClick={closeMobileMenu}>
+            {tNavbar('solutions')}
+          </a>
+          <Link href="/pricing" prefetch={false} onClick={closeMobileMenu}>
+            {tNavbar('pricing')}
+          </Link>
+          <Link href="/openclaw" prefetch={false} onClick={closeMobileMenu}>
+            {tNavbar('openClaw')}
+          </Link>
+          <a href={anchorHref('#community')} onClick={closeMobileMenu}>
+            {tNavbar('community')}
+          </a>
+          <button type="button" onClick={handleMobileBookDemoClick}>
+            {tNavbar('bookADemo')}
+          </button>
+          <a href={appSkillsUrl} onClick={closeMobileMenu}>
+            {tNavbar('startForFree')}
+          </a>
           {navbarLanguages.map(lang => (
-            <button key={lang.code} type="button" data-locale={lang.code} onClick={handleMobileLanguageClick}>
+            <button
+              key={lang.code}
+              type="button"
+              data-locale={lang.code}
+              onClick={handleMobileLanguageClick}
+            >
               {lang.nativeName}
             </button>
           ))}
         </div>
       )}
       <LandingBookDemoModal open={bookDemoOpen} onClose={closeBookDemo} />
-    </>
+    </div>
   )
 })

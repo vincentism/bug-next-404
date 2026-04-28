@@ -19,7 +19,7 @@ export const ModelsMarqueeSection = memo(function ModelsMarqueeSection() {
   return (
     <section className="models" id="models" aria-label="Models" data-surface="ink">
       <div className="models__head">
-        <h2 className="models__h2 reveal">One Subscription to <em>Rule Them All</em></h2>
+        <h2 className="models__h2">One Subscription to <em>Rule Them All</em></h2>
       </div>
       <div className="models__marquee" aria-label="Model roster">
         <div className="marquee-row marquee-row--left" aria-hidden="true">
