@@ -150,7 +150,7 @@ export default async function Imagen4ModelPage({ params }: PageProps) {
     ],
     badge: t('hero.badge'),
     ctaText: t('hero.ctaText'),
-    ctaLink: getAppUrl('/skills', locale),
+    ctaLink: getAppUrl('/', locale),
     secondaryCtaText: t('hero.secondaryCtaText'),
   }
 

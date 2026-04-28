@@ -7,6 +7,7 @@ import { Play } from 'lucide-react'
 import { HeroBackground } from './hero-background'
 import { AutoPlayVideo } from './auto-play-video'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
+import { appExternalAnchorProps } from '@/lib/app-url'
 
 const getMediaKey = (media: string | StaticImageData, index: number) =>
   `${typeof media === 'string' ? media : media.src}-${index}`
@@ -47,7 +48,7 @@ export const WorkflowHero = memo(function WorkflowHero({
   outputImages = [],
   outputImageAlts = [],
   ctaText = 'Run for Free!',
-  ctaLink = '/skills',
+  ctaLink = '/',
   layout = 'workflow',
 }: WorkflowHeroProps) {
   const scrollRef = useRef<HTMLDivElement>(null)
@@ -219,8 +220,7 @@ export const WorkflowHero = memo(function WorkflowHero({
                   {ctaLink.startsWith('http') ? (
                     <a
                       href={ctaLink}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      {...appExternalAnchorProps}
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-black text-[#1fde1f] font-poller-one font-bold text-sm md:text-base rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors w-full md:w-auto"
                     >
                       <Play className="w-4 h-4 fill-current" />
@@ -426,8 +426,7 @@ export const WorkflowHero = memo(function WorkflowHero({
                     {ctaLink.startsWith('http') ? (
                       <a
                         href={ctaLink}
-                        target="_blank"
-                        rel="noopener noreferrer"
+                        {...appExternalAnchorProps}
                         className="w-full flex items-center justify-center gap-2 px-4 md:px-6 py-2.5 md:py-3 bg-black text-[#1fde1f] font-poller-one font-bold text-sm md:text-base rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors"
                       >
                         <Play className="w-3.5 h-3.5 md:w-4 md:h-4 fill-current" />

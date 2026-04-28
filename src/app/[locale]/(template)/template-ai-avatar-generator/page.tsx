@@ -85,7 +85,7 @@ export default async function CoupleAvatarsLandingPage({ params }: PageProps) {
         inputImages={inputImages}
         outputImages={outputImages}
         ctaText={t('hero.ctaText')}
-        ctaLink={getAppUrl('/skills', locale)}
+        ctaLink={getAppUrl('/', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

@@ -4,7 +4,7 @@ import React from 'react'
 import { useLocale } from 'next-intl'
 import { ChevronRight } from 'lucide-react'
 import { useTranslations } from '@/i18n/client'
-import { getAppUrl } from '@/lib/app-url'
+import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
 
 function extractShareIdFromLink(link: string): string | null {
   try {
@@ -73,7 +73,7 @@ export function WorkflowHowItWorksSection({
 
   const locale = useLocale()
   const shareId = ctaLink ? extractShareIdFromLink(ctaLink) : null
-  const appLink = shareId ? getAppUrl(`/canvas?shareid=${shareId}`, locale) : getAppUrl('/skills', locale)
+  const appLink = shareId ? getAppUrl(`/canvas?shareid=${shareId}`, locale) : getAppUrl('/', locale)
 
   return (
     <section className="bg-white py-16 md:py-20 lg:py-24">
@@ -101,8 +101,7 @@ export function WorkflowHowItWorksSection({
         <div className="mt-10 text-center">
           <a
             href={appLink}
-            target="_blank"
-            rel="noopener noreferrer"
+            {...appExternalAnchorProps}
             className="inline-flex items-center rounded-full bg-black px-6 py-3 text-sm font-bold text-[#1fde1f]"
           >
             Open in OpenCreator App
@@ -151,8 +150,7 @@ export function WorkflowSharePreview({ shareId, ctaLink }: WorkflowSharePreviewP
       </div>
       <a
         href={appLink}
-        target="_blank"
-        rel="noopener noreferrer"
+        {...appExternalAnchorProps}
         className="mt-6 inline-flex items-center rounded-full bg-black px-5 py-3 text-sm font-bold text-[#1fde1f]"
       >
         {t('copyThisTemplate')}
@@ -209,7 +207,7 @@ export function WorkflowCTASection({
 }: WorkflowCTASectionProps) {
   const locale = useLocale()
   const shareId = ctaLink ? extractShareIdFromLink(ctaLink) : null
-  const appLink = shareId ? getAppUrl(`/canvas?shareid=${shareId}`, locale) : getAppUrl('/skills', locale)
+  const appLink = shareId ? getAppUrl(`/canvas?shareid=${shareId}`, locale) : getAppUrl('/', locale)
 
   return (
     <section className="bg-black py-16 text-white md:py-20">
@@ -218,6 +216,7 @@ export function WorkflowCTASection({
         <p className="mx-auto mt-4 max-w-2xl text-sm text-white/70 md:text-base">{description}</p>
         <a
           href={appLink}
+          {...appExternalAnchorProps}
           className="mt-8 inline-flex items-center justify-center rounded-full bg-[#1fde1f] px-8 py-3 text-sm font-bold text-black"
         >
           {ctaLabel}

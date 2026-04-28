@@ -4,13 +4,13 @@ import React, { useState } from 'react'
 import Image from 'next/image'
 import { useLocale, useTranslations } from 'next-intl'
 import { Link } from '@/i18n/navigation'
-import { getAppUrl } from '@/lib/app-url'
+import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
 
 export function WhoIsOpenCreator() {
   const [isVideoLoaded, setIsVideoLoaded] = useState(false)
   const t = useTranslations('landing.whoIsOpenCreator')
   const locale = useLocale()
-  const appSkillsUrl = getAppUrl('/skills', locale)
+  const appHomeUrl = getAppUrl('/', locale)
 
   const handlePlayVideo = () => {
     setIsVideoLoaded(true)
@@ -72,7 +72,8 @@ export function WhoIsOpenCreator() {
             {/* CTA Buttons below video */}
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4 mt-6">
               <a
-                href={appSkillsUrl}
+                href={appHomeUrl}
+                {...appExternalAnchorProps}
                 className="w-full inline-flex items-center justify-center text-base lg:text-lg px-8 lg:px-16 py-2.5 lg:py-3 bg-black text-white font-bold rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors"
               >
                 {t('getStarted')}

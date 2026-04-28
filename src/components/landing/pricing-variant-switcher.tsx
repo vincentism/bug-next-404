@@ -3,7 +3,7 @@
 import React from 'react'
 import { useLocale } from 'next-intl'
 import { SubscriptionTemplateData } from '@/types/pricing'
-import { getAppUrl } from '@/lib/app-url'
+import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
 
 type PricingVariantSwitcherProps = {
   pricingTemplate?: SubscriptionTemplateData | null
@@ -138,6 +138,7 @@ export default function PricingVariantSwitcher({ pricingTemplate }: PricingVaria
               </ul>
               <a
                 href={appPricingUrl}
+                {...appExternalAnchorProps}
                 className="mt-8 inline-flex h-12 items-center justify-center rounded-full border-2 border-black bg-black px-5 text-sm font-bold text-white transition hover:-translate-y-0.5 hover:shadow-[0_6px_0_#1fde1f]"
               >
                 {t.getStarted}

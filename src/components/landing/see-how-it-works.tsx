@@ -9,7 +9,7 @@ import { useInViewport } from 'ahooks'
 import { WorkflowCarouselProgress, type WorkflowScene } from './workflow-carousel-progress'
 import { useWorkflowCarousel, type WorkflowSceneConfig } from './use-workflow-carousel'
 import { WORKFLOW_SCENES_DATA } from './workflow-scenes-data'
-import { getAppUrl } from '@/lib/app-url'
+import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
 
 const LazyLandingWorkflowDemo = dynamic(
   () => import('./landing-workflow-demo').then(mod => mod.LandingWorkflowDemo),
@@ -36,7 +36,7 @@ const PROGRESS_SCENES: WorkflowScene[] = WORKFLOW_SCENES.map(s => ({
 
 export function SeeHowItWorks() {
   const locale = useLocale()
-  const appSkillsUrl = getAppUrl('/skills', locale)
+  const appHomeUrl = getAppUrl('/', locale)
   const { activeIndex, progress, setActiveIndex, pause, resume } = useWorkflowCarousel({
     scenes: WORKFLOW_SCENES,
     autoPlay: true,
@@ -80,7 +80,8 @@ export function SeeHowItWorks() {
 
           <div className="flex flex-col sm:flex-row gap-3 lg:gap-4 justify-center items-center pt-6 lg:pt-8">
             <a
-              href={appSkillsUrl}
+              href={appHomeUrl}
+              {...appExternalAnchorProps}
               className="inline-flex items-center justify-center text-base lg:text-lg px-8 lg:px-12 py-2.5 lg:py-3 bg-black text-white font-bold rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors w-full sm:w-auto"
             >
               Explore Templates

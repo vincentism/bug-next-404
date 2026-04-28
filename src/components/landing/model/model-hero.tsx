@@ -7,6 +7,7 @@ import { Play } from 'lucide-react'
 import { HeroBackground } from '../hero-background'
 import { AutoPlayVideo } from '../auto-play-video'
 import { getImageKitImageUrlWithSize } from '@/lib/image-cdn'
+import { appExternalAnchorProps } from '@/lib/app-url'
 
 const badgeColorClasses = {
   blue: 'border-[#217EFF] text-[#217EFF]',
@@ -37,7 +38,7 @@ export function ModelHero({
   heroVideo,
   capabilities,
   ctaText = 'Try Now',
-  ctaLink = '/skills',
+  ctaLink = '/',
   secondaryCtaText = 'View Pricing',
   secondaryCtaLink = '/pricing',
   badge,
@@ -84,8 +85,7 @@ export function ModelHero({
               {ctaLink.startsWith('http') ? (
                 <a
                   href={ctaLink}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  {...appExternalAnchorProps}
                   className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-black text-[#1fde1f] font-poller-one font-bold text-sm md:text-base rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors"
                 >
                   <Play className="w-4 h-4 fill-current" />

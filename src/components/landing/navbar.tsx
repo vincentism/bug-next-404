@@ -10,7 +10,7 @@ import { cn } from '@/lib/utils'
 import { useLocale } from 'next-intl'
 import { useTranslations } from '@/i18n/client'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
-import { getAppUrl } from '@/lib/app-url'
+import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
 import { LandingBookDemoModal } from './book-demo-modal'
 import { SOLUTION_ITEMS } from './solution-items'
 import { AnnouncementBarController } from './v3/controllers/announcement-bar-controller'
@@ -34,7 +34,7 @@ export const LandingNavbar = memo(function LandingNavbar() {
   const [showWorkflowsMenu, setShowWorkflowsMenu] = useSafeState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useSafeState(false)
   const [bookDemoOpen, setBookDemoOpen] = useSafeState(false)
-  const workflowsCloseTimerRef = useRef<ReturnType<typeof window.setTimeout> | null>(null)
+  const workflowsCloseTimerRef = useRef<number | null>(null)
   const pathname = usePathname()
   const locale = useLocale()
   const isHome = pathname === '/'
@@ -44,7 +44,7 @@ export const LandingNavbar = memo(function LandingNavbar() {
     () => navbarLanguages.find(language => language.code === locale) ?? navbarLanguages[0],
     [locale]
   )
-  const appSkillsUrl = useMemo(() => getAppUrl('/skills', locale), [locale])
+  const appHomeUrl = useMemo(() => getAppUrl('/', locale), [locale])
   const anchorHref = useCallback((hash: string) => (isHome ? hash : `/${hash}`), [isHome])
 
   const router = useRouter()
@@ -189,7 +189,12 @@ export const LandingNavbar = memo(function LandingNavbar() {
         >
           {tNavbar('bookADemo')}
         </button>
-        <a href={appSkillsUrl} className="nav__cta nav__cta--primary" data-cursor="open">
+        <a
+          href={appHomeUrl}
+          {...appExternalAnchorProps}
+          className="nav__cta nav__cta--primary"
+          data-cursor="open"
+        >
           {tNavbar('startForFree')}
         </a>
         <Tooltip
@@ -266,7 +271,7 @@ export const LandingNavbar = memo(function LandingNavbar() {
           <Link href="/" prefetch={false} onClick={closeMobileMenu}>
             {tNavbar('home')}
           </Link>
-          <a href={appSkillsUrl} onClick={closeMobileMenu}>
+          <a href={appHomeUrl} {...appExternalAnchorProps} onClick={closeMobileMenu}>
             {tNavbar('solutions')}
           </a>
           <Link href="/pricing" prefetch={false} onClick={closeMobileMenu}>
@@ -281,7 +286,7 @@ export const LandingNavbar = memo(function LandingNavbar() {
           <button type="button" onClick={handleMobileBookDemoClick}>
             {tNavbar('bookADemo')}
           </button>
-          <a href={appSkillsUrl} onClick={closeMobileMenu}>
+          <a href={appHomeUrl} {...appExternalAnchorProps} onClick={closeMobileMenu}>
             {tNavbar('startForFree')}
           </a>
           {navbarLanguages.map(lang => (

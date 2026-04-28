@@ -79,7 +79,7 @@ export default async function TypographyGeneratorLandingPage({ params }: PagePro
         inputType="text"
         outputImages={outputImages}
         ctaText={t('hero.ctaText')}
-        ctaLink={getAppUrl('/skills', locale)}
+        ctaLink={getAppUrl('/', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />

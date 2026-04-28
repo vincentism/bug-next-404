@@ -97,7 +97,7 @@ export default async function GiantPlushieRemixLandingPage({ params }: PageProps
         inputImages={inputImages}
         outputVideos={outputVideos}
         ctaText={t('hero.ctaText')}
-        ctaLink={getAppUrl('/skills', locale)}
+        ctaLink={getAppUrl('/', locale)}
       />
       <ModelShowcase />
       <WorkflowHowItWorksSection steps={t.raw('howItWorks.steps')} />
