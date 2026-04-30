@@ -9,7 +9,8 @@ import { useInViewport } from 'ahooks'
 import { WorkflowCarouselProgress, type WorkflowScene } from './workflow-carousel-progress'
 import { useWorkflowCarousel, type WorkflowSceneConfig } from './use-workflow-carousel'
 import { WORKFLOW_SCENES_DATA } from './workflow-scenes-data'
-import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
+import { getAppUrl } from '@/lib/app-url'
 
 const LazyLandingWorkflowDemo = dynamic(
   () => import('./landing-workflow-demo').then(mod => mod.LandingWorkflowDemo),
@@ -79,13 +80,12 @@ export function SeeHowItWorks() {
           </div>
 
           <div className="flex flex-col sm:flex-row gap-3 lg:gap-4 justify-center items-center pt-6 lg:pt-8">
-            <a
+            <AppExternalLink
               href={appHomeUrl}
-              {...appExternalAnchorProps}
               className="inline-flex items-center justify-center text-base lg:text-lg px-8 lg:px-12 py-2.5 lg:py-3 bg-black text-white font-bold rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors w-full sm:w-auto"
             >
               Explore Templates
-            </a>
+            </AppExternalLink>
             <Link
               href="https://uusd8j57636y.sg.larksuite.com/share/base/form/shrlgNBmyK5OBha9x1PFYWXnA3e?from=navigation"
               target="_blank"

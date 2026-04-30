@@ -26,7 +26,8 @@ import {
 } from '@/lib/seo/schema'
 import { buildAlternatesMetadata, getCanonicalUrl } from '@/lib/seo/urls'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
-import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
+import { getAppUrl } from '@/lib/app-url'
 
 type PageProps = {
   params: Promise<{ locale: string }>
@@ -398,21 +399,19 @@ export default async function AIDesignPage({ params }: PageProps) {
               </div>
 
               <div className="flex flex-wrap gap-4 pt-2">
-                <a
+                <AppExternalLink
                   href={getAppUrl(`/canvas?shareid=${HERO_TEMPLATE.shareId}`, locale)}
-                  {...appExternalAnchorProps}
                   className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl bg-black text-[#1fde1f] border-2 border-black font-poller-one text-base hover:bg-[#1fde1f] hover:text-black hover:shadow-[4px_4px_0_#000] transition-all duration-200"
                 >
                   <span>{t('hero.cta')}</span>
                   <span className="group-hover:translate-x-1 transition-transform">→</span>
-                </a>
-                <a
+                </AppExternalLink>
+                <AppExternalLink
                   href={getAppUrl('/', locale)}
-                  {...appExternalAnchorProps}
                   className="inline-flex items-center justify-center px-6 py-4 rounded-2xl border-2 border-black text-sm bg-white hover:bg-black hover:text-white transition-all duration-200"
                 >
                   {t('hero.secondaryCta')}
-                </a>
+                </AppExternalLink>
               </div>
             </div>
 

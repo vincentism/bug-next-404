@@ -13,9 +13,3 @@ export function getAppUrl(path: string, locale?: string) {
 
   return new URL(localizedPath, baseUrl).toString()
 }
-
-/** Spread onto `<a>` when `href` is from {@link getAppUrl} — opens app on a separate origin in a new tab. */
-export const appExternalAnchorProps = {
-  target: '_blank' as const,
-  rel: 'noopener noreferrer',
-} as const

@@ -8,7 +8,8 @@ import { ArrowRight } from 'lucide-react'
 import { useLocale } from 'next-intl'
 import { useTranslations } from '@/i18n/client'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
-import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
+import { getAppUrl } from '@/lib/app-url'
 
 const LazyWhyDemo = dynamic(() => import('./why-demo').then(mod => mod.WhyDemo), {
   ssr: false,
@@ -109,13 +110,12 @@ export function WhyOpenCreator() {
             </ul>
 
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4">
-              <a
+              <AppExternalLink
                 href={appHomeUrl}
-                {...appExternalAnchorProps}
                 className="inline-flex items-center justify-center px-5 lg:px-6 py-2.5 lg:py-3 bg-white text-black font-bold rounded-xl border-2 border-[#131713] hover:bg-theme-pink hover:text-white hover:border-black hover:border-dashed transition-colors text-sm lg:text-base"
               >
                 {t('section1.ctaPrimary')}
-              </a>
+              </AppExternalLink>
               <Link
                 href="https://uusd8j57636y.sg.larksuite.com/share/base/form/shrlgNBmyK5OBha9x1PFYWXnA3e?from=navigation"
                 target="_blank"
@@ -171,13 +171,12 @@ export function WhyOpenCreator() {
             </ul>
 
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4">
-              <a
+              <AppExternalLink
                 href={appHomeUrl}
-                {...appExternalAnchorProps}
                 className="inline-flex items-center justify-center px-5 lg:px-6 py-2.5 lg:py-3 bg-white text-black font-bold rounded-xl border-2 border-[#131713] hover:bg-theme-pink hover:text-white hover:border-black hover:border-dashed transition-colors text-sm lg:text-base"
               >
                 {t('section2.ctaPrimary')}
-              </a>
+              </AppExternalLink>
               <Link
                 href="https://uusd8j57636y.sg.larksuite.com/share/base/form/shrlgNBmyK5OBha9x1PFYWXnA3e?from=navigation"
                 target="_blank"

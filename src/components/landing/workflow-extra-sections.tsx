@@ -4,7 +4,8 @@ import React from 'react'
 import { useLocale } from 'next-intl'
 import { ChevronRight } from 'lucide-react'
 import { useTranslations } from '@/i18n/client'
-import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
+import { getAppUrl } from '@/lib/app-url'
 
 function extractShareIdFromLink(link: string): string | null {
   try {
@@ -99,14 +100,13 @@ export function WorkflowHowItWorksSection({
         </div>
 
         <div className="mt-10 text-center">
-          <a
+          <AppExternalLink
             href={appLink}
-            {...appExternalAnchorProps}
             className="inline-flex items-center rounded-full bg-black px-6 py-3 text-sm font-bold text-[#1fde1f]"
           >
             Open in OpenCreator App
             <ChevronRight className="ml-2 h-4 w-4" />
-          </a>
+          </AppExternalLink>
         </div>
       </div>
     </section>
@@ -148,14 +148,13 @@ export function WorkflowSharePreview({ shareId, ctaLink }: WorkflowSharePreviewP
           </div>
         ))}
       </div>
-      <a
+      <AppExternalLink
         href={appLink}
-        {...appExternalAnchorProps}
         className="mt-6 inline-flex items-center rounded-full bg-black px-5 py-3 text-sm font-bold text-[#1fde1f]"
       >
         {t('copyThisTemplate')}
         <ChevronRight className="ml-2 h-4 w-4" />
-      </a>
+      </AppExternalLink>
     </div>
   )
 }
@@ -214,13 +213,12 @@ export function WorkflowCTASection({
       <div className="container mx-auto max-w-4xl px-4 text-center">
         <h2 className="text-3xl font-poller-one md:text-5xl">{title}</h2>
         <p className="mx-auto mt-4 max-w-2xl text-sm text-white/70 md:text-base">{description}</p>
-        <a
+        <AppExternalLink
           href={appLink}
-          {...appExternalAnchorProps}
           className="mt-8 inline-flex items-center justify-center rounded-full bg-[#1fde1f] px-8 py-3 text-sm font-bold text-black"
         >
           {ctaLabel}
-        </a>
+        </AppExternalLink>
       </div>
     </section>
   )

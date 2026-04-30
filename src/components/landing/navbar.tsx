@@ -10,7 +10,8 @@ import { cn } from '@/lib/utils'
 import { useLocale } from 'next-intl'
 import { useTranslations } from '@/i18n/client'
 import { getCdnImageUrlWithSize } from '@/lib/image-cdn'
-import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
+import { getAppUrl } from '@/lib/app-url'
 import { LandingBookDemoModal } from './book-demo-modal'
 import { SOLUTION_ITEMS } from './solution-items'
 import { AnnouncementBarController } from './v3/controllers/announcement-bar-controller'
@@ -189,14 +190,13 @@ export const LandingNavbar = memo(function LandingNavbar() {
         >
           {tNavbar('bookADemo')}
         </button>
-        <a
+        <AppExternalLink
           href={appHomeUrl}
-          {...appExternalAnchorProps}
           className="nav__cta nav__cta--primary"
           data-cursor="open"
         >
           {tNavbar('startForFree')}
-        </a>
+        </AppExternalLink>
         <Tooltip
           placement="bottom"
           content={
@@ -271,9 +271,9 @@ export const LandingNavbar = memo(function LandingNavbar() {
           <Link href="/" prefetch={false} onClick={closeMobileMenu}>
             {tNavbar('home')}
           </Link>
-          <a href={appHomeUrl} {...appExternalAnchorProps} onClick={closeMobileMenu}>
+          <AppExternalLink href={appHomeUrl} onClick={closeMobileMenu}>
             {tNavbar('solutions')}
-          </a>
+          </AppExternalLink>
           <Link href="/pricing" prefetch={false} onClick={closeMobileMenu}>
             {tNavbar('pricing')}
           </Link>
@@ -286,9 +286,9 @@ export const LandingNavbar = memo(function LandingNavbar() {
           <button type="button" onClick={handleMobileBookDemoClick}>
             {tNavbar('bookADemo')}
           </button>
-          <a href={appHomeUrl} {...appExternalAnchorProps} onClick={closeMobileMenu}>
+          <AppExternalLink href={appHomeUrl} onClick={closeMobileMenu}>
             {tNavbar('startForFree')}
-          </a>
+          </AppExternalLink>
           {navbarLanguages.map(lang => (
             <button
               key={lang.code}

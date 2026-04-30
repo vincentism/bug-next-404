@@ -1,5 +1,6 @@
 import React, { memo } from 'react'
-import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
+import { getAppUrl } from '@/lib/app-url'
 
 export const CallbackCtaSection = memo(function CallbackCtaSection() {
   return (
@@ -9,14 +10,13 @@ export const CallbackCtaSection = memo(function CallbackCtaSection() {
         <h2 className="callback__h2">Your 24/7 content team<br />starts <em>today.</em></h2>
         <p className="callback__sub">Free on sign-up. No card. No onboarding call. Ship the first spot before your coffee gets cold.</p>
         <div className="callback__cta-row">
-          <a
+          <AppExternalLink
             className="callback__cta"
             href={getAppUrl('/')}
-            {...appExternalAnchorProps}
             data-cursor="open"
           >
             Start free <span aria-hidden="true">→</span>
-          </a>
+          </AppExternalLink>
           <a className="callback__cta-secondary" href="#positioning">How it works</a>
         </div>
       </div>

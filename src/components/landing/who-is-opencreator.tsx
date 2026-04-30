@@ -4,7 +4,8 @@ import React, { useState } from 'react'
 import Image from 'next/image'
 import { useLocale, useTranslations } from 'next-intl'
 import { Link } from '@/i18n/navigation'
-import { appExternalAnchorProps, getAppUrl } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
+import { getAppUrl } from '@/lib/app-url'
 
 export function WhoIsOpenCreator() {
   const [isVideoLoaded, setIsVideoLoaded] = useState(false)
@@ -71,13 +72,12 @@ export function WhoIsOpenCreator() {
 
             {/* CTA Buttons below video */}
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4 mt-6">
-              <a
+              <AppExternalLink
                 href={appHomeUrl}
-                {...appExternalAnchorProps}
                 className="w-full inline-flex items-center justify-center text-base lg:text-lg px-8 lg:px-16 py-2.5 lg:py-3 bg-black text-white font-bold rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors"
               >
                 {t('getStarted')}
-              </a>
+              </AppExternalLink>
               <Link
                 href="https://torpid-breakfast-9f6.notion.site/Welcome-to-OpenCreator-World-170b97035ec480e3965bd7d8d0a3a26d"
                 target="_blank"

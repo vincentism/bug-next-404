@@ -7,7 +7,7 @@ import { Play } from 'lucide-react'
 import { HeroBackground } from '../hero-background'
 import { AutoPlayVideo } from '../auto-play-video'
 import { getImageKitImageUrlWithSize } from '@/lib/image-cdn'
-import { appExternalAnchorProps } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
 
 const badgeColorClasses = {
   blue: 'border-[#217EFF] text-[#217EFF]',
@@ -83,14 +83,13 @@ export function ModelHero({
             {/* CTA buttons */}
             <div className="flex flex-col sm:flex-row gap-3 lg:gap-4">
               {ctaLink.startsWith('http') ? (
-                <a
+                <AppExternalLink
                   href={ctaLink}
-                  {...appExternalAnchorProps}
                   className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-black text-[#1fde1f] font-poller-one font-bold text-sm md:text-base rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors"
                 >
                   <Play className="w-4 h-4 fill-current" />
                   <span>{ctaText}</span>
-                </a>
+                </AppExternalLink>
               ) : (
                 <Link
                   href={ctaLink}

@@ -6,7 +6,7 @@ import { Play } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { getModelsById } from '@/constants/availableModelInstances'
 import { calculateCloudCredits, calculateCloudCreditsRange } from '@/lib/cloudPricing'
-import { appExternalAnchorProps } from '@/lib/app-url'
+import { AppExternalLink } from '@/components/common/app-external-link'
 
 interface ModelPlanSummary {
   plan: string
@@ -244,14 +244,13 @@ export function ModelPricing({
 
                 {/* CTA */}
                 {ctaLink.startsWith('http') ? (
-                  <a
+                  <AppExternalLink
                     href={ctaLink}
-                    {...appExternalAnchorProps}
                     className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 bg-black text-[#1fde1f] font-poller-one font-bold text-sm md:text-base rounded-xl border-2 border-transparent hover:bg-[#1fde1f] hover:text-black hover:border-black hover:border-dashed transition-colors"
                   >
                     <Play className="w-4 h-4 fill-current" />
                     <span>{finalCtaText}</span>
-                  </a>
+                  </AppExternalLink>
                 ) : (
                   <Link
                     href={ctaLink}

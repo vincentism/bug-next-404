@@ -147,8 +147,10 @@ export default async function RootLayout({
         {/* DNS prefetch for critical third-party domains */}
         <link rel="dns-prefetch" href="//ik.imagekit.io" />
         <link rel="dns-prefetch" href="//clerk.com" />
+        <link rel="dns-prefetch" href="//app.opencreator.io" />
         <link rel="preconnect" href="https://ik.imagekit.io" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://ik.imagekit.io/opencreator" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://app.opencreator.io" crossOrigin="anonymous" />
         {!isChina && (
           <>
             <link rel="dns-prefetch" href="//www.googletagmanager.com" />
