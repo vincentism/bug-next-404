@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "vercel-build": "pnpm build",
     "start": "next start",
     "lint": "eslint \"src/app/**/*.{ts,tsx}\" \"src/components/{landing,blog,openclaw,providers,pwa,seo}/**/*.{ts,tsx}\" \"src/components/{LazyTrackers,KolectRefTracker,UTMTracker,translation-detector}.tsx\" \"src/lib/{app-url,blog,gtm,i18n-link,image-cdn,region,utils}.ts\" \"src/lib/seo/**/*.ts\" \"src/i18n/**/*.ts\"",
     "lint:fix": "pnpm lint --fix",
