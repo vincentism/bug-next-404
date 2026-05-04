@@ -2,7 +2,7 @@
   "version": 3,
   "routes": [
     {
-      "src": "^/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|k0BHgO2UaIZrNmiOXJaTp)/.+",
+      "src": "^/_next/static/(?:[^/]+/pages|pages|chunks|runtime|css|image|media|mj-o0d9LIWTFmgEqx9eJC)/.+",
       "headers": {
         "cache-control": "public,max-age=31536000,immutable"
       },
