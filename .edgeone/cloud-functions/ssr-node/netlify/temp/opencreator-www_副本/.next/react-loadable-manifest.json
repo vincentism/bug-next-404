@@ -1,0 +1,75 @@
+{
+  "../node_modules/.pnpm/@heroui+tooltip@2.2.24_@heroui+system@2.4.27_@heroui+theme@2.4.26_tailwindcss@4.2.4__fr_a9d585a5df4d3da2e975d3652fddb938/node_modules/@heroui/tooltip/dist/chunk-BOOVDPB6.mjs -> @heroui/dom-animation": {
+    "id": 34936,
+    "files": [
+      "static/chunks/4936.6e0e7c200b1db29b.js"
+    ]
+  },
+  "components/LazyTrackers.tsx -> @/components/UTMTracker": {
+    "id": 18977,
+    "files": [
+      "static/chunks/8977.c4b979e79d370552.js"
+    ]
+  },
+  "components/LazyTrackers.tsx -> @/components/translation-detector": {
+    "id": 94813,
+    "files": [
+      "static/chunks/6382-38070d7be36ea964.js",
+      "static/chunks/8172-173b4a50c4fd2c22.js",
+      "static/chunks/6085.9f78e9faa611c6ec.js"
+    ]
+  },
+  "components/landing/index.tsx -> ./cta": {
+    "id": 42521,
+    "files": [
+      "static/chunks/2521.fd63cac6358b03aa.js"
+    ]
+  },
+  "components/landing/index.tsx -> ./faq": {
+    "id": 38015,
+    "files": [
+      "static/chunks/8015.739a696419344218.js"
+    ]
+  },
+  "components/landing/index.tsx -> ./footer": {
+    "id": 91664,
+    "files": [
+      "static/chunks/1664-e888517aad3ad873.js",
+      "static/chunks/1316.47dc1726e7f1e91f.js"
+    ]
+  },
+  "components/landing/index.tsx -> ./model-showcase": {
+    "id": 39362,
+    "files": [
+      "static/chunks/9362.d124ce71f71e530f.js"
+    ]
+  },
+  "components/landing/index.tsx -> ./who-is-opencreator": {
+    "id": 92815,
+    "files": [
+      "static/chunks/2815.c43579fcda5c72cb.js"
+    ]
+  },
+  "components/landing/see-how-it-works.tsx -> ./landing-workflow-demo": {
+    "id": 39460,
+    "files": [
+      "static/chunks/9460.cee8622e04e4cc96.js"
+    ]
+  },
+  "components/landing/why-opencreator.tsx -> ./why-demo": {
+    "id": 64455,
+    "files": [
+      "static/chunks/4455.cb1e79dd7d0fc3b7.js"
+    ]
+  },
+  "instrumentation-client.ts -> @sentry/nextjs": {
+    "id": 91962,
+    "files": [
+      "static/chunks/c69a92cd.bc07718bd96ce0bf.js",
+      "static/chunks/5841.7083db7f6b35fb2f.js",
+      "static/chunks/d0d8b9b4.0060af9c5f51081d.js",
+      "static/chunks/6582-b3b3599e29017341.js",
+      "static/chunks/6419.18fcdf6be66d622e.js"
+    ]
+  }
+}

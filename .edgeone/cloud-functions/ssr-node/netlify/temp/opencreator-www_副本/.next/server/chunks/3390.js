@@ -1,0 +1,1 @@
+"use strict";exports.id=3390,exports.ids=[3390],exports.modules={93390:(a,b,c)=>{c.r(b),c(93923).init({dsn:process.env.NEXT_PUBLIC_SENTRY_DSN,tracesSampleRate:.2,environment:"production",integrations:a=>a.filter(a=>"NativeNodeFetch"!==a.name)})}};
