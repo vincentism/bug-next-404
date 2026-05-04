@@ -74,3 +74,6 @@ docs/*.json
 
 # misc generated docs
 AGENTS.md
+
+# edgeone
+.edgeone/
